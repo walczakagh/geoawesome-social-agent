@@ -1,0 +1,86 @@
+name: Social drafts
+
+on:
+  schedule:
+    # 06:47 UTC daily (08:47 in Kraków during summer time, 07:47 in winter)
+    - cron: "47 6 * * *"
+  workflow_dispatch:
+    inputs:
+      max_items:
+        description: "Maximum number of items to draft"
+        default: "4"
+      max_age_days:
+        description: "Ignore feed items older than this many days"
+        default: "7"
+      dry_run:
+        description: "Do not mark items as seen (for testing)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: social-drafts
+  cancel-in-progress: false
+
+jobs:
+  draft:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Scout, shortlist and draft
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          set -euo pipefail
+          DRY=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then DRY="--dry-run"; fi
+          python -m agent.main \
+            --max-items "${{ inputs.max_items || '4' }}" \
+            --max-age-days "${{ inputs.max_age_days || '7' }}" \
+            $DRY 2>&1 | tee run.log
+
+      - name: Commit state and drafts
+        run: |
+          set -euo pipefail
+          git config user.name "geoawesome-social-agent"
+          git config user.email "actions@users.noreply.github.com"
+          git add state drafts
+          git diff --cached --quiet || git commit -m "Social drafts $(date -u +%F)"
+          git push
+
+      - name: Open review issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          DIGEST="drafts/$(date -u +%F).md"
+          gh label create social-drafts --color 4722f1 --description "Daily social drafts" 2>/dev/null || true
+          if grep -q "No items worth posting today" "$DIGEST"; then
+            echo "Nothing to review today, no issue opened."
+            exit 0
+          fi
+          gh issue create \
+            --title "Social drafts $(date -u +%F)" \
+            --label social-drafts \
+            --body-file "$DIGEST"
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: social-drafts-run
+          path: |
+            run.log
+            drafts/
+          if-no-files-found: warn

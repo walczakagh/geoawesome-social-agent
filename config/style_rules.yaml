@@ -1,0 +1,64 @@
+# Checked mechanically on every draft. A draft that fails goes back to Claude
+# once with the list of violations; anything still failing is flagged in the
+# review issue rather than silently dropped.
+
+banned_phrases:
+  - dive into
+  - dives into
+  - diving into
+  - deep dive
+  - dive in
+  - delve
+  - explore
+  - explores
+  - exploring
+  - unlock
+  - unlocks
+  - unlocking
+  - cutting-edge
+  - cutting edge
+  - game-changer
+  - game changer
+  - seamless
+  - seamlessly
+  - leverage
+  - leverages
+  - leveraging
+  - tapestry
+  - paradigm
+  - robust
+  - revolutionise
+  - revolutionize
+  - revolutionising
+  - revolutionizing
+  - groundbreaking
+  - stunning
+  - breathtaking
+  - testament to
+  - in today's world
+  - a fascinating read
+  - a must-read
+  - must-read
+
+banned_openers:
+  - did you know
+  - in this article
+  - ever wondered
+
+cta_options:
+  - "Read more:"
+  - "Find out more:"
+  - "Learn more:"
+  - "Full story:"
+  - "Watch:"
+
+platforms:
+  facebook:  {hashtags_min: 5, hashtags_max: 5, max_chars: 1500}
+  instagram: {hashtags_min: 5, hashtags_max: 5, max_chars: 1000}
+  x:         {hashtags_min: 3, hashtags_max: 4, max_chars: 280}
+  youtube:   {hashtags_min: 5, hashtags_max: 5, max_chars: 1500}
+  linkedin:  {hashtags_min: 5, hashtags_max: 5, max_chars: 2200}
+
+# Hashtags that are allowed even though they look like two joined words
+hashtag_allowlist:
+  - Geoawesome

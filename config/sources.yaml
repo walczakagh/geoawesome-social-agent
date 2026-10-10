@@ -1,0 +1,56 @@
+# Sources the scout polls every run.
+#
+# licence decides what a draft is allowed to do with the image:
+#   reuse       - image can be attached to the post, with the credit line
+#   link_only   - post may describe and link the item, but the image belongs to
+#                 someone else: ask the creator before attaching it
+#
+# credit_hint is only a fallback. The enrich step reads the real credit line
+# from each item's own page and uses that whenever it finds one.
+
+sources:
+  - id: nasa_eo
+    name: NASA Earth Observatory
+    url: https://science.nasa.gov/feed/?science_org=19791%2C22453
+    type: eo_imagery
+    licence: reuse
+    credit_hint: "NASA Earth Observatory"
+    tag: "@NASAEarth"
+    enabled: true
+    # Verified live 10 Oct 2026. Items carry false-colour/true-colour notes,
+    # sensor (OLI, MODIS...), acquisition dates and a per-image credit line.
+    # Careful: articles sometimes embed third-party photos (farmers, partners).
+    # Only the satellite image credited to NASA EO is reusable.
+
+  - id: esa_eo
+    name: ESA Observing the Earth
+    url: https://www.esa.int/rssfeed/Applications/Observing_the_Earth
+    type: eo_imagery
+    licence: reuse
+    credit_hint: "ESA"
+    tag: "@esa"
+    enabled: true
+    # Verified live 10 Oct 2026. Image pages list CREDIT and LICENCE
+    # (usually CC BY-SA 3.0 IGO). Credit often reads
+    # "contains modified Copernicus Sentinel data (YEAR), processed by ESA".
+    # Some items are launches/press releases with no EO image: the shortlist
+    # step drops those unless the story itself is strong.
+
+  - id: maps_mania
+    name: Maps Mania
+    url: https://googlemapsmania.blogspot.com/feeds/posts/default
+    type: maps
+    licence: link_only
+    credit_hint: "via Maps Mania"
+    tag: ""
+    enabled: true
+    # Verified live 10 Oct 2026. Discovery source: each post features someone
+    # else's map. Link and credit the map's creator, and get permission
+    # before attaching their screenshot.
+
+# Checked and not enabled yet:
+#  - Copernicus (https://www.copernicus.eu/en/rss.xml): feed works but its
+#    newest item is from May 2026, so it looks abandoned.
+#  - Reddit r/MapPorn, r/remotesensing: useful for discovery, but every image
+#    is someone else's work and Reddit often blocks CI runners. Add later as
+#    link_only if wanted.
