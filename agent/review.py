@@ -7,7 +7,7 @@ PLATFORM_LABELS = {
 }
 
 
-def render(results: list[dict], run_date: str) -> str:
+def render(results: list[dict], run_date: str, sources: dict | None = None) -> str:
     ready = [r for r in results if r["draft"].get("worth_posting", True)]
     skipped = [r for r in results if not r["draft"].get("worth_posting", True)]
 
@@ -63,4 +63,7 @@ def render(results: list[dict], run_date: str) -> str:
         out += ["---", "", "### Skipped after reading the page"]
         out += [f"- [{r['item']['title']}]({r['item']['link']}): {r['draft'].get('skip_reason', '')}"
                 for r in skipped]
+    if sources:
+        out += ["", "---", "", "### Sources checked"]
+        out += [f"- {name}: {status}" for name, status in sources.items()]
     return "\n".join(out).rstrip() + "\n"

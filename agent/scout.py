@@ -72,6 +72,10 @@ def _first_image(entry) -> str:
     return html.unescape(m.group(1)) if m else ""
 
 
+def _full_size(url: str) -> str:
+    return re.sub(r"/s72-c/", "/s1600/", url)
+
+
 def _published(entry) -> datetime | None:
     for key in ("published_parsed", "updated_parsed"):
         t = entry.get(key)
@@ -109,7 +113,7 @@ def parse_feed(source: dict, raw: bytes | str | None = None) -> list[Item]:
             link=link,
             published=pub.isoformat() if pub else "",
             summary=strip_html(e.get("summary", ""))[:1200],
-            image_url=_first_image(e),
+            image_url=_full_size(_first_image(e)),
             credit_hint=source.get("credit_hint", ""),
             source_tag=source.get("tag", ""),
         ))
@@ -117,7 +121,7 @@ def parse_feed(source: dict, raw: bytes | str | None = None) -> list[Item]:
 
 
 def scout(sources: list[dict], seen: set[str], max_age_days: int = 7,
-          now: datetime | None = None) -> list[Item]:
+          now: datetime | None = None, report: dict | None = None) -> list[Item]:
     now = now or datetime.now(timezone.utc)
     cutoff = now - timedelta(days=max_age_days)
     fresh: list[Item] = []
@@ -126,6 +130,8 @@ def scout(sources: list[dict], seen: set[str], max_age_days: int = 7,
             items = parse_feed(src)
         except Exception as exc:  # one bad feed must not kill the run
             print(f"[scout] {src['id']}: failed ({exc})")
+            if report is not None:
+                report[src["name"]] = f"failed: {exc}"
             continue
         kept = 0
         for it in items:
@@ -136,4 +142,6 @@ def scout(sources: list[dict], seen: set[str], max_age_days: int = 7,
             fresh.append(it)
             kept += 1
         print(f"[scout] {src['id']}: {len(items)} in feed, {kept} new")
+        if report is not None:
+            report[src["name"]] = f"{len(items)} in feed, {kept} new"
     return fresh

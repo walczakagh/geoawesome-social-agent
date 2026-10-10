@@ -25,7 +25,8 @@ def run(max_items: int, max_age_days: int, dry_run: bool, out_dir: Path) -> Path
     seen_path = ROOT / "state/seen.json"
     seen = state.load_seen(seen_path)
 
-    items = scout.scout(sources, set(seen), max_age_days=max_age_days)
+    report: dict = {}
+    items = scout.scout(sources, set(seen), max_age_days=max_age_days, report=report)
     print(f"[main] {len(items)} new items")
 
     try:
@@ -51,7 +52,7 @@ def run(max_items: int, max_age_days: int, dry_run: bool, out_dir: Path) -> Path
     (out_dir / f"{run_date}.json").write_text(json.dumps(results, indent=2, ensure_ascii=False),
                                               encoding="utf-8")
     digest = out_dir / f"{run_date}.md"
-    digest.write_text(review.render(results, run_date), encoding="utf-8")
+    digest.write_text(review.render(results, run_date, report), encoding="utf-8")
 
     if not dry_run:
         # Everything that was looked at today is marked seen, drafted or not,
