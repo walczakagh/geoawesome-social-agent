@@ -30,9 +30,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
@@ -50,6 +50,19 @@ jobs:
             --max-items "${{ inputs.max_items || '4' }}" \
             --max-age-days "${{ inputs.max_age_days || '7' }}" \
             $DRY 2>&1 | tee run.log
+
+      - name: Show error on the run summary
+        if: failure()
+        run: |
+          {
+            echo "## Run failed"
+            echo
+            echo "Last lines of the log:"
+            echo
+            echo '```'
+            tail -n 40 run.log 2>/dev/null || echo "(no log written)"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Commit state and drafts
         run: |
@@ -76,7 +89,7 @@ jobs:
             --label social-drafts \
             --body-file "$DIGEST"
 
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v5
         if: always()
         with:
           name: social-drafts-run

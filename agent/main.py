@@ -9,6 +9,8 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
+import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -26,7 +28,10 @@ def run(max_items: int, max_age_days: int, dry_run: bool, out_dir: Path) -> Path
     items = scout.scout(sources, set(seen), max_age_days=max_age_days)
     print(f"[main] {len(items)} new items")
 
-    picks = llm.shortlist(items, limit=max_items)
+    try:
+        picks = llm.shortlist(items, limit=max_items)
+    except Exception as exc:
+        sys.exit(f"ERROR: shortlist call to Claude failed ({type(exc).__name__}): {exc}")
     by_id = {it.id: it for it in items}
     print(f"[main] shortlisted {len(picks)}")
 
@@ -63,6 +68,9 @@ def main() -> None:
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--out", default=str(ROOT / "drafts"))
     a = ap.parse_args()
+    if not os.environ.get("ANTHROPIC_API_KEY", "").strip():
+        sys.exit("ERROR: ANTHROPIC_API_KEY is empty. Add it under Settings > Secrets and "
+                 "variables > Actions > Repository secrets, named exactly ANTHROPIC_API_KEY.")
     run(a.max_items, a.max_age_days, a.dry_run, Path(a.out))
 
 
