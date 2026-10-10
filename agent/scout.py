@@ -8,9 +8,14 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import feedparser
+import requests
 import yaml
 
-USER_AGENT = "GeoawesomeSocialAgent/1.0 (+https://geoawesome.com)"
+USER_AGENT = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
+              "Chrome/128.0 Safari/537.36 GeoawesomeSocialAgent/1.0 (+https://geoawesome.com)")
+HEADERS = {"User-Agent": USER_AGENT,
+           "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/html;q=0.8, */*;q=0.5",
+           "Accept-Language": "en-GB,en;q=0.9"}
 
 
 @dataclass
@@ -77,7 +82,17 @@ def _published(entry) -> datetime | None:
 
 def parse_feed(source: dict, raw: bytes | str | None = None) -> list[Item]:
     """Parse one feed. `raw` lets tests pass fixture content."""
-    feed = feedparser.parse(raw if raw is not None else source["url"], agent=USER_AGENT)
+    if raw is None:
+        r = requests.get(source["url"], headers=HEADERS, timeout=30)
+        if r.status_code != 200:
+            raise RuntimeError(f"HTTP {r.status_code} from {source['url']}")
+        raw = r.content
+    feed = feedparser.parse(raw)
+    if not feed.entries:
+        why = getattr(feed, "bozo_exception", None)
+        print(f"[scout] {source['id']}: feed parsed but has no entries"
+              + (f" ({type(why).__name__}: {why})" if why else "")
+              + (f"; starts with: {raw[:120]!r}" if isinstance(raw, bytes) else ""))
     items = []
     for e in feed.entries:
         link = e.get("link", "")

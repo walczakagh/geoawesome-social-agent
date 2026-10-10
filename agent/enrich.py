@@ -8,7 +8,7 @@ import re
 import requests
 from bs4 import BeautifulSoup
 
-from .scout import USER_AGENT, Item
+from .scout import HEADERS, Item
 
 MAX_TEXT = 6000
 
@@ -72,7 +72,7 @@ def extract(item: Item, page_html: str) -> Item:
 
 def enrich(item: Item, timeout: int = 20) -> Item:
     try:
-        r = requests.get(item.link, headers={"User-Agent": USER_AGENT}, timeout=timeout)
+        r = requests.get(item.link, headers=HEADERS, timeout=timeout)
         r.raise_for_status()
         return extract(item, r.text)
     except Exception as exc:

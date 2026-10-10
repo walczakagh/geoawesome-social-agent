@@ -21,7 +21,7 @@ Each source has a reuse policy in `config/sources.yaml`:
 ## Setup
 
 1. Create an empty private repo (for example `walczakagh/geoawesome-social-agent`) and push this folder to it.
-2. Add the repository secret `ANTHROPIC_API_KEY` (Settings → Secrets and variables → Actions).
+2. Add the repository secret `ANTHROPIC_API_KEY` (Settings → Secrets and variables → Actions). If the key is an organisation-level key rather than one scoped to a workspace, also add `ANTHROPIC_WORKSPACE_ID` (the `wrkspc_...` ID from the Workspaces page in the Claude Console).
 3. Settings → Actions → General → Workflow permissions: "Read and write permissions" (the run commits `state/` and `drafts/` and opens issues).
 4. Actions → Social drafts → Run workflow, with `dry_run` ticked for the first run. Check the issue, then run once without `dry_run` or wait for the 06:47 UTC schedule.
 

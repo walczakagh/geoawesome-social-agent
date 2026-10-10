@@ -15,7 +15,11 @@ PROMPTS = Path(__file__).resolve().parent.parent / "prompts"
 
 def _client():
     import anthropic
-    return anthropic.Anthropic()  # reads ANTHROPIC_API_KEY
+    # Organisation-level keys must say which workspace to use; workspace-scoped
+    # keys don't need this, so the header is only sent when the secret is set.
+    ws = os.environ.get("ANTHROPIC_WORKSPACE_ID", "").strip()
+    headers = {"anthropic-workspace-id": ws} if ws else None
+    return anthropic.Anthropic(default_headers=headers)  # reads ANTHROPIC_API_KEY
 
 
 def parse_json(text: str) -> dict:

@@ -42,6 +42,7 @@ jobs:
       - name: Scout, shortlist and draft
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_WORKSPACE_ID: ${{ secrets.ANTHROPIC_WORKSPACE_ID }}
         run: |
           set -euo pipefail
           DRY=""
