@@ -1,0 +1,150 @@
+[
+  {
+    "item": {
+      "id": "0e851a950a87fcbe8a92ec1840eafeb2",
+      "source_id": "esa_eo",
+      "source_name": "ESA Observing the Earth",
+      "source_type": "eo_imagery",
+      "licence": "reuse",
+      "title": "Earth from Space: Namibia’s biggest salt pan",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Namibia_s_biggest_salt_pan",
+      "published": "2026-10-09T08:00:00+00:00",
+      "summary": "Image: This image from Copernicus Sentinel-2, acquired on 5 April 2026, shows the Etosha National Park in northern Namibia.",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_namibia_s_biggest_salt_pan/27564541-1-eng-GB/Earth_from_Space_Namibia_s_biggest_salt_pan_card_full.jpg",
+      "credit_hint": "ESA",
+      "source_tag": "@esa",
+      "page_text": "You have already liked this page, you can only like it once!\nThis image from Copernicus Sentinel-2 , acquired on 5 April 2026, shows the Etosha National Park in northern Namibia.\nZoom in to explore this image at its full resolution.\nThe area is a game reserve featuring a large salt flat – the Etosha Pan – as well as numerous smaller salt pans, with vegetation shown in red in this false-colour image.\nThe Etosha Pan, which spans roughly 130 km from east to west and covers 4760 sq km, appears bright white to human eyes. The colours in this image, however, range from the white expanses of salt to light blue where water contains cloudy sediment, and dark blue where the water is clearer.\nThe image was acquired at the beginning of the dry season, when average daily temperatures typically range from 14°C to 30°C. Water is also still present in the smaller salt pans that dot the landscape northwest of the Etosha Pan, the biggest of which is the Natukanaoka Pan. The water in these small ‘lakes’ appears in shades of green and blue.\nThe Ekuma river, near the centre of the image, is seen flowing from Lake Oponono at an elevation of about 1200 m above sea level, southwards to the salt flat at 1030 m. Lake Oponono is able to hold water from one wet season to the next and is a habitat for flamingos and cattle.\nThe vegetation surrounding the Etosha Pan – shown in striking red by Sentinel-2’s near-infrared channel – consists mainly of grassland, savannas and mopane woodland. Mopane trees are the dominant type of vegetation across the eastern and central areas of the national park, showing up as dark, vibrant red in this image. They provide a habitat for elephants, giraffe and leopards. The savannahs, in the west and southern areas of the park, are home to wildebeest, lions and springbok.\nPatches of red are also visible on the Etosha Pan, suggesting vegetation is present. While few plants thrive in the salty clay terrain, some types of blue-green algae and salt-tolerant grasses have adapted to the harsh environment.\nSentinel-2 carries a multispectral imager, which detects light in 13 spectral bands – in contrast to the human eye, which can see only three spectral bands (red, blue and green). This allows the mission to capture near-infrared and short-wave infrared light, creating false-colour images that highlight specific features on the landscape. Since healthy plants reflect more near-infrared light, the areas with vibrant red correlate to areas where vegetation is dense.",
+      "image_credit": "contains modified Copernicus Sentinel data (2026), processed by ESA",
+      "image_licence": "CC BY-SA 3.0 IGO",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_namibia_s_biggest_salt_pan/27564542-1-eng-GB/Earth_from_Space_Namibia_s_biggest_salt_pan.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "square_path": "drafts/images/2026-10-11-1-earth-from-space-namibia-s-biggest-salt.jpg",
+      "image_note": "square crop, from 3864px of source width"
+    },
+    "score": 8,
+    "why": "Sentinel-2 view of Etosha's bright white salt pan against dark surroundings, a graphic, high-contrast scene.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A Copernicus Sentinel-2 false-colour image, acquired on 5 April 2026, of Etosha National Park in northern Namibia, including the Etosha Pan (about 130 km east to west, 4760 sq km) and smaller salt pans to the northwest. Vegetation appears red via Sentinel-2's near-infrared channel; salt is white, sediment-laden water light blue and clearer water dark blue, with water in the small pans in shades of green and blue. Red patches on the pan itself suggest blue-green algae and salt-tolerant grasses.",
+      "uncertainties": [
+        "The exact band combination used for the false-colour composite is not stated, only that near-infrared shows vegetation in red.",
+        "Spatial resolution is not given in the source.",
+        "The square is cropped from a 3864px-wide image, so check that the crop still contains the Etosha Pan and the features described (Ekuma river, Natukanaoka Pan, Lake Oponono)."
+      ],
+      "image_credit": "Image: contains modified Copernicus Sentinel data (2026), processed by ESA",
+      "caption": "Namibia's Etosha Pan covers 4760 sq km and stretches roughly 130 km from east to west.\n\nIn this Copernicus Sentinel-2 false-colour image from 5 April 2026, vegetation shows red through the near-infrared channel, while water ranges from light blue (cloudy with sediment) to dark blue (clearer).\n\nRead more: https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Namibia_s_biggest_salt_pan\n\nImage: contains modified Copernicus Sentinel data (2026), processed by ESA\n\n#Sentinel2 #Namibia #Etosha #Copernicus #Geoawesome",
+      "x": "Namibia's Etosha Pan covers 4760 sq km, roughly 130 km east to west. In this Sentinel-2 false-colour view (5 April 2026), vegetation shows red.\nhttps://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Namibia_s_biggest_salt_pan\nImage: ESA, Copernicus Sentinel data (2026)\n#Sentinel2 #Namibia #Etosha #Geoawesome",
+      "alt_text": "False-colour satellite image of Etosha National Park in Namibia showing a large white salt pan, patches of blue and green water, and surrounding land in shades of red."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-11-1-earth-from-space-namibia-s-biggest-salt.jpg"
+  },
+  {
+    "item": {
+      "id": "ebbc158ef3f4b32759995d92784af936",
+      "source_id": "esa_eo",
+      "source_name": "ESA Observing the Earth",
+      "source_type": "eo_imagery",
+      "licence": "reuse",
+      "title": "Gibraltar imaged by IRIDE Eaglet II",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Gibraltar_imaged_by_IRIDE_Eaglet_II",
+      "published": "2026-10-09T09:50:00+00:00",
+      "summary": "Image: While the final eight IRIDE Eaglet II satellites were launched a week ago, the first images from Eaglet II satellites launched earlier are being returned, including a view of Gibraltar featured here.",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/gibraltar_imaged_by_iride_eaglet_ii/27566517-1-eng-GB/Gibraltar_imaged_by_IRIDE_Eaglet_II_card_full.jpg",
+      "credit_hint": "ESA",
+      "source_tag": "@esa",
+      "page_text": "You have already liked this page, you can only like it once!\nWhile the final eight IRIDE Eaglet II satellites were launched a week ago, the first images from Eaglet II satellites launched earlier are being returned, including a view of Gibraltar featured here.\nSoon after launch, the satellites start acquiring and transmitting high-resolution images of the Earth. The results confirm the success of the initial in-orbit operations, the effectiveness of the systems developed, and the value of the infrastructure for applications such as port and airport monitoring and maritime traffic surveillance.\nFor example, this image shows Gibraltar, with the iconic Rock of Gibraltar dominating the peninsula. The densely built urban area, port facilities and airport are clearly visible, while numerous ships dot the surrounding waters.\nTo read more and access more of first images, see the ASI news release .\nThe IRIDE Eaglet II constellation, entirely designed and developed by OHB Italia and equipped with a dedicated Control Centre for satellite operations throughout all phases of the mission, was recently completed with the launch of its final eight satellites. All of them have successfully completed the Launch and Early Orbit Phase (LEOP), the first major operational milestone following launch: the satellites were successfully placed into orbit and are now ready for performance verification and subsequent entry into service.\nThe images, received by OHB Italia’s Control Centre in Rome, are the outcome of the satellites’ crucial commissioning phase and demonstrate the capabilities of both the platform and the optical instrument.\nLike the other 16 satellites in the Eaglet II constellation, each carries a multispectral sensor, which captures images of Earth’s surface, as well as an automatic identification system to support maritime monitoring and safety services.\nAs well as the Eaglet II constellation, the IRIDE programme has also launched Hawk for Earth Observation (HEO) satellites. The HEO constellation carries multispectral, high-resolution optical instruments, which capture image data across multiple wavelengths of the electromagnetic spectrum. Argotec is responsible for developing and building the HEO satellites.\nAbout IRIDE IRIDE is the national Earth observation infrastructure owned by the Italian Space Agency (ASI), developed under the EU’s National Recovery and Resilience Plan (PNRR) and supplemented by the Complementary National Plan (PNC). The programme, which is developed by the European Space Agency (ESA) with the support of the Italian Space Agency (ASI), integrates satellite constellations, ground infrastructure, and digital services to transform Earth observation data into operational geospatial services that support institutions, public administration, research, and the country's economic development. Upon completion of the development and validation phase, operational responsibility for the system is progressively transferred to ASI, which oversees its operational management and evolution.",
+      "image_credit": "IRIDE",
+      "image_licence": "ESA Standard Licence",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/gibraltar_imaged_by_iride_eaglet_ii/27566518-1-eng-GB/Gibraltar_imaged_by_IRIDE_Eaglet_II.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "square_path": "drafts/images/2026-10-11-2-gibraltar-imaged-by-iride-eaglet-ii.jpg",
+      "image_note": "square crop, from 4468px of source width"
+    },
+    "score": 6,
+    "why": "Early IRIDE Eaglet II image of Gibraltar and its coastline, a fresh view from a new small-satellite constellation.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A first-light image of Gibraltar from an IRIDE Eaglet II satellite, taken during commissioning and received at OHB Italia's Control Centre in Rome. It shows the Rock of Gibraltar dominating the peninsula, the dense urban area, the port facilities and the airport, with numerous ships in the surrounding waters. Each Eaglet II satellite carries a multispectral sensor and an automatic identification system (AIS) for maritime monitoring.",
+      "uncertainties": [
+        "No acquisition date given for the image.",
+        "No ground resolution stated. The page only says 'high-resolution'.",
+        "The page does not say which Eaglet II satellite took the image, only that it is one of those launched before the final eight.",
+        "The page does not say whether the image is true colour or uses another band combination. Colours are not described.",
+        "The total of 24 satellites is derived from 'the final eight' plus 'the other 16'. The page never states 24 directly.",
+        "The credit on the page is just 'IRIDE'. The licence is the ESA Standard Licence, so confirm social reuse terms.",
+        "The square is a crop from a 4468 px wide source, so part of the scene is cut off."
+      ],
+      "image_credit": "Image: IRIDE",
+      "caption": "The final eight of 24 IRIDE Eaglet II satellites launched a week ago, and earlier ones are already returning images like this one of Gibraltar.\n\nThe Rock, town, port, airport and many ships are clearly visible, a fitting test for satellites carrying both a multispectral sensor and AIS for maritime monitoring. Commissioning image: no resolution or date given yet.\n\nFull story: https://www.esa.int/ESA_Multimedia/Images/2026/10/Gibraltar_imaged_by_IRIDE_Eaglet_II\n\nImage: IRIDE\n\n#Geoawesome #IRIDE #Gibraltar #Satellites",
+      "x": "The final eight of 24 IRIDE Eaglet II satellites launched a week ago, and earlier ones are already returning images like this view of Gibraltar. Port, airport and ships all clearly visible.\nhttps://www.esa.int/ESA_Multimedia/Images/2026/10/Gibraltar_imaged_by_IRIDE_Eaglet_II\nImage: IRIDE\n#Geoawesome #IRIDE #Gibraltar",
+      "alt_text": "Satellite image of Gibraltar showing the Rock rising over the peninsula, the densely built town, port facilities and airport, with many ships on the surrounding water."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-11-2-gibraltar-imaged-by-iride-eaglet-ii.jpg"
+  },
+  {
+    "item": {
+      "id": "29aea361935aecd30ce0373f24bf62f8",
+      "source_id": "esa_eo",
+      "source_name": "ESA Observing the Earth",
+      "source_type": "eo_imagery",
+      "licence": "reuse",
+      "title": "Sentinel-3C returns its first views of Earth",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/Sentinel-3C_returns_its_first_views_of_Earth",
+      "published": "2026-10-08T12:25:00+00:00",
+      "summary": "Just two weeks after it was launched, the Copernicus Sentinel-3C satellite returned its first images and measurements from two of its key instruments – a major milestone that confirms the satellite is working well and on the road to monitoring the health of Earth’s oceans, land, cryosphere and atmosphere.",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/italy_and_beyond_imaged_by_sentinel-3c/27561379-1-eng-GB/Italy_and_beyond_imaged_by_Sentinel-3C_card_full.jpg",
+      "credit_hint": "ESA",
+      "source_tag": "@esa",
+      "page_text": "Just two weeks after it was launched, the Copernicus Sentinel-3C satellite returned its first images and measurements from two of its key instruments – a major milestone that confirms the satellite is working well and on the road to monitoring the health of Earth’s oceans, land, cryosphere and atmosphere.\nThis first set of images includes stunning views of Italy, the Arctic and the Caribbean from the satellite’s ocean and land colour instrument, as well as measurements of the height of the Greenland ice sheet and sea surface from its synthetic aperture radar altimeter.\nSentinel-3C is the third satellite in the Sentinel-3 series and will continue the mission’s long-term task of delivering environmental data that are essential for a wide range of applications.\nAs the workhorse mission for Copernicus, the Sentinel-3 satellites carry the same suite of instruments to measure systematically Earth’s oceans, land, cryosphere and atmosphere.\nOver oceans, Sentinel-3 measures the temperature, colour and height of the sea surface as well as the thickness of sea ice to support, for example, the monitoring of marine pollution and marine heatwaves.\nOver land, this innovative mission monitors drought and wildfires, maps the way land is used, checks vegetation health, and measures the height of rivers, lakes, and polar ice sheets as shown in the animation of Greenland below.\nSentinel-3's observations are also particularly valuable for providing near-realtime parameters for weather forecasting and for monitoring long-term changes associated with climate change.\nThe European Space Agency is still in the process of commissioning Sentinel-3C for service, an important and intricate task that will take another five months, but after only two weeks in orbit, the satellite’s initial images already showcase that it is on the road to excellence.\nThe first image, captured by the ocean and land colour instrument on 30 September, is a striking natural-colour view that reveals Italy in beautiful detail, stretching from southern Germany in the north to Sicily and the southern Mediterranean.\nJust above the centre of the image, the broad, flat expanse of the Po Valley – Italy’s agricultural heartland – stands out in shades of brown and green. Just to the north, the snow-capped Alps form a dramatic contrast with the lowlands, their bright peaks clearly visible against the surrounding landscape. Across the rest of Italy, variations in green and brown reflect differences in vegetation, agriculture and other types of land cover.\nTo the east, the deep blue waters of the Adriatic Sea separate Italy from the Balkan Peninsula, which is partially visible in the image. Noticeable variations in sea colour can be seen along Italy’s eastern coastline, where lighter blue waters hug the shore. These brighter tones are likely caused by sediment carried into the sea by rivers and transported along the coast.\nOn Italy’s western side, the dark waters of the Tyrrhenian Sea surround the islands of Sardinia and Sicily, which are clearly visible, while Corsica is largely obscured by cloud. Together, the contrasting colours of the land, snow-covered mountains and surrounding seas provide a vivid view of Italy’s diverse landscape from space.\nThe second image, also captured by the ocean and land colour instrument on 30 September, features part of the Canadian Arctic Archipelago, to the west of Greenland. Snow- and ice-covered islands dominate the scene, with rugged coastlines, deep fjords and exposed rock creating intricate patterns. At this time of the year sea ice is at a minimum but some fractured floes are visible on the dark open water.\nThe Arctic is warming much faster than the global average, causing rapid melting of ice on land and ice in the sea, which leads to further warming through feedback loops. Sentinel-3’s different instruments measure ice in different ways – all contributing to a better understanding of the vulnerable polar regions.\nThe third image captured on 29 September, also by the ocean and land colour instrument, is a spectacular view of part of the Caribbean, with Cuba to the south and the Bahamas towards the top of the image. Shallow waters around the islands appear in a beautiful turquoise set against the darker deeper waters of the open sea.\nLow-lying islands and coastal regions around the world are at risk of sea-level rise. Sentinel-3’s synthetic aperture radar altimeter measures changes in the height of the sea surface to help monitor rising seas and contribute to action on climate change and mitigation strategies.\nThe map above shows measurements of sea-surface height across the Atlantic Ocean and Mediterranean Sea from Sentinel-3C’s synthetic aperture radar altimeter, compared to the Copernicus Marine Service multimission sea-level anomaly. These new data demonstrate that the altimeter is performing well and comparable to current measurements. Once commissioned, the altimeter will contribute to monitoring changes in sea-surface height around the world, complementing long-term records from missions such as Copernicus Sentinel-6 and Jason.\nHigh-precision satellite altimetry has enabled scientists to establish the rate of global sea-level rise, which has averaged 3.64 mm per year since 1999 , with the rate of rise accelerating.\nThe altimeter will also measure changes in the height of lakes, rivers, sea ice and land ice, also complementing the upcoming Copernicus CRISTAL mission.\nThe animation above shows measurements of the height of the Greenland Ice Sheet acquired by Sentinel-3C between 30 September and 4 October. The measurements also demonstrate that the altimeter is performing well, with all of the measurement tracks closely matching the reference digital elevation model.\nMonitoring changes in the height of the Greenland and Antarctic ice sheets is essential for understanding the impacts of climate change and, importantly, for improving predictions of future sea-level rise. Ice loss from the sheets is a major con",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/italy_and_beyond_imaged_by_sentinel-3c/27561379-1-eng-GB/Italy_and_beyond_imaged_by_Sentinel-3C_pillars.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "square_path": "drafts/images/2026-10-11-3-sentinel-3c-returns-its-first-views-of-e.jpg",
+      "image_note": "square crop, from 1920px of source width"
+    },
+    "score": 6,
+    "why": "Sentinel-3C's first Earth view of Italy and the Mediterranean, a striking image tied to a satellite milestone.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A natural-colour image of Italy, from southern Germany to Sicily and the southern Mediterranean, taken on 30 September by the ocean and land colour instrument on Copernicus Sentinel-3C, two weeks after launch. The snow-capped Alps sit above the brown and green Po Valley, and lighter blue water along the Adriatic coast is likely sediment carried by rivers. Sardinia and Sicily are clear, while cloud largely hides Corsica.",
+      "uncertainties": [
+        "The source article has several images (Italy, Canadian Arctic, Caribbean, sea-surface height map, Greenland animation). This post assumes the square crop is the Italy image. Confirm before posting.",
+        "No verbatim image credit was found on the page, so 'ESA' is a fallback. ESA first images often carry a fuller credit such as 'contains modified Copernicus Sentinel data, processed by ESA'. Check the page.",
+        "The image licence is not stated on the page.",
+        "The square crop from 1920px width may cut parts of the scene (southern Germany, Sicily, the Balkans). Check that the alt text matches the crop.",
+        "The source gives no spatial resolution or band combination beyond 'natural colour'.",
+        "The year of acquisition is not stated. It is presumably 2026, given the publication date."
+      ],
+      "image_credit": "Image: ESA",
+      "caption": "Two weeks after launch, Sentinel-3C sent back its first images, including this natural-colour view of Italy from southern Germany to Sicily.\n\nCaptured on 30 September by its ocean and land colour instrument: snow-capped Alps above the Po Valley, and lighter blue water along the Adriatic coast, likely sediment carried by rivers. Commissioning will take another five months.\n\nFull story: https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/Sentinel-3C_returns_its_first_views_of_Earth\n\nImage: ESA\n\n#Sentinel3 #Copernicus #Italy #Geoawesome",
+      "x": "Two weeks after launch, Sentinel-3C sent back this natural-colour view of Italy, from southern Germany to Sicily, on 30 September. Lighter blue water along the Adriatic coast is likely river sediment.\nhttps://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/Sentinel-3C_returns_its_first_views_of_Earth\nImage: ESA\n#Sentinel3 #Copernicus #Geoawesome",
+      "alt_text": "Natural-colour satellite view of Italy with the snow-capped Alps in the north, the green and brown Po Valley below them, and the islands of Sardinia and Sicily in dark blue sea."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-11-3-sentinel-3c-returns-its-first-views-of-e.jpg"
+  }
+]
