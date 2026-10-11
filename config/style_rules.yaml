@@ -52,12 +52,12 @@ cta_options:
   - "Full story:"
   - "Watch:"
 
+# caption = Facebook, Instagram and YouTube Community; x = X
 platforms:
-  facebook:  {hashtags_min: 5, hashtags_max: 5, max_chars: 1500}
-  instagram: {hashtags_min: 5, hashtags_max: 5, max_chars: 1000}
-  x:         {hashtags_min: 3, hashtags_max: 4, max_chars: 280}
-  youtube:   {hashtags_min: 5, hashtags_max: 5, max_chars: 1500}
-  linkedin:  {hashtags_min: 5, hashtags_max: 5, max_chars: 2200}
+  caption: {hashtags_min: 3, hashtags_max: 5, max_chars: 700}
+  x:       {hashtags_min: 3, hashtags_max: 4, max_chars: 280}
+
+credit_prefixes: ["Image:", "Map:", "Images:", "Visualisation:", "Credit:"]
 
 # Hashtags that are allowed even though they look like two joined words
 hashtag_allowlist:

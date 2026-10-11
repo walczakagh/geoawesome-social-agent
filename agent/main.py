@@ -1,4 +1,4 @@
-"""Daily run: scout -> shortlist -> enrich -> draft -> check -> digest.
+"""Daily run: scout -> shortlist -> enrich -> square image -> caption -> check -> digest.
 
 Usage:
     python -m agent.main                 # normal run
@@ -14,7 +14,9 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
-from . import checks, enrich, llm, review, scout, state
+import re
+
+from . import checks, enrich, images, llm, review, scout, state
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -36,18 +38,32 @@ def run(max_items: int, max_age_days: int, dry_run: bool, out_dir: Path) -> Path
     by_id = {it.id: it for it in items}
     print(f"[main] shortlisted {len(picks)}")
 
+    run_date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     results = []
-    for p in picks:
+    for n, p in enumerate(picks, 1):
         it = enrich.enrich(by_id[p["id"]])
+        slug = re.sub(r"[^a-z0-9]+", "-", it.title.lower())[:40].strip("-")
+        img_path = out_dir / "images" / f"{run_date}-{n}-{slug}.jpg"
+        images.build(it, img_path)
+        if it.square_path:
+            try:  # store repo-relative so GitHub URLs work in the issue
+                it.square_path = str(Path(it.square_path).resolve().relative_to(ROOT))
+            except ValueError:
+                pass
+        print(f"[main] image {n}: {it.image_note}")
         try:
             d, probs = llm.draft(it, rules, checks.check_draft)
         except Exception as exc:
             print(f"[main] draft failed for {it.link}: {exc}")
             continue
-        results.append({"item": it.to_dict(), "score": p.get("score"), "why": p.get("why", ""),
-                        "draft": d, "problems": probs})
+        if not d.get("worth_posting", True) and it.square_path:
+            Path(ROOT / it.square_path).unlink(missing_ok=True)
+            it.square_path = ""
+        entry = {"item": it.to_dict(), "score": p.get("score"), "why": p.get("why", ""),
+                 "draft": d, "problems": probs}
+        entry["image_url"] = review.image_urls(it.square_path)[1]
+        results.append(entry)
 
-    run_date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     out_dir.mkdir(parents=True, exist_ok=True)
     (out_dir / f"{run_date}.json").write_text(json.dumps(results, indent=2, ensure_ascii=False),
                                               encoding="utf-8")

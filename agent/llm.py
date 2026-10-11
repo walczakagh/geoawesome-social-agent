@@ -45,7 +45,7 @@ def shortlist(items: list[Item], limit: int, ask=None) -> list[dict]:
     ask = ask or _ask
     listing = "\n\n".join(
         f"id: {it.id}\nsource: {it.source_name}\ntitle: {it.title}\n"
-        f"has_image: {bool(it.image_url)}\nsummary: {it.summary[:500]}"
+        f"has_image: {bool(it.image_url)}\nimage: {it.image_url[:160]}\nsummary: {it.summary[:500]}"
         for it in items
     )
     system = (PROMPTS / "shortlist_system.md").read_text(encoding="utf-8")
@@ -63,10 +63,16 @@ def source_block(it: Item) -> str:
         f"PUBLISHER: {it.source_name}" + (f" (handle {it.source_tag})" if it.source_tag else ""),
         f"LINK: {it.link}",
         f"PUBLISHED: {it.published}",
-        f"REUSE POLICY: {it.licence}",
+        f"SOURCE TYPE: {it.source_type} (reuse policy: {it.licence})",
         f"IMAGE CREDIT (verbatim from page): {it.image_credit or 'NOT FOUND, use: ' + it.credit_hint}",
         f"IMAGE LICENCE: {it.image_licence or 'not stated on page'}",
     ]
+    if it.origin_url:
+        parts.append(f"FEATURED MAP LIVES AT: {it.origin_url} (credit its maker/site)")
+    parts.append(f"IMAGE NOTE: {it.image_note or 'square crop of the lead image'}")
+    if len(it.images) > 1:
+        parts.append("PAIR LABELS: top = " + it.images[0].get("label", "")
+                     + ", bottom = " + it.images[1].get("label", ""))
     if it.extra_images:
         parts.append("WARNING: " + "; ".join(it.extra_images))
     parts.append("\nPAGE TEXT:\n" + (it.page_text or it.summary))
@@ -91,8 +97,9 @@ def draft(it: Item, rules: dict, check_fn, ask=None) -> tuple[dict, dict]:
             {"role": "assistant", "content": reply},
             {"role": "user", "content":
                 "These versions break the template rules:\n" + listing +
-                "\n\nFix only what is listed. Keep everything else, keep the facts "
-                "grounded in the source. Return the full JSON object again."},
+                "\n\n(caption = the Facebook/Instagram/YouTube text, x = the X text.) Fix only what is "
+                "listed. Keep everything else and keep the facts grounded in the source. "
+                "Return the full JSON object again."},
         ]
         try:
             result = parse_json(ask(DRAFT_MODEL, system, messages))

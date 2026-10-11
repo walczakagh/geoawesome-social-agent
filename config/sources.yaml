@@ -12,6 +12,12 @@ sources:
   - id: nasa_eo
     name: NASA Earth Observatory
     url: https://science.nasa.gov/feed/?science_org=19791%2C22453
+    # Returned 0 entries from GitHub's runners on 10 Oct 2026 although it
+    # works from a browser. Tried in order if the main URL fails; the digest's
+    # "Sources checked" section says which one answered, or why none did.
+    fallback_urls:
+      - https://earthobservatory.nasa.gov/feeds/image-of-the-day.rss
+      - https://science.nasa.gov/earth/earth-observatory/feed/
     type: eo_imagery
     licence: reuse
     credit_hint: "NASA Earth Observatory"

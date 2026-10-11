@@ -86,7 +86,7 @@ jobs:
             exit 0
           fi
           gh issue create \
-            --title "Social drafts $(date -u +%F)" \
+            --title "Geoawesome reposts $(date -u +%F)" \
             --label social-drafts \
             --body-file "$DIGEST"
 

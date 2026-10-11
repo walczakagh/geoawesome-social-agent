@@ -37,6 +37,12 @@ class Item:
     image_credit: str = ""
     image_licence: str = ""
     extra_images: list = field(default_factory=list)
+    # [{"url": ..., "label": ...}]; two entries means a before/after pair
+    images: list = field(default_factory=list)
+    origin_url: str = ""  # where a featured map itself lives (Maps Mania posts)
+    # filled in by images.py
+    square_path: str = ""
+    image_note: str = ""
 
     def to_dict(self) -> dict:
         return asdict(self)
@@ -84,19 +90,36 @@ def _published(entry) -> datetime | None:
     return None
 
 
-def parse_feed(source: dict, raw: bytes | str | None = None) -> list[Item]:
-    """Parse one feed. `raw` lets tests pass fixture content."""
-    if raw is None:
-        r = requests.get(source["url"], headers=HEADERS, timeout=30)
-        if r.status_code != 200:
-            raise RuntimeError(f"HTTP {r.status_code} from {source['url']}")
-        raw = r.content
-    feed = feedparser.parse(raw)
+class FeedEmpty(RuntimeError):
+    pass
+
+
+def _fetch(url: str) -> bytes:
+    r = requests.get(url, headers=HEADERS, timeout=30)
+    if r.status_code != 200:
+        raise RuntimeError(f"HTTP {r.status_code}")
+    feed = feedparser.parse(r.content)
     if not feed.entries:
-        why = getattr(feed, "bozo_exception", None)
-        print(f"[scout] {source['id']}: feed parsed but has no entries"
-              + (f" ({type(why).__name__}: {why})" if why else "")
-              + (f"; starts with: {raw[:120]!r}" if isinstance(raw, bytes) else ""))
+        ctype = r.headers.get("content-type", "?").split(";")[0]
+        head = re.sub(r"\s+", " ", r.text[:100]).strip()
+        raise FeedEmpty(f"HTTP 200 but no feed entries (content-type {ctype}, starts: {head!r})")
+    return r.content
+
+
+def parse_feed(source: dict, raw: bytes | str | None = None) -> list[Item]:
+    """Parse one feed. Tries `url`, then each of `fallback_urls`.
+    `raw` lets tests pass fixture content."""
+    if raw is None:
+        errors = []
+        for url in [source["url"], *source.get("fallback_urls", [])]:
+            try:
+                raw = _fetch(url)
+                break
+            except Exception as exc:
+                errors.append(f"{url}: {exc}")
+        if raw is None:
+            raise RuntimeError(" | ".join(errors))
+    feed = feedparser.parse(raw)
     items = []
     for e in feed.entries:
         link = e.get("link", "")
