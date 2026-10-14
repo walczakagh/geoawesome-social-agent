@@ -1,0 +1,53 @@
+[
+  {
+    "item": {
+      "id": "tag:blogger.com,1999:blog-12158290.post-7757916959569883826",
+      "source_id": "maps_mania",
+      "source_name": "Maps Mania",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "The New Age of Building Age Maps Has Begun",
+      "link": "http://googlemapsmania.blogspot.com/2026/10/the-new-age-of-building-age-maps-has.html",
+      "published": "2026-10-14T08:09:34+00:00",
+      "summary": "The new era of building age maps has begun. Block and Paper have been busy recently creating animated building-age maps of cities around the world, showing urban development unfold over time. The style has since been emulated by others, including Parcelscope's Every Building in Los Angeles County . Now Alexander Bogachev has imported the idea to France, creating an animated building-age map of Paris that shows when each of the French capital's 122,435 buildings was constructed. Paris, Building by Building provides an animated timeline of the construction of Paris since the year 900. One of the most surprising findings of this chronology is how much of Paris was built after the famous Haussmann period. According to the map, only one building in fifteen dates from 1851 to 1870, the era associated with Baron Haussmann's transformation of the city. Six times as many buildings were actually constructed during the Belle Époque, between 1871 and 1914. Paris, Building by Building , offers more than an animated journey through the architectural history of Paris. Bogachev has introduced two features that make this building age map particularly interesting to explore. The first allows you to ",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9p16JzP3qyoh9CyyB3GodRDvtAJy_gHkgC5hBL4cb56gZeZZjrVWrJ1061fcSC9w7ebhjy6EhJtBuc7gReILHOmG4plGYa08KOjkvf04nFqykGp2KOgZPba9__ixZS5htRX3tZWM4JbuO9LlScxp80b1kUTAi4z6c1uWXyePBpd1-D2aqfVbnPw/s1600/paris.bogachev.fr__trk=public_post_comment-text.png",
+      "credit_hint": "via Maps Mania",
+      "source_tag": "",
+      "page_text": "The new era of building age maps has begun. Block and Paper have been busy recently creating animated building-age maps of cities around the world, showing urban development unfold over time. The style has since been emulated by others, including Parcelscope's Every Building in Los Angeles County . Now Alexander Bogachev has imported the idea to France, creating an animated building-age map of Paris that shows when each of the French capital's 122,435 buildings was constructed. Paris, Building by Building provides an animated timeline of the construction of Paris since the year 900. One of the most surprising findings of this chronology is how much of Paris was built after the famous Haussmann period. According to the map, only one building in fifteen dates from 1851 to 1870, the era associated with Baron Haussmann's transformation of the city. Six times as many buildings were actually constructed during the Belle Époque, between 1871 and 1914. Paris, Building by Building , offers more than an animated journey through the architectural history of Paris. Bogachev has introduced two features that make this building age map particularly interesting to explore. The first allows you to ",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9p16JzP3qyoh9CyyB3GodRDvtAJy_gHkgC5hBL4cb56gZeZZjrVWrJ1061fcSC9w7ebhjy6EhJtBuc7gReILHOmG4plGYa08KOjkvf04nFqykGp2KOgZPba9__ixZS5htRX3tZWM4JbuO9LlScxp80b1kUTAi4z6c1uWXyePBpd1-D2aqfVbnPw/s1600/paris.bogachev.fr__trk=public_post_comment-text.png",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "square_path": "drafts/images/2026-10-14-1-the-new-age-of-building-age-maps-has-beg.jpg",
+      "image_note": "square crop, from 901px of source width"
+    },
+    "score": 8,
+    "why": "Colour-coded map of Paris's 122,435 buildings by construction date, showing the city's growth over time, with a clear visual hook for a square post.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A still from Alexander Bogachev's animated map 'Paris, Building by Building', which shows when each of the city's 122,435 buildings was constructed, on a timeline running from the year 900. According to the map, only one building in fifteen dates from the Haussmann era (1851 to 1870), while six times as many were built during the Belle Époque (1871 to 1914).",
+      "uncertainties": [
+        "The source does not say where the construction dates come from (cadastre, open data or other), so the data source is left out.",
+        "No legend or colour scheme is described, so the caption does not say what the colours mean.",
+        "The page text is cut off before it describes the map's two extra features.",
+        "The image licence is not stated and the reuse policy is link_only. Check permission before reposting the image itself.",
+        "The image credit was not found on the page. The credit line names the map's maker (from the text) plus Maps Mania.",
+        "It is unclear which year or frame of the animation the cropped still shows.",
+        "The link uses http rather than https. Check that it resolves."
+      ],
+      "image_credit": "Map: Alexander Bogachev via Maps Mania",
+      "caption": "Only one in fifteen of Paris's 122,435 buildings dates from the Haussmann era (1851 to 1870), according to a new animated building-age map.\n\nAlexander Bogachev's Paris, Building by Building animates the city's construction since the year 900 and finds six times as many buildings went up during the Belle Époque (1871 to 1914).\n\nRead more: http://googlemapsmania.blogspot.com/2026/10/the-new-age-of-building-age-maps-has.html\n\nMap: Alexander Bogachev via Maps Mania\n\n#Paris #Cartography #Urbanism #Geoawesome",
+      "x": "Only one in fifteen of Paris's 122,435 buildings dates from the Haussmann era (1851 to 1870), according to Alexander Bogachev's new animated map.\nhttp://googlemapsmania.blogspot.com/2026/10/the-new-age-of-building-age-maps-has.html\nMap: Alexander Bogachev via Maps Mania\n#Paris #Cartography #Geoawesome",
+      "alt_text": "A map of Paris showing individual buildings shaded according to when they were built."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-14-1-the-new-age-of-building-age-maps-has-beg.jpg"
+  }
+]
