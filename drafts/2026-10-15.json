@@ -1,0 +1,51 @@
+[
+  {
+    "item": {
+      "id": "tag:blogger.com,1999:blog-12158290.post-7178403593091731370",
+      "source_id": "maps_mania",
+      "source_name": "Maps Mania",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "Travel Blogging & Mapping",
+      "link": "http://googlemapsmania.blogspot.com/2026/10/travel-blogging-mapping.html",
+      "published": "2026-10-15T08:27:42+00:00",
+      "summary": "There are travel blogs and then there is Three Steps Off the Coast . For the last ten years, Sandrine and Geoffrey (now accompanied by their son Victor and pet dog) have been documenting their travels and sharing their photos, stories, itineraries, and budgets with the world on their popular travel blog. Now, to celebrate their ten-year anniversary of travel blogging, they have brought to life their 10 most memorable trips as immersive 3D travel maps. 10 Years, 10 Adventures is a collection of ten WebGL-powered animated travel maps featuring 3D terrain, animated elements, and trip narration. Instead of relying on standard mapping libraries like Mapbox or Google Maps SDKs, the project uses a bespoke WebGL rendering engine paired with custom heightmap and route data. Each trip features an interactive playback that acts as a media player. Users can \"Start the trip\" to follow an automated 3D camera flight synchronized with custom audio narration and an interactive elevation profile. You can quickly pan and zoom to featured locations on the route using the links in the map sidebar or by dragging the elevation timeline. In the last ten years, Sandrine and Geoffrey have visited some stunn",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilhyRlIN7XwAb7OY5koyX93q9_RmA6BAojR-9JM57J0C2eFF2tn6z8mYs9ZMDHAD4OXGD3kWfvOtBuELJTvpD9w0KMdkexVHbj1AbmmywOzkBT2zE9y5Y39c0Gr9fKG7ABd_JQ0TSQb-9brOWwdfN9FtZVPqdI0mN1XPhBHjZuAyX22JPxpPQbuw/s1600/Screenrecording2026-10-159.03.13AM-ezgif.com-optimize.gif",
+      "credit_hint": "via Maps Mania",
+      "source_tag": "",
+      "page_text": "There are travel blogs and then there is Three Steps Off the Coast .\nFor the last ten years, Sandrine and Geoffrey (now accompanied by their son Victor and pet dog) have been documenting their travels and sharing their photos, stories, itineraries, and budgets with the world on their popular travel blog. Now, to celebrate their ten-year anniversary of travel blogging, they have brought to life their 10 most memorable trips as immersive 3D travel maps.\n10 Years, 10 Adventures is a collection of ten WebGL-powered animated travel maps featuring 3D terrain, animated elements, and trip narration. Instead of relying on standard mapping libraries like Mapbox or Google Maps SDKs, the project uses a bespoke WebGL rendering engine paired with custom heightmap and route data.\nEach trip features an interactive playback that acts as a media player. Users can \"Start the trip\" to follow an automated 3D camera flight synchronized with custom audio narration and an interactive elevation profile. You can quickly pan and zoom to featured locations on the route using the links in the map sidebar or by dragging the elevation timeline.\nIn the last ten years, Sandrine and Geoffrey have visited some stunning locations around the world. From the volcanic shores of Martinique and the dramatic peaks of Iceland to the misty Isle of Skye and the towering Canadian Rockies, 10 Years, 10 Adventures now offers some breathtaking tours of their personal highlights. Take the controls and explore all ten stunning 3D maps on the Trois Pas de Côté anniversary site .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilhyRlIN7XwAb7OY5koyX93q9_RmA6BAojR-9JM57J0C2eFF2tn6z8mYs9ZMDHAD4OXGD3kWfvOtBuELJTvpD9w0KMdkexVHbj1AbmmywOzkBT2zE9y5Y39c0Gr9fKG7ABd_JQ0TSQb-9brOWwdfN9FtZVPqdI0mN1XPhBHjZuAyX22JPxpPQbuw/w1200-h630-p-k-no-nu/Screenrecording2026-10-159.03.13AM-ezgif.com-optimize.gif",
+          "label": ""
+        }
+      ],
+      "origin_url": "https://anniversary.troispasdecote.fr/",
+      "square_path": "drafts/images/2026-10-15-1-travel-blogging-mapping.jpg",
+      "image_note": "square crop, from 302px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6,
+    "why": "Ten 3D travel maps from a blogger's ten-year anniversary; the rendered maps could be eye-catching, though the summary doesn't show how striking they look.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A preview of 10 Years, 10 Adventures, a set of ten animated 3D travel maps made by the travel blog Trois Pas de Côté (Three Steps Off the Coast) to mark ten years of blogging. The maps run on a bespoke WebGL engine with custom heightmap and route data rather than Mapbox or Google Maps SDKs, and include narrated 3D camera flights synced to an interactive elevation profile. Trips include Martinique, Iceland, the Isle of Skye and the Canadian Rockies.",
+      "uncertainties": [
+        "Source image is only 302px wide and upscaled to 1080px: check sharpness before posting, or take a fresh screenshot from the anniversary site if reuse allows.",
+        "The source does not say which of the ten trips the image shows. Confirm this and update the alt text if needed.",
+        "No image credit or licence is stated on the page. The credit is built from the map's site plus Maps Mania, and the reuse policy is link_only.",
+        "The bloggers' first names (Sandrine and Geoffrey) are left out. Add them to the credit if the editor prefers.",
+        "The 'bespoke WebGL engine' claim comes from Maps Mania. The project site itself was not checked."
+      ],
+      "image_credit": "Map: Trois Pas de Côté via Maps Mania",
+      "caption": "Ten years of travel blogging, ten trips, ten animated 3D maps.\n\nTrois Pas de Côté built 10 Years, 10 Adventures on a bespoke WebGL engine with custom heightmap and route data instead of Mapbox or Google Maps SDKs. Each trip plays like a media player: a narrated 3D camera flight synced to an elevation profile you can drag.\n\nFind out more: http://googlemapsmania.blogspot.com/2026/10/travel-blogging-mapping.html\n\nMap: Trois Pas de Côté via Maps Mania\n\n#Cartography #Maps #Travel #Geoawesome",
+      "x": "Ten years of travel blogging, ten trips, ten animated 3D maps, all on a bespoke WebGL engine rather than Mapbox or Google Maps SDKs.\nhttp://googlemapsmania.blogspot.com/2026/10/travel-blogging-mapping.html\nMap: Trois Pas de Côté via Maps Mania\n#Cartography #Maps #Geoawesome",
+      "alt_text": "Screenshot of an animated 3D terrain travel map from the 10 Years, 10 Adventures project, showing a trip route drawn over shaded relief."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-15-1-travel-blogging-mapping.jpg"
+  }
+]
