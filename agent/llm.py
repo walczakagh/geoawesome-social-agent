@@ -38,23 +38,50 @@ def _ask(model: str, system: str, messages: list[dict], max_tokens: int = 4000) 
     return "".join(b.text for b in resp.content if getattr(b, "type", "") == "text")
 
 
-def shortlist(items: list[Item], limit: int, ask=None) -> list[dict]:
-    """Return [{"id", "score", "why"}] for the best items, best first."""
+BATCH = 40  # items per shortlist call; keeps each prompt small enough for Haiku
+
+
+def _listing(items: list[Item], history: dict | None) -> str:
+    from . import history as hist
+    blocks = []
+    for it in items:
+        lines = [f"id: {it.id}", f"source: {it.source_name}", f"site: {hist.domain(it.link)}",
+                 f"title: {it.title}"]
+        h = hist.note(it.link, history or {})
+        if h:
+            lines.append(f"editor history: {h}")
+        lines += [f"has_image: {bool(it.image_url)}", f"image: {it.image_url[:160]}",
+                  f"summary: {it.summary[:500]}"]
+        blocks.append("\n".join(lines))
+    return "\n\n".join(blocks)
+
+
+def shortlist(items: list[Item], limit: int, ask=None, history: dict | None = None,
+              min_score: int = 6) -> list[dict]:
+    """Return [{"id", "score", "why"}] for the best items, best first.
+    Large days are scored in batches, then the best of all batches are kept."""
     if not items:
         return []
     ask = ask or _ask
-    listing = "\n\n".join(
-        f"id: {it.id}\nsource: {it.source_name}\ntitle: {it.title}\n"
-        f"has_image: {bool(it.image_url)}\nimage: {it.image_url[:160]}\nsummary: {it.summary[:500]}"
-        for it in items
-    )
     system = (PROMPTS / "shortlist_system.md").read_text(encoding="utf-8")
-    reply = ask(SHORTLIST_MODEL, system,
-                [{"role": "user", "content": f"New items:\n\n{listing}\n\nPick at most {limit}."}],
-                1500)
-    picks = parse_json(reply).get("picks", [])
     known = {it.id for it in items}
-    return [p for p in picks if p.get("id") in known][:limit]
+    picks: list[dict] = []
+    for start in range(0, len(items), BATCH):
+        batch = items[start:start + BATCH]
+        reply = ask(SHORTLIST_MODEL, system,
+                    [{"role": "user", "content": f"New items:\n\n{_listing(batch, history)}\n\n"
+                                                 f"Score every item worth posting (6 or more)."}],
+                    2500)
+        picks += [p for p in parse_json(reply).get("picks", []) if p.get("id") in known]
+    best: dict[str, dict] = {}
+    for p in picks:
+        try:
+            p["score"] = float(p.get("score", 0))
+        except (TypeError, ValueError):
+            continue
+        if p["score"] >= min_score and p["score"] > best.get(p["id"], {}).get("score", -1):
+            best[p["id"]] = p
+    return sorted(best.values(), key=lambda p: -p["score"])[:limit]
 
 
 def source_block(it: Item) -> str:
