@@ -1,0 +1,95 @@
+[scout] nasa_eo: 10 in feed, 9 new
+[scout] esa_eo: 15 in feed, 0 new
+[scout] eumetsat: 10 in feed, 5 new
+[scout] cams: 10 in feed, 0 new
+[scout] nasa_jpl: 100 in feed, 3 new
+[scout] planet: 50 in feed, 2 new
+[scout] maps_mania: 25 in feed, 0 new
+[scout] visual_capitalist_maps: 10 in feed, 4 new
+[scout] flowingdata: 10 in feed, 4 new
+[scout] google_maps_blog: 20 in feed, 2 new
+[scout] google_research: 100 in feed, 3 new
+[scout] overture: 20 in feed, 0 new
+[scout] bellingcat: 10 in feed, 0 new
+
+## Sources
+- Google Alerts: not configured (secret GOOGLE_ALERTS_FEEDS is empty)
+- NASA Earth Observatory: 10 in feed, 9 new
+- ESA Observing the Earth: 15 in feed, 0 new
+- EUMETSAT: 10 in feed, 5 new
+- Copernicus Atmosphere Monitoring Service: 10 in feed, 0 new
+- NASA JPL: 100 in feed, 3 new
+- Planet Pulse: 50 in feed, 2 new
+- Maps Mania: 25 in feed, 0 new
+- Visual Capitalist (maps): 10 in feed, 4 new
+- FlowingData: 10 in feed, 4 new
+- Google Maps blog: 20 in feed, 2 new
+- Google Research blog: 100 in feed, 3 new
+- Overture Maps blog: 20 in feed, 0 new
+- Bellingcat: 10 in feed, 0 new
+
+## 32 candidate items
+- [NASA Earth Observatory] Fires Arrive in the Amazon Rainforest  (2026-10-15)  · picked 24 of 49 alerts from science.nasa.gov
+  https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/
+- [NASA Earth Observatory] Hurricane Simon Lurks Off the Mexican Coast  (2026-10-14)  · picked 24 of 49 alerts from science.nasa.gov
+  https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/
+- [NASA Earth Observatory] Comparing Off-World Rover Driving Distances  (2026-10-13)  · picked 24 of 49 alerts from science.nasa.gov
+  https://science.nasa.gov/photojournal/comparing-off-world-rover-driving-distances/
+- [NASA Earth Observatory] NASA’s Record-Setting Perseverance Rover Team  (2026-10-13)  · picked 24 of 49 alerts from science.nasa.gov
+  https://science.nasa.gov/photojournal/nasas-record-setting-perseverance-rover-team/
+- [NASA Earth Observatory] Perseverance Navcam Image Marks Record Drive  (2026-10-13)  · picked 24 of 49 alerts from science.nasa.gov
+  https://science.nasa.gov/photojournal/perseverance-navcam-image-marks-record-drive/
+- [NASA Earth Observatory] Voyager Technologies’ Griffin-1 Completes Environmental Testing at NASA JPL  (2026-10-13)  · picked 24 of 49 alerts from science.nasa.gov
+  https://science.nasa.gov/photojournal/voyager-technologies-griffin-1-completes-environmental-testing-at-nasa-jpl/
+- [NASA Earth Observatory] An Impact Structure With Legs  (2026-10-13)  · picked 24 of 49 alerts from science.nasa.gov
+  https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/
+- [NASA Earth Observatory] Antarctic Sea Ice Grows to Its 2026 Maximum  (2026-10-12)  · picked 24 of 49 alerts from science.nasa.gov
+  https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/
+- [NASA Earth Observatory] Floodwaters Overwhelm Thailand  (2026-10-09)  · picked 24 of 49 alerts from science.nasa.gov
+  https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/
+- [EUMETSAT] Evaluation of Sentinel-3 SWIR Synergy for Ocean Colour Atmospheric Correction improvement  (2026-10-14)  · picked 12 of 21 alerts from eumetsat.int
+  http://www.eumetsat.int/evaluation-sentinel-3-swir-synergy-ocean-colour-atmospheric-correction-improvement
+- [EUMETSAT] First European geostationary sounder enters service  (2026-10-13)  · picked 12 of 21 alerts from eumetsat.int
+  http://www.eumetsat.int/first-european-geostationary-sounder-enters-service
+- [EUMETSAT] Meteosat Third Generation in 4D  (2026-10-13)  · picked 12 of 21 alerts from eumetsat.int
+  http://www.eumetsat.int/features/meteosat-third-generation-4d
+- [EUMETSAT] Image of the week: Dust cloud moves over the Mediterranean  (2026-10-09)  · picked 12 of 21 alerts from eumetsat.int
+  http://www.eumetsat.int/image-week-dust-cloud-moves-over-mediterranean
+- [EUMETSAT] Sentinel-3C first images  (2026-10-08)  · picked 12 of 21 alerts from eumetsat.int
+  http://www.eumetsat.int/sentinel-3c-first-images
+- [NASA JPL] NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission  (2026-10-13)  · picked 3 of 12 alerts from jpl.nasa.gov
+  https://www.jpl.nasa.gov/news/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission
+- [NASA JPL] NASA’s Perseverance Sets Off-World Record for Total Distance Driven  (2026-10-12)  · picked 3 of 12 alerts from jpl.nasa.gov
+  https://www.jpl.nasa.gov/news/nasas-perseverance-sets-off-world-record-for-total-distance-driven
+- [NASA JPL] NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs  (2026-10-08)  · picked 3 of 12 alerts from jpl.nasa.gov
+  https://www.jpl.nasa.gov/news/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs
+- [Planet Pulse] Inside Slovenia’s Automated Space Resilience Infrastructure: Reshaping Disaster Management Across the Country  (2026-10-13)  · picked 6 of 10 alerts from planet.com
+  https://www.planet.com/pulse/inside-slovenia-s-automated-space-resilience-infrastructure-reshaping-disaster-management-across/
+- [Planet Pulse] Introducing Populace: Mapping Humanity in Unprecedented Detail  (2026-10-12)  · picked 6 of 10 alerts from planet.com
+  https://www.planet.com/pulse/introducing-populace-mapping-humanity-in-unprecedented-detail/
+- [Visual Capitalist (maps)] Mapped: Where China Out-Trades the U.S. and EU (2000 vs. 2025)  (2026-10-14)
+  https://www.visualcapitalist.com/mapped-where-china-out-trades-us-eu-2000-vs-2025/
+- [Visual Capitalist (maps)] Mapped: America’s Fastest-Growing Major Cities  (2026-10-14)
+  https://www.visualcapitalist.com/fastest-growing-cities-in-america/
+- [Visual Capitalist (maps)] Mapped: Unemployment Rates in Every U.S. State in 2026  (2026-10-13)
+  https://www.visualcapitalist.com/mapped-unemployment-by-state-in-2026/
+- [Visual Capitalist (maps)] Mapped: What a Home Is Worth in Every U.S. State in 2026  (2026-10-12)
+  https://www.visualcapitalist.com/mapped-typical-home-values-by-state-2026/
+- [FlowingData] People holding up the internet  (2026-10-14)
+  https://flowingdata.com/2026/10/14/people-holding-up-the-internet/
+- [FlowingData] Searchable database of the enslaved in former British colonies  (2026-10-13)
+  https://flowingdata.com/2026/10/13/searchable-database-of-the-enslaved-in-former-british-colonies/
+- [FlowingData] Learning is the thing  (2026-10-13)
+  https://flowingdata.com/2026/10/13/learning-is-the-thing/
+- [FlowingData] Decline in American social activities  (2026-10-12)
+  https://flowingdata.com/2026/10/12/decline-in-american-social-activities/
+- [Google Maps blog] 3 ways Google Maps can help you navigate your next culinary adventure.  (2026-10-08)  · picked 7 of 10 alerts from blog.google
+  https://blog.google/products-and-platforms/products/maps/google-maps-restaurant-tips-tricks/
+- [Google Maps blog] Google Maps reveals the top food trends and popular restaurants across 10 cities  (2026-10-08)  · picked 7 of 10 alerts from blog.google
+  https://blog.google/products-and-platforms/products/maps/google-maps-fan-favorite-dining-list/
+- [Google Research blog] Research@ 2026: 10 ways we're amplifying human ingenuity  (2026-10-14)  · picked 6 of 7 alerts from research.google
+  https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/
+- [Google Research blog] Putting Earth AI to work: Geospatial agents for our planet's biggest challenges  (2026-10-14)  · picked 6 of 7 alerts from research.google
+  https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/
+- [Google Research blog] Analyzing technical documents with Deep Review  (2026-10-14)  · picked 6 of 7 alerts from research.google
+  https://research.google/blog/analyzing-technical-documents-with-deep-review/
