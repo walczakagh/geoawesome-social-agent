@@ -38,7 +38,37 @@ def _ask(model: str, system: str, messages: list[dict], max_tokens: int = 4000) 
     return "".join(b.text for b in resp.content if getattr(b, "type", "") == "text")
 
 
-BATCH = 40  # items per shortlist call; keeps each prompt small enough for Haiku
+BATCH = 20  # items per shortlist call; small batches keep each reply short
+
+PICKS_TOOL = {
+    "name": "submit_picks",
+    "description": "Submit the scored items worth posting (score 6 or more), best first.",
+    "input_schema": {
+        "type": "object",
+        "properties": {"picks": {"type": "array", "items": {
+            "type": "object",
+            "properties": {"id": {"type": "string"},
+                           "score": {"type": "number"},
+                           "why": {"type": "string", "description": "under 15 words"}},
+            "required": ["id", "score", "why"]}}},
+        "required": ["picks"],
+    },
+}
+
+
+def _ask_picks(model: str, system: str, messages: list[dict], max_tokens: int = 4000) -> str:
+    """Shortlist call that forces Claude to answer through a tool, so the reply
+    is always valid JSON (a plain-text reply was cut off mid-string on 17 Oct
+    2026 and stopped the run). Returns the picks as a JSON string."""
+    resp = _client().messages.create(
+        model=model, max_tokens=max_tokens, system=system, messages=messages,
+        tools=[PICKS_TOOL], tool_choice={"type": "tool", "name": "submit_picks"})
+    for b in resp.content:
+        if getattr(b, "type", "") == "tool_use":
+            if resp.stop_reason == "max_tokens":
+                raise ValueError("shortlist reply hit max_tokens")
+            return json.dumps(b.input)
+    raise ValueError(f"no tool call in shortlist reply (stop_reason {resp.stop_reason})")
 
 
 def _listing(items: list[Item], history: dict | None) -> str:
@@ -62,17 +92,27 @@ def shortlist(items: list[Item], limit: int, ask=None, history: dict | None = No
     Large days are scored in batches, then the best of all batches are kept."""
     if not items:
         return []
-    ask = ask or _ask
+    ask = ask or _ask_picks
     system = (PROMPTS / "shortlist_system.md").read_text(encoding="utf-8")
     known = {it.id for it in items}
     picks: list[dict] = []
-    for start in range(0, len(items), BATCH):
+    failed = 0
+    batches = range(0, len(items), BATCH)
+    for start in batches:
         batch = items[start:start + BATCH]
-        reply = ask(SHORTLIST_MODEL, system,
-                    [{"role": "user", "content": f"New items:\n\n{_listing(batch, history)}\n\n"
-                                                 f"Score every item worth posting (6 or more)."}],
-                    2500)
-        picks += [p for p in parse_json(reply).get("picks", []) if p.get("id") in known]
+        msg = [{"role": "user", "content": f"New items:\n\n{_listing(batch, history)}\n\n"
+                                           f"Score every item worth posting (6 or more)."}]
+        for attempt in (1, 2):  # one retry, then skip this batch rather than the whole run
+            try:
+                reply = ask(SHORTLIST_MODEL, system, msg, 4000)
+                picks += [p for p in parse_json(reply).get("picks", []) if p.get("id") in known]
+                break
+            except ValueError as exc:
+                print(f"[shortlist] batch {start // BATCH + 1}, attempt {attempt}: {exc}")
+        else:
+            failed += 1
+    if failed and failed == len(batches):
+        raise RuntimeError(f"all {failed} shortlist batches failed")
     best: dict[str, dict] = {}
     for p in picks:
         try:

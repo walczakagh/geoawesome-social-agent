@@ -283,3 +283,39 @@ def test_shortlist_batches_and_keeps_best(monkeypatch):
     assert len(calls) == 3
     assert "editor history: picked 36 of 95" in calls[0]
     assert [p["id"] for p in picks] == ["i4", "i3"]   # i0, i1 below 6; made-up dropped
+
+
+def test_shortlist_survives_a_broken_reply(monkeypatch):
+    monkeypatch.setattr(llm, "BATCH", 2)
+    its = [blank_item(id=f"i{n}", link=f"https://esa.int/{n}") for n in range(4)]
+    replies = iter(['{"picks": [{"id": "i0", "score": 9, "why": "cut off',   # batch 1 try 1
+                    '{"picks": [{"id": "i0", "score": 9, "why": "ok"}]}',    # batch 1 retry
+                    '{"picks": [{"id": "i2", "score": 7, "wh',              # batch 2 try 1
+                    'not json'])                                             # batch 2 retry
+    picks = llm.shortlist(its, limit=6, ask=lambda *a, **k: next(replies))
+    assert [p["id"] for p in picks] == ["i0"]
+
+
+def test_shortlist_raises_when_every_batch_fails():
+    its = [blank_item(id="i0")]
+    with pytest.raises(RuntimeError):
+        llm.shortlist(its, limit=6, ask=lambda *a, **k: "{\"picks\": [")
+
+
+def test_ask_picks_returns_tool_input(monkeypatch):
+    class B:  # minimal stand-ins for the SDK objects
+        type = "tool_use"
+        input = {"picks": [{"id": "a", "score": 8, "why": "x"}]}
+
+    class R:
+        content = [B()]
+        stop_reason = "tool_use"
+
+    class C:
+        class messages:
+            @staticmethod
+            def create(**kw):
+                assert kw["tool_choice"] == {"type": "tool", "name": "submit_picks"}
+                return R()
+    monkeypatch.setattr(llm, "_client", lambda: C())
+    assert json.loads(llm._ask_picks("m", "s", [])) == B.input
