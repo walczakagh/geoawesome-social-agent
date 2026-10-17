@@ -94,7 +94,7 @@ def _specs(cfg: dict) -> list[tuple[str, str | None]]:
             out.append((s[0], s[1]))
         else:
             out.append((s, None))
-    return out
+    return sorted(out)  # by start time, whatever order they are listed in
 
 
 def _at(day, hhmm: str, tz) -> datetime:

@@ -1,0 +1,12 @@
+# How many drafts the agent prepares each day, and how good they must be.
+# Edit the numbers here; nothing else needs to change.
+
+# Maximum number of drafts in one daily issue. The issue has fewer when fewer
+# items reach min_score. (A run started by hand can override this in the
+# "Maximum number of items" box; leave that box empty to use this number.)
+drafts_per_day: 10
+
+# Claude Haiku scores every new item from 0 to 10 on how strong its visual is.
+# Only items scoring at least this much become drafts. Raise to 7 or 8 for
+# fewer, stronger posts; lower to 5 for more.
+min_score: 6

@@ -38,4 +38,4 @@ Prefer variety: if three items are near-identical flood scenes, score the best o
 Return ONE JSON object and nothing else:
 {"picks": [{"id": "<item id>", "score": 8, "why": "one short line on the visual and why it works"}]}
 
-Include every item scoring 6 or more, best first. Copy each id exactly.
+Include every item that reaches the minimum score given in the request, best first. Copy each id exactly.

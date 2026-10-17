@@ -42,7 +42,7 @@ BATCH = 20  # items per shortlist call; small batches keep each reply short
 
 PICKS_TOOL = {
     "name": "submit_picks",
-    "description": "Submit the scored items worth posting (score 6 or more), best first.",
+    "description": "Submit the scored items that reach the minimum score, best first.",
     "input_schema": {
         "type": "object",
         "properties": {"picks": {"type": "array", "items": {
@@ -87,7 +87,7 @@ def _listing(items: list[Item], history: dict | None) -> str:
 
 
 def shortlist(items: list[Item], limit: int, ask=None, history: dict | None = None,
-              min_score: int = 6) -> list[dict]:
+              min_score: float = 6) -> list[dict]:
     """Return [{"id", "score", "why"}] for the best items, best first.
     Large days are scored in batches, then the best of all batches are kept."""
     if not items:
@@ -101,7 +101,7 @@ def shortlist(items: list[Item], limit: int, ask=None, history: dict | None = No
     for start in batches:
         batch = items[start:start + BATCH]
         msg = [{"role": "user", "content": f"New items:\n\n{_listing(batch, history)}\n\n"
-                                           f"Score every item worth posting (6 or more)."}]
+                                           f"Score every item; return those scoring {min_score:g} or more."}]
         for attempt in (1, 2):  # one retry, then skip this batch rather than the whole run
             try:
                 reply = ask(SHORTLIST_MODEL, system, msg, 4000)
