@@ -1,0 +1,18 @@
+1. Floodwaters Overwhelm Thailand
+   pick: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/floodwaters-overwhelm-thailand/thailandflooding_oli_20251007.jpg
+   before/after pair stacked, from 1280px of source width
+2. Sentinel-3C first images
+   pick: https://www-cdn.eumetsat.int/files/styles/16_9_large/public/2026-10/S3C_OLCI_Italy_20260930_gamma_1.2%20a%20spot.jpg?h=d1cb525d&itok=ILZfpkVc
+   square crop, from 1080px of source width
+3. Image of the week: Dust cloud moves over the Mediterranean
+   pick: https://www-cdn.eumetsat.int/files/styles/16_9_large/public/2026-10/IOTW%20Desert%20Dust.png?h=baecbf55&itok=j-Ch-2M0
+   square crop, from 1080px of source width
+4. Unlocking Earth AI’s planetary geospatial foundation models for global public health
+   pick: https://storage.googleapis.com/gweb-research2023-media/original_images/PDFMPublicHealth1-hero.jpg
+   square crop, from 1183px of source width
+5. El Nino link hotter summers
+   pick: https://www-cdn.eumetsat.int/files/styles/16_9_large/public/2026-10/A-SPOT_.jpg?h=d1cb525d&itok=bg4mplJM
+   square crop, from 1080px of source width
+6. Mapped: The Most Walkable Cities in the U.S. & Canada
+   pick: https://www.visualcapitalist.com/wp-content/uploads/2026/10/The-Most-Walkable-Cities-in-the-US-and-Canada.webp
+   square crop, from 1200px of source width

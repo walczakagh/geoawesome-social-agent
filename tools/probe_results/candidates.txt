@@ -1,0 +1,126 @@
+[scout] google_alerts_1: failed (feed: HTTP 200 but no feed entries (content-type text/xml, starts: '<?xml version="1.0" encoding="utf-8"?> <feed xmlns="http://www.w3.org/2005/Atom" xmlns:idx="urn:atom'))
+[scout] google_alerts_2: failed (feed: HTTP 200 but no feed entries (content-type text/xml, starts: '<?xml version="1.0" encoding="utf-8"?> <feed xmlns="http://www.w3.org/2005/Atom" xmlns:idx="urn:atom'))
+[scout] google_alerts_3: 20 in feed, 20 new
+[scout] google_alerts_4: 20 in feed, 19 new, 1 already found via another source
+[scout] google_alerts_5: failed (feed: HTTP 200 but no feed entries (content-type text/xml, starts: '<?xml version="1.0" encoding="utf-8"?> <feed xmlns="http://www.w3.org/2005/Atom" xmlns:idx="urn:atom'))
+[scout] google_alerts_6: failed (feed: HTTP 200 but no feed entries (content-type text/xml, starts: '<?xml version="1.0" encoding="utf-8"?> <feed xmlns="http://www.w3.org/2005/Atom" xmlns:idx="urn:atom'))
+[scout] google_alerts_7: failed (feed: HTTP 200 but no feed entries (content-type text/xml, starts: '<?xml version="1.0" encoding="utf-8"?> <feed xmlns="http://www.w3.org/2005/Atom" xmlns:idx="urn:atom'))
+[scout] nasa_eo: 10 in feed, 0 new
+[scout] esa_eo: 15 in feed, 0 new
+[scout] eumetsat: 10 in feed, 0 new
+[scout] cams: 10 in feed, 0 new
+[scout] nasa_jpl: 100 in feed, 0 new
+[scout] planet: 50 in feed, 0 new
+[scout] maps_mania: 25 in feed, 0 new
+[scout] visual_capitalist_maps: 10 in feed, 2 new
+[scout] flowingdata: 10 in feed, 0 new
+[scout] google_maps_blog: 20 in feed, 0 new
+[scout] google_research: 100 in feed, 0 new
+[scout] overture: 20 in feed, 0 new
+[scout] bellingcat: 10 in feed, 0 new
+
+## Sources
+- Google Alerts #1: failed: feed: HTTP 200 but no feed entries (content-type text/xml, starts: '<?xml version="1.0" encoding="utf-8"?> <feed xmlns="http://www.w3.org/2005/Atom" xmlns:idx="urn:atom')
+- Google Alerts #2: failed: feed: HTTP 200 but no feed entries (content-type text/xml, starts: '<?xml version="1.0" encoding="utf-8"?> <feed xmlns="http://www.w3.org/2005/Atom" xmlns:idx="urn:atom')
+- Google Alerts #3: 20 in feed, 20 new
+- Google Alerts #4: 20 in feed, 19 new, 1 already found via another source
+- Google Alerts #5: failed: feed: HTTP 200 but no feed entries (content-type text/xml, starts: '<?xml version="1.0" encoding="utf-8"?> <feed xmlns="http://www.w3.org/2005/Atom" xmlns:idx="urn:atom')
+- Google Alerts #6: failed: feed: HTTP 200 but no feed entries (content-type text/xml, starts: '<?xml version="1.0" encoding="utf-8"?> <feed xmlns="http://www.w3.org/2005/Atom" xmlns:idx="urn:atom')
+- Google Alerts #7: failed: feed: HTTP 200 but no feed entries (content-type text/xml, starts: '<?xml version="1.0" encoding="utf-8"?> <feed xmlns="http://www.w3.org/2005/Atom" xmlns:idx="urn:atom')
+- NASA Earth Observatory: 10 in feed, 0 new
+- ESA Observing the Earth: 15 in feed, 0 new
+- EUMETSAT: 10 in feed, 0 new
+- Copernicus Atmosphere Monitoring Service: 10 in feed, 0 new
+- NASA JPL: 100 in feed, 0 new
+- Planet Pulse: 50 in feed, 0 new
+- Maps Mania: 25 in feed, 0 new
+- Visual Capitalist (maps): 10 in feed, 2 new
+- FlowingData: 10 in feed, 0 new
+- Google Maps blog: 20 in feed, 0 new
+- Google Research blog: 100 in feed, 0 new
+- Overture Maps blog: 20 in feed, 0 new
+- Bellingcat: 10 in feed, 0 new
+
+## 41 candidate items
+- [Google Alerts #3] Drone LiDAR reveals previously unknown Aboriginal rock shelters in the Blue Mountains  (2026-10-17)
+  https://www.heritagedaily.com/2026/10/drone-lidar-reveals-previously-unknown-aboriginal-rock-shelters-in-the-blue-mountains/159673
+- [Google Alerts #3] MCPS makes access changes to student Chromebooks | Communities | thesentinel.com  (2026-10-17)
+  https://www.thesentinel.com/communities/mcps-makes-access-changes-to-student-chromebooks/article_8d692c3b-6cc2-478e-8c96-ea8016b4263f.html
+- [Google Alerts #3] Rivers State police suspend officers afta alleged cultists renovate station - BBC  (2026-10-17)  · picked 1 of 12 alerts from bbc.com
+  https://www.bbc.com/pidgin/articles/cm0e0pwdxzr8o
+- [Google Alerts #3] Artemis II Heat Shield After Splashdown - NASA  (2026-10-17)  · picked 5 of 33 alerts from nasa.gov
+  https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/
+- [Google Alerts #3] Astronomer leads global team on NASA mission to create unprecedented view of the early universe  (2026-10-17)  · picked 6 of 23 alerts from phys.org
+  https://phys.org/news/2026-10-astronomer-global-team-nasa-mission.html
+- [Google Alerts #3] NASA Astronauts Discuss Life in Space with Florida Students – Friday, October 16, 2026  (2026-10-17)  · picked 14 of 39 alerts from youtube.com
+  https://www.youtube.com/watch?v=fbaw6suGQuc
+- [Google Alerts #3] 1 in 4 choice students skipped state's Forward Exam, DPI data show - Milwaukee Journal Sentinel  (2026-10-17)
+  https://www.jsonline.com/story/news/education/2026/10/16/forward-exam-scores-flat-for-choice-students-but-many-skipped-test/92169434007/
+- [Google Alerts #3] NASA satellites observe historic 2026 El Niño - Phys.org  (2026-10-17)  · picked 6 of 23 alerts from phys.org
+  https://phys.org/news/2026-10-nasa-satellites-historic-el-nio.html
+- [Google Alerts #3] Area officers take in crisis training - Fairmont Sentinel  (2026-10-17)
+  https://www.fairmontsentinel.com/news/local-news/2026/10/17/area-officers-take-in-crisis-training/
+- [Google Alerts #3] NASA Captures a Strange Formation on Earth With a Surprising Lunar Connection  (2026-10-17)  · picked 0 of 3 alerts from scitechdaily.com
+  https://scitechdaily.com/nasa-captures-a-strange-formation-on-earth-with-a-surprising-lunar-connection/
+- [Google Alerts #3] LIEN SALE 11/3/26 10AM - LA Sentinel  (2026-10-17)
+  https://lasentinel.net/classifieds/show-ad?id=5946
+- [Google Alerts #3] Veteran NASA engineer named Marshall Space Flight Center director - al.com  (2026-10-17)
+  https://www.al.com/news/2026/10/veteran-nasa-engineer-named-marshall-space-flight-center-director.html
+- [Google Alerts #3] Two rockets set to launch from Poker Flat Research Range - Geophysical Institute  (2026-10-17)
+  https://www.gi.alaska.edu/news/two-rockets-set-launch-poker-flat-research-range-0
+- [Google Alerts #3] Wastin' Time: A Mancini learns to live with nature. Mostly. - News and Sentinel  (2026-10-17)
+  https://www.newsandsentinel.com/opinion/local-columns/2026/10/wastin-time-a-mancini-learns-to-live-with-nature-mostly/
+- [Google Alerts #3] Air Force successfully tests reentry vehicle for new Sentinel ICBM | Stars and Stripes  (2026-10-17)
+  https://www.stripes.com/branches/air_force/2026-10-16/reentry-vehicle-sentinel-icbm-test-23175743.html
+- [Google Alerts #3] UT's new building named Compton Center for Student Success - Knoxville News Sentinel  (2026-10-17)
+  https://www.knoxnews.com/picture-gallery/news/education/2026/10/16/uts-new-building-named-compton-center-for-student-success/92288374007/
+- [Google Alerts #3] NASA's Hubble Spies Spiral's Edge  (2026-10-17)  · picked 24 of 49 alerts from science.nasa.gov
+  https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/
+- [Google Alerts #3] LIKE A SPACE JELLYFISH NASA shared a set of images showing a fuzzy jellyfish ... - Facebook  (2026-10-17)  · picked 1 of 6 alerts from facebook.com
+  https://www.facebook.com/gmanews/posts/like-a-space-jellyfish-nasa-shared-a-set-of-images-showing-a-fuzzy-jellyfish-sha/1742957177875932/
+- [Google Alerts #3] Line of Scrimmage: Getting to know the Miami Hurricanes with Adam Lichtenstein of The ...  (2026-10-17)
+  https://www.tomahawknation.com/florida-state-football/138897/inside-look-miami-hurricanes-fsu-seminoles-prediction
+- [Google Alerts #3] GeoCue expands standard lidar portfolio with TrueView 550 - GPS World  (2026-10-17)  · picked 10 of 97 alerts from gpsworld.com
+  https://www.gpsworld.com/geocue-expands-trueview-standard-lidar-portfolio-with-trueview-550/
+- [Google Alerts #4] RAF jets nearly hit mystery drones over UK - The Independent  (2026-10-17)
+  https://www.independent.co.uk/bulletin/news/raf-jets-drones-norfolk-humberside-b3068464.html
+- [Google Alerts #4] Sokkia Solutions Showcased at INTERGEO 2026 - GPS World  (2026-10-17)  · picked 10 of 97 alerts from gpsworld.com
+  https://www.gpsworld.com/sokkia-solutions-showcased-at-intergeo-2026/
+- [Google Alerts #4] Huge Groups of Hammerhead Sharks Spotted Gathering Off Australia's Popular Beaches  (2026-10-17)
+  https://www.zmescience.com/science/oceanography/huge-groups-of-hammerhead-sharks-spotted-gathering-off-australias-popular-beaches/
+- [Google Alerts #4] Andrews students have hand in sky show | News - hpenews.com  (2026-10-17)
+  https://www.hpenews.com/news/andrews-students-have-hand-in-sky-show/article_d29742b8-89d3-5ee0-91aa-704d977802be.html
+- [Google Alerts #4] Total of 75 drones flying toward Moscow shot down: Mayor Sobyanin - UNI  (2026-10-17)
+  https://www.uniindia.com/international/russia-moscow-drones-17fn1/216781
+- [Google Alerts #4] Spray drones provide new business opportunities for Iowa farmer - High Plains Journal  (2026-10-17)
+  https://hpj.com/2026/10/16/spray-drones-provide-new-business-opportunities-for-iowa-farmer/
+- [Google Alerts #4] Preserving cross-gap differences improves GNSS noise analysis with missing values  (2026-10-17)
+  https://www.desmoinesregister.com/press-release/story/140702/preserving-cross-gap-differences-improves-gnss-noise-analysis-with-missing-values/
+- [Google Alerts #4] Russian drones kill three in Ukraine, cut power to 1 million as US, Russia seek further cooperation  (2026-10-17)
+  https://www.jewishrhody.com/stories/russian-drones-kill-three-in-ukraine-cut-power-to-1-million-as-us-russia-seek-further-cooperation,181999
+- [Google Alerts #4] FAA bans unauthorized drones along US-Mexico border - Investing.com Canada  (2026-10-17)  · picked 1 of 3 alerts from investing.com
+  https://ca.investing.com/news/stock-market-news/faa-bans-unauthorized-drones-along-usmexico-border-93CH-4885700
+- [Google Alerts #4] How Radar Hail Maps, Drones and GIS Changed Roof Damage Checks in the Texas Panhandle  (2026-10-17)  · picked 2 of 9 alerts from gisuser.com
+  https://gisuser.com/2026/10/how-radar-hail-maps-drones-and-gis-changed-roof-damage-checks-in-the-texas-panhandle/
+- [Google Alerts #4] Temple Police Department's Implementation of Drone as First Responder Program  (2026-10-17)
+  https://city-of-temple.prowly.com/474854-temple-police-departments-implementation-of-drone-as-first-responder-program
+- [Google Alerts #4] Around the Commercial Drone Industry: Solar Power, New UTM Software, Amazon Delivery  (2026-10-17)  · picked 1 of 4 alerts from commercialuavnews.com
+  https://www.commercialuavnews.com/solar-power-new-utm-software-amazon-delivery
+- [Google Alerts #4] How High Point had the first student-led drone show at football game - YouTube  (2026-10-17)  · picked 14 of 39 alerts from youtube.com
+  https://www.youtube.com/shorts/PG0o5rUKq0g
+- [Google Alerts #4] How High Point had the first student-led drone show at football game - YouTube  (2026-10-17)  · picked 14 of 39 alerts from youtube.com
+  https://www.youtube.com/shorts/rCIBtHryMOY
+- [Google Alerts #4] Saudi-led coalition intercepts fresh drones , missiles over Saudi Arabia, Red Sea - Xinhua  (2026-10-17)
+  https://english.news.cn/20261016/959460562e1445fe81110bb86ab99329/c.html
+- [Google Alerts #4] The future of mining requires drones : A new way to inspect, survey and map  (2026-10-17)
+  https://www.canadianminingjournal.com/featured-article/the-future-of-mining-requires-drones-a-new-way-to-inspect-survey-and-map/
+- [Google Alerts #4] Russian drones kill 3 people in Ukraine, cut power to hundreds of thousands  (2026-10-16)
+  https://wmbdradio.com/2026/10/16/russian-drones-kill-3-people-in-ukraine-cut-power-to-hundreds-of-thousands/
+- [Google Alerts #4] Explorers fly high with new drone program - On Scouting  (2026-10-16)
+  https://onscouting.org/2026/10/16/explorers-fly-high-with-new-drone-program/
+- [Google Alerts #4] Large uncrewed underwater vehicle launched in Sweden - Naval Today  (2026-10-16)
+  https://www.navaltoday.com/2026/10/16/large-uncrewed-underwater-vehicle-launched-in-sweden
+- [Visual Capitalist (maps)] Ranked: The 15 Best Colleges in America for 2027  (2026-10-11)
+  https://www.visualcapitalist.com/best-colleges-in-america-2027/
+- [Visual Capitalist (maps)] Mapped: The Most Popular Dog Breed in Every State in 2026  (2026-10-10)
+  https://www.visualcapitalist.com/mapped-most-popular-dog-breed-every-state-2026/
