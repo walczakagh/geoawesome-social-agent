@@ -73,13 +73,13 @@
       "extra_images": [],
       "images": [
         {
-          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/fires-arrive-in-the-amazon-rainforest/amazonfires_locatormap.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fires-arrive-in-the-amazon-rainforest/amazofires_amo_20261012.jpg",
           "label": ""
         }
       ],
       "origin_url": "",
       "square_path": "drafts/images/2026-10-17-2-fires-arrive-in-the-amazon-rainforest.jpg",
-      "image_note": "square crop, from 150px of source width (low resolution: upscaled, check sharpness)"
+      "image_note": "square crop, from 853px of source width (image replaced 17 Oct after fix)"
     },
     "score": 8.0,
     "why": "Vivid satellite fire scene across tropics and Amazon during El Niño; strong NASA Earth Observatory pick.",
@@ -123,13 +123,13 @@
       "extra_images": [],
       "images": [
         {
-          "url": "https://www.bellingcat.com/app/uploads/2026/10/2026-10-14T192750Z_1002783143_RC263OALNP1F_RTRMADP_3_USA-TRUMP-GOLF-LAWSUIT-scaled.jpg",
+          "url": "https://www.bellingcat.com/app/uploads/2026/10/Screenshot-2026-10-15-at-10.59.57-1200x777.jpg",
           "label": ""
         }
       ],
       "origin_url": "",
       "square_path": "drafts/images/2026-10-17-3-satellite-images-show-extent-of-trump-ad.jpg",
-      "image_note": "square crop, from 1505px of source width"
+      "image_note": "square crop, from 777px of source width (image replaced 17 Oct after fix)"
     },
     "score": 8.0,
     "why": "Satellite before/after of tree-felling at DC golf course; strong change-detection story.",
@@ -173,13 +173,13 @@
       "extra_images": [],
       "images": [
         {
-          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/hurricane-simon-lurks-off-the-mexican-coast/eo_image_map_1791927706.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/hurricane-simon-lurks-off-the-mexican-coast/hurricanesimon_vir_20261011.jpg",
           "label": ""
         }
       ],
       "origin_url": "",
       "square_path": "drafts/images/2026-10-17-4-hurricane-simon-lurks-off-the-mexican-co.jpg",
-      "image_note": "square crop, from 150px of source width (low resolution: upscaled, check sharpness)"
+      "image_note": "square crop, from 1066px of source width (image replaced 17 Oct after fix)"
     },
     "score": 7.0,
     "why": "Hurricane Simon imagery with striking atmospheric ripple patterns; visually arresting satellite scene.",
@@ -223,13 +223,13 @@
       "extra_images": [],
       "images": [
         {
-          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/antarctic-sea-ice-grows-to-its-2026-maximum/antarctic_nsidc_20260914_th.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-impact-structure-with-legs/aus_spidercrater_oli2_20260920.jpg",
           "label": ""
         }
       ],
       "origin_url": "",
       "square_path": "drafts/images/2026-10-17-5-an-impact-structure-with-legs.jpg",
-      "image_note": "square crop, from 212px of source width (low resolution: upscaled, check sharpness)"
+      "image_note": "square crop, from 853px of source width (image replaced 17 Oct after fix)"
     },
     "score": 7.0,
     "why": "Spider Crater impact structure from orbit; a striking, unusual landform with a hook.",

@@ -2,3 +2,4 @@ __pycache__/
 .pytest_cache/
 *.pyc
 run.log
+tools/probe_results/
