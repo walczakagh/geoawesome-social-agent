@@ -8,7 +8,7 @@ on:
     inputs:
       max_items:
         description: "Maximum number of items to draft"
-        default: "6"
+        default: "10"
       max_age_days:
         description: "Ignore feed items older than this many days"
         default: "7"
@@ -49,7 +49,7 @@ jobs:
           DRY=""
           if [ "${{ inputs.dry_run }}" = "true" ]; then DRY="--dry-run"; fi
           python -m agent.main \
-            --max-items "${{ inputs.max_items || '6' }}" \
+            --max-items "${{ inputs.max_items || '10' }}" \
             --max-age-days "${{ inputs.max_age_days || '7' }}" \
             $DRY 2>&1 | tee run.log
 
