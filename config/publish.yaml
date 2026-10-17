@@ -11,6 +11,13 @@ timezone: Europe/Warsaw
 # Metricool's best hours for this Instagram account (checked 17 Oct 2026).
 slots: ["16:00", "20:00"]
 
+# Each post goes out at a random minute up to this far before or after its
+# slot (40 -> a 16:00 slot posts somewhere between 15:20 and 16:40). The
+# publisher checks every 10 minutes, and GitHub often starts scheduled runs a
+# few minutes late, so the real time can be up to ~15 minutes after the
+# time in the confirmation comment.
+jitter_minutes: 40
+
 # A post is never put into a slot that starts sooner than this.
 min_lead_minutes: 30
 
@@ -24,5 +31,5 @@ networks: [facebook, instagram]
 
 graph_version: v26.0   # current as of Oct 2026; Meta supports each version about 2 years
 
-# A network that fails is retried on the next hourly run, up to this many times.
+# A network that fails is retried on the next runs (10 minutes apart), up to this many times.
 max_attempts: 3

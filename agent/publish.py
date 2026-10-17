@@ -18,6 +18,7 @@ from __future__ import annotations
 
 import json
 import os
+import random
 import re
 import sys
 import time
@@ -100,6 +101,17 @@ def next_slot(now: datetime, taken: set[str], cfg: dict) -> datetime:
     raise RuntimeError("no free slot within a year")
 
 
+def jittered(base: datetime, now: datetime, cfg: dict, rng=random) -> datetime:
+    """Actual posting time: a random minute within +/- jitter_minutes of the
+    base slot, never sooner than min_lead_minutes from now."""
+    j = int(cfg.get("jitter_minutes", 0))
+    t = base + timedelta(minutes=rng.randint(-j, j)) if j else base
+    earliest = now + timedelta(minutes=cfg.get("min_lead_minutes", 30))
+    if t < earliest:
+        t = earliest + timedelta(minutes=rng.randint(0, max(j, 1)))
+    return t.replace(second=0, microsecond=0)
+
+
 def local_label(t: datetime | str, cfg: dict) -> str:
     if isinstance(t, str):
         t = datetime.fromisoformat(t)
@@ -108,7 +120,7 @@ def local_label(t: datetime | str, cfg: dict) -> str:
 
 
 def enqueue(issue: int, body: str, now: datetime, cfg: dict,
-            queue: list[dict], published: dict) -> tuple[list[str], list[str]]:
+            queue: list[dict], published: dict, rng=random) -> tuple[list[str], list[str]]:
     """Queue newly ticked posts, drop unticked ones. Mutates queue.
     Returns (queued lines, cancelled lines) for the issue comment."""
     posts = parse_issue(body)
@@ -120,9 +132,10 @@ def enqueue(issue: int, body: str, now: datetime, cfg: dict,
             if not p["image_url"] or not p["caption"]:
                 queued.append(f"- ⚠️ **{p['title']}**: no image or caption found, not queued")
                 continue
-            slot = next_slot(now, {q["slot"] for q in queue}, cfg)
-            queue.append({"post_id": pid, "issue": issue, "slot": slot.isoformat(),
-                          "queued_at": now.isoformat()})
+            base = next_slot(now, {q.get("base", q["slot"]) for q in queue}, cfg)
+            slot = jittered(base, now, cfg, rng)
+            queue.append({"post_id": pid, "issue": issue, "base": base.isoformat(),
+                          "slot": slot.isoformat(), "queued_at": now.isoformat()})
             queued.append(f"- **{p['title']}**: {local_label(slot, cfg)}")
         elif not p["checked"] and pid in in_queue:
             queue[:] = [q for q in queue if q["post_id"] != pid]
@@ -247,7 +260,7 @@ def run_due(now: datetime, cfg: dict, queue: list[dict], published: dict,
                 rec.setdefault("errors", {})[net] = str(exc)[:300]
                 left = cfg.get("max_attempts", 3) - rec["attempts"][net]
                 lines.append(f"- ⚠️ {net.title()} failed: {str(exc)[:300]}"
-                             + (f" (will retry next hour, {left} left)" if left else " (giving up)"))
+                             + (f" (will retry in about 10 minutes, {left} left)" if left else " (giving up)"))
         pending = [n for n in cfg.get("networks", []) if n not in rec
                    and rec["attempts"].get(n, 0) < cfg.get("max_attempts", 3)]
         if not pending:
