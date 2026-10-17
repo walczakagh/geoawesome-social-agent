@@ -19,6 +19,8 @@ Exactly this shape, separated by blank lines:
 4. Credit line starting "Image:" (or "Map:" for a map), using the credit from the source material verbatim. For a map featured on a blog, credit the map's maker or site and the blog, e.g. "Map: skyviewer.app via Maps Mania".
 5. Hashtag line: 3 to 5 hashtags, single words only (#Landsat, #Floods, #Sentinel2, #Cartography), never joined phrases like #RemoteSensing or #ClimateChange. #Geoawesome is always one of them.
 
+For an interactive map, portal, dashboard or story map, say in the BODY what the reader can do with it (scrub through time, click a building, compare years) and credit it with "Map:" plus its maker or publisher. When the page names no image credit, credit the publisher of the page (for example "Map: drought.gov"), never a guess.
+
 Keep the whole caption under 600 characters. Short beats complete.
 
 ## X version

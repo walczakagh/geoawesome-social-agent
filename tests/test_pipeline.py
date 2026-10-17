@@ -191,3 +191,95 @@ def test_shortlist_ignores_unknown_ids():
 
 def test_parse_json_tolerates_fences():
     assert llm.parse_json('```json\n{"a": 1}\n```') == {"a": 1}
+
+
+# ---- sourcing (15 Oct 2026) -------------------------------------------------
+
+NASA_BROKEN = b"""<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+\t xmlns:content="http://purl.org/rss/1.0/modules/content/"
+\t xmlns:apod="https://science.nasa.gov/apod/"xmlns:media="http://search.yahoo.com/mrss/" >
+<channel><title>NASA</title>
+<item><title>Fires Arrive in the Amazon Rainforest</title>
+<link>https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/</link>
+<pubDate>Thu, 15 Oct 2026 04:01:00 +0000</pubDate></item>
+</channel></rss>"""
+
+
+def test_nasa_feed_with_run_together_namespaces_parses():
+    src = {"id": "nasa_eo", "name": "NASA EO", "type": "eo_imagery"}
+    items = scout.parse_feed(src, NASA_BROKEN)
+    assert [i.title for i in items] == ["Fires Arrive in the Amazon Rainforest"]
+
+
+def test_unwrap_google_alerts_and_bing_links():
+    g = ("https://www.google.com/url?rct=j&sa=t&url=https://www.esri.com/arcgis-blog/products/"
+         "x/%3Futm_source%3Dalert&ct=ga&cd=CAE&usg=AOv")
+    assert scout.unwrap_link(g) == "https://www.esri.com/arcgis-blog/products/x/"
+    b = ("http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&url=https%3a%2f%2fwww.msn.com"
+         "%2fen-us%2fweather%2fx%2far-AA2&c=1&mkt=en-us")
+    assert scout.unwrap_link(b) == "https://www.msn.com/en-us/weather/x/ar-AA2"
+    m = "https://googlemapsmania.blogspot.com/2026/08/fall-foliage.html#google_vignette"
+    assert scout.unwrap_link(m) == "https://googlemapsmania.blogspot.com/2026/08/fall-foliage.html"
+
+
+def test_link_key_matches_http_https_and_trailing_slash():
+    assert (scout.link_key("http://www.esa.int/A/B/") ==
+            scout.link_key("https://esa.int/A/B?utm_source=x"))
+
+
+def test_alerts_sources_come_from_env(tmp_path):
+    cfg = tmp_path / "s.yaml"
+    cfg.write_text("sources:\n  - {id: ga, name: Google Alerts, urls_env: GA, type: alerts}\n"
+                   "  - {id: esa, name: ESA, url: https://esa.int/rss}\n")
+    two = scout.load_sources(cfg, {"GA": "https://g.co/a1\nhttps://g.co/a2"})
+    assert [s["id"] for s in two] == ["ga_1", "ga_2", "esa"]
+    assert two[1]["url"] == "https://g.co/a2"
+    none = scout.load_sources(cfg, {})
+    report = {}
+    scout.scout([none[0]], set(), report=report)
+    assert report["Google Alerts"].startswith("not configured")
+
+
+def test_scout_dedupes_excludes_and_caps(monkeypatch):
+    def items_for(src):
+        mk = lambda link, day: blank_item(id=link, link=link, source_id=src["id"],
+                                          source_name=src["name"],
+                                          published=f"2026-10-{day:02d}T08:00:00+00:00")
+        if src["id"] == "a":
+            return [mk("https://esa.int/x", 9), mk("https://finance.yahoo.com/y", 9),
+                    mk("https://esa.int/z", 8), mk("https://esa.int/w", 7)]
+        return [mk("http://www.esa.int/x/", 9), mk("https://nasa.gov/q", 9)]
+    monkeypatch.setattr(scout, "parse_feed", items_for)
+    now = datetime(2026, 10, 10, tzinfo=timezone.utc)
+    report = {}
+    got = scout.scout([{"id": "a", "name": "A", "max_new": 2}, {"id": "b", "name": "B"}],
+                      set(), 7, now, report, exclude_domains=["finance.yahoo.com"])
+    assert [i.link for i in got] == ["https://esa.int/x", "https://esa.int/z", "https://nasa.gov/q"]
+    assert "1 from excluded sites" in report["A"]
+    assert "1 already found via another source" in report["B"]
+
+
+def test_history_note_uses_parent_domain():
+    from agent import history
+    sites = {"esri.com": {"picked": 78, "seen": 219}}
+    assert history.note("https://www.esri.com/arcgis-blog/x", sites) == \
+        "picked 78 of 219 alerts from esri.com"
+    assert history.note("https://storymaps.esri.com/x", sites).startswith("picked 78")
+    assert history.note("https://example.org/x", sites) == ""
+
+
+def test_shortlist_batches_and_keeps_best(monkeypatch):
+    monkeypatch.setattr(llm, "BATCH", 2)
+    its = [blank_item(id=f"i{n}", link=f"https://esa.int/{n}") for n in range(5)]
+    calls = []
+
+    def fake_ask(model, system, messages, max_tokens):
+        calls.append(messages[0]["content"])
+        ids = [l[4:] for l in messages[0]["content"].splitlines() if l.startswith("id: ")]
+        return json.dumps({"picks": [{"id": i, "score": int(i[1:]) + 4, "why": ""} for i in ids]
+                           + [{"id": "made-up", "score": 10}]})
+    picks = llm.shortlist(its, limit=2, ask=fake_ask,
+                          history={"esa.int": {"picked": 36, "seen": 95}})
+    assert len(calls) == 3
+    assert "editor history: picked 36 of 95" in calls[0]
+    assert [p["id"] for p in picks] == ["i4", "i3"]   # i0, i1 below 6; made-up dropped

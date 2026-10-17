@@ -1,0 +1,34 @@
+# current sources
+https://science.nasa.gov/feed/?science_org=19791%2C22453
+https://www.esa.int/rssfeed/Applications/Observing_the_Earth
+https://googlemapsmania.blogspot.com/feeds/posts/default
+# candidates from the highlighted Google Alerts domains
+https://www.esri.com/arcgis-blog/feed/
+https://www.esri.com/about/newsroom/feed/
+https://svs.gsfc.nasa.gov/rss/
+https://www.earthdata.nasa.gov/rss.xml
+https://landsat.gsfc.nasa.gov/feed/
+https://www.jpl.nasa.gov/feeds/news/
+https://www.eumetsat.int/rss.xml
+https://atmosphere.copernicus.eu/rss.xml
+https://climate.copernicus.eu/rss.xml
+https://www.copernicus.eu/en/rss.xml
+https://www.nesdis.noaa.gov/rss.xml
+https://www.usgs.gov/news/rss.xml
+https://research.google/blog/rss/
+https://blog.google/products/earth/rss/
+https://blog.google/products/maps/rss/
+https://www.planet.com/pulse/rss/
+https://www.datawrapper.de/blog/rss.xml
+https://www.bellingcat.com/feed/
+https://flowingdata.com/feed
+https://www.visualcapitalist.com/category/maps/feed/
+https://newsletter.terrawatchspace.com/rss/
+https://docs.overturemaps.org/blog/rss.xml
+https://medium.com/feed/sentinel-hub
+https://www.reddit.com/r/MapPorn/top/.rss?t=day
+https://www.reddit.com/r/dataisbeautiful/top/.rss?t=day
+# keyword news search (no account needed)
+https://www.bing.com/news/search?q=%22satellite+images+show%22&format=rss
+https://www.bing.com/news/search?q=%22interactive+map%22&format=rss
+https://news.google.com/rss/search?q=%22satellite+images%22+when:2d&hl=en-GB&gl=GB&ceid=GB:en

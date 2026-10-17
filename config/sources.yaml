@@ -7,56 +7,206 @@
 #
 # credit_hint is only a fallback. The enrich step reads the real credit line
 # from each item's own page and uses that whenever it finds one.
+#
+# max_new caps how many new items one source may add per run (newest first),
+# so a busy feed cannot crowd out the others before the shortlist.
+#
+# Every URL below was fetched from a GitHub runner on 15 Oct 2026
+# (tools/probe_sources.py); the counts are items from the previous 7 days.
+#
+# Sites in exclude_domains never reach the shortlist. They are the sites whose
+# Google Alerts links were almost never highlighted (Sep 2025 to Oct 2026, at
+# least 8 alerts and at most 6% picked): finance wires, launch and defence
+# news, press-release mills. See config/editor_history.yaml.
+
+exclude_domains:
+  - finance.yahoo.com
+  - morningstar.com
+  - openpr.com
+  - businesswire.com
+  - globenewswire.com
+  - innovationnewsnetwork.com
+  - europeanspaceflight.com
+  - spaceflightnow.com
+  - satnews.com
+  - aviationweek.com
+  - breakingdefense.com
+  - payloadspace.com
+  - spacewatch.global
+  - reuters.com
 
 sources:
+  # ---- Your own Google Alerts (the stream behind the alerts sheet) --------
+  # Put the RSS address of each alert, one per line, in the repository secret
+  # GOOGLE_ALERTS_FEEDS. In Google Alerts: pencil icon > Show options >
+  # Deliver to: RSS feed > Update alert, then copy the RSS icon's link.
+  # Kept out of this file because the repo is public.
+  - id: google_alerts
+    name: Google Alerts
+    urls_env: GOOGLE_ALERTS_FEEDS
+    type: alerts
+    licence: link_only
+    credit_hint: ""
+    tag: ""
+    enabled: true
+
+  # ---- Earth observation imagery -------------------------------------------
   - id: nasa_eo
     name: NASA Earth Observatory
     url: https://science.nasa.gov/feed/?science_org=19791%2C22453
-    # Returned 0 entries from GitHub's runners on 10 Oct 2026 although it
-    # works from a browser. Tried in order if the main URL fails; the digest's
-    # "Sources checked" section says which one answered, or why none did.
-    fallback_urls:
-      - https://earthobservatory.nasa.gov/feeds/image-of-the-day.rss
-      - https://science.nasa.gov/earth/earth-observatory/feed/
+    # Answered with 10 items all along, but NASA sends the XML with two
+    # namespace declarations run together, so feedparser read 0 entries and
+    # every run since 11 Oct reported it as empty. scout.sanitise() repairs it.
     type: eo_imagery
     licence: reuse
     credit_hint: "NASA Earth Observatory"
     tag: "@NASAEarth"
     enabled: true
-    # Verified live 10 Oct 2026. Items carry false-colour/true-colour notes,
-    # sensor (OLI, MODIS...), acquisition dates and a per-image credit line.
-    # Careful: articles sometimes embed third-party photos (farmers, partners).
-    # Only the satellite image credited to NASA EO is reusable.
 
   - id: esa_eo
     name: ESA Observing the Earth
     url: https://www.esa.int/rssfeed/Applications/Observing_the_Earth
+    # 4 in 7 days. Image pages list CREDIT and LICENCE (usually CC BY-SA 3.0
+    # IGO, some ESA Standard Licence only).
     type: eo_imagery
     licence: reuse
     credit_hint: "ESA"
     tag: "@esa"
     enabled: true
-    # Verified live 10 Oct 2026. Image pages list CREDIT and LICENCE
-    # (usually CC BY-SA 3.0 IGO). Credit often reads
-    # "contains modified Copernicus Sentinel data (YEAR), processed by ESA".
-    # Some items are launches/press releases with no EO image: the shortlist
-    # step drops those unless the story itself is strong.
 
+  - id: eumetsat
+    name: EUMETSAT
+    url: https://www.eumetsat.int/rss.xml
+    # 5 in 7 days, incl. "Image of the week". You picked 12 of 21 EUMETSAT
+    # alerts. Not every item is imagery (data-product notes), the shortlist
+    # drops those. Check the credit on each page before attaching the image.
+    type: eo_imagery
+    licence: link_only
+    credit_hint: "EUMETSAT"
+    tag: "@eumetsat"
+    enabled: true
+
+  - id: cams
+    name: Copernicus Atmosphere Monitoring Service
+    url: https://atmosphere.copernicus.eu/rss.xml
+    # About weekly: fire, smoke, dust and ozone maps.
+    type: eo_imagery
+    licence: link_only
+    credit_hint: "Copernicus Atmosphere Monitoring Service / ECMWF"
+    tag: "@CopernicusECMWF"
+    enabled: true
+
+  - id: nasa_jpl
+    name: NASA JPL
+    url: https://www.jpl.nasa.gov/feeds/news/
+    # 3 in 7 days, mostly planetary; Earth items (NISAR, SWOT, GRACE-FO) do
+    # turn up. Answers only to a browser-like User-Agent (the default here).
+    type: eo_imagery
+    licence: reuse
+    credit_hint: "NASA/JPL-Caltech"
+    tag: "@NASAJPL"
+    max_new: 4
+    enabled: true
+
+  - id: planet
+    name: Planet Pulse
+    url: https://www.planet.com/pulse/rss/
+    # 2 in 7 days. The feed has no images; enrich takes the page's preview
+    # image. You picked 6 of 10 Planet alerts.
+    type: eo_imagery
+    licence: link_only
+    credit_hint: "Planet Labs PBC"
+    tag: "@planet"
+    enabled: true
+
+  # ---- Maps, map portals, data visualisation -------------------------------
   - id: maps_mania
     name: Maps Mania
     url: https://googlemapsmania.blogspot.com/feeds/posts/default
+    # 6 in 7 days. Each post features someone else's map: link and credit the
+    # map's maker, get permission before attaching their screenshot.
     type: maps
     licence: link_only
     credit_hint: "via Maps Mania"
     tag: ""
     enabled: true
-    # Verified live 10 Oct 2026. Discovery source: each post features someone
-    # else's map. Link and credit the map's creator, and get permission
-    # before attaching their screenshot.
 
-# Checked and not enabled yet:
-#  - Copernicus (https://www.copernicus.eu/en/rss.xml): feed works but its
-#    newest item is from May 2026, so it looks abandoned.
-#  - Reddit r/MapPorn, r/remotesensing: useful for discovery, but every image
-#    is someone else's work and Reddit often blocks CI runners. Add later as
-#    link_only if wanted.
+  - id: visual_capitalist_maps
+    name: Visual Capitalist (maps)
+    url: https://www.visualcapitalist.com/category/maps/feed/
+    # 10 in 7 days, every item a map. Mostly thematic choropleths: the
+    # shortlist should prefer the unusual ones over yet another state ranking.
+    type: maps
+    licence: link_only
+    credit_hint: "Visual Capitalist"
+    tag: "@VisualCap"
+    max_new: 4
+    enabled: true
+
+  - id: flowingdata
+    name: FlowingData
+    url: https://flowingdata.com/feed
+    # 8 in 7 days. Curated data visualisation, maps several times a month.
+    type: maps
+    licence: link_only
+    credit_hint: "via FlowingData"
+    tag: ""
+    max_new: 4
+    enabled: true
+
+  - id: google_maps_blog
+    name: Google Maps blog
+    url: https://blog.google/products/maps/rss/
+    type: maps
+    licence: link_only
+    credit_hint: "Google"
+    tag: "@googlemaps"
+    enabled: true
+
+  - id: google_research
+    name: Google Research blog
+    url: https://research.google/blog/rss/
+    # 4 in 7 days, most not geospatial. The geo ones (Earth AI, methane,
+    # flood forecasting) were highlighted in your sheet.
+    type: research
+    licence: link_only
+    credit_hint: "Google Research"
+    tag: "@GoogleResearch"
+    max_new: 4
+    enabled: true
+
+  - id: overture
+    name: Overture Maps blog
+    url: https://docs.overturemaps.org/blog/rss.xml
+    type: maps
+    licence: link_only
+    credit_hint: "Overture Maps Foundation"
+    tag: "@OvertureMaps"
+    enabled: true
+
+  - id: bellingcat
+    name: Bellingcat
+    url: https://www.bellingcat.com/feed/
+    # A few posts a month; the satellite-imagery investigations are the
+    # interesting ones. Images are Bellingcat's or third-party: link only.
+    type: research
+    licence: link_only
+    credit_hint: "Bellingcat"
+    tag: "@bellingcat"
+    enabled: true
+
+# Checked 15 Oct 2026 and not enabled:
+#  - Esri ArcGIS Blog and Esri Newsroom feeds: answer with an empty channel to
+#    every client tried. Esri was your most-picked site (78 of 219 alerts), so
+#    it comes in through Google Alerts instead.
+#  - NASA SVS, Earthdata (Worldview image archive), NOAA NESDIS, USGS: 403,
+#    404 or timeout from GitHub runners. Also only reachable via Google Alerts.
+#  - Copernicus (copernicus.eu, newest May 2026) and Copernicus Climate
+#    (newest Aug 2026): too quiet to be worth polling.
+#  - Google Earth blog: newest July 2026.
+#  - Reddit r/MapPorn, r/dataisbeautiful: work with a feed-reader User-Agent
+#    (25 items/day) but every image is someone else's and quality varies.
+#  - Bing News keyword RSS ("satellite images show", "interactive map"): works
+#    and returns direct links, but Bing's terms limit it to personal,
+#    non-commercial use in a feed reader. Google Alerts covers the same need.
+#  - Datawrapper blog: no feed at /blog/rss.xml.
