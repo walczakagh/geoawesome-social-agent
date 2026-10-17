@@ -41,6 +41,8 @@ class Item:
     extra_images: list = field(default_factory=list)
     # [{"url": ..., "label": ...}]; two entries means a before/after pair
     images: list = field(default_factory=list)
+    # more single-image candidates, best first; used when images[0] is too small
+    alt_images: list = field(default_factory=list)
     origin_url: str = ""  # where a featured map itself lives (Maps Mania posts)
     # filled in by images.py
     square_path: str = ""

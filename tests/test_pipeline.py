@@ -319,3 +319,45 @@ def test_ask_picks_returns_tool_input(monkeypatch):
                 return R()
     monkeypatch.setattr(llm, "_client", lambda: C())
     assert json.loads(llm._ask_picks("m", "s", [])) == B.input
+
+
+# ---- image choice (17 Oct 2026: locator maps, other stories, Reuters) -------
+
+NASA_SPIDER = """<html><head>
+<meta property="og:image" content="https://assets.science.nasa.gov/x/og.jpg"></head><body>
+<figure><img src="https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/an-impact-structure-with-legs/locatormap.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png"></figure>
+<figure><img src="https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/antarctic-sea-ice-grows-to-its-2026-maximum/antarctic_nsidc_20260914_th.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png"></figure>
+<figure><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/antarctic-sea-ice-grows-to-its-2026-maximum/antarctic_big.jpg"></figure>
+<p>NASA Earth Observatory image by Michala Garrison, using Landsat data from the U.S. Geological Survey.</p>
+</body></html>"""
+
+
+def test_nasa_uses_feed_lead_image_not_thumbnails_or_other_stories():
+    lead = ("https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/"
+            "an-impact-structure-with-legs/aus_spidercrater_oli2_20260920.jpg?w=1900&h=1267&fit=clip")
+    it = blank_item(link="https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/",
+                    image_url=lead)
+    it = enrich.extract(it, NASA_SPIDER)
+    assert it.images == [{"url": lead.split("?")[0], "label": ""}]
+    urls = [c["url"] for c in it.alt_images]
+    assert not any("thumbnail" in u or "antarctic" in u for u in urls)
+
+
+def test_news_agency_photo_is_never_picked():
+    page = ('<html><head><meta property="og:image" content="https://www.bellingcat.com/app/uploads/'
+            '2026/10/2026-10-14T192750Z_1002783143_RC263OALNP1F_RTRMADP_3_USA-TRUMP-GOLF-scaled.jpg">'
+            '</head><body><p>' + "x" * 50 + '</p></body></html>')
+    shot = "https://www.bellingcat.com/app/uploads/2026/10/Screenshot-2026-10-15-at-10.59.57-1200x777.jpg"
+    it = blank_item(source_id="bellingcat", licence="link_only",
+                    link="https://www.bellingcat.com/news/2026/10/15/golf/", image_url=shot)
+    it = enrich.extract(it, page)
+    assert it.images[0]["url"] == shot
+    assert all("RTRMADP" not in c["url"] for c in it.alt_images)
+
+
+def test_small_pick_falls_back_to_bigger_candidate(tmp_path):
+    it = blank_item(images=[{"url": "small", "label": ""}],
+                    alt_images=[{"url": "big", "label": ""}])
+    sizes = {"small": (150, 150), "big": (2000, 1300)}
+    images.build(it, tmp_path / "s.jpg", fetch=lambda u: _noise(*sizes[u]))
+    assert it.images[0]["url"] == "big" and "low resolution" not in it.image_note
