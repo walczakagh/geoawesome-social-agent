@@ -38,14 +38,19 @@ PUBLISHED = ROOT / "state/published.json"
 _MARK = re.compile(r"<!-- post:([\w.-]+) -->")
 _BOX = re.compile(r"^- \[( |x|X)\] \*\*Publish on Facebook \+ Instagram\*\*", re.M)
 _CAPTION = re.compile(r"```text\n(.*?)\n?```", re.S)
+# a labelled text box: **Facebook** / **Instagram** / **YouTube Community** / **X (via Buffer)**
+# (issues before 17 Oct 2026 had one box "**Facebook · Instagram · YouTube Community**")
+_BLOCK = re.compile(r"\*\*(Facebook|Instagram|YouTube Community|X)\b[^*\n]*\*\*\s*\n\s*```text\n(.*?)\n?```", re.S)
+_KEYS = {"Facebook": "facebook", "Instagram": "instagram", "YouTube Community": "youtube", "X": "x"}
 _IMAGE = re.compile(r"\[Download square image\]\((\S+?)\)")
 _ALT = re.compile(r"\*\*Alt text:\*\*\s*(.+)")
 _TITLE = re.compile(r"^## \d+\. (.+)$", re.M)
 
 
 def parse_issue(body: str) -> dict[str, dict]:
-    """{post_id: {checked, title, caption, image_url, alt_text}} for every
-    post in the issue that carries a publish box."""
+    """{post_id: {checked, title, texts{facebook,instagram,youtube,x}, caption,
+    image_url, alt_text}} for every post in the issue that carries a publish box.
+    `caption` is the Facebook text (kept for older callers)."""
     body = (body or "").replace("\r\n", "\n")
     marks = list(_MARK.finditer(body))
     posts = {}
@@ -58,12 +63,20 @@ def parse_issue(body: str) -> dict[str, dict]:
         titles = _TITLE.findall(body[:m.start()])
         box = _BOX.search(chunk)
         cap = _CAPTION.search(chunk)
+        texts = {}
+        for label, text in _BLOCK.findall(chunk):
+            texts.setdefault(_KEYS[label], text.strip())
+        shared = texts.get("facebook") or (cap.group(1).strip() if cap else "")
+        for k in ("facebook", "instagram", "youtube"):
+            texts.setdefault(k, shared)  # one shared box in older issues
+        texts.setdefault("x", "")
         img = _IMAGE.search(chunk)
         alt = _ALT.search(chunk)
         posts[m.group(1)] = {
             "checked": bool(box and box.group(1).lower() == "x"),
             "title": titles[-1].strip() if titles else m.group(1),
-            "caption": cap.group(1).strip() if cap else "",
+            "texts": texts,
+            "caption": texts["facebook"],
             "image_url": img.group(1) if img else "",
             "alt_text": alt.group(1).strip() if alt else "",
         }
@@ -256,8 +269,27 @@ class GitHub:
 
 # ---------------------------------------------------------------- publishing
 
+def manual_steps(post: dict, cfg: dict, owner: str = "") -> str:
+    """The comment part that @mentions the owner (so GitHub emails them) with
+    what still has to be posted by hand: YouTube Community and X via Buffer."""
+    parts = [f"@{owner} " if owner else "", "**Now post by hand** (Facebook and Instagram are done):\n"]
+    nets = cfg.get("manual", ["youtube", "x"])
+    if "youtube" in nets and post["texts"].get("youtube"):
+        ch = cfg.get("youtube_channel_id", "")
+        where = (f"[open the channel's Posts tab](https://www.youtube.com/channel/{ch}/posts), "
+                 if ch else "")
+        parts += [f"\n**YouTube Community**: {where}choose **Create post**, add the "
+                  f"[square image]({post['image_url']}) and paste:\n",
+                  "```text\n" + post["texts"]["youtube"] + "\n```\n"]
+    if "x" in nets and post["texts"].get("x"):
+        parts += ["\n**X via Buffer**: [open Buffer](https://publish.buffer.com), "
+                  f"create a post for X, add the [square image]({post['image_url']}) and paste:\n",
+                  "```text\n" + post["texts"]["x"] + "\n```\n"]
+    return "".join(parts) if len(parts) > 2 else ""
+
+
 def run_due(now: datetime, cfg: dict, queue: list[dict], published: dict,
-            gh: GitHub, meta: Meta, ig_id: str) -> None:
+            gh: GitHub, meta: Meta, ig_id: str, owner: str = "") -> None:
     """Publish every queued post whose slot has come. Mutates queue/published."""
     page_id = cfg["facebook_page_id"]
     for q in sorted([q for q in queue if datetime.fromisoformat(q["slot"]) <= now],
@@ -278,9 +310,11 @@ def run_due(now: datetime, cfg: dict, queue: list[dict], published: dict,
             rec["attempts"][net] = tries + 1
             try:
                 if net == "facebook":
-                    rec[net] = meta.facebook_photo(page_id, post["image_url"], post["caption"])
+                    rec[net] = meta.facebook_photo(page_id, post["image_url"],
+                                                   post["texts"]["facebook"])
                 elif net == "instagram":
-                    rec[net] = meta.instagram_photo(ig_id, post["image_url"], post["caption"],
+                    rec[net] = meta.instagram_photo(ig_id, post["image_url"],
+                                                    post["texts"]["instagram"],
                                                     post["alt_text"])
                 lines.append(f"- {net.title()}: {rec[net]}")
             except Exception as exc:
@@ -290,11 +324,16 @@ def run_due(now: datetime, cfg: dict, queue: list[dict], published: dict,
                              + (f" (will retry in about 10 minutes, {left} left)" if left else " (giving up)"))
         pending = [n for n in cfg.get("networks", []) if n not in rec
                    and rec["attempts"].get(n, 0) < cfg.get("max_attempts", 3)]
+        text = f"**{post['title']}**\n\n" + "\n".join(lines) if lines else ""
         if not pending:
             rec["done"] = now.isoformat()
             queue.remove(q)
-        if lines:
-            gh.comment(issue, f"**{post['title']}**\n\n" + "\n".join(lines))
+            if any(n in rec for n in cfg.get("networks", [])):  # at least one went out
+                steps = manual_steps(post, cfg, owner)
+                if steps:
+                    text += "\n\n" + steps
+        if text:
+            gh.comment(issue, text)
 
 
 def _ig_id(cfg: dict, meta: Meta) -> str:
@@ -362,7 +401,8 @@ def main() -> None:
     if not due:
         print(f"[publish] nothing due ({len(queue)} queued)")
         return
-    run_due(now, cfg, queue, published, gh, meta, _ig_id(cfg, meta))
+    run_due(now, cfg, queue, published, gh, meta, _ig_id(cfg, meta),
+            owner=os.environ.get("GITHUB_REPOSITORY_OWNER", ""))
     _save(QUEUE, queue)
     _save(PUBLISHED, published)
 

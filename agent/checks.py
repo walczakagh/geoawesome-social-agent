@@ -22,7 +22,7 @@ def x_length(text: str) -> int:
 
 
 def check_text(kind: str, text: str, rules: dict, link: str) -> list[str]:
-    """kind is 'caption' (Facebook/Instagram/YouTube) or 'x'."""
+    """kind is a platform name from the rules: facebook, instagram, youtube or x."""
     problems: list[str] = []
     spec = rules["platforms"][kind]
     low = text.lower()
@@ -79,10 +79,23 @@ def check_text(kind: str, text: str, rules: dict, link: str) -> list[str]:
     return problems
 
 
+def _hook(text: str) -> str:
+    first = next((l.strip() for l in (text or "").splitlines() if l.strip()), "")
+    return re.sub(r"\W+", " ", first.lower()).strip()
+
+
 def check_draft(draft: dict, rules: dict, link: str) -> dict[str, list[str]]:
-    out = {}
+    out: dict[str, list[str]] = {}
     for kind in rules["platforms"]:
         probs = check_text(kind, draft.get(kind, "") or "", rules, link)
         if probs:
             out[kind] = probs
+    # the versions should vary: no two platforms may open with the same sentence
+    seen: dict[str, str] = {}
+    for kind in rules["platforms"]:
+        h = _hook(draft.get(kind, ""))
+        if h and h in seen:
+            out.setdefault(kind, []).append(f"opens with the same sentence as {seen[h]}; reword the hook")
+        elif h:
+            seen[h] = kind
     return out

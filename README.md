@@ -3,8 +3,8 @@
 Every morning this repo checks map and Earth observation feeds plus your Google Alerts, picks the items with the strongest visuals, and prepares ready-to-post reposts for Facebook, Instagram, X and YouTube Community. Each repost is:
 
 - a **1080×1080 JPEG** made from the source image,
-- a **short caption** (Facebook, Instagram, YouTube Community): what you are looking at and why it is interesting, a link to the source article, the image credit, and 3 to 5 single-word hashtags including #Geoawesome,
-- an **X version** that fits 280 characters, and a one-line alt text.
+- **four texts, one per platform** (Facebook, Instagram, YouTube Community, X), built from the same facts but worded differently so followers on two platforms do not read the same post twice: a hook, what you are looking at and why it is interesting, a link to the source, the image credit and single-word hashtags including #Geoawesome. The X text fits 280 characters.
+- a one-line alt text.
 
 Everything lands in a GitHub issue for review. Nothing is posted automatically.
 
@@ -22,11 +22,11 @@ Everything lands in a GitHub issue for review. Nothing is posted automatically.
 
 Each post in a daily issue has a box **Publish on Facebook + Instagram**. Nothing is posted unless you tick it.
 
-1. Open the day's issue. To change a caption first: **...** menu on the issue text, **Edit**, change the text inside the caption box, **Update comment**.
+1. Open the day's issue. To change a caption first: **...** menu on the issue text, **Edit**, change the text inside a platform's box, **Update comment**.
 2. Tick the box under each post you want. Within a minute a comment confirms the time slot, e.g. "Post title: Sun 18 Oct, 16:00".
 3. Every hour `.github/workflows/publish.yml` publishes posts whose slot has come and comments with links to the live posts. It reads the issue again just before posting, so caption edits made up to then are used, and a box unticked in the meantime cancels the post.
 
-Slots are in `config/publish.yaml`: two windows, 06:00 to 10:00 and 16:00 to 20:00 Warsaw time, one post each, so at most two posts a day. Each post goes out at a random minute inside its window; the publisher checks every 10 minutes. A failed network is retried twice, 10 minutes apart. YouTube Community and X are not covered. Only the repository owner's ticks count. `state/queue.json` holds queued posts, `state/published.json` what went out.
+Slots are in `config/publish.yaml` as time windows (local time), one post each, filled in time order. Each post goes out at a random minute inside its window; the publisher checks every 10 minutes. A failed network is retried twice, 10 minutes apart. YouTube Community (no API exists) and X (posted via Buffer) stay manual: when a post is live on Facebook and Instagram, a comment @mentions the repo owner, so GitHub emails the YouTube Community text and the X text with the image link. Make sure GitHub sends notification emails to the right address (Settings → Notifications). Only the repository owner's ticks count. `state/queue.json` holds queued posts, `state/published.json` what went out.
 
 The workflow posts with a Facebook Page access token in the secret `META_PAGE_TOKEN`. Test it without posting: **Actions → Publish → Run workflow → mode: check**. Switch publishing off: delete the `META_PAGE_TOKEN` secret.
 

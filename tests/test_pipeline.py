@@ -34,10 +34,17 @@ GOOD = {
     "what_it_shows": "Sentinel-2 false colour, 5 April 2026, Etosha Pan.",
     "uncertainties": [],
     "image_credit": CREDIT[7:],
-    "caption": "A salt pan 130 km wide, and the red is grass.\n\n"
-               "This false-colour Sentinel-2 view of Etosha in Namibia puts near-infrared in the red "
-               "channel, so dense vegetation glows. Acquired 5 April 2026.\n\n"
-               f"Read more: {LINK}\n\n{CREDIT}\n\n#Sentinel2 #Namibia #Copernicus #Geoawesome",
+    "facebook": "A salt pan 130 km wide, and the red is grass.\n\n"
+                "This false-colour Sentinel-2 view of Etosha in Namibia puts near-infrared in the red "
+                "channel, so dense vegetation glows. Acquired 5 April 2026.\n\n"
+                f"Read more: {LINK}\n\n{CREDIT}\n\n#Sentinel2 #Namibia #Copernicus #Geoawesome",
+    "instagram": "Etosha Pan: 4760 sq km of salt seen from orbit.\n\n"
+                 "Red here means vegetation, not fire.\n\n"
+                 f"Full story: {LINK}\n\n{CREDIT}\n\n#Sentinel2 #Namibia #Salt #Geoawesome",
+    "youtube": "Near-infrared turns Namibia's grasslands red around a 130 km salt pan.\n\n"
+               "Copernicus Sentinel-2 acquired this false-colour scene on 5 April 2026; the white "
+               "is salt, blue tones are water with sediment.\n\n"
+               f"Learn more: {LINK}\n\n{CREDIT}\n\n#Sentinel2 #Etosha #Copernicus #Geoawesome",
     "x": f"Etosha Pan, 4760 sq km of salt, in Sentinel-2 false colour.\n{LINK}\n"
          "Image: ESA, Copernicus Sentinel data\n#Sentinel2 #Namibia #Geoawesome",
     "alt_text": "A white salt flat surrounded by red vegetation in a false-colour satellite image.",
@@ -138,20 +145,26 @@ def test_good_draft_passes():
     ("We explore the Etosha Pan", 'banned phrase "explore"'),
 ])
 def test_rule_violations(bad, expected):
-    d = dict(GOOD, caption=bad + "\n" + GOOD["caption"])
-    assert any(expected in p for p in checks.check_draft(d, RULES, LINK).get("caption", []))
+    d = dict(GOOD, facebook=bad + "\n" + GOOD["facebook"])
+    assert any(expected in p for p in checks.check_draft(d, RULES, LINK).get("facebook", []))
 
 
 def test_hashtag_credit_and_link_rules():
     d = dict(GOOD)
-    d["caption"] = GOOD["caption"].replace("#Copernicus", "#RemoteSensing").replace(CREDIT + "\n\n", "")
+    d["facebook"] = GOOD["facebook"].replace("#Copernicus", "#RemoteSensing").replace(CREDIT + "\n\n", "")
     d["x"] = GOOD["x"].replace(" #Namibia", "")
     p = checks.check_draft(d, RULES, LINK)
-    assert any("#RemoteSensing is not a single word" in x for x in p["caption"])
-    assert any("no credit line" in x for x in p["caption"])
+    assert any("#RemoteSensing is not a single word" in x for x in p["facebook"])
+    assert any("no credit line" in x for x in p["facebook"])
     assert any("needs 3-4" in x for x in p["x"])
     d = dict(GOOD, x=GOOD["x"].replace(f"\n{LINK}", f" {LINK}"))
     assert any("own line" in x for x in checks.check_draft(d, RULES, LINK)["x"])
+
+
+def test_identical_hooks_across_platforms_are_flagged():
+    d = dict(GOOD, instagram=GOOD["facebook"].replace("Read more:", "Full story:"))
+    p = checks.check_draft(d, RULES, LINK)
+    assert any("same sentence as facebook" in x for x in p["instagram"])
 
 
 def test_x_length_counts_links_as_23():
@@ -160,7 +173,7 @@ def test_x_length_counts_links_as_23():
 
 def test_draft_repair_loop_and_digest(monkeypatch):
     calls = []
-    bad = dict(GOOD, caption=GOOD["caption"].replace("glows.", "glows — brilliantly."))
+    bad = dict(GOOD, facebook=GOOD["facebook"].replace("glows.", "glows — brilliantly."))
 
     def fake_ask(model, system, messages, max_tokens=4000):
         calls.append(messages)
@@ -179,7 +192,9 @@ def test_draft_repair_loop_and_digest(monkeypatch):
                          "draft": d, "problems": probs}], "2026-10-10", {"ESA": "15 in feed, 4 new"})
     assert "## 1. Earth from Space" in md
     assert "blob/main/drafts/images/2026-10-10-1-etosha.jpg?raw=true" in md
-    assert "**X**" in md and "Sources checked" in md
+    assert "**X (via Buffer)**" in md and "Sources checked" in md
+    for label in ("**Facebook**", "**Instagram**", "**YouTube Community**"):
+        assert label in md
 
 
 def test_shortlist_ignores_unknown_ids():

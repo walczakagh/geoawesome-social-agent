@@ -54,8 +54,13 @@ cta_options:
 
 # caption = Facebook, Instagram and YouTube Community; x = X
 platforms:
-  caption: {hashtags_min: 3, hashtags_max: 5, max_chars: 700}
-  x:       {hashtags_min: 3, hashtags_max: 4, max_chars: 280}
+  facebook:  {hashtags_min: 3, hashtags_max: 5, max_chars: 700}
+  instagram: {hashtags_min: 3, hashtags_max: 5, max_chars: 600}
+  youtube:   {hashtags_min: 3, hashtags_max: 5, max_chars: 750}
+  x:         {hashtags_min: 3, hashtags_max: 4, max_chars: 280}
+
+# The four versions must not repeat each other; a hook shared word for word
+# between two platforms is flagged.
 
 credit_prefixes: ["Image:", "Map:", "Images:", "Visualisation:", "Credit:"]
 

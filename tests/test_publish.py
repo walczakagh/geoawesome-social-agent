@@ -219,3 +219,42 @@ def test_windows_fill_in_time_order_whatever_the_list_order():
     b2 = publish.next_slot(now, {b1.isoformat()}, cfg)
     b3 = publish.next_slot(now, {b1.isoformat(), b2.isoformat()}, cfg)
     assert [b.astimezone(publish.ZoneInfo("Europe/Warsaw")).hour for b in (b1, b2, b3)] == [6, 11, 16]
+
+
+def variant_body(checked=True):
+    d = {"worth_posting": True, "alt_text": "Alt.",
+         "facebook": "FB hook.\n\nRead more: https://x/1", "instagram": "IG hook.\n\nFull story: https://x/1",
+         "youtube": "YT hook.\n\nLearn more: https://x/1", "x": "X hook.\nhttps://x/1"}
+    r = {"item": {"title": "Post 1", "link": "https://x/1", "source_name": "NASA", "licence": "reuse",
+                  "square_path": "drafts/images/2026-10-18-1-post.jpg", "image_note": "square crop"},
+         "score": 8, "why": "", "problems": {}, "draft": d}
+    body = review.render([r], "2026-10-18")
+    return body.replace("- [ ]", "- [x]", 1) if checked else body
+
+
+def test_each_platform_gets_its_own_text_and_reminder_mentions_owner(monkeypatch):
+    monkeypatch.setenv("GITHUB_REPOSITORY", "o/r")
+    p = publish.parse_issue(variant_body())["2026-10-18-1-post"]
+    assert p["texts"] == {"facebook": "FB hook.\n\nRead more: https://x/1",
+                          "instagram": "IG hook.\n\nFull story: https://x/1",
+                          "youtube": "YT hook.\n\nLearn more: https://x/1", "x": "X hook.\nhttps://x/1"}
+    cfg = {**CFG, "manual": ["youtube", "x"], "youtube_channel_id": "UC123"}
+    now = datetime(2026, 10, 18, 8, 0, tzinfo=timezone.utc)
+    queue, pub = [], {}
+    publish.enqueue(9, variant_body(), now, cfg, queue, pub)
+    gh, meta = FakeGH(variant_body()), FakeMeta()
+    publish.run_due(datetime.fromisoformat(queue[0]["slot"]), cfg, queue, pub, gh, meta, "IG",
+                    owner="walczakagh")
+    assert meta.calls[0][1].startswith("FB hook.") and meta.calls[1][1].startswith("IG hook.")
+    c = gh.comments[-1]
+    assert "@walczakagh" in c and "YT hook." in c and "X hook." in c
+    assert "youtube.com/channel/UC123/posts" in c and "publish.buffer.com" in c
+
+
+def test_older_issue_with_one_shared_box_still_works():
+    old = ("## 1. Old post\n\n<!-- post:2026-10-17-1-old -->\n- [x] **Publish on Facebook + Instagram**\n\n"
+           "[Download square image](https://raw/img.jpg) · square crop\n\n"
+           "**Facebook · Instagram · YouTube Community**\n\n```text\nShared caption.\n```\n\n"
+           "**X**\n\n```text\nX text.\n```\n")
+    t = publish.parse_issue(old)["2026-10-17-1-old"]["texts"]
+    assert t["facebook"] == t["instagram"] == t["youtube"] == "Shared caption." and t["x"] == "X text."
