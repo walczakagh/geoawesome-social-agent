@@ -6,17 +6,20 @@
 
 timezone: Europe/Warsaw
 
-# Time slots a ticked post can take, local time. Each slot holds one post,
-# so this is also the maximum number of posts per day. The two times are
-# Metricool's best hours for this Instagram account (checked 17 Oct 2026).
-slots: ["16:00", "20:00"]
+# Time slots a ticked post can take, local time. Each slot holds one post, so
+# the number of slots is the maximum number of posts per day.
+#   ["06:00", "10:00"]  a window: the post goes out at a random minute inside it
+#   "16:00"             a fixed time: the post goes out within +/- jitter_minutes
+slots:
+  - ["06:00", "10:00"]
+  - ["16:00", "20:00"]
 
-# Each post goes out at a random minute up to this far before or after its
-# slot (40 -> a 16:00 slot posts somewhere between 15:20 and 16:40). The
-# publisher checks every 10 minutes, and GitHub often starts scheduled runs a
-# few minutes late, so the real time can be up to ~15 minutes after the
-# time in the confirmation comment.
+# Only used for fixed-time slots (see above).
 jitter_minutes: 40
+
+# The publisher checks every 10 minutes and GitHub sometimes starts scheduled
+# runs a few minutes late, so a post can go out up to ~15 minutes after the
+# time in the confirmation comment.
 
 # A post is never put into a slot that starts sooner than this.
 min_lead_minutes: 30

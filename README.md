@@ -26,7 +26,7 @@ Each post in a daily issue has a box **Publish on Facebook + Instagram**. Nothin
 2. Tick the box under each post you want. Within a minute a comment confirms the time slot, e.g. "Post title: Sun 18 Oct, 16:00".
 3. Every hour `.github/workflows/publish.yml` publishes posts whose slot has come and comments with links to the live posts. It reads the issue again just before posting, so caption edits made up to then are used, and a box unticked in the meantime cancels the post.
 
-Slots are in `config/publish.yaml` (default 16:00 and 20:00 Warsaw time, at most two posts a day). Each post goes out at a random minute up to 40 minutes either side of its slot (`jitter_minutes`); the publisher checks every 10 minutes. A failed network is retried twice, 10 minutes apart. YouTube Community and X are not covered. Only the repository owner's ticks count. `state/queue.json` holds queued posts, `state/published.json` what went out.
+Slots are in `config/publish.yaml`: two windows, 06:00 to 10:00 and 16:00 to 20:00 Warsaw time, one post each, so at most two posts a day. Each post goes out at a random minute inside its window; the publisher checks every 10 minutes. A failed network is retried twice, 10 minutes apart. YouTube Community and X are not covered. Only the repository owner's ticks count. `state/queue.json` holds queued posts, `state/published.json` what went out.
 
 The workflow posts with a Facebook Page access token in the secret `META_PAGE_TOKEN`. Test it without posting: **Actions → Publish → Run workflow → mode: check**. Switch publishing off: delete the `META_PAGE_TOKEN` secret.
 
