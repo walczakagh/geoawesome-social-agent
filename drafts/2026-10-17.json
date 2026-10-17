@@ -1,401 +1,589 @@
 [
   {
     "item": {
-      "id": "https://science.nasa.gov/?p=1474475",
-      "source_id": "nasa_eo",
-      "source_name": "NASA Earth Observatory",
+      "id": "ac78b447a5415e306d52b736d846a454",
+      "source_id": "esa_eo",
+      "source_name": "ESA Observing the Earth",
       "source_type": "eo_imagery",
       "licence": "reuse",
-      "title": "Floodwaters Overwhelm Thailand",
-      "link": "https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/",
-      "published": "2026-10-09T04:01:00+00:00",
-      "summary": "Heavy rains since mid-September have caused widespread flooding that has affected millions of people across the country.",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/floodwaters-overwhelm-thailand/thailandflooding_oli_20251007.jpg",
-      "credit_hint": "NASA Earth Observatory",
-      "source_tag": "@NASAEarth",
-      "page_text": "Heavy rains since mid-September have caused widespread flooding that has affected millions of people across the country.\nSeptember falls in the heart of the monsoon season in Thailand, where cities and towns are accustomed to the afternoon rains and thunderstorms that frequently roll through. But throughout late September and early October 2026, persistent heavy rains punctuated by intense downpours left low-lying areas across the country in Southeast Asia under sustained flooding.\nPrachin Buri province was among the areas where flooding was widespread. The right image above shows land along the Bang Pakong River and nearby agricultural areas and aquaculture facilities inundated on October 2, 2026. The left image shows the same area at the same time of year in 2025. Acquired with NASA-USGS Landsat satellites, the images are false-color to better distinguish water from vegetation, developed land, and other surfaces. The bright red shapes are floating solar arrays.\nSome of the flooding likely stemmed from a low-pressure system that stalled over the area for several days in late September. Stoked by moisture and energy from the warm Gulf of Thailand nearby, the system delivered especially intense rains to the region. About 100 kilometers (60 miles) to the west, Bangkok received nearly 300 millimeters (11.8 inches) of rain over a 48-hour period, according to news reports, close to the average monthly rainfall total for September of 344 millimeters (13.5 inches).\nSince mid-September, flooding has occurred in 50 provinces across the country, affecting over 4 million people and causing dozens of deaths, according to the International Federation of Red Cross and Red Crescent Societies . Government agencies estimate about 270,000 hectares (670,000 acres) of farmland, including rice fields and fruit orchards, have been damaged.\nNASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey . Story by Lindsey Doermann.\nStay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.\nAfter days of torrential rain, the river rose to record-breaking levels in parts of Nepal and India.\nSurrounded by wetlands, Manitoba's northernmost farmland near The Pas turns from green to brown over the 2026 growing season.\nIt was here the founders shaped the future of American government.\nSubscribe to the Earth Observatory and get the Earth in your inbox.\nNASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.\nOpen access to NASA’s archive of Earth science data",
-      "image_credit": "NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U",
-      "image_licence": "NASA imagery, generally free to reuse with credit",
+      "title": "Earth from Space: Typhoon Surigae",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Typhoon_Surigae",
+      "published": "2026-10-02T09:00:00+00:00",
+      "summary": "Image: This false-colour, polarised image from Copernicus Sentinel-1 shows us the surface of the sea beneath the clouds, as seen by the satellite’s radar instrument. The sea conditions reflect the strong winds as Typhoon Surigae passes over.",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_typhoon_surigae/27547933-1-eng-GB/Earth_from_Space_Typhoon_Surigae_card_full.jpg",
+      "credit_hint": "ESA",
+      "source_tag": "@esa",
+      "page_text": "You have already liked this page, you can only like it once!\nWe are used to seeing satellite images of tropical storms from above the clouds, featuring the characteristic white swirls around the eye of the storm. This false-colour, polarised image from Copernicus Sentinel-1 shows us the surface of the sea beneath the clouds, as seen by the satellite’s radar instrument. The sea conditions reflect the strong winds as Typhoon Surigae passes over.\nZoom in to explore this image at its full resolution.\nThe image, captured on 28 September 2026, shows Typhoon Surigae as it was moving north-eastwards in an area of the Philippine Sea about 200 km south of the island of Shikoku, Japan. By 1 October, the storm, also known as Typhoon no. 26, was almost 1000 km away, roughly 200 km south of Tokyo. It is one of several typhoons in the Pacific Ocean at the moment.\nThe relatively calm seas at the eye of the storm are clearly visible in dark blue in this image. The colorful effect is created using two radar polarisations, each assigned to a different colour. The orange-yellow ring in the image is where the radar instrument has detected rough ocean conditions and strong winds.\nThe lighter blue areas of the image show where the radar has detected a different kind of signal and it most likely denotes ocean and wind conditions that differ to the bright yellow and orange areas. Some of the possible causes are lower wind speeds, less sea surface movement or areas of rain.\nSome bright yellow flecks are seen in the lower part of the image. While these look like small islands, there are no land masses in that region – they are most likely to be areas of concentrated wind and rain.\nWhen this radar image was acquired, Typhoon Surigae had strong winds with maximum gusts of up to 240 km per hour, with dangerous ocean conditions including strong swells and waves reaching up to 7 m. Since then, it has weakened considerably and is currently classed as a tropical depression, with maximum wind speeds of 55 km per hour.",
+      "image_credit": "contains modified Copernicus Sentinel data (2026), processed by ESA",
+      "image_licence": "CC BY-SA 3.0 IGO",
       "extra_images": [],
       "images": [
         {
-          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/floodwaters-overwhelm-thailand/thailandflooding_oli_20251007.jpg",
-          "label": "October 7, 2025"
+          "url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_typhoon_surigae/27547934-2-eng-GB/Earth_from_Space_Typhoon_Surigae.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_typhoon_surigae/27547933-1-eng-GB/Earth_from_Space_Typhoon_Surigae_card_full.jpg",
+          "label": ""
         },
         {
-          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/floodwaters-overwhelm-thailand/thailandflooding_oli2_20261002.jpg",
-          "label": "October 2, 2026"
+          "url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_typhoon_surigae/27547933-1-eng-GB/Earth_from_Space_Typhoon_Surigae_pillars.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "square_path": "drafts/images/2026-10-17-1-earth-from-space-typhoon-surigae.jpg",
+      "image_note": "square crop, from 3616px of source width"
+    },
+    "score": 9.0,
+    "why": "Striking false-colour Sentinel-1 radar scene of a typhoon's sea surface; ESA history is strong.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A false-colour Copernicus Sentinel-1 radar image of Typhoon Surigae on 28 September 2026, about 200 km south of Shikoku, Japan, in the Philippine Sea. It shows the sea surface beneath the clouds, coloured by assigning two radar polarisations to different colours. Dark blue marks the relatively calm eye, the orange-yellow ring marks rough seas and strong winds, and lighter blue most likely marks different conditions (possibly lower winds, less sea surface movement or rain). Yellow flecks in the lower part are most likely concentrated wind and rain, not islands.",
+      "uncertainties": [
+        "The page does not say which two polarisations were used or which colour each was assigned.",
+        "No acquisition mode or resolution is given.",
+        "The meaning of the lighter blue areas is hedged by ESA ('most likely', 'possible causes'), and so is the explanation of the yellow flecks.",
+        "Check that the square crop (from 3616px source width) still shows the full eye and the orange-yellow ring.",
+        "The 240 km/h gusts and 7 m waves describe conditions at acquisition. The storm has since weakened to a tropical depression (55 km/h)."
+      ],
+      "image_credit": "Image: contains modified Copernicus Sentinel data (2026), processed by ESA",
+      "caption": "Sentinel-1's radar sees under Typhoon Surigae's clouds to a sea surface whipped by gusts of up to 240 km/h.\n\nDark blue marks the calm eye and the orange-yellow ring rough seas and strong winds, in false colour from two radar polarisations (28 September 2026, south of Shikoku). Yellow flecks are not islands but most likely concentrated wind and rain.\n\nFull story: https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Typhoon_Surigae\n\nImage: contains modified Copernicus Sentinel data (2026), processed by ESA\n\n#Sentinel1 #Radar #Typhoon #Copernicus #Geoawesome",
+      "x": "Sentinel-1's radar sees under Typhoon Surigae's clouds to a sea surface whipped by gusts of up to 240 km/h. Calm eye in dark blue, rough seas in orange-yellow.\nhttps://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Typhoon_Surigae\nImage: Copernicus Sentinel data (2026), ESA\n#Sentinel1 #Typhoon #Radar #Geoawesome",
+      "alt_text": "A false-colour radar image of a typhoon over the ocean, showing a dark blue circular eye surrounded by a bright orange-yellow ring, with lighter blue swirls and small yellow flecks across the surrounding sea."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-17-1-earth-from-space-typhoon-surigae.jpg"
+  },
+  {
+    "item": {
+      "id": "5261 at http://www.eumetsat.int",
+      "source_id": "eumetsat",
+      "source_name": "EUMETSAT",
+      "source_type": "eo_imagery",
+      "licence": "link_only",
+      "title": "Image of the week: Fires continue in southern Borneo",
+      "link": "http://www.eumetsat.int/image-week-fires-continue-southern-borneo",
+      "published": "2026-10-02T08:15:20+00:00",
+      "summary": "Image of the week: Fires continue in southern Borneo Sarah Leach Fri, 02/10/2026 - 10:15 Image of the week: Fires continue in southern Borneo Watching our Earth from space This week’s image is a view of smoke plumes and haze from multiple fires in southern Kalimantan on the island of Borneo, Southeast Asia. The image was captured on 23 September 2026 by one of the Copernicus Sentinel-3 satellites. Last Updated Published on The smoke and haze are caused by a mix of agricultural burning and peatland fires, which have been exacerbated by El Niño -related drought conditions. The haze has caused severe air quality problems for millions of people living in affected parts of Southeast Asia. The fires are also affecting natural habitats and species, including the critically endangered Bornean orangutan. Fires image The main image was captured by the OLCI instrument onboard one of the Copernicus Sentinel-3 satellites on 23 September 2026. EUMETSAT operates the Sentinel-3 satellites, in cooperation with ESA, and delivers the marine and atmospheric data on behalf of the European Union. More info Follow wildfires in Southeast Asia at the Global Disaster Awareness and Coordination Centre or at ",
+      "image_url": "https://www-cdn.eumetsat.int/files/styles/16_9_large/public/2026-10/2026-09-23-00_00_2026-09-23-23_59_Sentinel-3_OLCI_True_color.png?h=d1cb525d&itok=MorU-W5A",
+      "credit_hint": "EUMETSAT",
+      "source_tag": "@eumetsat",
+      "page_text": "The smoke and haze are caused by a mix of agricultural burning and peatland fires, which have been exacerbated by El Niño -related drought conditions.\nThe haze has caused severe air quality problems for millions of people living in affected parts of Southeast Asia. The fires are also affecting natural habitats and species, including the critically endangered Bornean orangutan.\nThe main image was captured by the OLCI instrument onboard one of the Copernicus Sentinel-3 satellites on 23 September 2026.\nEUMETSAT operates the Sentinel-3 satellites, in cooperation with ESA, and delivers the marine and atmospheric data on behalf of the European Union.\nFollow wildfires in Southeast Asia at the Global Disaster Awareness and Coordination Centre or at the Global Wildfire Information Service\nMonitor haze condition s over Southeast Asia\nGlobal fire emissions watch - track wildfire intensity, carbon emissions and smoke around the planet\nBackground on seasonal fires in Indonesia (ECMWF)\nImpact of the fires on the critically endangered Bornean orangutan (Guardian)\nHow data from EUMETSAT and Copernicus satellites is used to monitor the atmosphere\nView our new guide to using Earth observation to detect, monitor and assess wildfires\nAccess atmospheric data from EUMETSAT User Portal\nThis week’s image shows Hurricane Simon in the eastern Pacific.\nThis week’s image is a view of smoke plumes and haze from multiple fires in Kalimantan on the island of Borneo, Southeast Asia.\nThis week’s image is of smoke plumes from wildfires burning in the state of Washington.\nThis week’s image was submitted by José Antonio López Ferreiro for our #EUMETSAT40 image competition.\nThis week’s image shows patches of phytoplankton in the Celtic Sea.\nThis week’s image is a Tropical Storm Jangmi in the northwest Pacific Ocean.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www-cdn.eumetsat.int/files/styles/16_9_large/public/2026-10/2026-09-23-00_00_2026-09-23-23_59_Sentinel-3_OLCI_True_color.png?h=d1cb525d&itok=MorU-W5A",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://www-cdn.eumetsat.int/files/2026-10/2026-09-23-00_00_2026-09-23-23_59_Sentinel-3_OLCI_True_color.png",
+          "label": ""
+        },
+        {
+          "url": "https://www-cdn.eumetsat.int/files/styles/3_4_large/public/2026-10/2026-09-23-00_00_2026-09-23-23_59_Sentinel-3_OLCI_True_color.png?h=d1cb525d&itok=apEBbDT7",
+          "label": ""
+        },
+        {
+          "url": "https://www-cdn.eumetsat.int/files/styles/16_9_medium/public/2026-10/2026-09-23-00_00_2026-09-23-23_59_Sentinel-3_OLCI_True_color.png?h=d1cb525d&itok=Kmg599NZ",
+          "label": ""
+        },
+        {
+          "url": "https://www-cdn.eumetsat.int/files/styles/1_1_small/public/2026-10/hurricane-simon.jpg?h=d1cb525d&itok=pTorwLWy",
+          "label": ""
+        },
+        {
+          "url": "https://www-cdn.eumetsat.int/files/styles/1_1_small/public/2026-09/2026-09-02-00_00_2026-09-02-23_59_Sentinel-3_OLCI_Highlight_Optimized_Natural_Color-optimised.jpg?h=206ca7eb&itok=rU18PC_8",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "square_path": "drafts/images/2026-10-17-2-image-of-the-week-fires-continue-in-sout.jpg",
+      "image_note": "square crop, from 1080px of source width"
+    },
+    "score": 8.0,
+    "why": "Sentinel-3 true-colour view of Borneo smoke plumes and fires; vivid scene with a story.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A Copernicus Sentinel-3 OLCI image from 23 September 2026 showing smoke plumes and haze from multiple fires in Kalimantan, southern Borneo. EUMETSAT attributes the fires to a mix of agricultural burning and peatland fires, made worse by El Niño-related drought. The source does not say whether the image is true colour.",
+      "uncertainties": [
+        "Reuse policy is 'link_only' and no image licence is stated. Check that reposting the image itself is permitted before publishing.",
+        "No image credit was found on the page, so 'EUMETSAT' is used as the publisher credit. Confirm, as Copernicus may also need crediting.",
+        "The page text includes descriptions of other weeks' images (Hurricane Simon, Washington fires, Celtic Sea phytoplankton, Tropical Storm Jangmi). Confirm the cropped square is the Borneo image.",
+        "The source does not state which Sentinel-3 satellite took the image, its resolution, the band combination, or whether it is true colour.",
+        "'Millions of people' is the source's own vague figure. No exact number or fire count is given.",
+        "The orangutan habitat impact is supported only by a linked Guardian article, so it is left out of the caption."
+      ],
+      "image_credit": "Image: EUMETSAT",
+      "caption": "Haze from fires in southern Borneo has caused severe air quality problems for millions of people across parts of Southeast Asia.\n\nThis Copernicus Sentinel-3 OLCI image from 23 September 2026 shows smoke plumes and haze from multiple fires in Kalimantan, a mix of agricultural burning and peatland fires worsened by El Niño-related drought.\n\nFull story: http://www.eumetsat.int/image-week-fires-continue-southern-borneo\n\nImage: EUMETSAT\n\n#Sentinel3 #Wildfires #Borneo #Copernicus #Geoawesome",
+      "x": "Haze from fires in southern Borneo has caused severe air quality problems for millions in Southeast Asia. Sentinel-3 OLCI view, 23 September 2026.\nhttp://www.eumetsat.int/image-week-fires-continue-southern-borneo\nImage: EUMETSAT\n#Sentinel3 #Wildfires #Borneo #Geoawesome",
+      "alt_text": "Satellite image of southern Borneo with smoke plumes and haze spreading from multiple fires across Kalimantan."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-17-2-image-of-the-week-fires-continue-in-sout.jpg"
+  },
+  {
+    "item": {
+      "id": "tag:blogger.com,1999:blog-12158290.post-7274540343554776943",
+      "source_id": "maps_mania",
+      "source_name": "Maps Mania",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "A Year of Lightning",
+      "link": "http://googlemapsmania.blogspot.com/2026/10/a-year-of-lightning.html",
+      "published": "2026-10-03T08:24:13+00:00",
+      "summary": "This animated map shows a year's worth of lightning strikes across the United States. The animation reveals the clear seasonal patterns of lightning storms across the U.S. As you watch the animation, you can see the country's lightning season move northwards with the changing seasons. During winter, lightning is largely confined to the Gulf Coast before activity spreads north in spring. By summer, thunderstorms are lighting up much of the country, with particularly intense activity across Florida and the Southwest, before the storms retreat south again in autumn. The map is one of the latest visualizations from the ever impressive mapped.earth . I recently featured mapped.earth's stunning animated maps of lighthouses around the world and the site has plenty more fascinating global visualizations to explore. In A Year of Lightning , instead of lighthouses, mapped.earth turns its attention to electrical storms, showing how lightning moves across different parts of the world throughout the year. Alongside this map of the United States, there are visualizations of lightning activity in Europe, Africa, Bolivia, Colombia, Korea, Mexico and Central America, Türkiye, Venezuela and the Grea",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwHYMtRJpjwAyfVzTxKxyGw167XmmrAiA4ytyh6u3olPhdVLHrrhNyla2nOpr0iAcWmbDEQn60itWQA07NzXlzAs69saJbLRMup6yhrAFlpJPYR4WAgsLelCfS0zNdHW8udgIxcjTMTQe7Q_mwldp8nJC_pOMw3kO8hf0im34FFsWdiHvJeHVLug/s1600/Screenrecording2026-10-038.52.24AM-ezgif.com-resize.gif",
+      "credit_hint": "via Maps Mania",
+      "source_tag": "",
+      "page_text": "This animated map shows a year's worth of lightning strikes across the United States. The animation reveals the clear seasonal patterns of lightning storms across the U.S. As you watch the animation, you can see the country's lightning season move northwards with the changing seasons. During winter, lightning is largely confined to the Gulf Coast before activity spreads north in spring. By summer, thunderstorms are lighting up much of the country, with particularly intense activity across Florida and the Southwest, before the storms retreat south again in autumn. The map is one of the latest visualizations from the ever impressive mapped.earth . I recently featured mapped.earth's stunning animated maps of lighthouses around the world and the site has plenty more fascinating global visualizations to explore. In A Year of Lightning , instead of lighthouses, mapped.earth turns its attention to electrical storms, showing how lightning moves across different parts of the world throughout the year. Alongside this map of the United States, there are visualizations of lightning activity in Europe, Africa, Bolivia, Colombia, Korea, Mexico and Central America, Türkiye, Venezuela and the Grea",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwHYMtRJpjwAyfVzTxKxyGw167XmmrAiA4ytyh6u3olPhdVLHrrhNyla2nOpr0iAcWmbDEQn60itWQA07NzXlzAs69saJbLRMup6yhrAFlpJPYR4WAgsLelCfS0zNdHW8udgIxcjTMTQe7Q_mwldp8nJC_pOMw3kO8hf0im34FFsWdiHvJeHVLug/s1600/Screenrecording2026-10-038.52.24AM-ezgif.com-resize.gif",
+          "label": ""
         }
       ],
       "alt_images": [],
       "origin_url": "",
-      "square_path": "drafts/images/2026-10-17-1-floodwaters-overwhelm-thailand.jpg",
-      "image_note": "before/after pair stacked, from 1280px of source width"
+      "square_path": "drafts/images/2026-10-17-3-a-year-of-lightning.jpg",
+      "image_note": "square crop, from 294px of source width (low resolution: upscaled, check sharpness)"
     },
-    "score": 8.5,
-    "why": "Vivid Landsat/OLI flood scene of Thailand; strong editor history with NASA EO imagery.",
+    "score": 8.0,
+    "why": "Animated US lightning map showing seasonal migration; striking, playable geo visual.",
     "draft": {
       "worth_posting": true,
       "skip_reason": "",
-      "what_it_shows": "A false-colour Landsat before/after pair of Prachin Buri province, Thailand, along the Bang Pakong River. Top is October 7, 2025 and bottom is October 2, 2026, when farmland and aquaculture facilities were flooded. NASA says the false colour helps tell water apart from vegetation and developed land, and the bright red shapes are floating solar arrays.",
+      "what_it_shows": "An animated map by mapped.earth showing a year of lightning strikes across the United States, featured on Maps Mania. Lightning stays mostly on the Gulf Coast in winter, spreads north in spring, covers much of the country in summer (most intense over Florida and the Southwest) and retreats south in autumn. mapped.earth also has versions for Europe, Africa, Bolivia, Colombia, Korea, Mexico and Central America, Türkiye, Venezuela and other regions.",
       "uncertainties": [
-        "The IMAGE CREDIT field was cut off ('from the U'). The full credit was taken from the page text: 'NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey'.",
-        "The page describes the images as left (2025) and right (2026). In the square they are stacked top (2025) and bottom (2026). Check the editor's crop matches.",
-        "The source does not say which Landsat satellite or band combination was used, or which colour water appears in.",
-        "The cause is hedged: the flooding 'likely' stemmed partly from a stalled low-pressure system. The Bangkok rainfall figure (nearly 300 mm in 48 hours) is 'according to news reports'. Neither is used in the caption.",
-        "The 50 provinces, 4 million people and dozens of deaths come from the IFRC. The 270,000 ha of damaged farmland is a government estimate. No flooded area is given for the pictured scene itself."
+        "Reuse policy is link_only and no image licence is stated. Check whether we may repost the image at all, or ask mapped.earth for permission or an official still.",
+        "The source image is only 294px wide and upscaled to 1080px. It will likely look soft. A higher-resolution frame from mapped.earth would be better.",
+        "The page does not name the lightning data source or detection network.",
+        "The page does not say which year is shown.",
+        "The page does not explain the colour scale or symbology.",
+        "The square is a single still from an animation, and the page does not say which month or season it shows. The alt text is kept generic for that reason.",
+        "The page text is truncated ('the Grea...'), so the full list of regions is incomplete."
       ],
-      "image_credit": "Image: NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey",
-      "caption": "Floods have hit 50 Thai provinces since mid-September, affecting over 4 million people, according to the IFRC.\n\nLandsat false-colour view of Prachin Buri province (top: October 7, 2025; bottom: October 2, 2026): fields and aquaculture ponds along the Bang Pakong River under water. The bright red shapes are floating solar arrays.\n\nFull story: https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/\n\nImage: NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey\n\n#Landsat #Floods #Thailand #Geoawesome",
-      "x": "Floods have hit 50 Thai provinces since mid-September, affecting over 4 million people (IFRC). Landsat over Prachin Buri, top: 2025, bottom: 2026.\nhttps://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/\nImage: NASA Earth Observatory, Lauren Dauphin, Landsat/USGS\n#Landsat #Floods #Thailand #Geoawesome",
-      "alt_text": "Two stacked false-colour satellite images of the same farmland and river area in Prachin Buri, Thailand: the top from October 2025 and the bottom from October 2026 with large areas under floodwater, and bright red shapes marking floating solar arrays."
+      "image_credit": "Map: mapped.earth via Maps Mania",
+      "caption": "A year of US lightning in one loop: in winter the strikes hug the Gulf Coast, by summer they light up much of the country.\n\nThis animated map from mapped.earth shows the lightning season moving north and back south, with the most intense activity over Florida and the Southwest. Watch the cycle play out, then switch to versions for Europe, Africa, Korea, Türkiye, Mexico and Central America and more.\n\nFull story: http://googlemapsmania.blogspot.com/2026/10/a-year-of-lightning.html\n\nMap: mapped.earth via Maps Mania\n\n#Lightning #Cartography #Weather #Geoawesome",
+      "x": "A year of US lightning in one loop: winter strikes hug the Gulf Coast, summer lights up much of the country, peaking over Florida and the Southwest.\nhttp://googlemapsmania.blogspot.com/2026/10/a-year-of-lightning.html\nMap: mapped.earth via Maps Mania\n#Lightning #Cartography #Geoawesome",
+      "alt_text": "A still from an animated map of the United States showing lightning strike activity across the country."
     },
     "problems": {},
-    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-17-1-floodwaters-overwhelm-thailand.jpg"
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-17-3-a-year-of-lightning.jpg"
   },
   {
     "item": {
-      "id": "5266 at http://www.eumetsat.int",
-      "source_id": "eumetsat",
-      "source_name": "EUMETSAT",
-      "source_type": "eo_imagery",
+      "id": "tag:blogger.com,1999:blog-12158290.post-6925771059768877043",
+      "source_id": "maps_mania",
+      "source_name": "Maps Mania",
+      "source_type": "maps",
       "licence": "link_only",
-      "title": "Sentinel-3C first images",
-      "link": "http://www.eumetsat.int/sentinel-3c-first-images",
-      "published": "2026-10-08T12:30:00+00:00",
-      "summary": "Sentinel-3C first images Sarah Leach Thu, 08/10/2026 - 14:30 Copernicus Sentinel-3C sends its spectacular first images of Earth The third satellite launched on the Copernicus Sentinel-3 mission delivers its captivating first images Copernicus Sentinel-3C, a new satellite built to measure the colour, height and temperature of Earth’s oceans, land and ice, has sent back its first images from space. Last Updated Published on The very first image stretches from southern Germany to North Africa, with Italy and the Mediterranean Sea at its centre under largely clear skies. Captured from 30 September, a little over two weeks after launch on 15 September , the first preliminary images also cover Arctic sea ice, turquoise seas around the Bahamas, North Atlantic sea levels and the Antarctic ice sheet. The satellite’s observations will support forecasts at sea, monitor health of aquatic ecosystems and carbon pools, enable rapid response to wildfires and harmful algal blooms, and track sea level rises and ice melt. “These stunning first images show that Copernicus Sentinel-3C is performing superbly just a few weeks after launch,” said Milen Tahtadjiev, Copernicus Sentinel-3 Mission Manager at ",
-      "image_url": "https://www-cdn.eumetsat.int/files/styles/16_9_large/public/2026-10/S3C_OLCI_Italy_20260930_gamma_1.2%20a%20spot.jpg?h=d1cb525d&itok=ILZfpkVc",
-      "credit_hint": "EUMETSAT",
-      "source_tag": "@eumetsat",
-      "page_text": "The third satellite launched on the Copernicus Sentinel-3 mission delivers its captivating first images\nThe very first image stretches from southern Germany to North Africa, with Italy and the Mediterranean Sea at its centre under largely clear skies. Captured from 30 September, a little over two weeks after launch on 15 September , the first preliminary images also cover Arctic sea ice, turquoise seas around the Bahamas, North Atlantic sea levels and the Antarctic ice sheet. The satellite’s observations will support forecasts at sea, monitor health of aquatic ecosystems and carbon pools, enable rapid response to wildfires and harmful algal blooms, and track sea level rises and ice melt.\n“These stunning first images show that Copernicus Sentinel-3C is performing superbly just a few weeks after launch,” said Milen Tahtadjiev, Copernicus Sentinel-3 Mission Manager at EUMETSAT. “In a year of record sea-surface temperatures, an exceptional El Niño and a summer of drought and wildfires across Europe, Sentinel-3C will extend the vital record needed to track such changes, helping to save lives, protect livelihoods and strengthen economies. After years of preparation, the whole EUMETSAT team is delighted to see the satellite delivering its first observations. Over the coming months, the satellite and its instruments will be carefully tested and calibrated, so that its data can begin flowing to users across Europe and the world.”\nThe first image, captured on 30 September 2026 at about 09:30 UTC, is one of three released from the Ocean and Land Colour Instrument (OLCI), which records sunlight reflected from Earth’s surface in 21 bands of colour, enabling experts to pick out features just a few hundred metres across. Its data are used to monitor water quality, estimate how much carbon the ocean takes up, enable a rapid response to harmful algal blooms and assess how crops are growing on land.\nThe image stretches from southern Germany to the northern tip of Tunisia and covers parts of the Mediterranean Sea, Central Europe and the Western Balkans, from Austria and Hungary to the Croatian coast. On 30 September, a large area of high pressure sat over Europe, trapping warm air beneath it and bringing clear skies and summer-like temperatures unusually late in the year. Most of Italy is under clear skies, with clouds moving in from the west, while snow is visible on the high Alps.\nAlong the Italian Adriatic coast, a thin band of green and turquoise marks water coloured by sediment and phytoplankton, the microscopic organisms that form the base of marine food webs but can also be harmful. Severe drought in 2026 impacted delicate marine environments and accelerated the growth of aggressive algae that suffocated local coastal ecosystems. To the east, Lake Balaton shows pale green in western Hungary: after a summer drought, the lake’s water level was close to its record low in late September.\nFar to the north, another OLCI image looks across the Canadian Arctic, including the northern end of Baffin Island – the fifth largest island in the world – and Lancaster Sound, the eastern entrance to the Northwest Passage. Smooth white ice caps and snow-covered mountains stand out against the dark, open water of the channels between the islands. Across much of the top half of the image, the waters are strewn with fragmented sea ice.\nThe Bahamas, Cuba, Haiti and the Dominican Republic appear in a third OLCI image. The palest blues are the Bahama Banks, where sunlight reflects off white sand through water only a few metres deep. Long-term global sea-level rise slowly deepens the submerged flats and alters interior tidal marshes and mudflats across the islands. The dark blue channel beside Andros, the largest island in the Bahamas, is the Tongue of the Ocean, a trench up to 2,000 metres deep. Large clusters of cloud hang over the warm sea, in a hurricane season that had produced eight named storms but no full-blown hurricanes by the end of September – a lull meteorologists have linked to El Niño.\nWhere OLCI records colour, the satellite’s Synthetic Aperture Radar Altimeter (SRAL) measures height, timing radar pulses bounced off the surface to determine sea levels to within a few centimetres and track how they rise over time. Its observations are also used to derive wave height and wind speed, which support shipping and marine forecasts, and the thickness of sea ice, a key indicator of climate change. Over land, they give the height of rivers and lakes, helping authorities manage water supplies and monitor floods and droughts.\nSRAL’s first measurements are shown as a track across the North Atlantic, covering the first five days after the activation of the instrument (30 September – 4 October 2026). Unlike a camera, the altimeter observes only the narrow strip of sea directly beneath it, taking a reading roughly every 300 metres to build up a line of precise measurements.\nThe sea is not level: warm water expands and currents pile water up, leaving some areas a few tens of centimetres higher or lower than usual and marking out currents such as the Gulf Stream, which helps to shape Europe’s weather and climate. The colours show how far the sea surface stood above or below its long-term average, which is calculated from a reference period of 20 years of measurements (1993-2012).\nThe track is laid over a map from the Copernicus Marine Service, implemented by Mercator Ocean International, that combines observations from several altimetry satellites in a single dataset. The colours match, showing that the new satellite’s first data are consistent with those from satellites already in orbit.\nOther imagery from the first set of SRAL observations have been used to produce an animation of the ice sheet in Greenland. The Greenland ice sheet is the second-largest ice mass on Earth after Antarctica, and its losses are a growing contributor to global sea-level rise. Radar altimeters measure the height of ice as well as water, and by com",
+      "title": "Providing Global Relief",
+      "link": "http://googlemapsmania.blogspot.com/2026/10/providing-global-relief.html",
+      "published": "2026-10-01T08:37:30+00:00",
+      "summary": "Bert Spaan has taken Mapterhorn's global terrain data to create an interactive global Relief map. What is particularly interesting about this new map is that, unlike traditional topographic maps with a fixed colour-to-elevation scale, the map's colour spectrum adapts dynamically to the specific region or bounds currently in view. As you pan and zoom across different landscapes, the colour grading shifts to highlight local topographic variations, producing a striking and constantly changing view of the world's mountains, valleys and plains. This works particularly well when switching between very different environments: the colour range changes to bring out the relief at the scale you're viewing, rather than leaving low-lying terrain looking uniformly flat. A number of controls allow you to adjust how the elevation data is visualized. You can switch between absolute and visible elevation ranges, lock the current colour range, reverse the colours, animate the colours, and cycle through different ways of handling elevation outliers. You can also turn on hillshading, contours, labels and country borders, or switch to a 3D terrain view. Relief also includes a Seafloor option, which exte",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq2WhTQlWb_cX01V2thAd3u-aqgEANBDprYrexZCdDvUwdnYJ1tfenvuUN4GkSNlTIHOVw1ROk_mFqWDHq4E8L1n3oyn0ZHsUT8FowKXcezeZT3Q8MtoHc-JHSDO2S6B5eEuuDjKo8UEQo0z6_A7R3ythn5OVwrIUpuf5kUayWC5SMejG0uG85_g/s1600/relief.png",
+      "credit_hint": "via Maps Mania",
+      "source_tag": "",
+      "page_text": "Bert Spaan has taken Mapterhorn's global terrain data to create an interactive global Relief map. What is particularly interesting about this new map is that, unlike traditional topographic maps with a fixed colour-to-elevation scale, the map's colour spectrum adapts dynamically to the specific region or bounds currently in view. As you pan and zoom across different landscapes, the colour grading shifts to highlight local topographic variations, producing a striking and constantly changing view of the world's mountains, valleys and plains. This works particularly well when switching between very different environments: the colour range changes to bring out the relief at the scale you're viewing, rather than leaving low-lying terrain looking uniformly flat. A number of controls allow you to adjust how the elevation data is visualized. You can switch between absolute and visible elevation ranges, lock the current colour range, reverse the colours, animate the colours, and cycle through different ways of handling elevation outliers. You can also turn on hillshading, contours, labels and country borders, or switch to a 3D terrain view. Relief also includes a Seafloor option, which exte",
       "image_credit": "",
       "image_licence": "",
       "extra_images": [],
       "images": [
         {
-          "url": "https://www-cdn.eumetsat.int/files/styles/16_9_large/public/2026-10/S3C_OLCI_Italy_20260930_gamma_1.2%20a%20spot.jpg?h=d1cb525d&itok=ILZfpkVc",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq2WhTQlWb_cX01V2thAd3u-aqgEANBDprYrexZCdDvUwdnYJ1tfenvuUN4GkSNlTIHOVw1ROk_mFqWDHq4E8L1n3oyn0ZHsUT8FowKXcezeZT3Q8MtoHc-JHSDO2S6B5eEuuDjKo8UEQo0z6_A7R3ythn5OVwrIUpuf5kUayWC5SMejG0uG85_g/s1600/relief.png",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "square_path": "drafts/images/2026-10-17-4-providing-global-relief.jpg",
+      "image_note": "square crop, from 901px of source width"
+    },
+    "score": 8.0,
+    "why": "Interactive global relief map with dynamic colour scaling; a clever, explorable terrain visual.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "An interactive global relief map by Bert Spaan, built on Mapterhorn's global terrain data. Instead of a fixed colour-to-elevation scale, the colour spectrum rescales to the elevation range in the current view, so local relief stands out at any zoom level. Users can lock or reverse the colour range, add hillshading, contours, labels and borders, switch to 3D terrain, and turn on a Seafloor option.",
+      "uncertainties": [
+        "Reuse policy is link_only and the image licence is not stated. Check whether posting the cropped image is allowed before publishing.",
+        "The page does not say which region or zoom level the source image shows. Check the crop before finalising the alt text.",
+        "No resolution or source details for Mapterhorn's terrain data are given.",
+        "The page text is cut off mid-sentence about the Seafloor option, so its extent and bathymetry source are unknown.",
+        "No social handles are confirmed for Bert Spaan or Mapterhorn, so they are named plainly."
+      ],
+      "image_credit": "Map: Bert Spaan via Maps Mania",
+      "caption": "This global relief map rescales its colours to whatever area is in view, so low-lying terrain no longer looks uniformly flat.\n\nBert Spaan built it on Mapterhorn's global terrain data. Pan and zoom to watch the colour ramp adapt, or lock and reverse the range, add hillshading and contours, switch to 3D terrain or turn on the Seafloor option.\n\nFind out more: http://googlemapsmania.blogspot.com/2026/10/providing-global-relief.html\n\nMap: Bert Spaan via Maps Mania\n\n#Cartography #Terrain #Elevation #Geoawesome",
+      "x": "This global relief map rescales its colours to whatever area is in view, so lowlands no longer look uniformly flat.\nhttp://googlemapsmania.blogspot.com/2026/10/providing-global-relief.html\nMap: Bert Spaan via Maps Mania\n#Cartography #Terrain #Elevation #Geoawesome",
+      "alt_text": "A colour-shaded relief map in which the colours show elevation across the area in view."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-17-4-providing-global-relief.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.heritagedaily.com/2026/10/drone-lidar-reveals-previously-unknown-aboriginal-rock-shelters-in-the-blue-mountains/159673",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Drone LiDAR reveals previously unknown Aboriginal rock shelters in the Blue Mountains",
+      "link": "https://www.heritagedaily.com/2026/10/drone-lidar-reveals-previously-unknown-aboriginal-rock-shelters-in-the-blue-mountains/159673",
+      "published": "2026-10-17T08:49:56+00:00",
+      "summary": "Archaeologists have used drone-mounted LiDAR technology to identify previously unregistered Aboriginal rock shelters containing rock art and stone ...",
+      "image_url": "https://www.heritagedaily.com/wp-content/uploads/2026/10/med1.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The research was conducted by the Vere Gordon Childe Centre at the University of Sydney and the Australian Museum, working in partnership with the Dharug Custodian Aboriginal Corporation (DCAC).\nResearchers deployed drones equipped with LiDAR (Light Detection and Ranging) to survey rugged areas of the Blue Mountains, where dense vegetation and difficult terrain have historically made conventional archaeological surveys challenging.\nLiDAR works by emitting laser pulses and measuring their return to generate highly detailed three-dimensional models of the landscape. This enables researchers to identify topographical features that may otherwise be obscured by vegetation.\nThe drone surveys successfully confirmed the locations of six previously registered rock shelters and identified three unregistered shelters containing Aboriginal cultural material. Among the discoveries were stone artefacts and examples of rock art, including red hand stencils.\nThe surveys also produced more accurate geographical coordinates for known sites than those recorded in the Aboriginal Heritage Information Management System (AHIMS), the official register of Aboriginal places and objects in New South Wales.\nPotential shelters identified from the aerial data were subsequently investigated on the ground by teams led by Dr Amy Mosig Way, a research archaeologist at the University of Sydney and the Australian Museum.\nWayne Brennan and Erin Wilkins of the Dharug Custodian Aboriginal Corporation then led the recording of rock art at confirmed cultural sites.\nThe research forms part of the Gulamada Project, which combines archaeological methods and emerging technologies with First Nations cultural knowledge to identify, document and protect Aboriginal heritage.\n“From the outset, our vision for the Gulamada Project has been to create a true nexus of science and culture. This work highlights the importance of listening, learning and working together,” said Brennan, project co-director and an Indigenous rock art specialist at the University of Sydney.\nMore than 200 rock shelters containing archaeological and cultural evidence have already been documented across the Blue Mountains. However, researchers estimate that only around 10 per cent of the region has been systematically surveyed because of the area’s rugged landscape.\nAccording to Dr Jacob Bongers, lead author of the study and a digital archaeologist at the University of Sydney, drone-based LiDAR could dramatically improve the efficiency of archaeological surveys in such environments.\n“This work is exciting because it offers an efficient and accurate way to locate sites in rugged environments, which are notoriously arduous, expensive and time-consuming to survey,” said Bongers.\n“Importantly, our methodology is helping expand the record of Aboriginal cultural sites in the Blue Mountains and has the potential to be applied in other regions.”\nBeyond archaeological discovery, researchers say the technology could provide Aboriginal communities and heritage managers with another means of identifying cultural sites threatened by development, erosion, bushfires and other environmental pressures.\nThe team now plans to test and adapt the methodology in other Australian environments in partnership with Aboriginal communities, including the tropical savannahs of western Arnhem Land and the semi-arid landscapes of western New South Wales.\nThe study, “LiDAR-assisted survey locates unregistered rock shelters in the Blue Mountains, Australia”, is published in the journal Remote Sensing. https://doi.org/10.3390/rs18203495\nAI Statement : HeritageDaily uses AI in the editing of our human-generated articles to improve the readability and language flow. Human authors remain 100% accountable for accuracy, facts, citations, originality, and copyright compliance.\nAD Free - The HeritageDaily app offers a seamless, user-friendly way to explore expert-curated archaeology and heritage news, discoveries and research, with highly rated experiences on iOS and Android.",
+      "image_credit": "Australian Museum",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.heritagedaily.com/wp-content/uploads/2026/10/med1.jpg",
           "label": ""
         }
       ],
       "alt_images": [
         {
-          "url": "https://www-cdn.eumetsat.int/files/2026-10/S3C_OLCI_Italy_20260930_gamma_1.2%20a%20spot.jpg",
+          "url": "https://www.heritagedaily.com/wp-content/uploads/2023/11/HPA1.png",
           "label": ""
         },
         {
-          "url": "https://www-cdn.eumetsat.int/files/styles/3_4_large/public/2026-10/S3C_OLCI_Italy_20260930_gamma_1.2%20a%20spot.jpg?h=d1cb525d&itok=LRULszZP",
+          "url": "https://www.heritagedaily.com/wp-content/uploads/2023/11/harrypotter1.jpg",
           "label": ""
         },
         {
-          "url": "https://www-cdn.eumetsat.int/files/2026-10/S3C_OLCI_Italy_20260930_gamma_1.2.jpg",
-          "label": ""
-        },
-        {
-          "url": "https://www-cdn.eumetsat.int/files/2026-10/S3C_OLCI_Canadian_Arctic_20260930.jpg",
-          "label": ""
-        },
-        {
-          "url": "https://www-cdn.eumetsat.int/files/2026-10/S3C_OLCI_Caribbean_Sea_20260929.jpg",
+          "url": "https://www.heritagedaily.com/wp-content/uploads/2024/06/hdmobile1.png",
           "label": ""
         }
       ],
       "origin_url": "",
-      "square_path": "drafts/images/2026-10-17-2-sentinel-3c-first-images.jpg",
-      "image_note": "square crop, from 1080px of source width"
+      "square_path": "",
+      "image_note": "square crop, from 800px of source width"
     },
-    "score": 7.5,
-    "why": "First Sentinel-3C images of Europe to North Africa; new mission debut with striking imagery.",
+    "score": 7.0,
+    "why": "Drone LiDAR terrain scan revealing hidden rock shelters; a strong geo-archaeology hook.",
     "draft": {
-      "worth_posting": true,
-      "skip_reason": "",
-      "what_it_shows": "The first image from Copernicus Sentinel-3C, captured on 30 September 2026 at about 09:30 UTC by the Ocean and Land Colour Instrument (OLCI, 21 bands, features a few hundred metres across). The satellite launched on 15 September. The image runs from southern Germany to the northern tip of Tunisia, with Italy largely cloud-free, clouds moving in from the west, snow on the high Alps, a green and turquoise band of sediment and phytoplankton along the Italian Adriatic coast, and a pale green Lake Balaton, whose level was close to its record low in late September.",
+      "worth_posting": false,
+      "skip_reason": "The page never says what the Australian Museum image shows (LiDAR model, rock art photo, drone or people), so it cannot be described without guessing, and the reuse policy is link_only with no licence stated.",
+      "what_it_shows": "",
       "uncertainties": [
-        "The page carries several images (Mediterranean, Canadian Arctic, Bahamas, SRAL North Atlantic track, Greenland animation). This caption assumes the square is cut from the Mediterranean OLCI image. Check before posting.",
-        "The square crop takes 1080px of the source width, so Lake Balaton, the Adriatic coast or Tunisia may fall outside the frame. Adjust the body if they are not visible.",
-        "No image credit or licence is stated on the page, and the reuse policy is link_only. Confirm permission to post the image. The credit 'EUMETSAT' is the fallback, not a verbatim credit.",
-        "These are preliminary commissioning images. Calibration will continue over the coming months, and no exact resolution is given beyond 'a few hundred metres'.",
-        "The page links 2026 drought to aggressive algae along the Adriatic in general terms. The caption does not claim the visible green band is a harmful bloom.",
-        "The page text is truncated (Greenland section cut off). The intro mentions the Antarctic ice sheet, but the body describes a Greenland animation, so the page is inconsistent.",
-        "Band combination and processing (true colour or otherwise) are not stated."
+        "The page text does not describe the image: it could be a LiDAR terrain model, a photo of a shelter or the red hand stencils, the drone, or the research team.",
+        "The reuse policy is link_only and no image licence is stated, so cropping and reposting the image is not cleared.",
+        "If the image shows rock art, check with the Dharug Custodian Aboriginal Corporation whether sharing it is culturally appropriate.",
+        "The story suits Geoawesome: drone LiDAR confirmed six registered shelters and found three unregistered ones, and only about 10 per cent of the Blue Mountains has been systematically surveyed.",
+        "Worth checking the open-access paper in Remote Sensing (https://doi.org/10.3390/rs18203495) for a LiDAR figure with a stated licence and caption.",
+        "The page gives no sensor model, point density, resolution or survey dates."
       ],
-      "image_credit": "Image: EUMETSAT",
-      "caption": "Sentinel-3C took this first image on 30 September 2026, barely two weeks after its 15 September launch.\n\nFrom the Ocean and Land Colour Instrument (21 bands), it spans southern Germany to Tunisia: a green and turquoise band of sediment and phytoplankton lines Italy's Adriatic coast, and Lake Balaton shows pale green, near its record low after the summer drought. Still preliminary, with calibration continuing for months.\n\nFull story: http://www.eumetsat.int/sentinel-3c-first-images\n\nImage: EUMETSAT\n\n#Sentinel3 #Copernicus #Phytoplankton #Geoawesome",
-      "x": "Sentinel-3C's first OLCI image, 30 September 2026: sediment and phytoplankton paint a green and turquoise band along Italy's Adriatic coast.\nhttp://www.eumetsat.int/sentinel-3c-first-images\nImage: EUMETSAT\n#Sentinel3 #Copernicus #Geoawesome",
-      "alt_text": "Satellite image of Italy and the central Mediterranean under mostly clear skies, with snow on the Alps, clouds to the west and a thin green and turquoise band along the Adriatic coast."
+      "image_credit": "",
+      "caption": "",
+      "x": "",
+      "alt_text": ""
     },
     "problems": {},
-    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-17-2-sentinel-3c-first-images.jpg"
+    "image_url": ""
   },
   {
     "item": {
-      "id": "5262 at http://www.eumetsat.int",
-      "source_id": "eumetsat",
-      "source_name": "EUMETSAT",
-      "source_type": "eo_imagery",
+      "id": "https://phys.org/news/2026-10-nasa-satellites-historic-el-nio.html",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
       "licence": "link_only",
-      "title": "Image of the week: Dust cloud moves over the Mediterranean",
-      "link": "http://www.eumetsat.int/image-week-dust-cloud-moves-over-mediterranean",
-      "published": "2026-10-09T07:00:00+00:00",
-      "summary": "Image of the week: Dust cloud moves over the Mediterranean Sarah Leach Fri, 09/10/2026 - 09:00 Image of the week: Dust cloud moves over the Mediterranean Watching our Earth from space This week’s image is of Saharan dust moving northeast across the Mediterranean Sea on 25 August 2026. The image was captured by the Meteosat-12 geostationary weather satellite 36,000km above the Earth. Last Updated Published on Saharan dust particles are lifted into the atmosphere by gusts of surface wind and can be transported and deposited thousands of kilometres away. When dust travels over populated areas, it can reduce air quality and impact health by causing respiratory problems and cause flight delays. Over the oceans, dust can act as a fertiliser, stimulating blooms of tiny marine plants (phytoplankton) that are the basis for the marine food chain. The latest imagery from Meteosat-12 can be accessed on EUMETView . Dust image This image was captured by the FCI instrument onboard Meteosat-12 on 25 August 2026. The Meteosat weather satellites provide imagery for the early detection of fast-developing severe weather, weather forecasting and climate monitoring. More info Access Meteosat-12 imagery ",
-      "image_url": "https://www-cdn.eumetsat.int/files/styles/16_9_large/public/2026-10/IOTW%20Desert%20Dust.png?h=baecbf55&itok=j-Ch-2M0",
-      "credit_hint": "EUMETSAT",
-      "source_tag": "@eumetsat",
-      "page_text": "Saharan dust particles are lifted into the atmosphere by gusts of surface wind and can be transported and deposited thousands of kilometres away.\nWhen dust travels over populated areas, it can reduce air quality and impact health by causing respiratory problems and cause flight delays.\nOver the oceans, dust can act as a fertiliser, stimulating blooms of tiny marine plants (phytoplankton) that are the basis for the marine food chain.\nThe latest imagery from Meteosat-12 can be accessed on EUMETView .\nThis image was captured by the FCI instrument onboard Meteosat-12 on 25 August 2026.\nThe Meteosat weather satellites provide imagery for the early detection of fast-developing severe weather, weather forecasting and climate monitoring.\nLearn more about Meteosat Third Generation satellites\nAccess atmospheric data from EUMETSAT User Portal\nLearn more about monitoring dust and aerosols from space\nThis week’s image shows Tropical Storm Fay moving west across the Atlantic Ocean.\nThis week’s image is of Saharan dust moving west across the Atlantic Ocean.\nThis week’s image is a view of smoke plumes from multiple wildfires in the western Balkans on 8 September.\nThis week’s image captures the launch of the Meteosat Third Generation Imager 2 (MTG-I2) on 27 August 2026.\nThis week’s image features a large ash cloud from Mount Etna on Sicily.\nThis week’s image is of the solar eclipse on 12 August.",
+      "title": "NASA satellites observe historic 2026 El Niño - Phys.org",
+      "link": "https://phys.org/news/2026-10-nasa-satellites-historic-el-nio.html",
+      "published": "2026-10-17T09:05:06+00:00",
+      "summary": "Credit: NASA's Scientific Visualization Studio. One of the first clues appeared in satellite imagery in January 2026, when a swell of warm water ...",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/nasa-satellites-observ.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "edited by Gaby Clark , \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\treviewed by Robert Egan\nThis article has been reviewed according to Science X's editorial process and policies . Editors have highlighted\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tthe following attributes while ensuring the content's credibility:\nA phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely.\nEl Niño is a natural climate pattern that emerges roughly every two to seven years, marked by warmer-than-normal water temperatures in parts of the equatorial Pacific. NASA scientists are keeping watch as it flips trade winds, redistributes ocean heat, scrambles rain patterns and raises sea surface height across parts of the Pacific.\nAs of October, the National Oceanic and Atmospheric Administration (NOAA) has said that there's an 83% chance that the strongest El Niño since 1950 is currently unfolding. People around the world, including farmers, firefighters and coastal communities, are already experiencing the effects in different ways.\nFollow along with these maps as NASA tracks El Niño from its epicenter in the equatorial Pacific Ocean.\nOne of the first clues appeared in satellite imagery in January 2026, when a swell of warm water called a Kelvin wave was spotted near Micronesia in the western Pacific. Kelvin waves are slow-moving pulses of water thousands of miles long. Like underwater freeways, they transfer heat from west to east across the Pacific.\nThe warm water heats the air directly above it, making it rise. The change in air pressures weakens or even reverses the trade winds that typically blow in the opposing direction, from the Americas toward Asia, causing sea levels in the eastern Pacific to rise further and waters to warm even more. This chain reaction signifies the start of an El Niño.\nThe map above shows that by early April, those Kelvin waves had reached the eastern Pacific, and sea surface temperatures had begun to warm. Warm water expands in volume, elevating local sea levels in some areas by as much as 1 to 1.3 feet (30 to 40 centimeters). The higher-than-normal water can be seen sloshing toward South America then moving up the coast to California. Sea levels that are 6 to 8 inches (15 to 20 centimeters) lower than normal are visible around Indonesia and northern Australia.\n\"Kelvin waves are like the heartbeat of El Niño,\" said Josh Willis, project scientist for sea level missions at NASA's Jet Propulsion Laboratory in Southern California. \"And our sea level satellites let us peer into the ocean and watch every beat.\"\nScientists have used satellite altimetry to track the height of the ocean with ultraprecision since 1993. That unbroken data record continues today with the Sentinel-6 satellites. State-of-the-art radar altimeters aboard these satellites survey millions of square miles of ocean in a single day, complementing NOAA's fleet of ocean sensors and buoys drifting and diving through the water below.\nWarmer-than-normal seawater is one of the best-known indicators of El Niño. Already, sea surface temperatures in the eastern Pacific are about 3 degrees Fahrenheit (1.7 degrees Celsius) warmer than the long-term average and could jump another fraction of a degree in the coming months, Willis said.\nSatellites carrying microwave and infrared radiometers can see through and around clouds to measure heat energy at the sea surface. Satellites in 2026 mapped the band of warmer-than-normal water as it expanded throughout the spring. The band, seen in dark red, stretches for millions of square miles from the heart of the Pacific to the coast of South America.\nOcean temperatures can influence weather patterns around the world. Air above the water's surface carries heat and moisture into the atmosphere, seeding rainstorms and rearranging weather patterns across the globe.\nDiscover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys.org for daily insights.\n        Sign up for our free newsletter and get updates on breakthroughs,\n        innovations, and research that matter— daily or weekly .\nEl Niño's warm waters also change the color of the ocean. A NASA satellite is tracking these subtle shifts in hues, as equatorial Pacific waters have become measurably bluer over the last several months.\n\"Some people think of water as being just blue, but it's amazing the multitude of colors the ocean can be,\" said Matthew Kehrli, a lead research scientist for the PACE (Plankton, Aerosol, Cloud, ocean Ecosystem) satellite team at NASA's Goddard Space Flight Center in Greenbelt, Maryland.\nThis spectrum is in part thanks to microscopic plants called phytoplankton, which form the basis of the marine food web. There are thousands of different species of phytoplankton, which come in shades like teal, brown or green. This year, in areas of the Pacific Ocean along the equator that are typically lush with phytoplankton and greener as a result, these hues are waning.\nThis is an expected effect of El Niño. Phytoplankton thrive in cool, nutrient-rich waters, but during an El Niño, the weakening trade winds reduce the upwelling of nutrient-rich deep water to the ocean surface. With limited food supply, phytoplankton abundance drops. This decline can trigger cascading effects across the marine food web, forcing other marine life to relocate to new feeding grounds.\nThis year's El Niño is the first since PACE launched in 2024, providing new views of the phenomenon. The Ocean Color Instrument aboard PACE observes the ocean in hyperspectral color—across several hundred different wavelengths of visible, near-infrared and ultraviolet light—monitoring phytoplankton and other ocean-color changes in near-real time. With PACE data, researchers calculate the average color of the ocean, simplifying spectra of light into a single number, known as apparent visible wavelength.\nThe 2026 map above shows the green area along the equator in the western Pacific Ocean shrink as a blue",
+      "image_credit": "NASA's Scientific Visualization Studio",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2026/nasa-satellites-observ.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://scx1.b-cdn.net/gfx/profiles/58445787ab38cfb6.png",
+          "label": ""
+        },
+        {
+          "url": "https://scx1.b-cdn.net/gfx/profiles/b3013a0f7fc5c4a0.png",
+          "label": ""
+        },
+        {
+          "url": "https://scx1.b-cdn.net/csz/news/800a/2026/nasa-satellites-observ.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "square_path": "drafts/images/2026-10-17-6-nasa-satellites-observe-historic-2026-el.jpg",
+      "image_note": "square crop, from 724px of source width"
+    },
+    "score": 7.0,
+    "why": "NASA Scientific Visualization satellite data story on a historic El Niño; likely striking map visuals.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A NASA Scientific Visualization Studio map from a set tracking the 2026 El Niño across the Pacific. The article contains three maps: satellite altimetry showing sea level up to 30 to 40 cm above normal in the eastern Pacific and 15 to 20 cm below normal around Indonesia and northern Australia (early April); microwave and infrared radiometer sea surface temperatures with the warm band in dark red; and PACE Ocean Color Instrument data showing the green equatorial area in the western Pacific shrinking as waters turn bluer. NOAA puts the chance that this is the strongest El Niño since 1950 at 83%.",
+      "uncertainties": [
+        "The source does not say which of the three maps is the lead image used for the square crop. Check the crop before posting and adjust the alt text to match.",
+        "Reuse policy is link_only and the image licence is not stated on the page. Confirm reuse rights before posting. NASA SVS originals may be a safer source than the phys.org copy.",
+        "The 83% figure is NOAA's probability, not a confirmed record. The caption keeps it as a probability.",
+        "The source names Sentinel-6 as continuing the altimetry record but does not explicitly say the sea level map uses Sentinel-6 data, so the caption says 'satellite altimetry'.",
+        "Exact dates of the SST and PACE maps are not given beyond 'spring' and '2026'.",
+        "The page text is truncated at the end of the PACE section."
+      ],
+      "image_credit": "Map: NASA's Scientific Visualization Studio",
+      "caption": "NOAA gives an 83% chance that the strongest El Niño since 1950 is now unfolding.\n\nNASA maps track it from orbit: satellite altimetry shows eastern Pacific sea levels as much as 30 to 40 cm above normal, and PACE ocean colour data show the equatorial Pacific turning bluer as phytoplankton decline.\n\nFull story: https://phys.org/news/2026-10-nasa-satellites-historic-el-nio.html\n\nMap: NASA's Scientific Visualization Studio\n\n#Pacific #PACE #Oceanography #Altimetry #Geoawesome",
+      "x": "NOAA gives an 83% chance the strongest El Niño since 1950 is unfolding. NASA satellites are tracking its sea level, temperature and ocean colour signal.\nhttps://phys.org/news/2026-10-nasa-satellites-historic-el-nio.html\nMap: NASA's Scientific Visualization Studio\n#Pacific #PACE #Oceanography #Geoawesome",
+      "alt_text": "A NASA map of the Pacific Ocean with El Niño anomalies concentrated in a band along the equator."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-17-6-nasa-satellites-observe-historic-2026-el.jpg"
+  },
+  {
+    "item": {
+      "id": "tag:blogger.com,1999:blog-12158290.post-99642240534932546",
+      "source_id": "maps_mania",
+      "source_name": "Maps Mania",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "The El Niño Forcast Map",
+      "link": "http://googlemapsmania.blogspot.com/2026/09/the-el-nino-forcast-map.html",
+      "published": "2026-09-30T08:10:52+00:00",
+      "summary": "Much has been written about how this year's El Niño is already breaking records. Climate Dashboard's new interactive map lets you explore how this unusually strong El Niño could affect climate conditions around the world, including what it might mean for the weather where you live. El Niño is a naturally occurring climate phenomenon in which unusually warm ocean temperatures in the central and eastern tropical Pacific disrupt atmospheric circulation, shifting rainfall and temperature patterns around the world. These effects can mean wetter conditions in some regions and drought in others. The El Niño Impacts layer in the Climate Dashboard provides a way to explore what this year's unusually strong El Niño could actually mean around the world. The map shows the predicted rainfall effects for each three-month season, from the current October-December forecast through to seasons ending in May 2027. Click anywhere around the world to see what the models forecast for that location, season by season, through to May 2027. You can also switch between individual models to see where they agree - and where they don't. But this isn't just a forecast map. You can compare the predictions with wh",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk0_Gu8O1zS4_vJIaysgTxmg7Aqbnx9WXxV8BkZ9KtNgrvUDXEXXHn3_bDjjNDesvv_uyvQYVx_Q1gDDKy4LeaKGv6KWumhqLf_uEjNJBCMkcBteaxkf51BUc5DsHMxrW3j2Y0bueRnhH6RO0q5TnKleqBYu-GMYqu2578jK67XZqVT4UHZKyYLA/s1600/nino.png",
+      "credit_hint": "via Maps Mania",
+      "source_tag": "",
+      "page_text": "Much has been written about how this year's El Niño is already breaking records. Climate Dashboard's new interactive map lets you explore how this unusually strong El Niño could affect climate conditions around the world, including what it might mean for the weather where you live. El Niño is a naturally occurring climate phenomenon in which unusually warm ocean temperatures in the central and eastern tropical Pacific disrupt atmospheric circulation, shifting rainfall and temperature patterns around the world. These effects can mean wetter conditions in some regions and drought in others. The El Niño Impacts layer in the Climate Dashboard provides a way to explore what this year's unusually strong El Niño could actually mean around the world. The map shows the predicted rainfall effects for each three-month season, from the current October-December forecast through to seasons ending in May 2027. Click anywhere around the world to see what the models forecast for that location, season by season, through to May 2027. You can also switch between individual models to see where they agree - and where they don't. But this isn't just a forecast map. You can compare the predictions with wh",
       "image_credit": "",
       "image_licence": "",
       "extra_images": [],
       "images": [
         {
-          "url": "https://www-cdn.eumetsat.int/files/styles/16_9_large/public/2026-10/IOTW%20Desert%20Dust.png?h=baecbf55&itok=j-Ch-2M0",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk0_Gu8O1zS4_vJIaysgTxmg7Aqbnx9WXxV8BkZ9KtNgrvUDXEXXHn3_bDjjNDesvv_uyvQYVx_Q1gDDKy4LeaKGv6KWumhqLf_uEjNJBCMkcBteaxkf51BUc5DsHMxrW3j2Y0bueRnhH6RO0q5TnKleqBYu-GMYqu2578jK67XZqVT4UHZKyYLA/s1600/nino.png",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "square_path": "drafts/images/2026-10-17-7-the-el-ni-o-forcast-map.jpg",
+      "image_note": "square crop, from 901px of source width"
+    },
+    "score": 7.0,
+    "why": "Interactive El Niño forecast map with local impact; geo insight and clickable exploration.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "An interactive world map from Climate Dashboard (featured on Maps Mania) with an El Niño Impacts layer showing predicted rainfall effects for each three-month season, from the current October-December forecast through to seasons ending in May 2027. Users can click any location to see model forecasts season by season and switch between individual models to see where they agree.",
+      "uncertainties": [
+        "The page text does not say which forecast models are used or who runs them.",
+        "The page text does not explain the map's colour legend (wetter or drier categories, anomaly units).",
+        "'Breaking records' is reported second-hand ('much has been written'). It is not verified, so it is left out of the caption.",
+        "The page text is cut off at 'You can compare the predictions with wh...', so the comparison feature is unknown and is not mentioned.",
+        "No direct URL for Climate Dashboard is given. Check whether to link it as well.",
+        "No image credit or licence appears on the page, and the reuse policy is link_only. Confirm that a square crop is acceptable.",
+        "The source title and URL misspell 'Forecast' as 'Forcast'. The link is kept as given.",
+        "The alt text is generic because the visible content of the crop is not described in the source."
+      ],
+      "image_credit": "Map: Climate Dashboard via Maps Mania",
+      "caption": "Climate Dashboard's new El Niño Impacts map shows the rainfall effects models predict for this year's unusually strong El Niño, season by season through to May 2027.\n\nClick anywhere on the globe to see the forecast for that location, then switch between individual models to see where they agree and where they don't.\n\nFind out more: http://googlemapsmania.blogspot.com/2026/09/the-el-nino-forcast-map.html\n\nMap: Climate Dashboard via Maps Mania\n\n#Rainfall #Climate #Forecast #Maps #Geoawesome",
+      "x": "Climate Dashboard's new map shows predicted El Niño rainfall effects season by season through to May 2027. Click any location and compare individual models.\nhttp://googlemapsmania.blogspot.com/2026/09/the-el-nino-forcast-map.html\nMap: Climate Dashboard via Maps Mania\n#Rainfall #Climate #Forecast #Geoawesome",
+      "alt_text": "A world map from Climate Dashboard showing forecast El Niño rainfall effects across different regions."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-17-7-the-el-ni-o-forcast-map.jpg"
+  },
+  {
+    "item": {
+      "id": "tag:blogger.com,1999:blog-12158290.post-5586103619620964132",
+      "source_id": "maps_mania",
+      "source_name": "Maps Mania",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "The Satellites of Mars",
+      "link": "http://googlemapsmania.blogspot.com/2026/09/the-satellites-of-mars.html",
+      "published": "2026-09-29T07:32:37+00:00",
+      "summary": "There are lots of 3D maps that visualize the tens of thousands of human-made satellites orbiting the Earth, such as SatelliteeXplorer and James Darpinian's See a Satellite Tonight , which uses Google's Street View imagery to show you exactly where to look in the night sky if you want to watch a satellite passing overhead. Perigee takes a rather broader view of humanity's presence in space. As well as visualizing thousands of satellites orbiting the Earth, this impressive 3D viewer lets you explore spacecraft orbiting the Moon and Mars, and even track probes travelling through the wider Solar System. On Earth you can explore around 16,600 active catalogued satellites, with the option to filter them by operator, country, constellation, orbit type or launch site. You can also search for individual satellites by name or NORAD number and click on them to see details such as their operator, launch date and orbit. The same 3D interface can then be used to explore our planetary neighbours. Switch to the Moon to see active lunar orbiters such as LRO, Danuri, Chandrayaan-2 and CAPSTONE, along with more than 50 lunar landing and impact sites. On Mars you can explore the planet's orbiters, Pho",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmn2Ib22Zlr_seqeUfF2SLhs-J1mpWZGQ2tFT59rExFGF6y93LWUlh_U7aos6d4__edfpd_FwM-l5eccLAI7KrCdeLkKPqfffWhhDXRTFL_UsevRpOTldxwpWpFTd7YV2CP8m3mkESEnmQHam0PjCP7iDBH0zL1lpYrC4JoGVFOfsAWuFgknO2Cg/s1600/Screenrecording2026-09-298.25.48AM-ezgif.com-resize.gif",
+      "credit_hint": "via Maps Mania",
+      "source_tag": "",
+      "page_text": "There are lots of 3D maps that visualize the tens of thousands of human-made satellites orbiting the Earth, such as SatelliteeXplorer and James Darpinian's See a Satellite Tonight , which uses Google's Street View imagery to show you exactly where to look in the night sky if you want to watch a satellite passing overhead. Perigee takes a rather broader view of humanity's presence in space. As well as visualizing thousands of satellites orbiting the Earth, this impressive 3D viewer lets you explore spacecraft orbiting the Moon and Mars, and even track probes travelling through the wider Solar System. On Earth you can explore around 16,600 active catalogued satellites, with the option to filter them by operator, country, constellation, orbit type or launch site. You can also search for individual satellites by name or NORAD number and click on them to see details such as their operator, launch date and orbit. The same 3D interface can then be used to explore our planetary neighbours. Switch to the Moon to see active lunar orbiters such as LRO, Danuri, Chandrayaan-2 and CAPSTONE, along with more than 50 lunar landing and impact sites. On Mars you can explore the planet's orbiters, Pho",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmn2Ib22Zlr_seqeUfF2SLhs-J1mpWZGQ2tFT59rExFGF6y93LWUlh_U7aos6d4__edfpd_FwM-l5eccLAI7KrCdeLkKPqfffWhhDXRTFL_UsevRpOTldxwpWpFTd7YV2CP8m3mkESEnmQHam0PjCP7iDBH0zL1lpYrC4JoGVFOfsAWuFgknO2Cg/s1600/Screenrecording2026-09-298.25.48AM-ezgif.com-resize.gif",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "square_path": "drafts/images/2026-10-17-8-the-satellites-of-mars.jpg",
+      "image_note": "square crop, from 449px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 7.0,
+    "why": "3D viewer of satellites orbiting Earth; striking visual people can open and explore.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "Perigee is an interactive 3D viewer of human-made spacecraft, featured on Maps Mania. It shows around 16,600 active catalogued satellites around Earth, which you can filter and search, plus active lunar orbiters such as LRO, Danuri, Chandrayaan-2 and CAPSTONE, more than 50 lunar landing and impact sites, Mars orbiters and probes travelling through the wider Solar System. The post is titled 'The Satellites of Mars', but the page does not say what the featured image shows.",
+      "uncertainties": [
+        "The page does not say what the image shows. The title suggests the Mars view, but check the image before posting and confirm the alt text matches.",
+        "Low resolution: the square is upscaled from 449px of source width, so check sharpness.",
+        "No image credit or licence is stated, and the reuse policy is link_only. The credit 'Perigee via Maps Mania' is inferred from the text, which names Perigee as the viewer.",
+        "The page text is cut off in the Mars section, so the Mars orbiters are not named in the caption.",
+        "The source does not give a direct URL for Perigee. The link goes to the Maps Mania post.",
+        "The data source for the satellite catalogue and its update frequency are not stated."
+      ],
+      "image_credit": "Map: Perigee via Maps Mania",
+      "caption": "Around 16,600 active catalogued satellites orbit Earth, and Perigee puts them in one 3D viewer alongside the spacecraft at the Moon and Mars.\n\nFilter by operator, country, constellation, orbit type or launch site, search by name or NORAD number and click any satellite for its launch date and orbit, then switch to the Moon for LRO, Danuri, Chandrayaan-2, CAPSTONE and 50+ landing and impact sites.\n\nFull story: http://googlemapsmania.blogspot.com/2026/09/the-satellites-of-mars.html\n\nMap: Perigee via Maps Mania\n\n#Satellites #Mars #Moon #Space #Geoawesome",
+      "x": "Perigee shows around 16,600 active satellites around Earth in 3D, plus spacecraft at the Moon and Mars. Filter by operator, orbit type or launch site.\nhttp://googlemapsmania.blogspot.com/2026/09/the-satellites-of-mars.html\nMap: Perigee via Maps Mania\n#Satellites #Mars #Space #Geoawesome",
+      "alt_text": "Screenshot of the Perigee 3D viewer showing spacecraft and their orbits around a planet."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-17-8-the-satellites-of-mars.jpg"
+  },
+  {
+    "item": {
+      "id": "tag:blogger.com,1999:blog-12158290.post-6099203270777300968",
+      "source_id": "maps_mania",
+      "source_name": "Maps Mania",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "Using AI to Annotate Vintage Maps",
+      "link": "http://googlemapsmania.blogspot.com/2026/09/using-ai-to-annotate-vintage-maps.html",
+      "published": "2026-09-28T08:35:05+00:00",
+      "summary": "Bosphore 1819 is an interactive version of a beautiful 1819 topographical map of the Bosphorus. The original Plan Topographique du Bosphore de Thrace ou Canal de Constantinople et de ses environs was surveyed by François Kauffer between 1776 and 1786, before being redrawn and expanded by Jean-Denis Barbié du Bocage and published in 1819. The original map is wonderfully detailed, but navigating it isn't particularly easy - particularly if you can't speak or read French. Hundreds of villages, palaces, fortifications, streams, capes and other landmarks are labelled using French spellings of Ottoman Turkish names. Bosphore 1819 turns all those labels into a database that can be searched using the modern place-names of the region. There are 387 places mapped in total. Click on any label to see its name as it appears on the original map, its Ottoman Turkish name in both Latin and Arabic script, and the modern name. You can also search for a place using any of these three versions of its name and jump straight to its location on the map. The map itself is worth exploring even if you aren't particularly interested in historical Istanbul. Zooming into the beautifully detailed engraving reve",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipqm6VVWmDU8_dq1z2QHu-QmlYxn1m3AmTJJN6Jy5inbw07LzEd_A3QyFJzsfW9lCJg1xtz8wYw5BJRigB8Y0zYJDcwX-ZTJtdkf3qk98D44NNic_sNXLOmm0ursaVldYAJ-exBKcfchUpr2T3R3cd8vdog75w9WQiZ9AuKbWIQm6fct8jXrW5Bw/s1600/bos.png",
+      "credit_hint": "via Maps Mania",
+      "source_tag": "",
+      "page_text": "Bosphore 1819 is an interactive version of a beautiful 1819 topographical map of the Bosphorus. The original Plan Topographique du Bosphore de Thrace ou Canal de Constantinople et de ses environs was surveyed by François Kauffer between 1776 and 1786, before being redrawn and expanded by Jean-Denis Barbié du Bocage and published in 1819. The original map is wonderfully detailed, but navigating it isn't particularly easy - particularly if you can't speak or read French. Hundreds of villages, palaces, fortifications, streams, capes and other landmarks are labelled using French spellings of Ottoman Turkish names. Bosphore 1819 turns all those labels into a database that can be searched using the modern place-names of the region. There are 387 places mapped in total. Click on any label to see its name as it appears on the original map, its Ottoman Turkish name in both Latin and Arabic script, and the modern name. You can also search for a place using any of these three versions of its name and jump straight to its location on the map. The map itself is worth exploring even if you aren't particularly interested in historical Istanbul. Zooming into the beautifully detailed engraving reve",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipqm6VVWmDU8_dq1z2QHu-QmlYxn1m3AmTJJN6Jy5inbw07LzEd_A3QyFJzsfW9lCJg1xtz8wYw5BJRigB8Y0zYJDcwX-ZTJtdkf3qk98D44NNic_sNXLOmm0ursaVldYAJ-exBKcfchUpr2T3R3cd8vdog75w9WQiZ9AuKbWIQm6fct8jXrW5Bw/s1600/bos.png",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "square_path": "drafts/images/2026-10-17-9-using-ai-to-annotate-vintage-maps.jpg",
+      "image_note": "square crop, from 901px of source width"
+    },
+    "score": 7.0,
+    "why": "Interactive 1819 Bosphorus historical map annotated with AI; historical cartography with a hook.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "Bosphore 1819 is an interactive version of the 1819 'Plan Topographique du Bosphore de Thrace ou Canal de Constantinople et de ses environs', surveyed by François Kauffer between 1776 and 1786, then redrawn, expanded and published by Jean-Denis Barbié du Bocage in 1819. Its 387 labelled places can be searched by the original French spelling, the Ottoman Turkish name (in Latin and Arabic script) or the modern name. The square is a crop of the engraved map from the Maps Mania post.",
+      "uncertainties": [
+        "Reuse policy is 'link_only' and no image licence is stated. Check whether reposting the crop is allowed before publishing.",
+        "No image credit on the page. The maker of Bosphore 1819 is not named, so the credit uses the project name plus Maps Mania. Confirm the creator if possible.",
+        "The title mentions AI, but the supplied page text (truncated) never says how AI was used. The caption leaves the AI claim out.",
+        "The page text is cut off mid-sentence, so details later in the post are missing.",
+        "It is not clear which part of the Bosphorus the 901px source crop shows."
+      ],
+      "image_credit": "Map: Bosphore 1819 via Maps Mania",
+      "caption": "François Kauffer's 1776–1786 survey of the Bosphorus labels hundreds of places using French spellings of Ottoman Turkish names, and Bosphore 1819 has turned 387 of them into a searchable database.\n\nClick any label on the 1819 engraving to see the original spelling, the Ottoman Turkish name in Latin and Arabic script, and the modern name, or search by any of the three and jump straight to the spot.\n\nFind out more: http://googlemapsmania.blogspot.com/2026/09/using-ai-to-annotate-vintage-maps.html\n\nMap: Bosphore 1819 via Maps Mania\n\n#Cartography #Istanbul #Bosphorus #Gazetteer #Geoawesome",
+      "x": "An 1819 map of the Bosphorus, with 387 places now searchable by the original French label, the Ottoman Turkish name or the modern name.\nhttp://googlemapsmania.blogspot.com/2026/09/using-ai-to-annotate-vintage-maps.html\nMap: Bosphore 1819 via Maps Mania\n#Cartography #Istanbul #Geoawesome",
+      "alt_text": "A section of a finely engraved early 19th-century topographical map of the Bosphorus, with place names labelled in French."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-17-9-using-ai-to-annotate-vintage-maps.jpg"
+  },
+  {
+    "item": {
+      "id": "79b8588e91e1f7a3feee6e008442ef0b",
+      "source_id": "esa_eo",
+      "source_name": "ESA Observing the Earth",
+      "source_type": "eo_imagery",
+      "licence": "reuse",
+      "title": "EarthCARE’s view of volcanic plume boosts air safety",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_s_view_of_volcanic_plume_boosts_air_safety",
+      "published": "2026-10-01T07:30:00+00:00",
+      "summary": "When Anak Krakatau erupted a few weeks ago, the European Space Agency’s EarthCARE satellite, orbiting above, captured vertical profiles of different constituents within the volcanic plume. Designed primarily to advance our understanding of how clouds and aerosols influence Earth’s climate, here EarthCARE also provided valuable information to support safe air travel. At the same time, these observations offer new insights into the impact that volcanic eruptions have on the climate system.",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/anak_krakatau_eruption_by_sentinel-3/27456765-1-eng-GB/Anak_Krakatau_eruption_by_Sentinel-3_card_full.jpg",
+      "credit_hint": "ESA",
+      "source_tag": "@esa",
+      "page_text": "When Anak Krakatau erupted a few weeks ago, the European Space Agency’s EarthCARE satellite, orbiting above, captured vertical profiles of different constituents within the volcanic plume. Designed primarily to advance our understanding of how clouds and aerosols influence Earth’s climate, here EarthCARE also provided valuable information to support safe air travel.\nAt the same time, these observations offer new insights into the impact that volcanic eruptions have on the climate system.\nAnak Krakatau, which means Child of Krakatoa, has been active sporadically since it emerged from the sea at the beginning of the last century in the caldera formed after the 1883 eruption of Mount Krakatoa.\nWhile Anak Krakatau did not explode with the terrifying power of Krakatoa, which caused a devastating tsunami, today even relatively minor volcanic eruptions can have a major impact on air travel.\nLocated in the Sunda Strait between Sumatra and Java in Indonesia, Anak Krakatau started erupting on 4 September, leading to thousands of flights being grounded and hundreds of thousands of passengers stranded.\nVolcanic ash can damage or even cause aircraft engines to stall, while also reducing pilots’ visibility by scratching cockpit windows. Toxic gases, such as sulphur dioxide, can further contaminate the cabin air supply. To mitigate these risks, a global network of nine Volcanic Ash Advisory Centres (VAAC) is responsible for providing aviation advice, each with the responsibility for a specific part of the globe.\nThe Anak Krakatau eruption came under the remit of the Darwin VAAC, operated by the Australian Bureau of Meteorology (BOM), who were quick to add EarthCARE’s unique atmospheric lidar ( ATLID ) data to their suite of satellite monitoring tools.\nAlong with the cloud profiling radar (CPR), the multispectral imager (MSI) and the broadband radiometer (BBR), ATLID is one of EarthCARE’s four instruments – which are all used in in synergy to measure clouds and aerosols to deepen our understanding of how they regulate Earth’s energy balance.\nATLID is a highly specialised laser instrument. It sends pulses of ultraviolet light towards Earth and measures the light that scatters back to the satellite, providing a unique view of the tops of clouds and vertical profiles of atmospheric aerosols.\nNot only does ATLID yield important information about the altitude and concentration of aerosols, but it can also be used with advanced algorithms to estimate types of aerosol – such as ash, smoke, sulphate, sea salt and desert dust.\nThe image below uses a capture from Copernicus Sentinel-3 on 5 September overlaid with data from EarthCARE’s MSI, ATLID and CPR instruments. The image also notes aircraft flight levels: most aircraft cruise around FL350, which means 35,000 ft (about 10,700 m).\nThe swath from the MSI instrument shows the volcanic plume in false colour, with purple areas highlighting ash, and bright green indicating sulphur dioxide gas.\nAbove the MSI swath, the vertical curtain shows a range of different types of aerosols measured by ATLID and by the CPR. These aerosol types are spread in layers of optically thin and thick sulphate, fine ash, and a distinct feature of what is thought to be coarse ash (dark brown).\nThe area shaded in grey is a region where ATLID’s laser beam cannot penetrate through the optically thick layer of sulphate particles (orange) above, and where CPR lacks sensitivity to fine ash.\nRobin Hogan, from the European Centre for Medium-Range Weather Forecasts (ECMWF), explained, “The CPR has a very different sensitivity to atmospheric particles than ATLID: its much longer wavelength means that it is much more sensitive to large particles and much less sensitive to small particles. Normally we would expect the particles in a volcanic plume 200 km from the source to be too small to be detected by a radar.\n“However, thanks to the unprecedentedly high sensitivity of the CPR, it detects a feature extending from the surface up to around 6 km (dark brown), which is believed to correspond to larger ash aggregates that are settling out of the plume.”\nHelen Dacre, from the University of Reading in the UK, added, “If confirmed, this would provide useful evidence that large ash particles can remain aloft for longer, and travel farther, than is often assumed. The observation, therefore, offers a valuable opportunity to constrain both ash sedimentation rates and long-range transport processes in volcanic ash dispersion models.”\nWhile there remains speculation as to what’s actually in the grey area and this requires further study – the message is simple to the aviation authorities: do not fly aircraft here.\nAndy Prata of BOM said, “Together with the VAAC forecasters, we were able to verify the forecast guidance of the westward moving plume at FL500, which is at the altitude of around 15 km. ATLID was crucial to help forecasters verify the altitude of the upper-level component of the plume.”\nShannon Mason also from ECWMF said, “The separate, layered and interacting plumes of ash, clouds, gases and aerosols from volcanic eruptions are complex and evolve rapidly.\n“With a timely observation from EarthCARE we were able to grasp the vertical structure of this event in near-real time to inform aviation advice – and scientists will continue using EarthCARE’s measurements to better understand how ash and other volcanic aerosols behave in the hours and days after an eruption.”\nESA’s Alex Hoffmann added, “While immediately challenging for aviation, the impacts of major volcanic eruptions can be much longer lasting. Sulphate aerosols injected into the stratosphere by the 1883 Krakatoa eruption persisted for more than a year, reflecting incoming sunlight and causing temporary global cooling.\n“Understanding the injection altitude of volcanic material and its optical properties is particularly important to understand climate impacts – information that EarthCARE's lidar is well positioned to provide.”\nWith EarthCARE, sci",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/anak_krakatau_eruption_by_sentinel-3/27456765-1-eng-GB/Anak_Krakatau_eruption_by_Sentinel-3_pillars.jpg",
           "label": ""
         }
       ],
       "alt_images": [
         {
-          "url": "https://www-cdn.eumetsat.int/files/2026-10/IOTW%20Desert%20Dust.png",
+          "url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/anak_krakatau_eruption_by_sentinel-3/27456765-1-eng-GB/Anak_Krakatau_eruption_by_Sentinel-3_pillars.jpg",
           "label": ""
         },
         {
-          "url": "https://www-cdn.eumetsat.int/files/styles/3_4_large/public/2026-10/IOTW%20Desert%20Dust.png?h=baecbf55&itok=yjDE1ZzR",
+          "url": "https://www.esa.int/extension/pillars/design/pillars/images/play-button.svg",
           "label": ""
         },
         {
-          "url": "https://www-cdn.eumetsat.int/files/styles/16_9_medium/public/2026-10/IOTW%20Desert%20Dust.png?h=baecbf55&itok=hSFK8duW",
+          "url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/01/earthcare_instruments/25397044-1-eng-GB/EarthCARE_instruments_pillars.jpg",
           "label": ""
         },
         {
-          "url": "https://www-cdn.eumetsat.int/files/styles/1_1_small/public/2026-09/Tropical_Storm_Fay_2026-09-24T1250.png?h=d1cb525d&itok=POnkd4Ck",
+          "url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/earthcare_distinguishes_volcanic_aerosols/27545765-1-eng-GB/EarthCARE_distinguishes_volcanic_aerosols_article.jpg",
           "label": ""
         },
         {
-          "url": "https://www-cdn.eumetsat.int/files/styles/1_1_small/public/2026-09/Eumetsat_View_2026-09-14T1600.png?h=c7838f28&itok=cq-3PJro",
+          "url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2023/12/measuring_clouds_and_aerosols/25393714-1-eng-GB/Measuring_clouds_and_aerosols_pillars.png",
           "label": ""
         }
       ],
       "origin_url": "",
-      "square_path": "drafts/images/2026-10-17-3-image-of-the-week-dust-cloud-moves-over.jpg",
+      "square_path": "drafts/images/2026-10-17-10-earthcare-s-view-of-volcanic-plume-boost.jpg",
       "image_note": "square crop, from 1080px of source width"
     },
     "score": 7.0,
-    "why": "Meteosat view of Saharan dust sweeping across the Mediterranean; dramatic weather-satellite scene.",
+    "why": "EarthCARE vertical profiles of Anak Krakatau volcanic plume; dramatic eruption imaging with air-safety story.",
     "draft": {
       "worth_posting": true,
       "skip_reason": "",
-      "what_it_shows": "A geostationary satellite view of a dust cloud moving over the Mediterranean, captured by the FCI instrument on Meteosat-12 on 25 August 2026. The page does not say what the colours represent or which channel or RGB composite was used.",
+      "what_it_shows": "A Copernicus Sentinel-3 image from 5 September of the Anak Krakatau eruption, overlaid with data from EarthCARE's MSI, ATLID (lidar) and CPR (radar) instruments, with aircraft flight levels marked. The MSI swath shows the plume in false colour: purple is ash, bright green is sulphur dioxide. Above it, a vertical curtain shows aerosol layers: optically thin and thick sulphate (thick sulphate in orange), fine ash, and what is thought to be coarse ash (dark brown). A grey area marks where the lidar cannot penetrate the thick sulphate and the radar lacks sensitivity to fine ash.",
       "uncertainties": [
-        "Colour scheme / RGB composite not stated: do not describe what the colours mean.",
-        "The title says 'dust cloud' without stating its origin. Saharan dust is discussed only in general terms on the page, so the caption does not call this particular cloud Saharan.",
-        "Image licence is not stated and the reuse policy is link_only. Check whether reposting the square crop is permitted before using it.",
-        "The image is dated 25 August 2026 but was published 9 October 2026, so it is not current imagery.",
-        "The page also lists other weeks' images (Saharan dust over the Atlantic, Tropical Storm Fay, Balkan wildfire smoke, Etna ash, solar eclipse, MTG-I2 launch). Make sure the cropped image is the Mediterranean dust image.",
-        "The extent, density and size of the cloud are not given."
+        "No image credit on the page; 'ESA' is a fallback. The base layer is Copernicus Sentinel-3 data, so check whether a Copernicus credit should be added.",
+        "Image licence not stated on the page.",
+        "The square crop is taken from 1080px of the source width. Check that it keeps both the vertical curtain and the MSI swath, since the caption and alt text describe both.",
+        "The coarse ash feature is hedged in the source ('thought to be', 'believed to correspond to', 'if confirmed'). The caption keeps this hedge.",
+        "The year of the eruption is not stated in the page text (page published 2026-10-01, eruption 'a few weeks ago', starting 4 September).",
+        "The page text is truncated at the end."
       ],
-      "image_credit": "Image: EUMETSAT",
-      "caption": "Dust lifted by gusts of surface wind can be carried and deposited thousands of kilometres from where it started.\n\nThis view from the FCI instrument on @eumetsat's Meteosat-12, captured on 25 August 2026, shows a dust cloud moving over the Mediterranean. Over land, events like this can degrade air quality and delay flights. Over the sea, dust can fertilise phytoplankton blooms.\n\nFull story: http://www.eumetsat.int/image-week-dust-cloud-moves-over-mediterranean\n\nImage: EUMETSAT\n\n#Meteosat #Dust #Mediterranean #Geoawesome",
-      "x": "A dust cloud over the Mediterranean, seen by the FCI instrument on Meteosat-12 on 25 August 2026. Wind-lifted dust can travel thousands of kilometres.\nhttp://www.eumetsat.int/image-week-dust-cloud-moves-over-mediterranean\nImage: EUMETSAT\n#Meteosat #Dust #Geoawesome",
-      "alt_text": "Satellite image from Meteosat-12 showing a dust cloud moving over the Mediterranean region."
+      "image_credit": "Image: ESA",
+      "caption": "EarthCARE's radar spotted what is thought to be coarse ash about 200 km from Anak Krakatau, where particles are usually too small for radar to detect.\n\nIts lidar and radar curtain rises above a false-colour swath (purple: ash, bright green: sulphur dioxide) over a Sentinel-3 image from 5 September, with aircraft flight levels marked.\n\nFull story: https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_s_view_of_volcanic_plume_boosts_air_safety\n\nImage: ESA\n\n#Krakatau #Volcano #Aviation #Lidar #Geoawesome",
+      "x": "EarthCARE's radar spotted what is thought to be coarse ash about 200 km from Anak Krakatau, where particles are usually too small for radar to detect.\n\nhttps://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_s_view_of_volcanic_plume_boosts_air_safety\n\nImage: ESA\n\n#Krakatau #Volcano #Lidar #Geoawesome",
+      "alt_text": "A satellite image of a volcanic plume with a false-colour swath in purple and bright green, topped by a vertical curtain of coloured aerosol layers and marked aircraft flight levels."
     },
     "problems": {},
-    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-17-3-image-of-the-week-dust-cloud-moves-over.jpg"
-  },
-  {
-    "item": {
-      "id": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
-      "source_id": "google_research",
-      "source_name": "Google Research blog",
-      "source_type": "research",
-      "licence": "link_only",
-      "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
-      "link": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
-      "published": "2026-10-06T15:05:11+00:00",
-      "summary": "Earth AI",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/PDFMPublicHealth1-hero.jpg",
-      "credit_hint": "Google Research",
-      "source_tag": "@GoogleResearch",
-      "page_text": "Arbaaz Muslim, Software Engineer, Google Research, and Gautam Prasad, Software Engineer, Google Research\nWith Google Earth AI’s Population Dynamics Foundation Model (PDFM), we can address the data gaps and temporal reporting lags of existing epidemiological workflows. In our latest work, we present five partner-driven case studies demonstrating how this model exemplifies the planetary geospatial foundation model paradigm for global public health.\nPublic health decisions rely heavily on timely, granular data. For health conditions, such as cardiovascular disease or postpartum depression, that data shows us where to focus resources and support. For acute disease outbreaks, such as dengue or cholera, it can help inform urgent operational protocols and resource allocation. However, conventional epidemiological surveillance is often hindered by limitations in data: multi-year reporting lags, data siloed by rigid geopolitical boundaries, and data sparsity. Even without these limitations, traditional modeling approaches require extensive task-specific data collection and custom data engineering pipelines that are difficult to deploy during rapid outbreaks or in resource-constrained settings.\nTo address these systemic bottlenecks, we introduce a new paradigm in public health leveraging planetary geospatial foundation models. Using Google Earth AI’ s Population Dynamics Foundation Model (PDFM) as a proof-of-concept, we demonstrate how self-supervised, pre-trained representations of \"place\" can be integrated directly into existing health sciences and epidemiological workflows as plug-and-play inputs — enhancing the statistical and machine learning (ML) models epidemiologists already use, rather than building new pipelines from scratch. PDFM compresses privacy-preserving search trends, human mobility, built-environment density, and environmental determinants into location embeddings. Without requiring task-specific fine-tuning, these off-the-shelf location embeddings matched or improved on conventional inputs across a wide variety of disease domains, geographic settings, and epidemiological tasks.\nPart of Google Earth AI — our suite of geospatial models connecting satellite imagery, weather, anonymous search trends, human mobility, and other population dynamics — PDFM uses self-supervised learning to synthesize the following diverse, privacy-preserving signals into compact, versatile embeddings that serve as “fingerprints” for locations refreshed at a monthly cadence:\nRather than requiring researchers to collect and process these raw data streams themselves, PDFM embeddings can be easily plugged into existing ML workflows to provide ready-to-use geospatial context.\nPrior work showed that these embeddings are task-agnostic. Because these everyday signals capture the underlying social, behavioral, and environmental determinants of health, the same embeddings showed strong performance on filling gaps in a wide variety of CDC health metrics .\nHowever, establishing a new paradigm for global health carries a higher burden of proof. To meet this standard, we set out to demonstrate the value of PDFM embeddings across a wider variety of health challenges, and in different environments across the globe.\nOverview of Google Earth AI’s PDFM applied to a wide range of global health challenges.\nTo achieve this, our global health research partners facilitated independent evaluations across five distinct public health challenges — spanning diverse epidemiological tasks, resource settings, and disease types:\nMount Sinai Health System ; Boston Children’s Hospital\n+36% relative gain in explained variance (0.159 0.216, statistically significant) by capturing cross-border mobility and information spillovers.\nCardiovascular disease (noncommunicable disease)\nDepartment of Population Health, NYU Grossman School of Medicine\nContiguous United States (3,091 counties)\nComparable accuracy to census-based models for nowcasting (mean absolute error 18.7 vs 19.1 deaths per county; RMSE 46.00 vs 57.69; differences not statistically significant), making PDFM a timely stand-in when census data are outdated or unavailable.\nUniversity of Oxford and Tecnológico de Monterrey\nStatistically significant 1-month forecast gain ( Δ Weighted Interval Score = -0.0051, lower is better) via TimesFM integration, concentrated in active transmission hotspots. Accuracy improved in up to 72% of active transmission municipalities.\nInstitute on Human Development and Disability, University of Washington\nUnited States (CDC PRAMS) (332,970 respondents)\nTransferable gain in risk prediction (AUC +0.0020 on a 0.62 baseline in seen states; +0.0038 in unseen states). Encoded area poverty (R² = 0.45). Recovers about 15% of the predictive signal of income and insurance records.\nCholera emergence ( water-borne disease )\nDemocratic Republic of the Congo (403 health zones, 89 weeks)\nStatistically significant relative gains: +9.7% in Area Under the Precision-Recall Curve at 4 weeks; +18.1% Precision@5 (share of the model's five highest-risk zones each week that actually went on to have an outbreak) at 8 weeks, and +19.3% Precision@5 in endemic health zones.\nOur evaluations show that while epidemiological models are constrained by sovereign borders, the outcomes they track are not. For example, in the 146 U.S. counties situated within 150 km of the Canadian border, domestic-only models often struggle to predict local vaccine uptake.\nBy supplementing U.S. county embeddings with Canadian Forward Sortation Area embeddings , researchers at the Mount Sinai Health System and Boston Children’s Hospital developed models that captured cross-border behavioral and mobility spillovers. To help public health officials pinpoint communities at risk of measles outbreaks, the researchers used this added cross-border context to increase the share of variation in MMR vaccination coverage explained by the models from 16% to 22% (a 36% increase) and refine coverage estimates by at least 3 ",
-      "image_credit": "",
-      "image_licence": "",
-      "extra_images": [],
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-research2023-media/original_images/PDFMPublicHealth1-hero.jpg",
-          "label": ""
-        }
-      ],
-      "alt_images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
-          "label": ""
-        },
-        {
-          "url": "https://storage.googleapis.com/gweb-research2023-media/images/PDFMPublicHealth1-Overview.width-1250.png",
-          "label": ""
-        },
-        {
-          "url": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs_Cover.gif",
-          "label": ""
-        },
-        {
-          "url": "https://storage.googleapis.com/gweb-research2023-media/original_images/USS0291-Google_Research_Anthem_Film_Thumbnail4_1.jpg",
-          "label": ""
-        },
-        {
-          "url": "https://storage.googleapis.com/gweb-research2023-media/original_images/EarthAITechReport1_Overview.gif",
-          "label": ""
-        }
-      ],
-      "origin_url": "",
-      "square_path": "",
-      "image_note": "square crop, from 1183px of source width"
-    },
-    "score": 6.5,
-    "why": "Geospatial foundation models applied to public health; hero image likely shows map-based analysis, though the summary is thin.",
-    "draft": {
-      "worth_posting": false,
-      "skip_reason": "Research write-up with no identifiable map or Earth observation image: the only figure described is an overview diagram of PDFM applied to health challenges, and its contents cannot be described without guessing.",
-      "what_it_shows": "",
-      "uncertainties": [
-        "The page text does not describe the lead image. The only figure caption is 'Overview of Google Earth AI's PDFM applied to a wide range of global health challenges', which suggests a schematic rather than a map.",
-        "No image credit or licence is stated, and the reuse policy is link_only, so reposting the image itself is doubtful.",
-        "If the full post contains a map (for example of the 146 US counties within 150 km of the Canadian border, or the 403 DRC health zones), that figure could be reconsidered, but it is not in the source material provided.",
-        "The page text is truncated, and some case-study labels (for example the dengue and measles rows) are missing their disease or region headers."
-      ],
-      "image_credit": "",
-      "caption": "",
-      "x": "",
-      "alt_text": ""
-    },
-    "problems": {},
-    "image_url": ""
-  },
-  {
-    "item": {
-      "id": "5265 at http://www.eumetsat.int",
-      "source_id": "eumetsat",
-      "source_name": "EUMETSAT",
-      "source_type": "eo_imagery",
-      "licence": "link_only",
-      "title": "El Nino link hotter summers",
-      "link": "http://www.eumetsat.int/el-nino-link-hotter-summers",
-      "published": "2026-10-06T13:01:46+00:00",
-      "summary": "El Nino link hotter summers Sarah Leach Tue, 06/10/2026 - 15:01 Satellite data link El Niño to hotter, sunnier, drier summers across Europe Analysis of more than three decades of satellite data suggests this year's very strong El Niño may have amplified Europe's hot, dry summer A new case study using EUMETSAT satellite data and other long-term records shows that summers across much of Europe tend to be warmer, sunnier and drier during El Niño – a periodic warming of the tropical Pacific that can affect weather conditions around the world. Last Updated Published on The authors of a recent EUMETSAT case study say this year's extreme El Niño conditions may have partly amplified the hot, dry conditions seen across much of Europe in 2026. “El Niño and its cold counterpart, La Niña, both influence winds and rainfall across the tropics in different ways, increasing the risk of drought in some regions and flooding in others,” said Rob Roebeling, Climate Product Expert at EUMETSAT, and an author of the case study. “They are opposite phases of the El Niño–Southern Oscillation (ENSO), a natural cycle that is the biggest single source of year-to-year variation in the global climate. Effects in",
-      "image_url": "https://www-cdn.eumetsat.int/files/styles/16_9_large/public/2026-10/A-SPOT_.jpg?h=d1cb525d&itok=bg4mplJM",
-      "credit_hint": "EUMETSAT",
-      "source_tag": "@eumetsat",
-      "page_text": "Analysis of more than three decades of satellite data suggests this year's very strong El Niño may have amplified Europe's hot, dry summer\nThe authors of a recent EUMETSAT case study say this year's extreme El Niño conditions may have partly amplified the hot, dry conditions seen across much of Europe in 2026.\n“El Niño and its cold counterpart, La Niña, both influence winds and rainfall across the tropics in different ways, increasing the risk of drought in some regions and flooding in others,” said Rob Roebeling, Climate Product Expert at EUMETSAT, and an author of the case study. “They are opposite phases of the El Niño–Southern Oscillation (ENSO), a natural cycle that is the biggest single source of year-to-year variation in the global climate. Effects in the tropics are well documented, although each event differs in strength and in the regions it affects. Their influence at higher latitudes, including Europe, is often less clear.”\nAnalysing data that include at least six El Niño and six La Niña events since 1991, the study found that El Niño summers tended to be warmer, sunnier and drier than normal across much of Europe, while La Niña summers tended to be cooler, cloudier and wetter. The difference in average conditions between El Niño and La Niña summers is too large to be explained by natural variation alone across a broad area of Europe. The authors report that heat and drought seen in Western and Central Europe in summer 2026 were broadly consistent with this pattern.\n“This fits the idea that by altering large-scale patterns of rising and sinking air over the tropics, El Niño can trigger large scale meanders in jet streams that carry their influence on Europe, effects known as atmospheric teleconnections,” said Roebeling.\nThe Copernicus Climate Change Service (C3S) , implemented by the European Centre for Medium-Range Weather Forecasts (ECMWF) on behalf of the European Commission, reported that summer 2026 was Europe's third warmest on record and western Europe's warmest, 2.5°C above the 1991-2020 average, with a record 52% of the continent experiencing at least 'very strong' heat stress and near-record sea-surface temperatures observed across European seas.\nEl Niño effects come on top of the long-term warming from human-induced climate change, which the authors note remains the main driver of Europe's recent record-breaking summers, regardless of ENSO's phase – the continent's five warmest summers on record have all occurred since 2021.\n“In El Niño events of the past 35 years, European winters were on average milder and wetter than normal, followed by warmer and cloudier springs. But other factors, such as blocking weather systems or unusually warm seas, can strengthen or reduce El Niño's influence, so how this winter and next year will turn out remains uncertain,” said Roebeling.\n“The EUMETSAT case study draws on soil moisture and solar radiation climate normal and anomaly products from EUMETSAT’s Satellite Application Facilities. These recently introduced products adhere to World Meteorological Organization standards and reference periods and are available through EUMETSAT’s Climate Anomalies and Normals (CAN) service , alongside a range of other climate normal and anomaly products.”\nThe full case study is available on the EUMETSAT User Portal.\nInvestigating the impact of the El Niño Southern Oscillation on the European climate, using satellite data.\nIntroducing EUMETSAT’s new Climate Anomalies and Normals service.\nNew EUMETSAT service for tracking climate change is launched.",
-      "image_credit": "Copernicus Marine Service / EUMETSAT",
-      "image_licence": "",
-      "extra_images": [],
-      "images": [
-        {
-          "url": "https://www-cdn.eumetsat.int/files/styles/16_9_large/public/2026-10/A-SPOT_.jpg?h=d1cb525d&itok=bg4mplJM",
-          "label": ""
-        }
-      ],
-      "alt_images": [
-        {
-          "url": "https://www-cdn.eumetsat.int/files/2026-10/A-SPOT_.jpg",
-          "label": ""
-        },
-        {
-          "url": "https://www-cdn.eumetsat.int/files/styles/3_4_large/public/2026-10/A-SPOT_.jpg?h=d1cb525d&itok=jtcoIeUN",
-          "label": ""
-        },
-        {
-          "url": "https://www-cdn.eumetsat.int/files/styles/16_9_medium/public/2022-07/blazing_hot_sun_aspot_AdobeStock.jpg?h=d1cb525d&itok=a5SFKRCb",
-          "label": ""
-        },
-        {
-          "url": "https://www-cdn.eumetsat.int/files/styles/16_9_medium/public/2026-09/Sunshine%201.png?h=8fb3b515&itok=PQLsB8K5",
-          "label": ""
-        },
-        {
-          "url": "https://www-cdn.eumetsat.int/files/styles/16_9_medium/public/2026-09/aspot-1-pr.jpg?h=d1cb525d&itok=J3dtY6UV",
-          "label": ""
-        }
-      ],
-      "origin_url": "",
-      "square_path": "",
-      "image_note": "square crop, from 1080px of source width"
-    },
-    "score": 6.0,
-    "why": "El Niño and European summer link; maybe a map-based analysis but image is unclear.",
-    "draft": {
-      "worth_posting": false,
-      "skip_reason": "The page never describes its image (variable, date, region or colour scale), so we would have to guess what readers are looking at.",
-      "what_it_shows": "",
-      "uncertainties": [
-        "The image is credited to 'Copernicus Marine Service / EUMETSAT', but the page text does not say what it shows. A Copernicus Marine credit suggests an ocean product such as sea-surface temperature, but that is a guess, not sourced.",
-        "The case study's own data are EUMETSAT SAF soil moisture and solar radiation normals and anomalies from the CAN service. The credited image does not appear to come from those products, so the image may not illustrate the study's findings at all.",
-        "No date, region, sensor or colour legend is given for the image.",
-        "The core finding is hedged: El Niño 'may have partly amplified' Europe's 2026 summer. The authors say human-induced warming remains the main driver. Any future post must keep both points.",
-        "The 2.5°C above the 1991-2020 average and 52% 'very strong' heat stress figures come from C3S, not from the EUMETSAT study. They should be attributed to C3S if used.",
-        "Image licence is not stated, and the reuse policy is link_only.",
-        "Worth revisiting if the full case study on the EUMETSAT User Portal has a captioned map. For example, an El Niño minus La Niña summer composite of soil moisture or solar radiation over Europe would be a strong, explainable visual."
-      ],
-      "image_credit": "",
-      "caption": "",
-      "x": "",
-      "alt_text": ""
-    },
-    "problems": {},
-    "image_url": ""
-  },
-  {
-    "item": {
-      "id": "https://www.visualcapitalist.com/?p=206080",
-      "source_id": "visual_capitalist_maps",
-      "source_name": "Visual Capitalist (maps)",
-      "source_type": "maps",
-      "licence": "link_only",
-      "title": "Mapped: The Most Walkable Cities in the U.S. & Canada",
-      "link": "https://www.visualcapitalist.com/mapped-most-walkable-cities-us-canada/",
-      "published": "2026-10-11T18:01:37+00:00",
-      "summary": "San Francisco narrowly beats New York as the most walkable large city in the U.S. and Canada, while 90 of 130 cities remain car-dependent.",
-      "image_url": "https://www.visualcapitalist.com/wp-content/uploads/2026/10/The-Most-Walkable-Cities-in-the-US-and-Canada_Shareable.webp",
-      "credit_hint": "Visual Capitalist",
-      "source_tag": "@VisualCap",
-      "page_text": "Being able to walk to a grocery store, pharmacy, or café without getting in a car is an important consideration for many people choosing where to live.\nBut walkability depends on more than pedestrian-friendly streets. City boundaries also play a major role, helping explain why some smaller cities outperform much larger neighbors.\nThis map shows the 20 most walkable of the 130 U.S. and Canadian cities with at least 200,000 residents, using Walk Score’s 2021 city ranking, the latest it has published. Scores range from 0 to 100 and reflect proximity to everyday amenities, population density, and pedestrian-friendly infrastructure.\nEven the highest-ranked cities fall short of Walk Score’s 90-point threshold for a “Walker’s Paradise,” where daily errands don’t require a car.\nAll eight Northeastern cities in the 130-city ranking score above 50, averaging 74.7, and six make the top 20: New York, Jersey City, Boston, Newark, Philadelphia, and Buffalo. The West has seven top-20 cities, five in California, but its 39 cities average only 48.7.\nThe table below ranks the 20 most walkable cities in the U.S. and Canada by Walk Score on a 0–100 scale:\nCity limits help explain some of the surprising results. Walk Score rates roughly every block in a city, weighted by where people live, so a city whose borders contain mostly its dense urban core can score higher than one that stretches into the suburbs.\nThat’s how Jersey City (86.6) ranks third, ahead of Boston (82.8). It covers just 15 square miles of land across the Hudson River from Manhattan, about one-twentieth the area of New York City (300 square miles), according to Census Bureau data .\nSix other smaller cities in major metropolitan areas also make the top 20: Newark, Oakland, Long Beach, Arlington, Hialeah, and Santa Ana. Los Angeles shows the reverse pattern. Its 469 square miles include much of the San Fernando Valley, and it ranks 16th (68.6), behind neighboring Long Beach (73.3).\nVancouver ranks fifth (79.8). Across all 22 Canadian cities in the ranking, the average Walk Score is 47.6, nearly identical to the 47.8 average for the 108 U.S. cities.\nTransit is where Canadian cities pull ahead. They average a Transit Score of 51.8, compared with 36.0 for U.S. cities, and 17 of the 22 score higher on transit than on walkability. Among the 101 U.S. cities with a Transit Score, only New York and Charlotte do.\nThe table below shows the Walk Score of all 130 cities, along with their Transit Score and Bike Score:\nOne notable omission from the top 20 is Toronto. Its Transit Score of 78.2 is second only to New York’s (88.6), yet its Walk Score of 61.0 ranks 28th, below Buffalo (66.6) and Pittsburgh (62.4).\nCity boundaries help explain the difference. Toronto’s current borders date to a 1998 merger that combined the old City of Toronto with five neighboring municipalities, including the postwar suburbs of North York, Scarborough, and Etobicoke. Its score now blends downtown’s dense streets with suburban neighborhoods laid out for driving, all served by the same subway and bus network.\nThe same split appears in the suburbs north of Toronto. Markham (34.5) and Vaughan (34.8) both rank among the 25 least walkable cities, yet Markham’s Transit Score of 49.3 is higher than that of all but 17 of the 101 U.S. cities.\nSouthern cities average a Walk Score of 41.0 and account for 13 of the 20 least walkable cities, including eight of the bottom 10.\nChesapeake, Virginia (21.3), Fayetteville, North Carolina (21.4), and Winston-Salem, North Carolina (22.5) rank last. They’re the only three cities scoring below 25, a range where almost all errands require a car.\nMany of these cities have expansive boundaries. Chesapeake was created in 1963 when the small city of South Norfolk merged with what remained of Norfolk County, and it now covers 338 square miles of land. Jacksonville (25.6) and Nashville (28.8), also in the bottom 10, merged with their surrounding counties in 1968 and 1963, respectively.\nNorth Carolina’s six cities in the ranking all fall in the bottom 14, from Raleigh (31.3) down to Fayetteville. From 1959 until 2011, state law let cities annex neighboring areas without the consent of landowners there. Charlotte (26.4) now covers 308 square miles of land, more than New York City (300).\nLow walkability can have financial consequences for residents who depend on cars for everyday trips. Among households with auto loans, car ownership costs amount to 18.8% of median household income in Alabama and 17.8% in Florida, compared with 10.6% in Massachusetts, home to fourth-ranked Boston.\nWhile these figures reflect statewide costs rather than individual cities, they highlight the broader financial importance of transportation options.\nIf you enjoyed today’s post, check out the global cities residents rate as most walkable on Voronoi.\nMapped: Unemployment Rates Across Europe in 2026\nRanked: The 15 Best Colleges in America for 2027\nRanked: The World’s Biggest Carbon Emitters\nRanked: America’s Biggest Farm Economies in 2025\nRanked: The World’s Best and Worst Cities for the Environment\nMapped: Where China Out-Trades the U.S. and EU (2000 vs. 2025)\nMapped: America’s Fastest-Growing Major Cities\nCharted: The Three Waves of the U.S. Trade Deficit (1990–2026)\nMore than half of global emissions come from just three countries. This ranking shows where every major emitter stands.\nChina is the world’s largest greenhouse gas emitter by a wide margin, but how do other major economies compare?\nThis graphic ranks countries by their share of global greenhouse gas emissions in 2025, using data from the European Commission’s Emissions Database for Global Atmospheric Research ( EDGAR ). Global shares exclude international aviation and shipping.\nChina leads the ranking with nearly 16 billion metric tons of greenhouse gas emissions in 2025, roughly 2.7 times the U.S. total. India ranks third, followed by Russia and Indonesia.\nTogether, the five largest emitters account for nearly 58% of gl",
-      "image_credit": "",
-      "image_licence": "",
-      "extra_images": [],
-      "images": [
-        {
-          "url": "https://www.visualcapitalist.com/wp-content/uploads/2026/10/The-Most-Walkable-Cities-in-the-US-and-Canada.webp",
-          "label": ""
-        }
-      ],
-      "alt_images": [
-        {
-          "url": "https://www.visualcapitalist.com/wp-content/uploads/2026/10/The-Most-Walkable-Cities-in-the-US-and-Canada.webp",
-          "label": ""
-        }
-      ],
-      "origin_url": "",
-      "square_path": "drafts/images/2026-10-17-6-mapped-the-most-walkable-cities-in-the-u.jpg",
-      "image_note": "square crop, from 1200px of source width"
-    },
-    "score": 6.0,
-    "why": "Walkable cities map with geographic pattern across US and Canada; moderately interesting.",
-    "draft": {
-      "worth_posting": true,
-      "skip_reason": "",
-      "what_it_shows": "A Visual Capitalist map of the 20 most walkable of the 130 U.S. and Canadian cities with at least 200,000 residents, based on Walk Score's 2021 city ranking (the latest it has published). Scores run from 0 to 100 and reflect proximity to everyday amenities, population density and pedestrian infrastructure. New York leads, Jersey City (86.6) is third ahead of Boston (82.8), and no city reaches the 90-point 'Walker's Paradise' threshold.",
-      "uncertainties": [
-        "Reuse policy is 'link_only' and no image licence is stated. Confirm Visual Capitalist permits reposting the map as an image before publishing, or post as a link only.",
-        "No image credit was given on the page, so the credit falls back to the publisher, Visual Capitalist.",
-        "The page text does not describe the map's design (symbols, colour scale, labels), so the alt text is kept generic. Check it against the actual image.",
-        "The data is Walk Score's 2021 ranking, published in 2026. It may not reflect current conditions.",
-        "The page gives New York's position but not its own score in the text. The caption avoids quoting it.",
-        "Areas are given in square miles only. They are kept as stated rather than converted.",
-        "The page text after the walkability article (emissions ranking, related links) is unrelated and was ignored."
-      ],
-      "image_credit": "Map: Visual Capitalist",
-      "caption": "Jersey City scores 86.6 on Walk Score, third among 130 U.S. and Canadian cities, from just 15 square miles of land.\n\nThe map marks the 20 most walkable cities with 200,000+ residents (Walk Score 2021, the latest ranking) and shows how city limits shape scores: Toronto, merged with its suburbs in 1998, ranks 28th despite the second-best Transit Score.\n\nFull story: https://www.visualcapitalist.com/mapped-most-walkable-cities-us-canada/\n\nMap: Visual Capitalist\n\n#Walkability #Cities #Cartography #Urbanism #Geoawesome",
-      "x": "Jersey City scores 86.6 on Walk Score, third among 130 U.S. and Canadian cities, from just 15 square miles of land. City limits shape the ranking.\nhttps://www.visualcapitalist.com/mapped-most-walkable-cities-us-canada/\nMap: Visual Capitalist\n#Walkability #Cartography #Cities #Geoawesome",
-      "alt_text": "A map of the United States and Canada marking the 20 most walkable cities with at least 200,000 residents, ranked by Walk Score."
-    },
-    "problems": {},
-    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-17-6-mapped-the-most-walkable-cities-in-the-u.jpg"
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-17-10-earthcare-s-view-of-volcanic-plume-boost.jpg"
   }
 ]
