@@ -134,12 +134,43 @@ def make_square(images: list[Image.Image], labels: list[str]) -> tuple[Image.Ima
     return sq, src
 
 
+def _build_single(item: Item, out_path: Path, fetch) -> Item:
+    """Try the pick and then each fallback; take the first that is big enough
+    for a sharp square, or else the largest one that downloaded."""
+    best, best_px, best_c, errors = None, -1, None, []
+    for c in [*item.images, *item.alt_images]:
+        try:
+            pic = fetch(c["url"])
+        except Exception as exc:
+            errors.append(str(exc))
+            continue
+        px = min(pic.size)
+        if px > best_px:
+            best, best_px, best_c = pic, px, c
+        if px >= LOW_RES:
+            break
+    if best is None:
+        item.image_note = f"image download failed: {'; '.join(errors)[:300]}"
+        return item
+    item.images = [best_c]
+    square, src_px = make_square([best], [""])
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    square.save(out_path, "JPEG", quality=90, optimize=True, progressive=True)
+    item.square_path = str(out_path)
+    item.image_note = f"square crop, from {src_px}px of source width"
+    if src_px < LOW_RES:
+        item.image_note += " (low resolution: upscaled, check sharpness)"
+    return item
+
+
 def build(item: Item, out_path: Path, fetch=None) -> Item:
     """Download the item's image(s), write the square JPEG, record notes."""
     fetch = fetch or download
     if not item.images:
         item.image_note = "no image found on the page"
         return item
+    if len(item.images) == 1 and item.alt_images:
+        return _build_single(item, out_path, fetch)
     try:
         pics = [fetch(i["url"]) for i in item.images[:2]]
     except Exception as exc:

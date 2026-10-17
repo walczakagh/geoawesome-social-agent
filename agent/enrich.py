@@ -9,7 +9,7 @@ from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
 
-from .scout import HEADERS, Item
+from .scout import HEADERS, Item, _full_size
 
 MAX_TEXT = 6000
 
@@ -23,8 +23,27 @@ def _clean(url: str) -> str:
     return url.split("?")[0] if "assets.science.nasa.gov" in url else url
 
 
+# Images that are never the visual a post wants: CMS thumbnails, locator maps,
+# logos, and news-agency photos (Reuters, AP, Getty) that nobody may repost.
+_BAD = re.compile(
+    r"cq5dam\.thumbnail|/renditions/|[_-]th\.(?:jpe?g|png)|locator|logo|favicon|avatar|"
+    r"headshot|portrait|RTRMADP|reuters|getty|gettyimages|shutterstock|apimages|/AP\d|"
+    r"[_-]AP[_-]|alamy|afp[_-]",
+    re.I)
+
+
+def usable(url: str) -> bool:
+    return bool(url) and not _BAD.search(url)
+
+
+def _story_slug(link: str) -> str:
+    return link.rstrip("/").rsplit("/", 1)[-1].lower()
+
+
 def pick_images(item: Item, soup: BeautifulSoup) -> list[dict]:
-    """Best image(s) for a square post. Two entries = before/after pair."""
+    """Ranked image candidates for a square post. If the first two carry
+    labels they are a before/after pair; otherwise the first is the pick and
+    the rest are fallbacks (images.py moves on when one is too small)."""
     base = item.link
 
     # NASA before/after slider: <img-comparison-slider><img slot="first"> <img slot="second">
@@ -37,22 +56,45 @@ def pick_images(item: Item, soup: BeautifulSoup) -> list[dict]:
             return [{"url": urljoin(base, _clean(imgs[0])), "label": labels[0]},
                     {"url": urljoin(base, _clean(imgs[1])), "label": labels[1]}]
 
+    found: list[str] = []
+
     # ESA image pages: "HI-RES JPG" download link
     for a in soup.find_all("a", href=True):
         if "HI-RES JPG" in a.get_text(" ", strip=True).upper():
-            return [{"url": urljoin(base, a["href"]), "label": ""}]
+            found.append(urljoin(base, a["href"]))
 
-    # NASA single image: first figure credited to NASA
-    for fig in soup.select("figure"):
-        cred = fig.select_one(".hds-credits")
-        img = fig.find("img")
-        if img and img.get("src") and (cred is None or "NASA" in cred.get_text()):
-            if "assets.science.nasa.gov" in img["src"]:
-                return [{"url": urljoin(base, _clean(img["src"])), "label": ""}]
+    # NASA: the feed's lead image is the story's main image at full size.
+    # Page figures only count when they sit in this story's own asset folder
+    # (pages also show related stories' thumbnails and a small locator map).
+    if "science.nasa.gov" in base:
+        slug = _story_slug(base)
+        if "assets.science.nasa.gov" in item.image_url:
+            found.append(_clean(item.image_url))
+        for fig in soup.select("figure"):
+            cred = fig.select_one(".hds-credits")
+            img = fig.find("img")
+            src = img.get("src", "") if img else ""
+            if (src and "assets.science.nasa.gov" in src and slug in src.lower()
+                    and (cred is None or "NASA" in cred.get_text())):
+                found.append(urljoin(base, _clean(src)))
 
+    # Everything else: the feed's own image first (for Bellingcat or Maps Mania
+    # it is the satellite screenshot or the map), then the page's preview image.
+    found.append(_full_size(item.image_url))
     og = _meta(soup, "og:image")
-    url = og or item.image_url
-    return [{"url": urljoin(base, url), "label": ""}] if url else []
+    if og:
+        found.append(urljoin(base, og))
+    for img in soup.select("article img, main img, .entry-content img"):
+        src = img.get("src") or img.get("data-src") or ""
+        if src.startswith(("http", "/")):
+            found.append(urljoin(base, src))
+
+    out, seen = [], set()
+    for u in found:
+        if usable(u) and u not in seen:
+            seen.add(u)
+            out.append({"url": u, "label": ""})
+    return out
 
 
 def _origin_link(soup: BeautifulSoup) -> str:
@@ -65,7 +107,11 @@ def _origin_link(soup: BeautifulSoup) -> str:
 
 def extract(item: Item, page_html: str) -> Item:
     soup = BeautifulSoup(page_html, "html.parser")
-    item.images = pick_images(item, soup)
+    ranked = pick_images(item, soup)
+    if len(ranked) >= 2 and ranked[0]["label"] and ranked[1]["label"]:
+        item.images, item.alt_images = ranked[:2], []
+    else:
+        item.images, item.alt_images = ranked[:1], ranked[1:6]
     if item.source_type == "maps":
         item.origin_url = _origin_link(soup)
     for t in soup(["script", "style", "nav", "header", "footer", "noscript"]):
@@ -126,6 +172,6 @@ def enrich(item: Item, timeout: int = 20) -> Item:
     except Exception as exc:
         print(f"[enrich] {item.link}: {exc}")
         item.page_text = item.summary
-        if item.image_url:
-            item.images = [{"url": item.image_url, "label": ""}]
+        if usable(item.image_url):
+            item.images = [{"url": _full_size(item.image_url), "label": ""}]
         return item
