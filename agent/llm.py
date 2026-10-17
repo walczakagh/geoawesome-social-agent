@@ -164,7 +164,7 @@ def draft(it: Item, rules: dict, check_fn, ask=None) -> tuple[dict, dict]:
             {"role": "assistant", "content": reply},
             {"role": "user", "content":
                 "These versions break the template rules:\n" + listing +
-                "\n\n(caption = the Facebook/Instagram/YouTube text, x = the X text.) Fix only what is "
+                "\n\nFix only what is "
                 "listed. Keep everything else and keep the facts grounded in the source. "
                 "Return the full JSON object again."},
         ]

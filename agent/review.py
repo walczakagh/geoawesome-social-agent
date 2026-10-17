@@ -5,6 +5,16 @@ import os
 from pathlib import Path
 
 
+LABELS = {"facebook": "Facebook", "instagram": "Instagram",
+          "youtube": "YouTube Community", "x": "X (via Buffer)"}
+
+
+def platform_text(draft: dict, kind: str) -> str:
+    """The text for one platform; drafts written before 17 Oct 2026 had one
+    shared "caption" for Facebook, Instagram and YouTube."""
+    return draft.get(kind) or (draft.get("caption", "") if kind != "x" else "")
+
+
 def image_urls(path: str) -> tuple[str, str]:
     """(url to show in the issue, raw url to download / hand to Metricool)."""
     repo = os.environ.get("GITHUB_REPOSITORY", "")
@@ -23,13 +33,13 @@ def render(results: list[dict], run_date: str, sources: dict | None = None) -> s
     if not ready:
         out.append("No items worth posting today.")
     else:
-        out.append(f"{len(ready)} post(s) ready. Each has a 1080×1080 image, a caption for "
-                   "Facebook, Instagram and YouTube Community, and an X version. "
-                   "Nothing has been posted.")
+        out.append(f"{len(ready)} post(s) ready. Each has a 1080×1080 image and its own text for "
+                   "Facebook, Instagram, YouTube Community and X. Nothing has been posted.")
         out += ["", "**To publish:** tick the box under a post. It is queued for the next free "
                 "time slot and posted to Facebook and Instagram; a comment here confirms the time. "
-                "Edit the caption in this issue first if you want to change it (the text in the "
-                "caption box is what gets posted). Untick before the slot to cancel."]
+                "Edit a text in this issue first if you want to change it (what is in the box is "
+                "what gets posted). Untick before the slot to cancel. When it is live, a comment "
+                "@mentions you with the YouTube Community text and the X text for Buffer."]
     out.append("")
 
     for n, r in enumerate(ready, 1):
@@ -64,11 +74,10 @@ def render(results: list[dict], run_date: str, sources: dict | None = None) -> s
         if probs:
             out.append("**Rule problems left after one fix attempt:**")
             for k, v in probs.items():
-                out.append(f"- {'X' if k == 'x' else 'Caption'}: {'; '.join(v)}")
+                out.append(f"- {LABELS.get(k, k)}: {'; '.join(v)}")
             out.append("")
-        out += ["**Facebook · Instagram · YouTube Community**", "", "```text",
-                d.get("caption", ""), "```", "",
-                "**X**", "", "```text", d.get("x", ""), "```", ""]
+        for k in ("facebook", "instagram", "youtube", "x"):
+            out += [f"**{LABELS[k]}**", "", "```text", platform_text(d, k), "```", ""]
         if d.get("alt_text"):
             out += [f"**Alt text:** {d['alt_text']}", ""]
 

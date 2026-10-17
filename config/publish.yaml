@@ -33,6 +33,12 @@ instagram_user_id: ""
 
 networks: [facebook, instagram]
 
+# Posted by hand. When a post is live on Facebook and Instagram, a comment on
+# the issue @mentions the repo owner (GitHub emails it) with the YouTube
+# Community text and the X text for Buffer, plus the image link.
+manual: [youtube, x]
+youtube_channel_id: "UCqGv3p_twfy-LT86l52Wzdg"
+
 graph_version: v26.0   # current as of Oct 2026; Meta supports each version about 2 years
 
 # A network that fails is retried on the next runs (10 minutes apart), up to this many times.
