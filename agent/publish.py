@@ -86,29 +86,56 @@ def _save(p: Path, data) -> None:
                  encoding="utf-8")
 
 
+def _specs(cfg: dict) -> list[tuple[str, str | None]]:
+    """Slots as (start, end): "16:00" is a point slot, ["16:00", "20:00"] a window."""
+    out = []
+    for s in cfg["slots"]:
+        if isinstance(s, (list, tuple)):
+            out.append((s[0], s[1]))
+        else:
+            out.append((s, None))
+    return out
+
+
+def _at(day, hhmm: str, tz) -> datetime:
+    h, m = map(int, hhmm.split(":"))
+    return datetime(day.year, day.month, day.day, h, m, tzinfo=tz).astimezone(timezone.utc)
+
+
 def next_slot(now: datetime, taken: set[str], cfg: dict) -> datetime:
-    """Earliest configured slot at least min_lead_minutes away and not taken (UTC)."""
+    """Start of the earliest free slot (UTC) that can still be met at least
+    min_lead_minutes from now. A window counts while some of it is left."""
     tz = ZoneInfo(cfg["timezone"])
     earliest = now + timedelta(minutes=cfg.get("min_lead_minutes", 30))
     day = now.astimezone(tz).date()
     for _ in range(366):
-        for hhmm in cfg["slots"]:
-            h, m = map(int, hhmm.split(":"))
-            t = datetime(day.year, day.month, day.day, h, m, tzinfo=tz).astimezone(timezone.utc)
-            if t >= earliest and t.isoformat() not in taken:
+        for start, end in _specs(cfg):
+            t = _at(day, start, tz)
+            last = _at(day, end, tz) if end else t
+            if last >= earliest and t.isoformat() not in taken:
                 return t
         day += timedelta(days=1)
     raise RuntimeError("no free slot within a year")
 
 
 def jittered(base: datetime, now: datetime, cfg: dict, rng=random) -> datetime:
-    """Actual posting time: a random minute within +/- jitter_minutes of the
-    base slot, never sooner than min_lead_minutes from now."""
-    j = int(cfg.get("jitter_minutes", 0))
-    t = base + timedelta(minutes=rng.randint(-j, j)) if j else base
+    """Actual posting time for the slot starting at `base`, never sooner than
+    min_lead_minutes from now.
+    Window slot: a random minute inside the window.
+    Point slot: a random minute within +/- jitter_minutes of it."""
+    tz = ZoneInfo(cfg["timezone"])
     earliest = now + timedelta(minutes=cfg.get("min_lead_minutes", 30))
-    if t < earliest:
-        t = earliest + timedelta(minutes=rng.randint(0, max(j, 1)))
+    local = base.astimezone(tz)
+    end = next((e for s, e in _specs(cfg) if s == local.strftime("%H:%M")), None)
+    if end:
+        lo = max(base, earliest)
+        hi = _at(local.date(), end, tz)
+        t = lo + timedelta(minutes=rng.randint(0, max(int((hi - lo).total_seconds() // 60), 0)))
+    else:
+        j = int(cfg.get("jitter_minutes", 0))
+        t = base + timedelta(minutes=rng.randint(-j, j)) if j else base
+        if t < earliest:
+            t = earliest + timedelta(minutes=rng.randint(0, max(j, 1)))
     return t.replace(second=0, microsecond=0)
 
 

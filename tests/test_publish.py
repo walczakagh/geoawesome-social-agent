@@ -183,3 +183,29 @@ def test_jitter_never_earlier_than_lead_time():
         base = publish.next_slot(now, set(), cfg)
         t = publish.jittered(base, now, cfg, random.Random(seed))
         assert t >= now + publish.timedelta(minutes=30)
+
+
+def test_window_slots_pick_random_time_inside_window():
+    import random
+    cfg = {**CFG, "slots": [["06:00", "10:00"], ["16:00", "20:00"]]}
+    now = datetime(2026, 10, 17, 12, 0, tzinfo=timezone.utc)      # Sat 14:00 Warsaw
+    queue, pub = [], {}
+    publish.enqueue(9, issue_body((True, True)), now, cfg, queue, pub, rng=random.Random(3))
+    local = [datetime.fromisoformat(q["slot"]).astimezone(publish.ZoneInfo("Europe/Warsaw"))
+             for q in queue]
+    assert local[0].date().day == 17 and 16 <= local[0].hour < 20     # today's afternoon window
+    assert local[1].date().day == 18 and 6 <= local[1].hour < 10      # tomorrow morning window
+    for t in local:
+        assert t.second == 0
+
+
+def test_window_already_open_starts_after_lead_time():
+    import random
+    cfg = {**CFG, "slots": [["16:00", "20:00"]]}
+    now = datetime(2026, 10, 17, 16, 30, tzinfo=timezone.utc)     # 18:30 Warsaw, inside window
+    for seed in range(20):
+        base = publish.next_slot(now, set(), cfg)
+        t = publish.jittered(base, now, cfg, random.Random(seed))
+        assert now + publish.timedelta(minutes=30) <= t <= datetime(2026, 10, 17, 18, 0, tzinfo=timezone.utc)
+    late = datetime(2026, 10, 17, 17, 45, tzinfo=timezone.utc)    # 19:45: too late for today
+    assert publish.next_slot(late, set(), cfg).day == 18
