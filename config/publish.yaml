@@ -31,5 +31,5 @@ networks: [facebook, instagram]
 
 graph_version: v26.0   # current as of Oct 2026; Meta supports each version about 2 years
 
-# A network that fails is retried on the next hourly run, up to this many times.
+# A network that fails is retried on the next runs (10 minutes apart), up to this many times.
 max_attempts: 3

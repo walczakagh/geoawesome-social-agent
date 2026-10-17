@@ -260,7 +260,7 @@ def run_due(now: datetime, cfg: dict, queue: list[dict], published: dict,
                 rec.setdefault("errors", {})[net] = str(exc)[:300]
                 left = cfg.get("max_attempts", 3) - rec["attempts"][net]
                 lines.append(f"- ⚠️ {net.title()} failed: {str(exc)[:300]}"
-                             + (f" (will retry next hour, {left} left)" if left else " (giving up)"))
+                             + (f" (will retry in about 10 minutes, {left} left)" if left else " (giving up)"))
         pending = [n for n in cfg.get("networks", []) if n not in rec
                    and rec["attempts"].get(n, 0) < cfg.get("max_attempts", 3)]
         if not pending:
