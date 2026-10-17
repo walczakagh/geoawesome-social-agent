@@ -12,7 +12,8 @@ timezone: Europe/Warsaw
 #   "16:00"             a fixed time: the post goes out within +/- jitter_minutes
 slots:
   - ["06:00", "10:00"]
-  - ["16:00", "20:00"]
+  - ["16:00", "21:00"]
+  - ["11:00", "15:00"]
 
 # Only used for fixed-time slots (see above).
 jitter_minutes: 40
