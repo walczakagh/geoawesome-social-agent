@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import os
+from pathlib import Path
 
 
 def image_urls(path: str) -> tuple[str, str]:
@@ -25,6 +26,10 @@ def render(results: list[dict], run_date: str, sources: dict | None = None) -> s
         out.append(f"{len(ready)} post(s) ready. Each has a 1080×1080 image, a caption for "
                    "Facebook, Instagram and YouTube Community, and an X version. "
                    "Nothing has been posted.")
+        out += ["", "**To publish:** tick the box under a post. It is queued for the next free "
+                "time slot and posted to Facebook and Instagram; a comment here confirms the time. "
+                "Edit the caption in this issue first if you want to change it (the text in the "
+                "caption box is what gets posted). Untick before the slot to cancel."]
     out.append("")
 
     for n, r in enumerate(ready, 1):
@@ -33,6 +38,9 @@ def render(results: list[dict], run_date: str, sources: dict | None = None) -> s
         rights = ("Publisher allows reuse with credit." if it.get("licence") == "reuse" else
                   "Someone else's map: the credit line names them; ask them first if unsure.")
         out += ["---", "", f"## {n}. {it['title']}", ""]
+        if it.get("square_path"):
+            out += [f"<!-- post:{Path(it['square_path']).stem} -->",
+                    "- [ ] **Publish on Facebook + Instagram**", ""]
         if show:
             out += [f'<img src="{show}" width="420">', "",
                     f"[Download square image]({raw}) · {it.get('image_note', '')}", ""]
