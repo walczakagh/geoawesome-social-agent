@@ -209,3 +209,13 @@ def test_window_already_open_starts_after_lead_time():
         assert now + publish.timedelta(minutes=30) <= t <= datetime(2026, 10, 17, 18, 0, tzinfo=timezone.utc)
     late = datetime(2026, 10, 17, 17, 45, tzinfo=timezone.utc)    # 19:45: too late for today
     assert publish.next_slot(late, set(), cfg).day == 18
+
+
+def test_windows_fill_in_time_order_whatever_the_list_order():
+    import random
+    cfg = {**CFG, "slots": [["06:00", "10:00"], ["16:00", "21:00"], ["11:00", "15:00"]]}
+    now = datetime(2026, 10, 18, 4, 0, tzinfo=timezone.utc)     # 06:00 Warsaw
+    b1 = publish.next_slot(now, set(), cfg)
+    b2 = publish.next_slot(now, {b1.isoformat()}, cfg)
+    b3 = publish.next_slot(now, {b1.isoformat(), b2.isoformat()}, cfg)
+    assert [b.astimezone(publish.ZoneInfo("Europe/Warsaw")).hour for b in (b1, b2, b3)] == [6, 11, 16]

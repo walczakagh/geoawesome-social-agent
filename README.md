@@ -11,7 +11,7 @@ Everything lands in a GitHub issue for review. Nothing is posted automatically.
 ## How a run works
 
 1. **Scout** (`agent/scout.py`): reads the feeds in `config/sources.yaml` and the Google Alerts feeds in the `GOOGLE_ALERTS_FEEDS` secret, and keeps items from the last 7 days that have not been seen before (`state/seen.json`). Redirect links (Google Alerts, Bing) are unwrapped to the real article, the same article arriving from two feeds is kept once, sites in `exclude_domains` are dropped, and `max_new` caps busy feeds.
-2. **Shortlist** (`agent/llm.py`, Claude Haiku, `prompts/shortlist_system.md`): scores every new item (in batches of 40) on whether the visual would stop a geodata reader scrolling: satellite scenes, interactive maps and portals, story maps, geo data-vis. Each item carries its site's record from your alerts sheet (`config/editor_history.yaml`, e.g. "picked 24 of 49"). Keeps up to 6 scoring 6/10 or more.
+2. **Shortlist** (`agent/llm.py`, Claude Haiku, `prompts/shortlist_system.md`): scores every new item (in batches of 20) on whether the visual would stop a geodata reader scrolling: satellite scenes, interactive maps and portals, story maps, geo data-vis. Each item carries its site's record from your alerts sheet (`config/editor_history.yaml`, e.g. "picked 24 of 49"). Keeps up to `drafts_per_day` items scoring at least `min_score`, both set in `config/drafts.yaml`.
 3. **Enrich** (`agent/enrich.py`): opens each page and takes the caption text, the credit and licence lines, and the best image: ESA's HI-RES JPG, NASA's before/after pair (with its dates) or lead image, otherwise the page's preview image. For Maps Mania posts it also records where the featured map lives, so its maker can be credited.
 4. **Square image** (`agent/images.py`): downloads the image and crops it to 1:1 around the most detailed part of the scene, then saves it at 1080×1080. A before/after pair becomes one square with the earlier date on top and the later below, both cropped to the same ground area and labelled with their dates. Small sources are flagged as low resolution.
 5. **Caption** (Claude Opus, `prompts/draft_system.md`): writes the caption, the X version, alt text, a "what it shows" note for you and a list of things to check. It may only use facts from the page.
@@ -81,7 +81,7 @@ Metricool's REST API is only on its Advanced and Custom plans, so the repo does 
 - **Add a source**: append to `config/sources.yaml` with `licence: reuse` only if the publisher's terms allow reuse with credit; otherwise `link_only`.
 - **Change the caption format**: `prompts/draft_system.md`. Keep `config/style_rules.yaml` in step, since the checker enforces it.
 - **Models**: set `SHORTLIST_MODEL` / `DRAFT_MODEL` environment variables (defaults `claude-haiku-5-5`, `claude-opus-5-5`).
-- **Volume**: workflow input `max_items` (default 6).
+- **Volume and quality**: `config/drafts.yaml` (`drafts_per_day`, `min_score`). A run started by hand can override the count in its "Maximum number of items" box.
 
 ## Known limits
 

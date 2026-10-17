@@ -383,3 +383,17 @@ def test_empty_alert_feed_is_not_a_failure(monkeypatch):
     report = {}
     scout.scout([src], set(), report=report)
     assert report["Google Alerts #5"] == "0 in feed, 0 new"
+
+
+def test_draft_settings_read_from_config():
+    from agent import main
+    ds = main.draft_settings()
+    assert ds["drafts_per_day"] >= 1 and 0 <= ds["min_score"] <= 10
+
+
+def test_shortlist_respects_min_score():
+    its = [blank_item(id=f"i{n}", link=f"https://esa.int/{n}") for n in range(3)]
+    reply = json.dumps({"picks": [{"id": "i0", "score": 8}, {"id": "i1", "score": 7},
+                                  {"id": "i2", "score": 6}]})
+    picks = llm.shortlist(its, limit=10, ask=lambda *a, **k: reply, min_score=7)
+    assert [p["id"] for p in picks] == ["i0", "i1"]
