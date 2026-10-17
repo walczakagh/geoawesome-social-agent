@@ -3,7 +3,7 @@ name: Publish
 # Posts ticked items from the daily issues to the Facebook Page and Instagram.
 #  - Ticking or unticking a box in a "Geoawesome reposts" issue (an issue edit
 #    by the repo owner) queues or cancels that post.
-#  - Every hour, posts whose time slot has come are published.
+#  - Every 10 minutes, posts whose time has come are published.
 #  - Run by hand with mode "check" to test META_PAGE_TOKEN without posting.
 # Nothing is ever posted without a ticked box. Delete the META_PAGE_TOKEN
 # secret to switch publishing off.
@@ -12,7 +12,7 @@ on:
   issues:
     types: [edited]
   schedule:
-    - cron: "7 * * * *"
+    - cron: "3,13,23,33,43,53 * * * *"   # every 10 minutes, off the busy :00
   workflow_dispatch:
     inputs:
       mode:

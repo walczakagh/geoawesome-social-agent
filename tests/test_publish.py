@@ -159,3 +159,27 @@ def test_failed_post_is_not_requeued_every_hour():
     queue, pub = [], {"2026-10-18-1-post": {"attempts": {"instagram": 3}, "facebook": "u"}}
     queued, _ = publish.enqueue(9, issue_body((True, False)), now, CFG, queue, pub)
     assert queued == [] and queue == []
+
+
+def test_jitter_gives_random_minutes_but_keeps_one_post_per_slot():
+    import random
+    cfg = {**CFG, "jitter_minutes": 40}
+    now = datetime(2026, 10, 18, 8, 0, tzinfo=timezone.utc)
+    queue, pub = [], {}
+    publish.enqueue(9, issue_body((True, True)), now, cfg, queue, pub, rng=random.Random(1))
+    bases = [datetime.fromisoformat(q["base"]) for q in queue]
+    slots = [datetime.fromisoformat(q["slot"]) for q in queue]
+    assert bases[0] != bases[1]                                  # still two different slots
+    for b, s in zip(bases, slots):
+        assert abs((s - b).total_seconds()) <= 40 * 60 and s.second == 0
+    assert any(s.minute != 0 for s in slots)
+
+
+def test_jitter_never_earlier_than_lead_time():
+    import random
+    cfg = {**CFG, "jitter_minutes": 40}
+    now = datetime(2026, 10, 18, 13, 15, tzinfo=timezone.utc)   # 15:15 Warsaw, 16:00 slot is 45 min away
+    for seed in range(30):
+        base = publish.next_slot(now, set(), cfg)
+        t = publish.jittered(base, now, cfg, random.Random(seed))
+        assert t >= now + publish.timedelta(minutes=30)
