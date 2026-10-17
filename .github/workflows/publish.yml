@@ -1,0 +1,68 @@
+name: Publish
+
+# Posts ticked items from the daily issues to the Facebook Page and Instagram.
+#  - Ticking or unticking a box in a "Geoawesome reposts" issue (an issue edit
+#    by the repo owner) queues or cancels that post.
+#  - Every hour, posts whose time slot has come are published.
+#  - Run by hand with mode "check" to test META_PAGE_TOKEN without posting.
+# Nothing is ever posted without a ticked box. Delete the META_PAGE_TOKEN
+# secret to switch publishing off.
+
+on:
+  issues:
+    types: [edited]
+  schedule:
+    - cron: "7 * * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "check = test the Meta token, nothing is posted; run = publish due posts now"
+        type: choice
+        options: [check, run]
+        default: check
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: repo-state
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    # issue edits count only on daily-draft issues and only when the repo owner made them
+    if: >-
+      github.event_name != 'issues' ||
+      (contains(github.event.issue.labels.*.name, 'social-drafts') &&
+       github.event.sender.login == github.repository_owner)
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install requests pyyaml
+
+      - name: Queue or publish
+        env:
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+          MODE: ${{ github.event_name == 'issues' && 'enqueue' || inputs.mode || 'run' }}
+        run: python -m agent.publish "$MODE"
+
+      - name: Save queue and published log
+        if: always()
+        run: |
+          set -euo pipefail
+          git config user.name "geoawesome-social-agent"
+          git config user.email "actions@users.noreply.github.com"
+          git add state
+          git diff --cached --quiet && exit 0
+          git commit -m "Publish state $(date -u +%FT%H%M)"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push

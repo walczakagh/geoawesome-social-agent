@@ -18,6 +18,18 @@ Everything lands in a GitHub issue for review. Nothing is posted automatically.
 6. **Check** (`agent/checks.py`, rules in `config/style_rules.yaml`): em dashes, banned words and openers, CTA line with the link, credit line, 3 to 5 hashtags (3 to 4 on X) including #Geoawesome, single-word hashtags, X length (links count as 23). Failures go back to Claude once; anything still broken is marked in the issue.
 7. **Review**: images go to `drafts/images/`, the digest to `drafts/YYYY-MM-DD.md` (plus `.json`), and the digest is opened as an issue titled "Geoawesome reposts YYYY-MM-DD". No issue on days with nothing worth posting. The issue shows each square image with a download link, the caption and X text ready to copy, and at the end which sources answered.
 
+## Publishing to Facebook and Instagram
+
+Each post in a daily issue has a box **Publish on Facebook + Instagram**. Nothing is posted unless you tick it.
+
+1. Open the day's issue. To change a caption first: **...** menu on the issue text, **Edit**, change the text inside the caption box, **Update comment**.
+2. Tick the box under each post you want. Within a minute a comment confirms the time slot, e.g. "Post title: Sun 18 Oct, 16:00".
+3. Every hour `.github/workflows/publish.yml` publishes posts whose slot has come and comments with links to the live posts. It reads the issue again just before posting, so caption edits made up to then are used, and a box unticked in the meantime cancels the post.
+
+Slots are in `config/publish.yaml` (default 16:00 and 20:00 Warsaw time, at most two posts a day; each goes out a few minutes after the hour). A failed network is retried on the next two hourly runs. YouTube Community and X are not covered. Only the repository owner's ticks count. `state/queue.json` holds queued posts, `state/published.json` what went out.
+
+The workflow posts with a Facebook Page access token in the secret `META_PAGE_TOKEN`. Test it without posting: **Actions → Publish → Run workflow → mode: check**. Switch publishing off: delete the `META_PAGE_TOKEN` secret.
+
 ## Google Alerts as a source
 
 Your alerts are the widest net (about 200 links a month, of which you highlighted about 45). To feed them in:

@@ -1,0 +1,28 @@
+# Direct publishing to the Geoawesome Facebook Page and its linked Instagram
+# account. Nothing is posted unless a post's box is ticked in a daily issue.
+#
+# The only secret needed is META_PAGE_TOKEN (a Page access token).
+# See README, "Publishing to Facebook and Instagram".
+
+timezone: Europe/Warsaw
+
+# Time slots a ticked post can take, local time. Each slot holds one post,
+# so this is also the maximum number of posts per day. The two times are
+# Metricool's best hours for this Instagram account (checked 17 Oct 2026).
+slots: ["16:00", "20:00"]
+
+# A post is never put into a slot that starts sooner than this.
+min_lead_minutes: 30
+
+# The Facebook Page ID (the Page connected to Metricool as "geoawesome.digital").
+facebook_page_id: "302602119827463"
+
+# Leave empty to look it up from the Page (instagram_business_account).
+instagram_user_id: ""
+
+networks: [facebook, instagram]
+
+graph_version: v26.0   # current as of Oct 2026; Meta supports each version about 2 years
+
+# A network that fails is retried on the next hourly run, up to this many times.
+max_attempts: 3

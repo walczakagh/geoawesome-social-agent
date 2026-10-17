@@ -22,7 +22,7 @@ permissions:
   issues: write
 
 concurrency:
-  group: social-drafts
+  group: repo-state
   cancel-in-progress: false
 
 jobs:
@@ -73,6 +73,7 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add state drafts
           git diff --cached --quiet || git commit -m "Social drafts $(date -u +%F)"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
           git push
 
       - name: Open review issue
