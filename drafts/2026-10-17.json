@@ -1,0 +1,307 @@
+[
+  {
+    "item": {
+      "id": "https://science.nasa.gov/?p=1490381",
+      "source_id": "nasa_eo",
+      "source_name": "NASA Earth Observatory",
+      "source_type": "eo_imagery",
+      "licence": "reuse",
+      "title": "Isaias Dims the Gulf Coast",
+      "link": "https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/",
+      "published": "2026-10-16T04:00:00+00:00",
+      "summary": "High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came back.",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/isaias-dims-the-gulf-coast/isaias_bmhd_202608.jpg",
+      "credit_hint": "NASA Earth Observatory",
+      "source_tag": "@NASAEarth",
+      "page_text": "High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came back.\nAfter a quiet start to the 2026 Atlantic hurricane season, Isaias became the season’s first hurricane on October 8 as it tracked toward the U.S. Gulf Coast. The storm brought heavy rain and flash flooding to parts of the Southeast, including Alabama and the Florida Panhandle, and winds that toppled trees and downed power lines, leaving many people in the dark.\nIsaias made landfall near Destin, Florida, on the evening of October 9 as a Category 2 hurricane with maximum sustained winds of 105 miles (170 kilometers) per hour. Gusts topped 100 miles per hour along a corridor west of the storm’s center, according to the National Weather Service, with preliminary reports showing a 117-mile-per-hour gust in Oriole Beach and a 102-mile-per-hour gust at Pensacola City Hall.\nThese areas of high winds overlapped a broader area west of the storm’s eye where satellite images showed substantial decreases in nighttime lights. The image pair above shows nighttime lights before and after the storm. The left image is a composite of August 2026 data representing typical conditions, and the right image shows lights on October 11, after most of the storm’s clouds had cleared.\nThe data depicted in the images, provided by Ranjay Shrestha of NASA's Black Marble science team , come from the Black Marble HD product. The product uses data from the VIIRS (Visible Infrared Imaging Radiometer Suite) on the NOAA-20 satellite, which has a day-night band that detects light emitted and reflected at night. The team processed the data to account for changes in the landscape, the atmosphere, and phase of the Moon, and to filter out stray light that does not come from electric lights. Dark gray, hash-marked areas show where clouds prevented VIIRS from collecting data. The nighttime lights are shown over a base map from the Landsat 9 satellite.\n“Standard Black Marble nighttime lights imagery, available through NASA Worldview , provides a broad picture of the storm's immediate impacts,” Shrestha said. “Black Marble HD takes this a step further by allowing us to visualize these changes at a much finer spatial scale.”\nAt these finer scales, the images reveal lights decreasing sharply around parts of Pensacola, Florida, and along the U.S. Route 98 corridor toward Destin, suggesting widespread power disruptions. Shrestha also pointed out pockets where lights persisted, including Pensacola International Airport, Pensacola Christian College, and parts of downtown Pensacola. “These patterns could reflect backup power systems, differences in electrical infrastructure, or areas that maintained electricity during the storm, although the imagery alone cannot confirm the underlying reasons,” he said.\nBlack Marble HD images also reveal the pace and spatial patterns of recovery. The image pair above compares the same October 11 view (left) with one from October 12 (right), when lights had begun to return to some affected areas. By October 14, lighting patterns looked similar to pre-storm conditions. “Understanding where recovery is progressing and where disruptions persist can help emergency responders and decision makers identify areas that may require additional attention, prioritize resources, and assess the effectiveness of restoration efforts,” Shrestha said. Black Marble data complement ground-based outage reports rather than replace them, offering a more comprehensive view of disasters' impacts and recovery. “Ultimately, this is where the value of Black Marble lies: turning nighttime Earth observations into actionable insights that support informed decisions and help bridge the gap between Earth science and action,” Shrestha said. The NASA Disasters Program, in coordination with FEMA and the USGS Coastal Storms Team, is supporting the Alabama Red Cross and the Alabama Emergency Management Agency’s response to Hurricane Isaias. The team will be posting maps and data products on its open-access mapping portal as new information becomes available.\nNASA Earth Observatory images by Lauren Dauphin, using Black Marble HD data courtesy of Ranjay Shrestha/NASA's Goddard Space Flight Center and Landsat data from the U.S. Geological Survey . Story by Kathryn Hansen.\nStay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.\nThe first named storm of the 2026 Atlantic hurricane season brought intense rainfall and the threat of flash flooding to…\nThough it remained offshore, the storm lashed coastal areas with high winds and flooding—and produced remarkable rippling patterns in the…\nHurricanes Polo and Nolo sent destructive effects ashore amid an active season in the northeastern and central Pacific.\nSubscribe to the Earth Observatory and get the Earth in your inbox.\nNASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.\nOpen access to NASA’s archive of Earth science data",
+      "image_credit": "NASA Earth Observatory images by Lauren Dauphin, using Black Marble HD data courtesy of Ranjay Shrestha/NASA's Goddard Space Flight Center and Landsat data from the U",
+      "image_licence": "NASA imagery, generally free to reuse with credit",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/isaias-dims-the-gulf-coast/isaias_bmhd_202608.jpg",
+          "label": "August 2026 Composite"
+        },
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/isaias-dims-the-gulf-coast/isaias_bmhd_20261011.jpg",
+          "label": "October 11, 2026"
+        }
+      ],
+      "origin_url": "",
+      "square_path": "drafts/images/2026-10-17-1-isaias-dims-the-gulf-coast.jpg",
+      "image_note": "before/after pair stacked, from 1066px of source width"
+    },
+    "score": 8.0,
+    "why": "Nighttime lights imagery shows hurricane outages and recovery along the Gulf Coast; striking and map-driven.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A before/after pair of nighttime lights over the Florida Panhandle around Pensacola and Destin. The top image is an August 2026 composite of typical conditions and the bottom image shows October 11, 2026, two days after Hurricane Isaias made landfall near Destin as a Category 2 storm. The data come from NASA's Black Marble HD product, using the VIIRS day-night band on NOAA-20, shown over a Landsat 9 base map. Dark grey hash-marked areas are where clouds blocked VIIRS.",
+      "uncertainties": [
+        "The IMAGE CREDIT field is truncated ('from the U'). The caption uses the full credit from the page text ('...Landsat data from the U.S. Geological Survey'). Confirm before posting.",
+        "The page describes the pair as left/right. Our square stacks them (top: August 2026 composite, bottom: October 11). Make sure the labels match the square.",
+        "The page also mentions a second pair (October 11 vs October 12) showing recovery. That pair is not in this square, so the caption only mentions the October 14 recovery in text.",
+        "Dimmed lights 'suggest' power disruptions. The source does not confirm outages from the imagery alone, and the caption avoids saying 'outage'.",
+        "Wind gust figures (117 mph Oriole Beach, 102 mph Pensacola City Hall) are preliminary NWS reports, so they are left out.",
+        "The cloud-hatching note was cut from the caption for length. It is included in the alt text and editor summary."
+      ],
+      "image_credit": "Image: NASA Earth Observatory images by Lauren Dauphin, using Black Marble HD data courtesy of Ranjay Shrestha/NASA's Goddard Space Flight Center and Landsat data from the U.S. Geological Survey",
+      "caption": "Two days after Hurricane Isaias hit near Destin, nighttime lights had dropped sharply around Pensacola and along US Route 98.\n\nNOAA-20 VIIRS Black Marble HD data (top: August 2026 composite, bottom: October 11). By October 14, lights looked similar to before the storm.\n\nRead more: https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/\n\nImage: NASA Earth Observatory images by Lauren Dauphin, using Black Marble HD data courtesy of Ranjay Shrestha/NASA's Goddard Space Flight Center and Landsat data from the U.S. Geological Survey\n\n#Geoawesome #VIIRS #Hurricane #Florida",
+      "x": "Two days after Hurricane Isaias hit near Destin, nighttime lights had dropped sharply around Pensacola and along US Route 98.\nhttps://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/\nImage: NASA Earth Observatory, Black Marble HD, Landsat/USGS\n#Geoawesome #VIIRS #Hurricane",
+      "alt_text": "Two stacked satellite views of nighttime lights along the Florida Panhandle coast: the top shows bright city lights around Pensacola and Destin in August, and the bottom shows the same area much darker on October 11, with grey hatched patches marking clouds."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-17-1-isaias-dims-the-gulf-coast.jpg"
+  },
+  {
+    "item": {
+      "id": "https://science.nasa.gov/?p=1489375",
+      "source_id": "nasa_eo",
+      "source_name": "NASA Earth Observatory",
+      "source_type": "eo_imagery",
+      "licence": "reuse",
+      "title": "Fires Arrive in the Amazon Rainforest",
+      "link": "https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/",
+      "published": "2026-10-15T04:01:00+00:00",
+      "summary": "During El Niño, a cascade of fires across the tropics begins in equatorial Asia and continues in the central and eastern Amazon.",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fires-arrive-in-the-amazon-rainforest/amazofires_amo_20261012.jpg?w=1440&h=960&fit=clip&crop=faces%2Cfocalpoint",
+      "credit_hint": "NASA Earth Observatory",
+      "source_tag": "@NASAEarth",
+      "page_text": "During El Niño, a cascade of fires across the tropics begins in equatorial Asia and continues in the central and eastern Amazon.\nUnlike a tornado or thunderstorm that can deliver destruction in minutes, El Niño exerts its influence over many months. This year, a drought accompanying El Niño has left the Amazon rainforest primed to burn, and scientists say the region has entered the early stages of what they think will be a long and severe fire season.\nStarting in September 2026, satellites detected sharp increases in fire activity and smoke emissions in the central and eastern Amazon, visible in fire and emissions monitoring platforms including NASA's Fire Information for Resource Management System (FIRMS), the Global Fire Emissions Database (GFED), and NASA Worldview . The region with elevated fire activity stretches from forests surrounding the commercial and transportation centers of Manaus and Santarém to the mouth of the Amazon River.\nWhen the MODIS (Moderate Resolution Imaging Spectroradiometer) on NASA's Aqua satellite captured this image of smoke streaming from fires on both sides of the Amazon River on October 12, 2026, heavy smoke socked in Manaus, the capital of the Brazilian state of Amazonas. That day, city officials reported extremely poor air quality, with fine particulate matter (PM 2.5 ) values above 135 micrograms per cubic meter, the second-worst rating on a regional air quality index . The pall disrupted daily life in a city of more than 2 million people. Schools closed, and citywide events and children's sports leagues were canceled as officials warned of hazardous air quality, according to news reports .\nThe burning around Santarém and Manaus is part of a \"cascade\" of fire in the tropics that accompanies the disrupted rainfall patterns of an El Niño , said Douglas Morton, an Earth system scientist based at NASA's Goddard Space Flight Center. The pattern begins along the equator with drought and peat fires in Indonesia , followed by elevated fire activity in this part of the Amazon. Morton and colleagues from the University of California, Irvine; Vrije Universiteit Amsterdam; and the University of Maryland detailed the pattern in a 2017 study following the destructive fire season that accompanied the 2015–2016 El Niño . They also saw the pattern play out in 2023.\nA swell of fire in the tropics riding the 2026 El Niño has followed the pattern. Drought, fire, and smoke have smothered parts of Indonesia since August, with hundreds of homes razed in October and thick smoke blanketing whole islands most days. \"Now, in the Amazon, we're seeing the second domino in the cascade fall,\" Morton said, referring to the uptick in fires that has begun in Pará and Amazonas.\nMorton and his colleagues expect the next wave of fire to hit farther north in November and December in the Brazilian states of Roraima, northern Pará, and Amapá, as well as parts of Venezuela, Guyana, and Suriname. Finally, around August and September 2027, he said, drought and fire risk will peak in the southern Amazon regions of Brazil and Paraguay.\n\"It's so striking—and frustrating—that this is happening all over again,\" said Morton, adding that many of the same forests that burned during the El Niño events in 2023 and 2015 are burning again. Forest fires in these rainforests are known to cause especially serious ecological damage because most species are not adapted to fire. It's likely that some of the forest fires will burn even more intensely this time because the earlier fires partially charred trees, degrading the forest and making what remained more susceptible to burning, he added.\nMorton expects the fires around Santarém and Manaus to continue burning until the rainy season arrives in December 2026 or January 2027. For the regions to the north and south, there is still time to prepare. \"Given the intensity of this El Niño, this really is the year for people to avoid burning at all costs,\" Morton said.\nIt's so wet in the Brazilian Amazon that lightning ignites less than 1 percent of fires, so the vast majority of fires currently burning there were started by people, Morton said. But this year's drought, worsened by El Niño, has been intense. Brazil's National Institute of Meteorology reported that Manaus rainfall levels were 95 percent less than normal in August and 60 percent less than normal in September .\nThe large fires in this region began as management fires—clearing shrubs from pastures or crops from fields, for instance—but have escaped and are now burning freely through the parched understory of the rainforest, he added. Analysis of satellite observations indicates there are 50 to 70 uncontrolled fires burning in the Santarém region alone, said Shane Coffield, a University of Maryland assistant research scientist at NASA Goddard.\nAs part of a NASA Earth Action project , Coffield is mining fire observations from VIIRS (Visible Infrared Imaging Radiometer Suite) to identify fires that didn't meet the threshold for inclusion in official data products distributed by FIRMS. He plans to share the locations of these \"candidate fires\" with scientists at MapBiomas , a multi-institutional network comprising universities, NGOs, and technology companies that maps fires and land-use change in the Amazon.\n\"For the area around Santarém, we've identified about 40 percent more fires than you'll see in active fire counts from FIRMS,\" said Coffield. Satellites often miss fires in circumstances like this due to dense smoke, clouds, and tree canopy cover, which can block the sensors from detecting the infrared signal of fires—especially lower-intensity fires spreading along the forest understory. \"On some of the smokiest days, we have very few detections from MODIS and VIIRS, and we know that isn't right.\"\nNASA Earth Observatory images by Lauren Dauphin, using MODIS data from NASA EOSDIS LANCE and GIBS/Worldview . Story by Adam Voiland.\nStay up-to-date with the latest content from NASA as we explore the universe ",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/fires-arrive-in-the-amazon-rainforest/amazonfires_locatormap.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "square_path": "drafts/images/2026-10-17-2-fires-arrive-in-the-amazon-rainforest.jpg",
+      "image_note": "square crop, from 150px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 8.0,
+    "why": "Vivid satellite fire scene across tropics and Amazon during El Niño; strong NASA Earth Observatory pick.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A MODIS image from NASA's Aqua satellite showing smoke streaming from fires on both sides of the Amazon River on 12 October 2026, the day heavy smoke covered Manaus. The fires in the central and eastern Amazon follow a drought linked to El Niño. The page does not say whether the image is true colour or how fire locations are marked.",
+      "uncertainties": [
+        "Source image is only about 150 px wide and was upscaled for the square. Check sharpness before posting; it may be too soft to use.",
+        "The page gives no image licence. The reuse policy is listed as 'reuse', but this should be confirmed.",
+        "No verbatim image credit field was found. The page text says 'NASA Earth Observatory images by Lauren Dauphin, using MODIS data from NASA EOSDIS LANCE and GIBS/Worldview', which is shortened here to NASA Earth Observatory/Lauren Dauphin.",
+        "The page does not state the band combination, whether the image is true colour, or whether active fire detections are overlaid.",
+        "The PM2.5 figure (above 135 micrograms per cubic metre) was reported by Manaus city officials. School closures and cancelled events are 'according to news reports' and are left out of the caption.",
+        "The roughly 40 percent extra fires figure covers the Santarém area only. It comes from Shane Coffield's VIIRS 'candidate fires' analysis in a NASA Earth Action project, not from an official product."
+      ],
+      "image_credit": "Image: NASA Earth Observatory/Lauren Dauphin",
+      "caption": "Around Santarém, a NASA Earth Action project mining VIIRS data finds about 40 percent more fires than FIRMS active fire counts, as smoke, cloud and canopy hide understory fires.\n\nMODIS on NASA's Aqua captured smoke streaming from fires on both sides of the Amazon River on 12 October 2026, as PM2.5 in Manaus topped 135 micrograms per cubic metre.\n\nFull story: https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/\n\nImage: NASA Earth Observatory/Lauren Dauphin\n\n#Amazon #Wildfires #MODIS #Drought #Geoawesome",
+      "x": "Smoke from fires on both sides of the Amazon River, seen by MODIS on Aqua on 12 October 2026. Around Santarém, VIIRS mining finds about 40% more fires than FIRMS counts.\nhttps://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/\nImage: NASA Earth Observatory\n#Amazon #Wildfires #MODIS #Geoawesome",
+      "alt_text": "Satellite image of the Brazilian Amazon showing smoke plumes streaming from fires on both sides of the Amazon River."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-17-2-fires-arrive-in-the-amazon-rainforest.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.bellingcat.com/?p=54012",
+      "source_id": "bellingcat",
+      "source_name": "Bellingcat",
+      "source_type": "research",
+      "licence": "link_only",
+      "title": "Satellite Images Show Extent of Trump Admin’s Tree-Felling at DC Golf Course",
+      "link": "https://www.bellingcat.com/news/us-canada/2026/10/15/satellite-images-show-extent-of-trump-admins-tree-felling-at-dc-golf-course/",
+      "published": "2026-10-15T10:33:36+00:00",
+      "summary": "Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. Satellite imagery obtained by Bellingcat lays bare the extent of tree-felling at a Washington DC golf course that President Trump is reportedly seeking to transform into a championship-level course, despite moves to protect the site by conservationists. The extent […]",
+      "image_url": "https://www.bellingcat.com/app/uploads/2026/10/Screenshot-2026-10-15-at-10.59.57-1200x777.jpg",
+      "credit_hint": "Bellingcat",
+      "source_tag": "@bellingcat",
+      "page_text": "Jake Godin is a researcher for Bellingcat. He has covered multiple conflicts with an emphasis on geolocation, munition identification and documenting civilian harm. Prior to joining Bellingcat, he worked at Scripps News on open source reporting, some in partnership with Bellingcat.\nEoghan Macguire is lead editor at Bellingcat. He previously worked at CNN, NBC News and Storyful. Twitter: @eoghanmacguire.\nSign up here to receive Bellingcat’s biggest investigations by email as soon as they are published .\nSatellite imagery obtained by Bellingcat lays bare the extent of tree-felling at a Washington DC golf course that President Trump is reportedly seeking to transform into a championship-level course, despite moves to protect the site by conservationists.\nThe extent and circumstances surrounding the rapid changes prompted a judge to call an emergency hearing earlier this week, banning any further changes until later this month.\nReports on Wednesday detailed that 430 trees were cut down at the East Potomac Golf Links  which is owned by the Federal government and managed by the National Park Service (NPS) . This is despite a judge reportedly stating earlier this year that no more than 10 trees at the course could be cut down without first notifying the court.\nNPR reported that officials notified the court just before 5pm on Friday Oct. 9 of plans to remove up to 529 trees in phases starting  the next day on Saturday Oct. 10. That prompted US District Court Judge Ana Reyes to call an emergency hearing on Oct. 12. By that time, 430 trees had reportedly been cut down.\nReyes is reported to have said she was “ furious ” with the Justice Department for the lack of time afforded the court and plaintiffs before the tree removal was carried out.\nShe was also reported to have said that the government’s actions had cost it “all of its credibility with me in this case.”\nImages taken at the course earlier this week show trunks and branches strewn out across fairways.\nJust total devastation wrought on East Potomac Park this past weekend. \n\n450+ trees. For an admin that professes to support “beautification” of DC, that’s sure not what we or anybody else who has seen what they did on Saturday would describe it as. \n\nEast Potomac is (was?) a thriving, beautiful gem in the heart of Washington DC. A beautiful, public, accessible place that hundreds of thousands use annually. The assault on this place should infuriate every American. \n\nThe impacts of what took place Saturday will take years to fix. We cannot sit idly by while this admin treats our public lands like they are for the taking.\nBut satellite imagery affords a broader look at exactly what sections of the course have been impacted.\nThe Image below from Planet Labs taken on October 8 shows the golf course before the tree-felling was carried out.\nPlanet Labs imagery captured on Oct. 13 shows large barren sections towards the south and west of the course, where trees were removed.\nA before and after slider allows for easy comparison of the Oct. 8 and Oct.13 images.\nYour donations directly contribute to our ability to publish groundbreaking investigations and uncover wrongdoing around the world.\nReuters reported that an organisation called The ​DC Preservation League said in a February ​2026 lawsuit that President Donald Trump was flouting ⁠environmental laws to “irreparably destroy a priceless piece of American history” so he could “convert a public recreation space into an exclusive, high-end golf course.”\nKevin Griess, an NPS official, reportedly stated at Monday’s hearing that tree removal was part of a 2019 plan that predates Trump’s aims for the course and sought to restore links-style vegetation.\nBellingcat contacted NPS as well as the Department of Justice but did not receive a response before publication.\nThe changes to the golf course are not the only ones President Trump has sought in Washington DC and the surrounding area since the beginning of his second term. In October last year  demolition began on the East Wing of the White House with the aim of building a new ballroom claiming it was “the safest building ever built.”\nTrump has also proposed a 250-foot-tall “ Triumphal Arch ” to be built just outside the Arlington National Cemetery in Virginia.\nCorrection: This article was updated on October 15 to reflect that a judge told the US government not to cut down more than 10 trees before providing notice. The article previously said that no more than 10 trees could be felled without the court’s approval. The headline has also been changed to reflect this.\nBellingcat is a non-profit and the ability to carry out our work is dependent on the kind support of individual donors. If you would like to support our work, you can do so here . You can also subscribe to our Newsletter and follow us on Bluesky here , Instagram here , Reddit here and YouTube here .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.bellingcat.com/app/uploads/2026/10/2026-10-14T192750Z_1002783143_RC263OALNP1F_RTRMADP_3_USA-TRUMP-GOLF-LAWSUIT-scaled.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "square_path": "drafts/images/2026-10-17-3-satellite-images-show-extent-of-trump-ad.jpg",
+      "image_note": "square crop, from 1505px of source width"
+    },
+    "score": 8.0,
+    "why": "Satellite before/after of tree-felling at DC golf course; strong change-detection story.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "Planet Labs satellite imagery of the East Potomac Golf Links in Washington DC, obtained by Bellingcat. It compares a scene from 8 October (before the tree-felling) with one from 13 October, which shows large barren sections towards the south and west of the course where trees were removed. The article includes a before/after slider of the two dates.",
+      "uncertainties": [
+        "Reuse policy is link_only and no image licence is stated. The imagery is Planet Labs, so check whether Bellingcat/Planet permit reposting the image itself before using it.",
+        "The page gives no image credit. 'Bellingcat' is used as instructed, but the underlying imagery is Planet Labs. Consider 'Image: Planet Labs via Bellingcat' if confirmed.",
+        "The IMAGE NOTE says square crop from 1505px width, not a stacked pair. It is unclear whether the crop shows the 8 October (before) or 13 October (after) scene, or a composite. Check before posting and adjust the alt text.",
+        "The 430-tree figure is reported by others (NPR/news reports), not verified by Bellingcat. The embedded social post's '450+' figure is third-party and was not used.",
+        "No resolution, sensor model or colour/band information is given. It is presumably true colour, but the source does not say.",
+        "Politically charged story. NPS reportedly says the removal follows a 2019 plan to restore links-style vegetation, and NPS and DOJ did not respond to Bellingcat."
+      ],
+      "image_credit": "Image: Bellingcat",
+      "caption": "Around 430 trees were reportedly felled at Washington DC's East Potomac Golf Links in a single weekend.\n\nBellingcat's Planet Labs comparison (8 vs 13 October) shows large barren sections in the south and west of the federally owned course; an NPS official reportedly tied the work to a 2019 plan.\n\nFull story: https://www.bellingcat.com/news/us-canada/2026/10/15/satellite-images-show-extent-of-trump-admins-tree-felling-at-dc-golf-course/\n\nImage: Bellingcat\n\n#Geoawesome #Satellite #OSINT #Trees",
+      "x": "Around 430 trees were reportedly felled at Washington DC's East Potomac Golf Links in a single weekend. Planet Labs images from 8 and 13 October show where.\nhttps://www.bellingcat.com/news/us-canada/2026/10/15/satellite-images-show-extent-of-trump-admins-tree-felling-at-dc-golf-course/\nImage: Bellingcat\n#Geoawesome #Satellite #OSINT",
+      "alt_text": "Satellite image of the East Potomac Golf Links in Washington DC showing the course's fairways and surrounding tree cover."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-17-3-satellite-images-show-extent-of-trump-ad.jpg"
+  },
+  {
+    "item": {
+      "id": "https://science.nasa.gov/?p=1488476",
+      "source_id": "nasa_eo",
+      "source_name": "NASA Earth Observatory",
+      "source_type": "eo_imagery",
+      "licence": "reuse",
+      "title": "Hurricane Simon Lurks Off the Mexican Coast",
+      "link": "https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/",
+      "published": "2026-10-14T04:01:00+00:00",
+      "summary": "Though it remained offshore, the storm lashed coastal areas with high winds and flooding—and produced remarkable rippling patterns in the upper atmosphere.",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/hurricane-simon-lurks-off-the-mexican-coast/hurricanesimon_vir_20261011.jpg?w=2048&h=1707&fit=clip&crop=faces%2Cfocalpoint",
+      "credit_hint": "NASA Earth Observatory",
+      "source_tag": "@NASAEarth",
+      "page_text": "Though it remained offshore, the storm lashed coastal areas with high winds and flooding—and produced remarkable rippling patterns in the upper atmosphere.\nHurricane Simon, the latest in a long progression of tropical cyclones in the Eastern Pacific this season, passed close to the Mexican coast as a category 4 storm on October 11, 2026. Sustained winds reached 250 kilometers (155 miles) per hour as it crept north-northwest.\nSimon’s eye was about 50 kilometers (30 miles) offshore, between Manzanillo and Puerto Vallarta, when the VIIRS (Visible Infrared Imaging Radiometer Suite) on the Suomi NPP satellite acquired this image around 2:30 p.m. local time (20:30 Universal Time) on October 11.\nBy that time, sustained winds were about 210 kilometers (130 miles) per hour, according to the National Hurricane Center (NHC), and the storm’s inner core was brushing up against the coast. The topography of the Sierra Madre mountains appeared to temper the storm’s intensity somewhat and shrink the size of its wind field, the NHC noted. Still, the major hurricane delivered heavy rain and flooding to coastal areas, including the port city of Manzanillo, and raised the risk of mudslides in mountainous areas, according to news reports .\nIn the early morning hours of October 11, satellites captured the storm’s effects extending into the upper atmosphere . This nighttime image (above), acquired with VIIRS on the NOAA-21 satellite, shows atmospheric gravity waves radiating from the hurricane. These ripples form when latent heat released near the tropical cyclone’s eyewall drives strong convection, building tall cumulonimbus clouds with updrafts that can send waves into the stratosphere and mesosphere.\nBut these waves are not always observable. Winds in the upper atmosphere can dissipate them before they reach the mesosphere, where they show up as ripples in airglow—faint light emitted by gases at those high altitudes. The VIIRS day-night band is sensitive to airglow but also detects reflected moonlight, which can wash it out. On the night this image was acquired, minimal illumination from the Moon helped the airglow stand out.\nOn the morning of October 13, forecasts of Simon’s intensity and path remained “very low confidence,” as the storm’s evolution continued to defy meteorologists’ expectations . The system may steer north and enter the Gulf of California before making landfall. Large swells causing dangerous nearshore conditions were expected along portions of the southwestern and west-central coasts of Mexico in the coming days.\nNASA Earth Observatory images by Michala Garrison, using VIIRS data from NASA EOSDIS LANCE , GIBS/Worldview , the Suomi National Polar-orbiting Partnership , and the Joint Polar Satellite System (JPSS). Story by Lindsey Doermann.\nStay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.\nHurricanes Polo and Nolo sent destructive effects ashore amid an active season in the northeastern and central Pacific.\nThe powerful storm delivered extreme rainfall and damaging winds to the state, passing the Island of Hawaiʻi as a category…\nThe first named storm of the 2026 Atlantic hurricane season brought intense rainfall and the threat of flash flooding to…\nSubscribe to the Earth Observatory and get the Earth in your inbox.\nNASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.\nOpen access to NASA’s archive of Earth science data",
+      "image_credit": "NASA Earth Observatory images by Michala Garrison, using VIIRS data from NASA EOSDIS LANCE , GIBS/Worldview , the Suomi National Polar-orbiting Partnership , and the Joint Polar Satellite System (JPSS)",
+      "image_licence": "NASA imagery, generally free to reuse with credit",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/hurricane-simon-lurks-off-the-mexican-coast/eo_image_map_1791927706.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "square_path": "drafts/images/2026-10-17-4-hurricane-simon-lurks-off-the-mexican-co.jpg",
+      "image_note": "square crop, from 150px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 7.0,
+    "why": "Hurricane Simon imagery with striking atmospheric ripple patterns; visually arresting satellite scene.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "The NASA Earth Observatory story has two VIIRS images of Hurricane Simon off Mexico's Pacific coast. The first is a daytime image from Suomi NPP at about 20:30 UTC on 11 October 2026, with the eye about 50 km offshore between Manzanillo and Puerto Vallarta. The second is a nighttime VIIRS day-night band image from NOAA-21, taken in the early hours of 11 October, showing atmospheric gravity waves radiating from the storm as ripples in mesospheric airglow; little moonlight that night let the airglow stand out.",
+      "uncertainties": [
+        "IMAGE NOTE says the square was upscaled from only 150 px of source width. The fine airglow ripples will likely be lost or look blurry, so get the full-resolution original from the NASA page before posting.",
+        "The page has two images and the IMAGE NOTE does not say which one was cropped. The caption, X post and alt text assume the nighttime NOAA-21 day-night band image of the gravity waves. If the square is the daytime Suomi NPP image, rewrite all three around that image (category 4 storm, eye about 50 km offshore, about 20:30 UTC on 11 October).",
+        "The credit line names Suomi NPP and JPSS for both images. Tidied stray spaces before the commas in the page credit, otherwise verbatim.",
+        "Flooding, rain and mudslide risk come from news reports cited by the page and are left out of the caption.",
+        "As of 13 October, forecasts of track and intensity were 'very low confidence', so the storm's later path is unknown and not mentioned.",
+        "Colour rendering of the day-night band image is not described on the page."
+      ],
+      "image_credit": "Image: NASA Earth Observatory images by Michala Garrison, using VIIRS data from NASA EOSDIS LANCE, GIBS/Worldview, the Suomi National Polar-orbiting Partnership, and the Joint Polar Satellite System (JPSS)",
+      "caption": "Hurricane Simon sent ripples all the way up to the mesosphere.\n\nNOAA-21's VIIRS day-night band caught gravity waves radiating from the storm off Mexico early on 11 October 2026, visible as ripples in airglow on a night with little moonlight.\n\nRead more: https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/\n\nImage: NASA Earth Observatory images by Michala Garrison, using VIIRS data from NASA EOSDIS LANCE, GIBS/Worldview, the Suomi National Polar-orbiting Partnership, and the Joint Polar Satellite System (JPSS)\n\n#Hurricane #VIIRS #Airglow #Geoawesome",
+      "x": "Hurricane Simon sent ripples all the way up to the mesosphere: gravity waves seen in airglow by NOAA-21's VIIRS day-night band on 11 October 2026.\nhttps://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/\nImage: NASA Earth Observatory, VIIRS\n#Hurricane #Airglow #VIIRS #Geoawesome",
+      "alt_text": "Nighttime satellite view of Hurricane Simon off the Pacific coast of Mexico, with faint rippling bands of airglow spreading outward from the storm."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-17-4-hurricane-simon-lurks-off-the-mexican-co.jpg"
+  },
+  {
+    "item": {
+      "id": "https://science.nasa.gov/?p=1480026",
+      "source_id": "nasa_eo",
+      "source_name": "NASA Earth Observatory",
+      "source_type": "eo_imagery",
+      "licence": "reuse",
+      "title": "An Impact Structure With Legs",
+      "link": "https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/",
+      "published": "2026-10-13T04:01:00+00:00",
+      "summary": "If the thought of extraterrestrial objects crashing into Earth weren’t creepy enough, behold Australia’s Spider Crater.",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-impact-structure-with-legs/aus_spidercrater_oli2_20260920.jpg?w=1900&h=1267&fit=clip&crop=faces%2Cfocalpoint",
+      "credit_hint": "NASA Earth Observatory",
+      "source_tag": "@NASAEarth",
+      "page_text": "If the thought of extraterrestrial objects crashing into Earth weren’t creepy enough, behold Australia’s Spider Crater.\nEditor's Note: Today's story is the answer to the October Puzzler .\nFrom above, the mere appearance of a curious geologic feature in Western Australia is enough to cause a fright. The aptly named Spider Crater, the product of a meteorite impact followed by hundreds of millions of years of erosion, sprawls across the landscape in the country’s Kimberley region .\nThe OLI (Operational Land Imager) on the NASA-USGS Landsat 9 satellite captured this image of the crater on September 20, 2026. The full impact structure has an oval shape measuring about 13 kilometers by 11 kilometers (8 miles by 7 miles), with the spiderlike central portion measuring about 4 kilometers (2.5 miles) across.\nGeologists believe the unusual arachnoid pattern is the remnant of a central uplift , the raised portion of the crater floor that formed in the rebound of the initial impact shock. The light-colored “legs” are sandstone ridges that have endured while other rock layers in the impact zone have eroded away.\nFor decades after the feature’s discovery, scientists struggled to weave a tale about its formation. Some proposed it had a volcanic past. But with some legwork in the field, geologists identified telltale signs of a past impact: fan-shaped fractures called shatter cones . These fractures form only when intense shock waves travel through rock, and they are ubiquitous in Spider Crater’s central dome.\nScientists have subsequently performed lab analyses of shocked quartz and zircon crystals from the sandstone, which can help them reconstruct the angle of the meteorite’s impact. The date of the impact is uncertain, but estimates based on rocks in the region place it between about 900 million and 600 million years ago—making Spider Crater a creature of the late Precambrian.\nNASA Earth Observatory image by Michala Garrison, using Landsat data from the U.S. Geological Survey . Story by Lindsey Doermann .\nStay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.\nAn amateur astronomer scouting online satellite maps for campsites in Quebec found an impact crater instead.\nCarpets of wildflowers burst from arid, ochre-colored land in Western Australia following winter rains.\nA bright lens of anorthosite, a rock type prevalent on the lunar surface, is cradled within sheared rocks in the…\nSubscribe to the Earth Observatory and get the Earth in your inbox.\nNASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.\nOpen access to NASA’s archive of Earth science data",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/antarctic-sea-ice-grows-to-its-2026-maximum/antarctic_nsidc_20260914_th.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "square_path": "drafts/images/2026-10-17-5-an-impact-structure-with-legs.jpg",
+      "image_note": "square crop, from 212px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 7.0,
+    "why": "Spider Crater impact structure from orbit; a striking, unusual landform with a hook.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A Landsat 9 OLI image of Spider Crater in the Kimberley region of Western Australia, captured on 20 September 2026. The light-coloured spidery 'legs' are sandstone ridges, thought by geologists to be the remnant of the crater's central uplift (about 4 km across). The full oval impact structure measures about 13 by 11 km.",
+      "uncertainties": [
+        "Low-resolution source: the square was upscaled from 212 px of source width. Check sharpness before posting, or get the full-size image from the page.",
+        "No image credit field was found. The credit line used comes from the page text ('NASA Earth Observatory image by Michala Garrison, using Landsat data from the U.S. Geological Survey').",
+        "The image licence is not stated on the page.",
+        "The band combination is not stated, so the caption does not say whether this is natural colour.",
+        "The central uplift interpretation is hedged in the source ('Geologists believe').",
+        "The impact age is an estimate, roughly 900 to 600 million years ago, so it is left out of the caption.",
+        "The story is the answer to NASA's October Puzzler. Consider whether that framing matters for timing."
+      ],
+      "image_credit": "Image: NASA Earth Observatory image by Michala Garrison, using Landsat data from the U.S. Geological Survey",
+      "caption": "Spider Crater's legs are sandstone ridges that survived hundreds of millions of years of erosion.\n\nLandsat 9 OLI, 20 September 2026: the light 'legs' (about 4 km across) are thought to be the remnant of a central uplift in a 13 x 11 km oval impact structure in Western Australia. Shatter cones in its core settled an old volcanic-versus-impact debate.\n\nFull story: https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/\n\nImage: NASA Earth Observatory image by Michala Garrison, using Landsat data from the U.S. Geological Survey\n\n#Landsat #Geology #Craters #Australia #Geoawesome",
+      "x": "Australia's Spider Crater: its legs are sandstone ridges that outlasted hundreds of millions of years of erosion. Landsat 9, 20 September 2026.\nhttps://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/\nImage: @NASAEarth, Landsat data from USGS\n#Landsat #Geology #Craters #Geoawesome",
+      "alt_text": "Satellite view of a dark, rugged landscape with a pattern of light-coloured ridges radiating from a central point, resembling a spider."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-17-5-an-impact-structure-with-legs.jpg"
+  },
+  {
+    "item": {
+      "id": "introducing-populace-mapping-humanity-in-unprecedented-detail",
+      "source_id": "planet",
+      "source_name": "Planet Pulse",
+      "source_type": "eo_imagery",
+      "licence": "link_only",
+      "title": "Introducing Populace: Mapping Humanity in Unprecedented Detail",
+      "link": "https://www.planet.com/pulse/introducing-populace-mapping-humanity-in-unprecedented-detail/",
+      "published": "2026-10-12T13:39:00+00:00",
+      "summary": "Planet, IHME, and Microsoft's AI for Good Lab are today announcing Populace: a global, 40-meter population density dataset updated quarterly provided free of charge for nonprofits and researchers.",
+      "image_url": "https://cdn.sanity.io/images/hvd5n54p/blog/e28fd0020eedd08cbc59ae32d8a344f6e30551af-5120x2021.jpg",
+      "credit_hint": "Planet Labs PBC",
+      "source_tag": "@planet",
+      "page_text": "Planet Mosaic of Lusaka, Zambia, Zambia from September 2026. © Planet Labs 2026. All rights reserved.​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍​‍﻿﻿‌﻿​﻿‌﻿‌​‌﻿‌‌‌‍‌​‌‍‍‌‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‍​﻿‍‌‌‍​‍‌‍‌​‌‍​‌​﻿​‍​﻿‌​​﻿​‍​‍﻿‌​﻿​‌​﻿‌﻿​﻿‌﻿​﻿​﻿​‍﻿‌​﻿‌​‌‍​‌​﻿‌‍​﻿‍​​‍﻿‌​﻿‍​​﻿​​‌‍​‌​﻿​﻿​‍﻿‌​﻿‍​‌‍​﻿​﻿​‌​﻿‍‌​﻿‌‌‌‍‌‌​﻿​​​﻿‍‌​﻿‌​​﻿​​​﻿​﻿‌‍​‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌﻿​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌‍﻿‌‌‍​‌‌‍‍‌‌‍﻿‍‌​‍‌‌‍﻿‌‌‍​‌‌‍‌﻿‌‍‌‌​‍﻿‍‌‍​‌‌‍﻿​‌﻿‌​​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌​‍‌‌​﻿​‍‌​‌‍‌﻿​﻿‌﻿‌​‌﻿‌‌‌‍‌​‌‍‍‌‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‍​﻿‍‌‌‍​‍‌‍‌​‌‍​‌​﻿​‍​﻿‌​​﻿​‍​‍﻿‌​﻿​‌​﻿‌﻿​﻿‌﻿​﻿​﻿​‍﻿‌​﻿‌​‌‍​‌​﻿‌‍​﻿‍​​‍﻿‌​﻿‍​​﻿​​‌‍​‌​﻿​﻿​‍﻿‌​﻿‍​‌‍​﻿​﻿​‌​﻿‍‌​﻿‌‌‌‍‌‌​﻿​​​﻿‍‌​﻿‌​​﻿​​​﻿​﻿‌‍​‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌﻿​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌‍﻿‌‌‍​‌‌‍‍‌‌‍﻿‍‌​‍‌‌‍﻿‌‌‍​‌‌‍‌﻿‌‍‌‌​‍﻿‍‌‍​‌‌‍﻿​‌﻿‌​​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍​‍﻿﻿‌﻿​﻿‌﻿‌​‌﻿‌‌‌‍‌​‌‍‍‌‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍​‌‌‍​‍‌‍‌‌​﻿‍‌​﻿‌﻿‌‍​‌​﻿​‌‌‍​‍​‍﻿‌​﻿​﻿​﻿‌﻿​﻿​﻿‌‍‌‌​‍﻿‌​﻿‌​​﻿​‍​﻿‍​‌‍​‍​‍﻿‌‌‍​‍​﻿‍​​﻿‌﻿‌‍​‌​‍﻿‌‌‍​‍​﻿​‌​﻿‌‍​﻿‌​​﻿‍​​﻿‍‌‌‍‌‌​﻿​​​﻿​​‌‍​‌‌‍​‍‌‍‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌﻿​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌‍﻿‌‌‍​‌‌‍‍‌‌‍﻿‍‌​‍‌‌‍﻿‌‌‍​‌‌‍‌﻿‌‍‌‌​‍﻿‍‌‍​‌‌‍﻿​‌﻿‌​​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌​‍‌‌​﻿​‍‌​‌‍‌﻿​﻿‌﻿‌​‌﻿‌‌‌‍‌​‌‍‍‌‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍​‌‌‍​‍‌‍‌‌​﻿‍‌​﻿‌﻿‌‍​‌​﻿​‌‌‍​‍​‍﻿‌​﻿​﻿​﻿‌﻿​﻿​﻿‌‍‌‌​‍﻿‌​﻿‌​​﻿​‍​﻿‍​‌‍​‍​‍﻿‌‌‍​‍​﻿‍​​﻿‌﻿‌‍​‌​‍﻿‌‌‍​‍​﻿​‌​﻿‌‍​﻿‌​​﻿‍​​﻿‍‌‌‍‌‌​﻿​​​﻿​​‌‍​‌‌‍​‍‌‍‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌﻿​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌‍﻿‌‌‍​‌‌‍‍‌‌‍﻿‍‌​‍‌‌‍﻿‌‌‍​‌‌‍‌﻿‌‍‌‌​‍﻿‍‌‍​‌‌‍﻿​‌﻿‌​​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌\nOf all the questions we ask of a map, perhaps none is more fundamental than this one: Where are the people?\nIt sounds like a question we should have answered long ago. Yet in an age of seemingly ubiquitous, real-time information, our picture of where humanity actually lives remains surprisingly blurry. Censuses are expensive, infrequent and, in many places, badly out of date. Cities across the Global South are growing far faster than their residents can be counted. Conflict, disaster, and climate stress are setting millions of people in motion. The result is that many of the world's most vulnerable communities are, in effect, invisible – and on a volatile, warming planet, invisibility can be fatal.\nIn early 2024, we announced a collaboration with the Institute for Health Metrics and Evaluation (IHME) at the University of Washington and Microsoft's AI for Good Lab to help close that gap. Today, I'm delighted to share that the results of this multi-year initiative are being made widely available.\nThe result is Populace : a continuously updated map of the world's population, realized in unprecedented detail. Populace measures the density of human populations across the entire globe at a gridded resolution of 40 meters, updated quarterly. It is the most up-to-date, highest resolution, and most accurate population data available anywhere – and it's available now .\nThe population growth of Lusaka, Zambia, from 2020 to 2026, as revealed by Populace.\nPopulace is the product of a unique collaboration, one in which each partner Populace is the product of a unique collaboration, one in which each partner brings something singular.\nIt begins in orbit. Planet's fleet of satellites images the Earth's entire land mass nearly every day, providing a comprehensive, continuously refreshed record of the built environment – every new rooftop, road and settlement, wherever it appears. From that archive, we assemble high-quality, cloud-free quarterly basemaps of the planet.\nMicrosoft's AI for Good Lab then runs world-class machine learning models over those basemaps – trillions of pixels for every year of data – to detect where human structures are, and how their density changes over time.\nFinally, IHME brings its deep expertise in spatial demography. Its researchers combine that building-density signal with census, survey, and administrative data, along with dozens of other predictors, to model how many people live in and around those structures. The result is a population estimate that remains reliable even where traditional data is sparse, stale, or missing altogether.\n“At the AI for Good Lab, we believe that data and AI are among the most powerful tools we have to address the world's most critical humanitarian challenges,” said Juan Lavista Ferres, Chief Data Scientist at Microsoft and head of the AI for Good Lab. “But that potential is only realized when the right partners come together around a real problem. With Populace, we've helped turn a planet's worth of imagery into something deeply human: an understanding of where people are, so that governments and humanitarian organizations can reach them when it matters most.”\nHigh-resolution population data is one of those rare assets whose value compounds with every new question asked of it. Some of the most important applications include:\nUnderstanding the Geography of Public Health Risk Diseases move through populations differently depending on how those populations are clustered. Knowing precisely where people live – and how densely – helps public health officials target vaccination campaigns, site clinics, model the spread of infectious disease, and understand who is exposed to hazards like extreme heat and air pollution.\nPlanning Roads and Civil Infrastructure Every road, school, hospital, water system, and power line is a bet on where people are, and where they will be. Populace gives planners a far sharper",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://cdn.sanity.io/images/hvd5n54p/blog/e28fd0020eedd08cbc59ae32d8a344f6e30551af-5120x2021.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "square_path": "drafts/images/2026-10-17-6-introducing-populace-mapping-humanity-in.jpg",
+      "image_note": "square crop, from 2021px of source width"
+    },
+    "score": 7.0,
+    "why": "Global 40-metre population density dataset with map potential; useful for geodata readers, though no image in feed.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A Planet Mosaic of Lusaka, Zambia, from September 2026, released alongside Populace, a population density dataset from Planet, IHME (University of Washington) and Microsoft's AI for Good Lab. Populace grids population density across the globe at 40 m and is updated quarterly. Microsoft's machine learning models detect buildings in Planet's cloud-free quarterly basemaps, and IHME combines that signal with census, survey and administrative data.",
+      "uncertainties": [
+        "Reuse policy is 'link_only' and the page says '© Planet Labs 2026. All rights reserved.' with no licence stated. Get permission or confirm reuse terms with Planet before posting the image.",
+        "The page has two visuals: the Planet Mosaic of Lusaka (September 2026) and a Populace visual of Lusaka's population growth from 2020 to 2026. Check that the cropped square is the mosaic, as the caption assumes. If it is the growth visual, rewrite the body and alt text.",
+        "No image credit is named on the page. The supplied credit 'Planet Labs PBC' is used.",
+        "The page gives no satellite or sensor name, resolution or band combination for the mosaic.",
+        "'Most up-to-date, highest resolution, and most accurate population data available anywhere' is Planet's own claim. It is left out of the caption.",
+        "The page text is cut off and contains invisible zero-width characters. Some details may be missing."
+      ],
+      "image_credit": "Image: Planet Labs PBC",
+      "caption": "Planet, IHME and Microsoft's AI for Good Lab have released Populace: global population density on a 40-metre grid, updated quarterly.\n\nThis Planet mosaic of Lusaka, Zambia (September 2026) shows the raw material: machine learning detects buildings in such basemaps, and IHME combines that signal with census and survey data to estimate who lives where.\n\nRead more: https://www.planet.com/pulse/introducing-populace-mapping-humanity-in-unprecedented-detail/\n\nImage: Planet Labs PBC\n\n#Planet #Population #Demography #Zambia #Geoawesome",
+      "x": "Populace, from Planet, IHME and Microsoft's AI for Good Lab, maps global population density on a 40 m grid, updated quarterly. Shown: Planet mosaic of Lusaka, Zambia, September 2026.\nhttps://www.planet.com/pulse/introducing-populace-mapping-humanity-in-unprecedented-detail/\nImage: Planet Labs PBC\n#Population #Demography #Zambia #Geoawesome",
+      "alt_text": "Satellite mosaic of the city of Lusaka, Zambia, showing dense urban areas, roads and surrounding land."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-17-6-introducing-populace-mapping-humanity-in.jpg"
+  }
+]
