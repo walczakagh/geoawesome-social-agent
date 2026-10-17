@@ -372,3 +372,14 @@ def test_private_alert_url_never_reported(monkeypatch):
     report = {}
     scout.scout([src], set(), report=report)
     assert secret not in report["Google Alerts #1"] and "private feed URL" in report["Google Alerts #1"]
+
+
+def test_empty_alert_feed_is_not_a_failure(monkeypatch):
+    def empty(url):
+        raise scout.FeedEmpty("HTTP 200 but no feed entries")
+    monkeypatch.setattr(scout, "_fetch", empty)
+    src = {"id": "ga_5", "name": "Google Alerts #5", "url": "https://g/x", "urls_env": "GA",
+           "type": "alerts"}
+    report = {}
+    scout.scout([src], set(), report=report)
+    assert report["Google Alerts #5"] == "0 in feed, 0 new"

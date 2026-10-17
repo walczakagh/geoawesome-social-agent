@@ -175,6 +175,10 @@ def parse_feed(source: dict, raw: bytes | str | None = None) -> list[Item]:
             try:
                 raw = _fetch(url)
                 break
+            except FeedEmpty:
+                if source.get("type") == "alerts":  # a quiet alert is normal, not a failure
+                    return []
+                errors.append(f"{url}: HTTP 200 but no feed entries")
             except Exception as exc:
                 if source.get("urls_env"):  # private URL (secret): never print it
                     errors.append("feed: " + str(exc).replace(url, "<private feed URL>"))
