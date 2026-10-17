@@ -1,0 +1,47 @@
+[scout] nasa_eo: 10 in feed, 0 new
+[scout] esa_eo: 15 in feed, 0 new
+[scout] eumetsat: 10 in feed, 0 new
+[scout] cams: 10 in feed, 0 new
+[scout] nasa_jpl: 100 in feed, 0 new
+[scout] planet: 50 in feed, 0 new
+[scout] maps_mania: 25 in feed, 0 new
+[scout] visual_capitalist_maps: 10 in feed, 4 new
+[scout] flowingdata: 10 in feed, 4 new
+[scout] google_maps_blog: 20 in feed, 0 new
+[scout] google_research: 100 in feed, 0 new
+[scout] overture: 20 in feed, 0 new
+[scout] bellingcat: 10 in feed, 0 new
+
+## Sources
+- Google Alerts: not configured (secret GOOGLE_ALERTS_FEEDS is empty)
+- NASA Earth Observatory: 10 in feed, 0 new
+- ESA Observing the Earth: 15 in feed, 0 new
+- EUMETSAT: 10 in feed, 0 new
+- Copernicus Atmosphere Monitoring Service: 10 in feed, 0 new
+- NASA JPL: 100 in feed, 0 new
+- Planet Pulse: 50 in feed, 0 new
+- Maps Mania: 25 in feed, 0 new
+- Visual Capitalist (maps): 10 in feed, 4 new
+- FlowingData: 10 in feed, 4 new
+- Google Maps blog: 20 in feed, 0 new
+- Google Research blog: 100 in feed, 0 new
+- Overture Maps blog: 20 in feed, 0 new
+- Bellingcat: 10 in feed, 0 new
+
+## 8 candidate items
+- [Visual Capitalist (maps)] Mapped: Unemployment Rates in Every U.S. State in 2026  (2026-10-13)
+  https://www.visualcapitalist.com/mapped-unemployment-by-state-in-2026/
+- [Visual Capitalist (maps)] Mapped: What a Home Is Worth in Every U.S. State in 2026  (2026-10-12)
+  https://www.visualcapitalist.com/mapped-typical-home-values-by-state-2026/
+- [Visual Capitalist (maps)] Mapped: Unemployment Rates Across Europe in 2026  (2026-10-12)
+  https://www.visualcapitalist.com/mapped-unemployment-rates-across-europe-in-2026/
+- [Visual Capitalist (maps)] Mapped: The Most Walkable Cities in the U.S. & Canada  (2026-10-11)
+  https://www.visualcapitalist.com/mapped-most-walkable-cities-us-canada/
+- [FlowingData] People holding up the internet  (2026-10-14)
+  https://flowingdata.com/2026/10/14/people-holding-up-the-internet/
+- [FlowingData] Searchable database of the enslaved in former British colonies  (2026-10-13)
+  https://flowingdata.com/2026/10/13/searchable-database-of-the-enslaved-in-former-british-colonies/
+- [FlowingData] Learning is the thing  (2026-10-13)
+  https://flowingdata.com/2026/10/13/learning-is-the-thing/
+- [FlowingData] Decline in American social activities  (2026-10-12)
+  https://flowingdata.com/2026/10/12/decline-in-american-social-activities/
