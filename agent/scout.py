@@ -176,7 +176,10 @@ def parse_feed(source: dict, raw: bytes | str | None = None) -> list[Item]:
                 raw = _fetch(url)
                 break
             except Exception as exc:
-                errors.append(f"{url}: {exc}")
+                if source.get("urls_env"):  # private URL (secret): never print it
+                    errors.append("feed: " + str(exc).replace(url, "<private feed URL>"))
+                else:
+                    errors.append(f"{url}: {exc}")
         if raw is None:
             raise RuntimeError(" | ".join(errors))
     feed = feedparser.parse(sanitise(raw.encode() if isinstance(raw, str) else raw))

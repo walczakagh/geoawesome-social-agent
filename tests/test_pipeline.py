@@ -361,3 +361,14 @@ def test_small_pick_falls_back_to_bigger_candidate(tmp_path):
     sizes = {"small": (150, 150), "big": (2000, 1300)}
     images.build(it, tmp_path / "s.jpg", fetch=lambda u: _noise(*sizes[u]))
     assert it.images[0]["url"] == "big" and "low resolution" not in it.image_note
+
+
+def test_private_alert_url_never_reported(monkeypatch):
+    secret = "https://www.google.com/alerts/feeds/123/456"
+    def boom(url):
+        raise RuntimeError(f"HTTP 404 for {url}")
+    monkeypatch.setattr(scout, "_fetch", boom)
+    src = {"id": "ga_1", "name": "Google Alerts #1", "url": secret, "urls_env": "GA"}
+    report = {}
+    scout.scout([src], set(), report=report)
+    assert secret not in report["Google Alerts #1"] and "private feed URL" in report["Google Alerts #1"]
