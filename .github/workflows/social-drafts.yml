@@ -47,6 +47,13 @@ jobs:
           MAX: ${{ inputs.max_items }}
         run: |
           set -euo pipefail
+          # cron-job.org starts this run on time; GitHub's own timer is only a
+          # backup and often fires hours late. Skip it if today is already done.
+          if [ "${GITHUB_EVENT_NAME}" = "schedule" ] && [ -f "drafts/$(date -u +%F).json" ]; then
+            echo "Today's drafts already exist (started by cron-job.org); skipping the late GitHub timer."
+            echo "SKIPPED=1" >> "$GITHUB_ENV"
+            exit 0
+          fi
           DRY=""
           if [ "${{ inputs.dry_run }}" = "true" ]; then DRY="--dry-run"; fi
           python -m agent.main \
@@ -68,6 +75,7 @@ jobs:
           } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Commit state and drafts
+        if: env.SKIPPED != '1'
         run: |
           set -euo pipefail
           git config user.name "geoawesome-social-agent"
@@ -78,6 +86,7 @@ jobs:
           git push
 
       - name: Open review issue
+        if: env.SKIPPED != '1'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |

@@ -30,6 +30,17 @@ Slots are in `config/publish.yaml` as time windows (local time), one post each, 
 
 The workflow posts with a Facebook Page access token in the secret `META_PAGE_TOKEN`. Test it without posting: **Actions → Publish → Run workflow → mode: check**. Switch publishing off: delete the `META_PAGE_TOKEN` secret.
 
+## Timing: cron-job.org starts the workflows
+
+GitHub's built-in timer is unreliable on free accounts (runs start hours late or not at all), so a free cron-job.org account starts both workflows on time through GitHub's API:
+
+| Job | When | URL (POST) | Body |
+|---|---|---|---|
+| Publisher | every 10 minutes | `https://api.github.com/repos/walczakagh/geoawesome-social-agent/actions/workflows/publish.yml/dispatches` | `{"ref":"main","inputs":{"mode":"run"}}` |
+| Daily drafts | 08:47 Europe/Warsaw | `https://api.github.com/repos/walczakagh/geoawesome-social-agent/actions/workflows/social-drafts.yml/dispatches` | `{"ref":"main"}` |
+
+Headers for both: `Authorization: Bearer <token>`, `Accept: application/vnd.github+json`, `X-GitHub-Api-Version: 2022-11-28`, `Content-Type: application/json`. The token is a fine-grained GitHub token limited to this repository with **Actions: Read and write** only; it expires after a year and then needs renewing. GitHub answers 204 when a run was started. The GitHub timers stay on as a backup; the drafts workflow skips a late GitHub-timer run when today's drafts already exist.
+
 ## Google Alerts as a source
 
 Your alerts are the widest net (about 200 links a month, of which you highlighted about 45). To feed them in:
