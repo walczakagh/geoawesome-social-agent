@@ -89,5 +89,12 @@
   "post_id": "2026-10-17-5-an-impact-structure-with-legs",
   "queued_at": "2026-10-17T15:28:59.041378+00:00",
   "slot": "2026-10-22T09:23:00+00:00"
+ },
+ {
+  "base": "2026-10-22T14:00:00+00:00",
+  "issue": 9,
+  "post_id": "2026-10-17-4-hurricane-simon-lurks-off-the-mexican-co",
+  "queued_at": "2026-10-18T10:32:11.952001+00:00",
+  "slot": "2026-10-22T17:11:00+00:00"
  }
 ]
