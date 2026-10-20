@@ -1,0 +1,159 @@
+[
+  {
+    "item": {
+      "id": "https://www.ndtv.com/science/nasas-satellite-spots-spider-shaped-crater-in-australia-formed-by-ancient-meteorite-impact-12204339",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "NASA's Satellite Spots Spider-Shaped Crater In Australia Formed By Ancient Meteorite Impact",
+      "link": "https://www.ndtv.com/science/nasas-satellite-spots-spider-shaped-crater-in-australia-formed-by-ancient-meteorite-impact-12204339",
+      "published": "2026-10-20T01:47:40+00:00",
+      "summary": "The Operational Land Imager (OLI) on the NASA -USGS Landsat 9 satellite captured an image of Spider Crater on September 20, 2026. The crater is located ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The Operational Land Imager (OLI) on the NASA -USGS Landsat 9 satellite captured an image of Spider Crater on September 20, 2026. The crater is located ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 8.0,
+    "why": "Landsat 9 image of Spider Crater, a striking satellite scene with a story.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was found on the page, there is no image credit or licence, the reuse policy is link-only, and the page text is cut off after one sentence, so there is no usable visual or enough detail to caption without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "IMAGE NOTE says no image was found on the page, so there is nothing to crop to a square.",
+        "Image credit is NOT FOUND and the licence is not stated.",
+        "Reuse policy is link_only: even if an image were present, this source should not be reposted as an image.",
+        "Page text is truncated after the first sentence. The only facts available are that Landsat 9 OLI imaged Spider Crater on 20 September 2026; location, size, age and colour rendering are all missing.",
+        "NDTV appears to be relaying a NASA image. If the editor wants this story, the original NASA release (likely with its own credit and public-domain terms) is worth checking as a better source, but that should be confirmed rather than assumed."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Comet_C_2026_S1_Euclid_streaks_across_the_sky_annotated",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Comet C/2026 S1 (Euclid) streaks across the sky (annotated) - European Space Agency",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Comet_C_2026_S1_Euclid_streaks_across_the_sky_annotated",
+      "published": "2026-10-20T00:27:48+00:00",
+      "summary": "Orientation markers and a scale bar provide celestial directions and distance.] CREDIT ESA /Euclid/Euclid Consortium/ NASA , M. Pöntinen et al. 2026 ...",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/comet_c_2026_s1_euclid_streaks_across_the_sky_annotated/27582323-1-eng-GB/Comet_C_2026_S1_Euclid_streaks_across_the_sky_annotated_pillars.gif",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "You have already liked this page, you can only like it once!\nThe European Space Agency's Euclid space telescope has discovered its first previously unknown comet: C/2026 S1 (Euclid).\nIn this image sequence it moves against background stars and galaxies in three of Euclid’s VIS camera exposures captured during the Euclid Deep Field North survey.\nThe images were taken at 00:41:07, 00:58:53 and 01:16:39 UTC on 17 September 2026. Each image is a 560.52 second exposure, so the comet appears like a streak because it moves across the sky during the long exposure. A fuzzy atmosphere, known as a ‘coma’ in cometary terms, is seen around the object.\n[ Image description : A black-and-white telescopic view of deep space shows a faint comet, labelled “C/2026 S1 (Euclid),” moving slowly against a background of stars. An arrow points to the comet’s bright central core and short tail. A timestamp updates as the animation progresses, highlighting the comet’s motion over time. Orientation markers and a scale bar provide celestial directions and distance.]",
+      "image_credit": "ESA/Euclid/Euclid Consortium/NASA, M. Pöntinen et al. 2026",
+      "image_licence": "CC BY-SA 3.0 IGO",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/comet_c_2026_s1_euclid_streaks_across_the_sky_annotated/27582323-1-eng-GB/Comet_C_2026_S1_Euclid_streaks_across_the_sky_annotated_pillars.gif",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "square_path": "",
+      "image_note": "square crop, from 1080px of source width"
+    },
+    "score": 6.0,
+    "why": "Annotated Euclid sky image with orientation markers; striking but not a geo map.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Off-topic: an astronomy discovery by the Euclid space telescope, not Earth observation, GIS or maps, and the source is an animated three-frame sequence that a static square crop would not convey.",
+      "what_it_shows": "An annotated black-and-white image sequence from Euclid's VIS camera showing C/2026 S1 (Euclid), the telescope's first previously unknown comet, moving against background stars and galaxies. The three 560.52-second exposures were taken at 00:41:07, 00:58:53 and 01:16:39 UTC on 17 September 2026 during the Euclid Deep Field North survey; the comet appears as a streak with a fuzzy coma because it moved during each exposure.",
+      "uncertainties": [
+        "Subject is astronomy, outside Geoawesome's Earth observation and geodata scope.",
+        "The source is an animation (three exposures with an updating timestamp); a single square crop would show only one frame and lose the motion that makes it interesting.",
+        "The crop was taken from 1080px of source width, so the comet, arrow and labels may be small or cut off in the square.",
+        "Source is a Google Alerts item with a link_only reuse policy, although the page states a CC BY-SA 3.0 IGO licence; confirm reuse terms before any repost."
+      ],
+      "image_credit": "Image: ESA/Euclid/Euclid Consortium/NASA, M. Pöntinen et al. 2026",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.visualcapitalist.com/?p=206264",
+      "source_id": "visual_capitalist_maps",
+      "source_name": "Visual Capitalist (maps)",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "Mapped: Salary Needed to Buy a Home in 50 U.S. Cities (2026)",
+      "link": "https://www.visualcapitalist.com/salary-needed-to-buy-a-home-50-us-cities-q2-2026/",
+      "published": "2026-10-19T14:09:08+00:00",
+      "summary": "Buying a median-priced home takes $492,364 a year in San Jose but $71,567 in Pittsburgh. See the salary needed to buy a home in 50 U.S. cities.",
+      "image_url": "https://www.visualcapitalist.com/wp-content/uploads/2026/10/Salary-Needed-to-Buy-a-Home-in-50-US-Cities-Q2-2026-SHARE.webp",
+      "credit_hint": "Visual Capitalist",
+      "source_tag": "@VisualCap",
+      "page_text": "A six-figure salary used to be a benchmark of financial success. In much of the U.S. housing market, it’s now closer to the starting point for buying a home, even with a substantial down payment.\nThis map shows the annual income needed to buy a median-priced existing home in 50 major U.S. metro areas in Q2 2026, using data from HSH.com . It assumes a 20% down payment and a 30-year fixed mortgage, with principal, interest, property taxes, and insurance taking up 28% of gross income.\nCalifornia dominates the expensive end of the ranking. San Jose leads at $492.4K a year, followed by San Francisco ($368.0K), San Diego ($256.7K), and Los Angeles ($215.1K).\nOutside California, New York City ($213.8K), Boston ($212.6K), and Seattle ($200.8K) are the only metros requiring annual incomes above $200K.\nThe table below ranks all 50 metro areas by the income needed to buy a median-priced home, along with each metro’s median home price and monthly mortgage payment:\nAll 12 Western metros require more than the national figure of $112.7K, while the cheaper half of the ranking consists of Southern and Midwestern metros, plus Buffalo and Pittsburgh.\nIn coastal California, much of what buyers pay for is the land itself. Land accounted for 59% to 68% of a single-family home’s value in the San Jose, San Francisco, Los Angeles, and San Diego metros in 2022, compared with 40% nationally and 22% in Pittsburgh, according to FHFA estimates .\nNationally, buyers needed $112.7K a year, about 29% more than the 2025 U.S. median household income of $87.5K, according to the Census Bureau .\nThe gap between home prices and household incomes is especially striking in San Jose. Although the typical household earns roughly twice the national median, the median home costs nearly five times as much as the national median. As a result, the typical local household earns only about one-third of the income needed to buy a median-priced home.\nAt the other end of the ranking, these five metros require the lowest salaries:\nBased on 2024 Census data , the latest available by metro area, median household incomes in Oklahoma City and Louisville fell short of the required salaries by less than 2%.\nCompared with Q2 2025, the income needed fell in 30 of the 50 metros as the average 30-year mortgage rate dropped from 6.79% to 6.41%.\nHowever, the required income rose in 13 of the 17 Midwest and Northeast metros, led by St. Louis (+3.8%), Hartford (+3.6%), and Providence (+3.3%). Even Pittsburgh and Cleveland, the two cheapest markets, became less affordable.\nNew construction helps explain the regional divide. The South and West accounted for 79% of single-family housing starts in 2025, despite holding about 63% of the U.S. population, according to Census Bureau data . All 10 metros where home prices fell were also in those two regions.\nThe table below shows how the income needed and median home prices changed in each metro from Q2 2025 to Q2 2026:\nRising mortgage rates have since erased much of that relief. Freddie Mac’s average 30-year mortgage rate reached 7.40% in October 2026, its highest level since November 2023 and nearly a full percentage point above the Q2 average.\nAt that rate, buying the national median-priced home would require an annual income of approximately $122.6K, nearly $10K more than the Q2 figure. This illustrates how quickly borrowing costs can change affordability, even without a corresponding increase in home prices.\nIf you enjoyed today’s post, check out Years of Income Needed to Buy a Home by State on Voronoi.\nRanked: The Most and Least Affordable U.S. Cities for Fast Food\nRanked: The Most and Least Affordable U.S. Cities for Fast Food\nMapped: Where Millennials Own vs. Rent in America\nRanked: America’s Biggest Farm Economies in 2025\nMapped: What a Home Is Worth in Every U.S. State in 2026\nMapped: The Most Walkable Cities in the U.S. & Canada\nRanked: The 15 Best Colleges in America for 2027\nExplore millennial homeownership rates across U.S. cities, from Provo’s 71% ownership rate to Los Angeles’ 69% rental rate.\nFor millennials, the likelihood of owning a home varies dramatically depending on where they live. In some U.S. metro areas, roughly seven in 10 millennial households own their homes. In others, nearly seven in 10 rent.\nThis visualization maps the U.S. metro areas where millennials are most likely to own or rent, using data from IPUMS USA and the University of Minnesota’s harmonized 2024 American Community Survey (ACS) 1-Year microdata.\nThe analysis covers 108 U.S. metro areas with at least 50,000 millennial households, comparing ownership and rental rates rather than the total number of homeowners or renters.\nUtah claims the top two spots for millennial homeownership. In Provo, 71.0% of millennial households own their homes, followed by nearby Ogden at 68.9%. Grand Rapids, Michigan, ranks third at 68.1%.\nUtah’s high millennial homeownership rates may partly reflect the state’s tendency toward earlier marriage and family formation, alongside strong employment growth.\nHistorically more attainable housing prices in places like Ogden may also have helped younger households enter the market. However, rising home prices and elevated mortgage rates have made buying increasingly difficult for prospective homeowners.\nOther high-ranking metros include Lancaster, Pennsylvania (65.5%), Minneapolis, Minnesota (65.3%), and Des Moines, Iowa (63.5%), highlighting a strong showing across parts of the Midwest.\nThese markets contrast sharply with rental-heavy coastal metros, although local incomes, household composition, and the timing of home purchases can also shape homeownership rates .\nLos Angeles is nearly the mirror image of Provo. While roughly seven in 10 millennial households own their homes in Provo, nearly seven in 10 rent in Los Angeles (69.2%).\nSan Jose follows with a 63.7% rental rate, while New York and Urban Honolulu are tied at 62.9%.\nSan Diego (62.2%) and San Francisco (60.9%) also rank near the top, making h",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.visualcapitalist.com/wp-content/uploads/2026/10/Salary-Needed-to-Buy-a-Home-in-50-US-Cities-Q2-2026-MAIN.webp",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://www.visualcapitalist.com/wp-content/uploads/2026/10/Salary-Needed-to-Buy-a-Home-in-50-US-Cities-Q2-2026-MAIN.webp",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "square_path": "drafts/images/2026-10-20-4-mapped-salary-needed-to-buy-a-home-in-50.jpg",
+      "image_note": "square crop, from 1500px of source width"
+    },
+    "score": 6.0,
+    "why": "Mapped US city salary chart; a bar-style graphic, not a true map, but a clear geographic gap.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A Visual Capitalist map of the annual income needed to buy a median-priced existing home in 50 major US metro areas in Q2 2026, using HSH.com data. It assumes a 20% down payment and a 30-year fixed mortgage, with principal, interest, property taxes and insurance taking 28% of gross income. San Jose is highest at $492.4K, and the national figure is $112.7K.",
+      "uncertainties": [
+        "Reuse policy is 'link_only' and no image licence is stated. Confirm Visual Capitalist permits reposting the image itself before publishing. A link-only post may be required.",
+        "The page text does not describe the map design (symbols, colour scale, legend), so the alt text and posts stay generic about how values are shown.",
+        "Square crop from 1500px source width may cut off metros, the legend or the data note. Check the crop.",
+        "Q2 2026 figures are already dated: the source says Freddie Mac's 30-year rate reached 7.40% in October 2026, raising the national figure to about $122.6K.",
+        "No image credit found on the page. The credit falls back to the publisher, Visual Capitalist.",
+        "Page text also contains an unrelated millennial homeownership article. None of it is used here.",
+        "This is a socio-economic thematic map, not Earth observation. Check it fits the editorial mix."
+      ],
+      "image_credit": "Map: Visual Capitalist",
+      "facebook": "Buying a median-priced home in San Jose took $492.4K a year in Q2 2026, more than four times the US figure of $112.7K.\n\nThe Visual Capitalist map ranks 50 US metros on HSH.com data (20% down, 30-year fixed, housing costs at 28% of gross income). All 12 Western metros sit above the national figure, while the cheaper half is Southern and Midwestern metros, plus Buffalo and Pittsburgh.\n\nRead more: https://www.visualcapitalist.com/salary-needed-to-buy-a-home-50-us-cities-q2-2026/\n\nMap: Visual Capitalist\n\n#Geoawesome #Maps #Housing #Cartography",
+      "instagram": "Seven US metros required a salary above $200K to buy a median-priced home in Q2 2026, and four of them are in California.\n\nSan Jose tops the map at $492.4K a year. Nationally, the figure was $112.7K.\n\nFind out more: https://www.visualcapitalist.com/salary-needed-to-buy-a-home-50-us-cities-q2-2026/\n\nMap: Visual Capitalist\n\n#Geoawesome #Maps #Housing #California",
+      "youtube": "Between Q2 2025 and Q2 2026, the income needed to buy a median home fell in 30 of 50 US metros as the average 30-year mortgage rate dropped from 6.79% to 6.41%.\n\nThe map uses HSH.com data on median-priced existing homes. It assumes 20% down, with principal, interest, taxes and insurance at 28% of gross income. Regionally the trend split: required income rose in 13 of 17 Midwest and Northeast metros, led by St. Louis (+3.8%).\n\nLearn more: https://www.visualcapitalist.com/salary-needed-to-buy-a-home-50-us-cities-q2-2026/\n\nMap: Visual Capitalist\n\n#Geoawesome #Mortgages #Housing #Cartography",
+      "x": "A US buyer needed $112.7K a year for a median-priced home in Q2 2026, about 29% above the 2025 median household income.\nhttps://www.visualcapitalist.com/salary-needed-to-buy-a-home-50-us-cities-q2-2026/\nMap: Visual Capitalist\n#Geoawesome #Maps #Housing #Mortgages",
+      "alt_text": "A map of the United States marking 50 major metro areas with the annual income needed to buy a median-priced home in Q2 2026."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-20-4-mapped-salary-needed-to-buy-a-home-in-50.jpg"
+  }
+]
