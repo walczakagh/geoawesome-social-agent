@@ -1,0 +1,304 @@
+[
+  {
+    "item": {
+      "id": "https://www.geoweeknews.com/articles/it-felt-like-being-an-astronaut-mapping-the-ice-beneath-antarctica/",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "“It felt like being an astronaut”: Mapping the ice beneath Antarctica | Geo Week News",
+      "link": "https://www.geoweeknews.com/articles/it-felt-like-being-an-astronaut-mapping-the-ice-beneath-antarctica/",
+      "published": "2026-10-20T13:26:59+00:00",
+      "summary": "Close GIS Open GIS . GIS . View All. Standards. Industry protocols and best ... “It felt like being an astronaut”: Mapping the ice beneath Antarctica.",
+      "image_url": "https://media.geoweeknews.com/wp-content/uploads/2026/10/IMG_1411-1024x576.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "By Fabio Giannino, Global Product Training Manager, IDS GeoRadar and all images are credited to Matthieu Tordeur and Dr. Heïdi Sevestre.\nPolar science projects have traditionally relied on tractors and snowmobiles that burn huge amounts of fuel, so research into climate change has itself carried an environmental cost. The approach has also left much of Antarctica unmapped, because collecting accurate radar data means contending with extreme cold, rough terrain and a landscape that offers no easy way in.\nYet scientists urgently need to understand how Antarctica is responding to climate change so they can better predict consequences like rising sea levels.\nTo look beneath the surface, a new approach was needed. With UNESCO for the Decade of Action for Cryospheric Sciences, glaciologist Dr Heïdi Sevestre and polar explorer Matthieu Tordeur crossed the continent with two ground-penetrating radars (GPR). Powered only by wind and solar energy, the pair completed the first radar transect by kite-ski for polar science.\nThe expedition delivered the first dataset from some of Antarctica’s most remote regions, and showed that polar science can be sustainable without compromising the data needed to understand changing ice levels and the environment.\nThe challenges of scanning a frozen continent\nThe set-up on the ice, including the GPR, provided by IDS GeoRadar, and a GNSS receiver from Leica Geosystems, in action despite freezing temperatures.\nThe team set out to map both ancient and recent ice layers, record snow accumulation, and harmonize existing data from the few regions that had already been mapped to create a single picture.\nAchieving the goals of the expedition meant battling extreme cold. Temperatures dropped as low as -50°C, beyond anything a standard freezer reaches.\n“The environment was the biggest challenge,” explains Dr Heïdi Sevestre, “It’s a different planet, a different universe. The biting cold can suck the energy out of everything, especially the batteries. Each night, we slept with the batteries in our sleeping bags to keep them warm.\nWe were also battling unpredictable winds. It was either too violent, or if the wind dropped and conditions were too calm, it was impossible to take off on our skis. This was a huge challenge because the speed of travel is really important. Moving too fast or too slow can compromise the quality of the radar measurements.”\nAdding to this, Antarctica’s terrain is made up of metre-high ice dunes, which made skiing difficult; the team had to tow around 200 kg of equipment across the bumpy surface.\nAll this left little room for error. With so much attention focused on survival and avoiding falls and frostbite, the time available for research was precious. Success depended on careful planning and the right technology that could survive the conditions and deliver accurate data.\nMapping Antarctica using kites, skis and ground penetrating radar\nTo tackle the wind and the cold, the team used the complex conditions to their advantage. Kite skiing offered a way to tow the radar on sleds with no fuel and no generator.\n“We used kites of different sizes for different wind speeds to help us travel,” explains Sevestre. “You don’t want to be skiing too fast, so it was the best way to collect the data. Even when a kite was punctured and had holes, it was still repairable.”\nThe radar had to be just as resilient. “Ground-penetrating radar is usually used for utility detection, but the compact surface system turned out to be robust and perfect for icy conditions,” says Sevestre. “It works a bit like sonar, scanning whatever is beneath your feet. We used a shallow radar to scan the upper 40 metres of the Antarctic ice sheet. Almost everything broke during our journey but the radar. It remained reliable from start to finish, and that’s what let us capture the data we came for.”\nThe contents towed on the sled: the Chaser XR GPR, Leica GS16 GNSS receiver and Panasonic FZ-55 semi-rugged laptop.\nRather than the wheel-based trigger common in utility surveys, which would struggle on snow, measurements were triggered by GPS, with positioning from a GNSS receiver. The team used a surface shallow radar, which they checked every two hours for any faults or errors. A second radar worked alongside it to reveal deeper ice layers and map the bedrock, scanning up to two kilometers below the surface.\nOver roughly 80 days and 4,000 kilometers of travel, both radars collected more than 1,500 kilometers of linear data, revealing for the first time what had previously been invisible beneath the ice.\nFrom the ice to the inbox: processing the scanning data\nWhen undertaking a project like this in a remote location, data is usually processed back in the office. But this was the first expedition in Antarctica with an internet connection, meaning the expedition team could store the data in the cloud and send it to the office in daily batches.\nBack at the IDS GeoRadar office in Italy, each batch arrived in near real-time, where the team could monitor the equipment and troubleshoot remotely. Sevestre and Tordeur’s position was also updated in Google Earth every day.\n“You can do science differently today,” says Sevestre. “It’s like being an astronaut with a Houston course-correcting you on the way. There’s a bigger team supporting us from miles away, and it felt comforting.”\nLenin’s bust at the Southern Pole of Inaccessibility, which fewer people have reached than the moon.\nSome of the most valuable data came from the most remote places. After 42 days and nearly 1,800 kilometers of kite-skiing, Sevestre and Tordeur arrived at the Southern Pole of Inaccessibility, historically calculated as the point in Antarctica farthest from any coastline. A bust of Lenin still overlooks a Soviet scientific base built in 1958, now buried beneath the snow.\n“This is the data I’m most excited about,” says Sevestre. “The scans, once processed, revealed the base buried beneath the ice, and showed us how much snow had fal",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://media.geoweeknews.com/wp-content/uploads/2026/10/IMG_1411-1024x576.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "square_path": "",
+      "image_note": "square crop, from 576px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6.0,
+    "why": "Antarctic subglacial mapping story; visual unclear, no image supplied, but strong geo hook.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No map or radar visual: the article's images are expedition photos (equipment, sled, Lenin bust), we cannot tell which one was cropped, reuse policy is link_only and the 576px source is low resolution.",
+      "what_it_shows": "Article (by IDS GeoRadar) on a kite-ski Antarctic crossing by Dr Heïdi Sevestre and Matthieu Tordeur with two ground-penetrating radars, about 80 days and 4,000 km of travel, more than 1,500 km of radar data. The pictured images are expedition and equipment photos, not radargrams or maps.",
+      "uncertainties": [
+        "IMAGE NOTE does not say which photo was cropped, so the visual cannot be described without guessing",
+        "Reuse policy is link_only and no image licence is stated, so reposting the image may not be permitted",
+        "Image credit field says NOT FOUND, though the page text credits all images to Matthieu Tordeur and Dr Heïdi Sevestre",
+        "Source is a vendor-authored piece (IDS GeoRadar), so claims such as 'first radar transect by kite-ski' and 'first expedition in Antarctica with an internet connection' are self-reported",
+        "Page text is truncated before the results from the Pole of Inaccessibility (buried base, snow accumulation) are described",
+        "Source image is 576px wide and upscaled, so sharpness is likely poor",
+        "If a processed radargram of the buried Soviet base is published, that would be a strong candidate for a future post"
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://phys.org/news/2026-10-drones-archaeologists-aboriginal-art-sites.html",
+      "source_id": "google_alerts_4",
+      "source_name": "Google Alerts #4",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Drones help archaeologists find Aboriginal rock art sites hidden in Australia's rugged Blue Mountains",
+      "link": "https://phys.org/news/2026-10-drones-archaeologists-aboriginal-art-sites.html",
+      "published": "2026-10-21T05:00:54+00:00",
+      "summary": "... LiDAR (light detection and ranging) to identify three previously unregistered Aboriginal rock shelters containing rock art and stone artifacts. LiDAR ...",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/drones-help-archaeolog.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "edited by Swati Mestri , \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\treviewed by Robert Egan\nThis article has been reviewed according to Science X's editorial process and policies . Editors have highlighted\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tthe following attributes while ensuring the content's credibility:\nDrone-mounted laser technology is helping archaeologists locate Aboriginal rock art sites hidden in the rugged, densely vegetated landscapes of Australia's Blue Mountains, demonstrating a new approach to surveying archaeological sites that can be difficult and expensive to reach on foot.\nResearchers from the University of Sydney and the Australian Museum, working alongside the Dharug Custodian Aboriginal Corporation, used drone-based LiDAR (light detection and ranging) to identify three previously unregistered Aboriginal rock shelters containing rock art and stone artifacts.\nLiDAR (light detection and ranging) uses laser pulses to create detailed 3D maps of the landscape, helping researchers detect features hidden beneath dense vegetation and tree cover. The newly recorded shelters contain visually striking rock art, including red hand stencils, as well as stone artifacts.\nThe team says the approach could help Aboriginal communities, archaeologists and heritage managers locate and protect cultural sites more efficiently across Australia.\nThe research is published in Remote Sensing .\nThe work forms part of the Gulamada Project , which is built on the principle of walking side by side, bringing together scientific knowledge and First Nations cultural knowledge to better understand and care for Country.\n\"From the outset, our vision for the Gulamada Project has been to create a true nexus of science and culture. This work highlights the importance of listening, learning and working together,\" said project co-director and Indigenous rock art expert Wayne Brennan at the University of Sydney.\nSusan Templeman, the federal member for Macquarie, which includes the Blue Mountains, said, \"This project demonstrates the power of bringing together First Nations knowledge and new technology to better understand and protect Australia's rich cultural heritage. I'm proud that the Australian government's First Nations Heritage Grants program is supporting important projects like Gulamada here in the Blue Mountains, already renowned for the extraordinary natural and cultural significance within our rugged landscapes.\"\nThe drone-based field surveys confirmed the locations of six registered rock shelters and three previously unregistered shelters containing rock art and stone artifacts. The work also produced much more accurate coordinates than those listed in the official New South Wales sites register—the Aboriginal Heritage Information Management System (AHIMS).\nAfter the drone surveys identified potential rock shelter sites, project co-director Dr. Amy Mosig Way, a research archaeologist at the University of Sydney and the Australian Museum, led teams of students and volunteers into the field to verify the locations and assess whether the shelters contained cultural material.\nBrennan and Erin Wilkins (Dharug Custodian Aboriginal Corporation) then led the rock art recording at confirmed sites.\n\"One of the most rewarding aspects of the Gulamada Project has been creating opportunities for students to gain hands-on experience in cultural heritage research in a community-centered project,\" Way said.\nDiscover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys.org for daily insights.\n        Sign up for our free newsletter and get updates on breakthroughs,\n        innovations, and research that matter— daily or weekly .\nMore than 200 rock shelters containing cultural and archaeological evidence have been recorded in the Blue Mountains. Yet, according to Way, only an estimated 10% of the region has been surveyed because of its rugged and difficult terrain.\nThe new methodology enables Aboriginal communities, archaeologists and heritage managers to search vast areas of challenging landscape much faster than traditional ground surveys.\n\"This work is exciting because it offers an efficient and accurate way to locate sites in rugged environments, which are notoriously arduous, expensive and time-consuming to survey,\" said Dr. Jacob Bongers, lead author on the drone research and a digital archaeologist at the University of Sydney. He is also a former AMF/AMRI visiting research fellow at the Australian Museum.\n\"Importantly, our methodology is helping expand the record of Aboriginal cultural sites in the Blue Mountains and has the potential to be applied in other regions,\" Bongers said.\nWhile identifying previously unregistered rock shelters is significant, the broader impact may be the ability to find and safeguard many more cultural sites across Australia using a faster and more targeted approach.\nThe technology provides Aboriginal communities with another tool to use alongside existing knowledge and cultural practices to locate, document and protect important heritage sites before they are affected by development, erosion, wildfires or other threats.\nThese promising results lay the groundwork for further LiDAR-assisted surveys across Australia in partnership with Aboriginal communities.\nThe research team plans to work with Aboriginal communities to test and adapt the approach in different environments, including the tropical savannas of western Arnhem Land and the semiarid landscapes of western New South Wales.\nUltimately, the methodology could become more than a tool for locating archaeological sites. It has the potential to support Aboriginal communities in documenting, managing and safeguarding cultural landscapes for future generations.\nJacob L. Bongers et al., LiDAR-Assisted Survey Locates Unregistered Rock Shelters in the Blue Mountains, Australia, Remote Sensing (2026). DOI: 10.3390/rs18203495\nSwati Mestri holds a bachelor's degree in Electronics Engineering and has worked as a content editor since 2019. She has ex",
+      "image_credit": "Lauren Roach/University of Sydney",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/drones-help-archaeolog.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://scx1.b-cdn.net/gfx/profiles/a5155b7e93ee6855.png",
+          "label": ""
+        },
+        {
+          "url": "https://scx1.b-cdn.net/gfx/profiles/b3013a0f7fc5c4a0.png",
+          "label": ""
+        },
+        {
+          "url": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-help-archaeolog.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-help-archaeolog-1.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-help-archaeolog-2.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "square_path": "",
+      "image_note": "square crop, from 1080px of source width"
+    },
+    "score": 6.0,
+    "why": "LiDAR and drone survey revealing hidden rock art sites; striking archaeology map potential.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The page never says what the image shows (LiDAR model, rock art photo, drone or field team), so it can't be captioned without guessing, and the reuse policy is link_only with no licence stated.",
+      "what_it_shows": "Unknown. The page text describes drone-based LiDAR surveys in the Blue Mountains that confirmed six registered and three previously unregistered Aboriginal rock shelters with rock art (including red hand stencils) and stone artifacts, but it does not describe the accompanying image credited to Lauren Roach/University of Sydney.",
+      "uncertainties": [
+        "The image content is not described anywhere in the source text. It could be a LiDAR visual, a photo of rock art, a drone in flight or researchers in the field, and only a LiDAR-derived visual would suit a Geoawesome image repost.",
+        "Reuse policy is link_only and the image licence is not stated on the page, so reposting the image itself may not be permitted.",
+        "If the image shows rock art, check with the Dharug Custodian Aboriginal Corporation or the University of Sydney before sharing culturally significant imagery.",
+        "If the image is a LiDAR map or terrain model, it could reveal sensitive site locations. The article notes the work produced more accurate coordinates than the AHIMS register, which is a reason for caution with location-revealing visuals.",
+        "The source gives no LiDAR sensor, drone platform, point density, resolution or survey dates. The open-access paper (Bongers et al., Remote Sensing 2026, DOI 10.3390/rs18203495) may hold a clearly captioned and licensed LiDAR figure worth considering instead."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.nasa.gov/image-article/webb-captures-stellar-jets/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Webb Captures Stellar Jets - NASA",
+      "link": "https://www.nasa.gov/image-article/webb-captures-stellar-jets/",
+      "published": "2026-10-21T01:44:09+00:00",
+      "summary": "An image from NASA's James Webb Space Telescope released on Oct. 6, 2026, reveals a cauldron of cosmic creation. Webb has unveiled numerous stars ...",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/55572978759-545472774e-o.png",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "An image from NASA’s James Webb Space Telescope released on Oct. 6, 2026, reveals a cauldron of cosmic creation. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth.\nLearn more about this region – and tour it in an interactive experience.\nImage credit:  NASA, ESA, CSA, STScI; Image Processing: Alyssa Pagan (STScI)",
+      "image_credit": "NASA, ESA, CSA, STScI; Image Processing: Alyssa Pagan (STScI)",
+      "image_licence": "NASA imagery, generally free to reuse with credit",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/10/55572978759-545472774e-o.png?w=2048",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/10/55572978759-545472774e-o.png?w=2048",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "square_path": "",
+      "image_note": "square crop, from 1910px of source width"
+    },
+    "score": 5.0,
+    "why": "Dramatic Webb image, but space not geography; borderline for a geodata audience.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Off-topic: this is a James Webb Space Telescope astronomy image of a stellar nursery, not Earth observation, remote sensing, GIS or a map.",
+      "what_it_shows": "An image from NASA's James Webb Space Telescope, released on 6 October 2026, of NGC 7129, a stellar nursery about 3,300 light-years from Earth. It shows numerous stars that were previously hidden by clouds of dust. The source does not say which instrument or filters were used or what the colours represent.",
+      "uncertainties": [
+        "Subject is deep-space astronomy and falls outside Geoawesome's Earth observation and geodata scope.",
+        "The page gives no instrument (NIRCam or MIRI), filters, wavelengths or colour mapping, so the colours could not be explained without guessing.",
+        "Source arrived via Google Alerts with a link_only reuse policy, although NASA imagery is generally free to reuse with credit.",
+        "The page mentions an interactive tour but gives no details about it."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://journals.ametsoc.org/abstract/journals/clim/39/20/JCLI-D-26-0038.1.xml",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Synchronized Declines in Global Landsat Cloud Occurrence Probability and Area in - AMS Journals",
+      "link": "https://journals.ametsoc.org/abstract/journals/clim/39/20/JCLI-D-26-0038.1.xml",
+      "published": "2026-10-20T09:17:03+00:00",
+      "summary": "... Earth Engine based on a deep convolutional neural network. Remote Sens ... Landsat -5, Landsat -7, and Landsat -8. Results reveal pronounced ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "... Earth Engine based on a deep convolutional neural network. Remote Sens ... Landsat -5, Landsat -7, and Landsat -8. Results reveal pronounced ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Global Landsat cloud occurrence decline; interesting data story but abstract-only, no visual.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, the source is link-only, and the text is a fragmentary journal abstract with no visual or verifiable findings to caption.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was found on the page and no image credit or licence is given.",
+        "The reuse policy is link_only, so no image could be reposted even if one existed.",
+        "The page text is a truncated Google Alerts snippet. It mentions Landsat-5, Landsat-7, Landsat-8, Earth Engine and a deep convolutional neural network, but gives no results, figures, dates or study period.",
+        "The title is cut off ('...Cloud Occurrence Probability and Area in'), so the region or time span of the study is unknown.",
+        "If the editor wants to cover this study, the full paper or a figure released by the authors or AMS with a clear licence would be needed."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.gim-international.com/news/precision-lidar-joins-the-search-for-resilient-beech-forests",
+      "source_id": "google_alerts_4",
+      "source_name": "Google Alerts #4",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Precision Lidar joins the search for resilient beech forests - GIM International",
+      "link": "https://www.gim-international.com/news/precision-lidar-joins-the-search-for-resilient-beech-forests",
+      "published": "2026-10-21T06:31:25+00:00",
+      "summary": "The project integrates genomic data with terrestrial and UAV Lidar ... GNSS · Mobile Mapping · Point Clouds. General. Advertise · About us · Contact ...",
+      "image_url": "https://cdn.gim-international.com/3n84NVGn.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Carinthia University of Applied Sciences (CUAS) has equipped its new Interdisciplinary Center for Ecosystem Services and Biodiversity (ICEB) with terrestrial and UAV-based laser scanning systems from RIEGL. The investment establishes a combined TLS/ULS capability at the center, aimed at high-precision 3D data acquisition for biodiversity research and the quantitative assessment of ecosystem services.\nThe delivery comprises a RIEGL VZ-600i terrestrial laser scanner and a VUX-120-23 UAV laser scanning system, the latter integrated with a positioning unit and camera on a heavy-lift drone platform. The pairing allows the team to capture detailed stem and understory structure from the ground while covering canopy and larger survey areas from the air, producing complementary point clouds suited to forest structure analysis at both plot and landscape scale.\nThe equipment forms part of CUAS’s “BioDivTechLab” project, funded by the Austrian Research Promotion Agency (FFG) through its R&D infrastructure program and co-financed by the European Union. It reflects growing investment by Austrian research institutions in remote sensing infrastructure for environmental applications, where quantifying ecosystem services such as carbon storage and habitat structure is increasingly in demand.\nOne of the first projects to use the systems is an international study funded by the Austrian Science Fund (FWF), titled “Seeing the Forest for the Trees.” It investigates how genetic variation among individual trees influences the performance of beech forests. The project integrates genomic data with terrestrial and UAV Lidar forest monitoring and satellite remote sensing, covering more than 1,000 beech trees across Europe.\nThe consortium includes the Spatial Genetics of the Environment group at the University of Zurich’s Department of Geography, CUAS’s ICEB in Villach, the Department of Genetics at Kazimierz Wielki University in Bydgoszcz, Poland, and partners in Romania and Germany.\nIn early September, CUAS’s SIENA department (Spatial Informatics for Environmental Applications), led by Prof Gernot Paulus, visited the manufacturer’s headquarters in Horn for system handover, acceptance testing and in-depth training. SIENA is responsible for Lidar technologies within the newly founded ICEB.\nStay on the map with our expertly curated newsletters.\nWe provide educational insights, industry updates, and inspiring stories to help you learn, grow, and reach your full potential in your field. Don't miss out - subscribe today and ensure you're always informed, educated, and inspired.\nDrone surveying specialist SPH Engineering hosted two days of field demonstrations, workshops and technical discussions at its SPH Drone Camp in Vasad, near Budapest, Hungary, on 12-13 October 2026. The event was designed to help engineers, researche...\nGerman laser scanner manufacturer Zoller + Fröhlich (Z+F) presented three new products at Intergeo, including new mobile mapping systems. With these systems, the company, best known for its terrestrial scanners, is targeting locations that satellite...\nA new European Commission study could reshape how Europe’s core geospatial data is governed. Launched by the Directorate-General for Defence Industry and Space (DEFIS), the 18-month study will map current data provision across the EU and chart a road...\nAs the Great Salt Lake shrinks, the question of how to measure and respond to that change is landing on the doorstep of the geospatial industry. Geo Week 2027, the conference and trade show for geospatial and mapping professionals, takes place from 2...\nWith the deadline for regular abstracts set for 1 November 2026, professionals hoping to present their work at FIG Working Week 2027 have just over two weeks left to submit. Additiionally, registration is now open for the annual flagship gathering of...\nAs Blue Marble Geographics continues to integrate the technology it gained through its combination with Avenza Systems, the company is folding several of its geospatial software products into a single subscription. The new Global Mapper subscription...\nAs businesses hand more operational choices to automated systems, it is becoming essential that AI agents can make precise, deterministic decisions about the physical world, according to HERE Technologies and Wherobots. The mapping and location data...\nIn an early but important sign that the satellite is healthy and ready to begin its work tracking the state of Earth’s oceans, land, ice and atmosphere, Copernicus Sentinel-3C has sent back its first images and measurements from two of its main instr...\nPwC and Esri are expanding their strategic alliance to bring geospatial insights to the intelligent enterprise. This will help energy and infrastructure organizations connect strategy, technology, operations and governance into a single geo-enabled s...\nPhase One’s Next-Generation Aerial Systems address the increasing complexity of aerial mapping, inspection and geospatial production, with operators expected to capture more detail, fly more efficiently, reduce re-flight risk and deliver data faster....\nFARO Insight has introduced two new terrestrial laser scanners, the Focus i.1 and Focus i.1 X, along with Rovi i.1, an entry-level mobile reality capture package. The launches were timed for Intergeo in Munich and Autodesk University in Las Vegas. FA...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://cdn.gim-international.com/3n84NVGn.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://cdn.gim-international.com/3n84NVGn.jpg?p=large&s=4d68735bc02e4ef1600d6d618659fc8d",
+          "label": ""
+        },
+        {
+          "url": "https://www.gim-international.com/_ipx/_/img/newsletter-card.png",
+          "label": ""
+        },
+        {
+          "url": "https://cdn.gim-international.com/kR9DEKMo.png?w=400&s=5f980e2f6acf8f75203522a389393bdb",
+          "label": ""
+        },
+        {
+          "url": "https://cdn.gim-international.com/enYy4Ydn.jpg?w=400&s=fcd80893e2a36fae07e40648dd7993d8",
+          "label": ""
+        },
+        {
+          "url": "https://cdn.gim-international.com/1pA5ZAlp.jpg?w=400&s=864130c01a76bb725679e5735c388341",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "square_path": "",
+      "image_note": "square crop, from 628px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 5.0,
+    "why": "Lidar forest project from a trade site with a good editor pick rate; visual unclear.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Equipment procurement press notice (RIEGL scanners delivered to CUAS) with no map, point cloud or EO visual described, no image credit and a low-resolution source image.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page text does not describe the image, which is likely an equipment or handover photo rather than data.",
+        "No image credit or licence is stated, and the reuse policy is link_only.",
+        "The source image is only 628px wide and would need upscaling.",
+        "If the 'Seeing the Forest for the Trees' project later publishes Lidar point clouds or beech canopy maps, that could make a strong post."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  }
+]
