@@ -1,0 +1,489 @@
+[
+  {
+    "item": {
+      "id": "https://science.nasa.gov/?p=1499132",
+      "source_id": "nasa_eo",
+      "source_name": "NASA Earth Observatory",
+      "source_type": "eo_imagery",
+      "licence": "reuse",
+      "title": "Fires Char New Guinea",
+      "link": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
+      "published": "2026-10-22T04:01:00+00:00",
+      "summary": "Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought.",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-guinea-on-fire/papuanewguinea_vir_20261011.jpg?w=2048&h=1460&fit=clip&crop=faces%2Cfocalpoint",
+      "credit_hint": "NASA Earth Observatory",
+      "source_tag": "@NASAEarth",
+      "page_text": "Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought.\nNew Guinea, the world's second-largest island, harbors an extraordinary variety of plant life across more than a dozen distinct ecoregions , including seasonally dry savannas, tropical rainforests, and lowland swamp forests. But in September and October 2026, as drought gripped New Guinea (sometimes called Papua) amid a strong El Niño , fires scorched the island and smoke shrouded large swaths of it for weeks.\nThe VIIRS (Visible Infrared Imaging Radiometer Suite) on the NOAA-20 satellite captured this image of thick smoke streaming from the southern part of the island on October 11, 2026. In recent weeks, soaring levels of air pollution delayed and canceled flights , closed schools, and prompted officials in some areas to urge children and older people to wear masks.\n\"Sometimes smoke that has drifted into the convection of nearby thunderstorms will get washed out or lofted up into the upper troposphere, but a lot of smoke stays near the surface and causes air quality problems,\" said Robert Field, an associate research scientist at NASA’s Goddard Institute for Space Studies and Columbia University. \"It's a horrible situation.\"\nAccording to the Global Fire Emissions Database (GFED), a fire emissions monitoring system, fires in Papua New Guinea, on the eastern half of the island, had released nearly 32 megatons of carbon by October 19, more than any other year on record at that point in the year. \"Emissions are already much higher than the 2015 total for the year, and it's very likely that this will become the highest year on record for Papua New Guinea, even surpassing 1997,\" said Guido van der Werf, a fire scientist at Wageningen University & Research.\nOn the Indonesian side, sometimes called West New Guinea or Indonesian Papua, carbon emissions exceeded 35 megatons , the third highest after 2015 and 1997, other El Niño years with severe fires. Van der Werf led the development of GFED, a satellite-driven modeling framework that uses a mix of remote sensing , vegetation characteristics, and other information to estimate the extent of vegetation fires and the emissions over nearly three decades.\nUnusually dry weather—a byproduct of El Niño shifting rainfall patterns —has primed ecosystems across the island to burn. The southernmost part of Papua New Guinea, dominated by relatively fire-prone savannas and grasslands of the Trans-Fly region , went more than 90 consecutive days without rain, according to Papua New Guinea's National Weather Service . Since August, parts of the region have seen precipitation of roughly 5 to 10 percent of normal, according to the weather service's data. Local news outlets report that drought is causing crop failures , water shortages , and school disruptions .\nIn this normally wet part of the world, people ignite the vast majority of fires, researchers say. Crop fires, pasture maintenance, deforestation and land clearing, and hunting are all common reasons people burn in New Guinea. In dry conditions, managed fires sometimes spread and burn uncontrolled as wildfires, particularly in the drier, southernmost parts of the island.\n\"We're seeing an exceptionally high level of fire activity in Papua New Guinea and Eastern Indonesia, particularly Indonesian Papua and Kalimantan, this year compared with Sumatra and other parts of Western Indonesia,\" said Yang Chen, an associate researcher at the University of California, Irvine. \"Papua has emerged as Indonesia’s new deforestation frontier.\"\nOver the past two decades , land in Indonesian Papua has been cleared for industrial oil palm and pulpwood plantations, shifting small-scale cultivation, urban expansion, and mining . According to Global Forest Watch, the region lost 27,000 hectares of primary forest in 2025, nearly double the 2024 total and the most since 2017.\nSumatra's fires are relatively low compared to other drought years partly because many areas are already developed. \"Areas with large oil palm, sugarcane, or pulpwood plantations also often have their own private fire brigades to protect their assets,\" said Field. \"It's in unmanaged areas or primary forest edges where we're generally seeing the most fire.\"\nResearchers expect the fires to continue until the heavy rains of the wet season arrive in the southern part of New Guinea, typically in early November.\nNASA Earth Observatory image by Michala Garrison, using data from NASA EOSDIS LANCE , GIBS/Worldview , and the Joint Polar Satellite System (JPSS). Story by Adam Voiland.\nStay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.\nWith Indonesia gripped by drought, fires are smoldering on the surface and underground.\nDuring El Niño, a cascade of fires across the tropics begins in equatorial Asia and continues in the central and…\nWildland fires in early August 2026 pushed air quality to unhealthy levels, destroyed hundreds of structures, and triggered mandatory evacuations…\nSubscribe to the Earth Observatory and get the Earth in your inbox.\nNASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.\nOpen access to NASA’s archive of Earth science data",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-guinea-on-fire/papuanewguinea_vir_20261011.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-guinea-on-fire/papuanewguinea_vir_20261011.jpg?w=2048&h=1460&fit=clip&crop=faces%2Cfocalpoint",
+          "label": ""
+        },
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=1536&h=864&fit=clip&crop=faces%2Cfocalpoint",
+          "label": ""
+        },
+        {
+          "url": "https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=1536&h=1536&fit=clip&crop=faces%2Cfocalpoint",
+          "label": ""
+        },
+        {
+          "url": "https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?w=1536",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "square_path": "drafts/images/2026-10-22-1-fires-char-new-guinea.jpg",
+      "image_note": "square crop, from 912px of source width"
+    },
+    "score": 9.0,
+    "why": "Earth Observatory satellite scene of fires scarring New Guinea; strong visual, trusted high-pick source.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A satellite image of New Guinea on 11 October 2026, captured by VIIRS on the NOAA-20 satellite, showing thick smoke streaming from the southern part of the island. The fires were mostly set by people and spread during a drought linked to a strong El Niño. GFED estimates put carbon emissions at nearly 32 megatons for Papua New Guinea by 19 October, a record for that point in the year, and above 35 megatons on the Indonesian side, the third highest after 2015 and 1997.",
+      "uncertainties": [
+        "The pipeline credit is 'NOT FOUND, use: NASA Earth Observatory', but the page text has a fuller line: 'NASA Earth Observatory image by Michala Garrison, using data from NASA EOSDIS LANCE, GIBS/Worldview, and the Joint Polar Satellite System (JPSS).' The editor may prefer the fuller credit.",
+        "Image licence is not stated on the page. NASA imagery is usually reusable, but this should be confirmed.",
+        "The source does not say whether the image is natural colour or which bands were used.",
+        "The square crop comes from only 912px of source width, so it may look soft when upscaled to 1080x1080.",
+        "Emission figures are GFED model estimates. 'Highest year on record for Papua New Guinea' is hedged as 'very likely' by van der Werf and is not yet confirmed.",
+        "Crop failures, water shortages and school disruptions come from local news reports cited by the page and are not used in the posts."
+      ],
+      "image_credit": "Image: NASA Earth Observatory",
+      "facebook": "Fires in Papua New Guinea had released nearly 32 megatons of carbon by 19 October, more than in any other year on record at that point, according to GFED estimates.\n\nVIIRS on NOAA-20 caught thick smoke streaming from southern New Guinea on 11 October 2026. The southernmost part of the country, dominated by savannas and grasslands, went more than 90 consecutive days without rain amid a strong El Niño, letting human-set fires spread.\n\nRead more: https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/\n\nImage: NASA Earth Observatory\n\n#Geoawesome #VIIRS #Wildfires #Drought",
+      "instagram": "Thick smoke streams off southern New Guinea in this view from 11 October 2026.\n\nDrought primed the island to burn, and fires set for crops, pasture and land clearing pushed emissions unusually high on both sides of the border.\n\nFind out more: https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/\n\nImage: NASA Earth Observatory\n\n#Geoawesome #Smoke #Papua #Drought",
+      "youtube": "On the Indonesian side of New Guinea, fire carbon emissions have passed 35 megatons, the third highest after the El Niño years of 2015 and 1997.\n\nVIIRS on NOAA-20 captured this smoke over the island's south on 11 October 2026. The emission figures are Global Fire Emissions Database estimates, from a satellite-driven model that combines remote sensing with vegetation characteristics. Researchers expect the fires to continue until the wet season rains, typically in early November.\n\nLearn more: https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/\n\nImage: NASA Earth Observatory\n\n#Geoawesome #GFED #Wildfires #NOAA20",
+      "x": "Since August, parts of southern Papua New Guinea have had 5 to 10 percent of normal rainfall. Smoke from human-set fires, seen by VIIRS on 11 October:\nhttps://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/\nImage: NASA Earth Observatory\n#Geoawesome #Papua #Fires #NOAA20",
+      "alt_text": "Satellite image of New Guinea with thick smoke streaming from the southern part of the island."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-22-1-fires-char-new-guinea.jpg"
+  },
+  {
+    "item": {
+      "id": "https://medium.com/google-earth/four-decades-of-planetary-change-now-open-for-everyone-to-build-on-9b32d6cb8c86",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Four decades of planetary change, now open for everyone to build on | by Google Earth",
+      "link": "https://medium.com/google-earth/four-decades-of-planetary-change-now-open-for-everyone-to-build-on-9b32d6cb8c86",
+      "published": "2026-10-21T21:49:08+00:00",
+      "summary": "From 2015 on they're higher resolution, about 19.11 m per pixel, built by fusing Sentinel-2 with Landsat 8 and 9. ... Earth Engine to sift through ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "From 2015 on they're higher resolution, about 19.11 m per pixel, built by fusing Sentinel-2 with Landsat 8 and 9. ... Earth Engine to sift through ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 8.0,
+    "why": "Four decades of global satellite change mosaics, open for building; strong map-driven story.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was found on the page, no credit or licence is stated, the reuse policy is link_only, and the page text is only a fragment, so there is no visual to post and nothing to explain without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image on the page (IMAGE NOTE: no image found), so there is nothing to make into a 1080x1080 square.",
+        "No image credit or licence is stated, and the reuse policy is link_only.",
+        "The page text is a fragment. It says imagery from 2015 on is about 19.11 m per pixel, built by fusing Sentinel-2 with Landsat 8 and 9, and mentions Earth Engine. The source does not say what the dataset is, what it covers before 2015, its name, or how to access it.",
+        "The 'four decades' in the title is not explained in the page text available.",
+        "If the editor wants to cover this, open the original Google Earth Medium post, find a sourced visual (for example a timelapse frame) with a clear credit and licence, and resubmit with the full text."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "tag:blogger.com,1999:blog-12158290.post-4152857299217249077",
+      "source_id": "maps_mania",
+      "source_name": "Maps Mania",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "The World's Most Notable Places.",
+      "link": "http://googlemapsmania.blogspot.com/2026/10/the-worlds-most-notable-places.html",
+      "published": "2026-10-22T08:10:47+00:00",
+      "summary": "Do you remember the World's Most Notable People Map . On Monday, I decided I'd build a World's Most Notable Places Map , showing locations based on their Wikipedia QRank. I abandoned the project today after discovering the Wikipedia Importance Map . Earlier this month, Wikimedia Enterprise released the Geospatial Wikidata Databset .. This is a large, open dataset that connects geographic features in OpenStreetMap (OSM) with information held in Wikidata, Wikipedia and Wikivoyage. The idea behind the dataset is simple but powerful: OpenStreetMap tells you where things are and provides their geographic shapes, while Wikimedia projects can tell you what they are, why they matter and what is known about them. The dataset does the hard work of linking these sources together, making it easier to query this information without building your own complicated data-processing pipeline. My bright idea was to use the Geospatial Wikidata Dataset to create A Map of the World's Most Notable Places , using Wikidata's QRank. QRank is a ranking signal for Wikidata entities, which correspond to subjects represented in Wikipedia and other Wikimedia projects. It measures their relative popularity across ",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTwOvvhYeNYBLCSqGORlV78TV4M-jcXcbqrzbdL6gzI9G8sWzhH7tAAd_i7yKJyNFAhBIOqzzWo5KrJ62aLGpSubFxtBwID21lSzrMjNT2YhrMB76ptLGTtt1cAzeKmsju2wmhDI4Q9RyXiCTM-gDJPGxbw6x5Yp71tGEtjITfeVnZWvJjMG1SiQ/s1600/tomthe.github.io_wiki-importance-map_.png",
+      "credit_hint": "via Maps Mania",
+      "source_tag": "",
+      "page_text": "Do you remember the World's Most Notable    People Map . On Monday, I decided I'd build a World's Most Notable Places Map , showing locations based on their Wikipedia QRank. I abandoned the project today after discovering the Wikipedia Importance Map .\nEarlier this month, Wikimedia Enterprise released the Geospatial Wikidata Databset .. This is a large, open dataset that connects geographic features in OpenStreetMap (OSM) with information held in Wikidata, Wikipedia and Wikivoyage.\nThe idea behind the dataset is simple but powerful: OpenStreetMap tells you where things are and provides their geographic shapes, while Wikimedia projects can tell you what they are, why they matter and what is known about them. The dataset does the hard work of linking these sources together, making it easier to query this information without building your own complicated data-processing pipeline.\nMy bright idea was to use the Geospatial Wikidata Dataset to create A Map of the World's Most Notable Places , using Wikidata's QRank. QRank is a ranking signal for Wikidata entities, which correspond to subjects represented in Wikipedia and other Wikimedia projects. It measures their relative popularity across the whole Wikimedia ecosystem.\nWhich brings us to the Wikipedia Importance Map . The Wikipedia Importance Map maps geolocated Wikipedia articles around the world, with the size of each label reflecting the importance of the subject. The map combines two different measures of importance: PageRank , which analyses how Wikipedia articles link to one another across all language editions, and QRank , which uses pageviews to measure how popular articles are. The result is an interactive map that lets you explore the world through the subjects that attract the most attention on Wikipedia.\nEven more interestingly, the map doesn't limit itself to articles with their own geographic coordinates. It also includes around 2.5 million subjects that can be associated with a place, such as people mapped to their birthplace, paintings to their museum, battles to where they were fought, and companies to their headquarters. These are displayed as colored dots, spread around the relevant town or city.\nThere is also a second map, the Wikivoyage Travel Map , which uses Wikivoyage data to map destinations and travel recommendations. It includes places to see, things to do, shopping, eating, drinking and sleeping, with their size determined by how often travellers read about them.\nExploring the places with the highest QRank in a particular area is an interesting way to discover its most prominent landmarks, people and historical events. It can help you identify places to visit, uncover local stories or simply find out what makes a particular town or city notable.\nOne caveat: a large label indicates importance according to the map's combined ranking signals, not necessarily historical significance or how worthwhile a place is to visit. It's a discovery tool, rather than a definitive guide to the world's most important places.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTwOvvhYeNYBLCSqGORlV78TV4M-jcXcbqrzbdL6gzI9G8sWzhH7tAAd_i7yKJyNFAhBIOqzzWo5KrJ62aLGpSubFxtBwID21lSzrMjNT2YhrMB76ptLGTtt1cAzeKmsju2wmhDI4Q9RyXiCTM-gDJPGxbw6x5Yp71tGEtjITfeVnZWvJjMG1SiQ/s1600/tomthe.github.io_wiki-importance-map_.png",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTwOvvhYeNYBLCSqGORlV78TV4M-jcXcbqrzbdL6gzI9G8sWzhH7tAAd_i7yKJyNFAhBIOqzzWo5KrJ62aLGpSubFxtBwID21lSzrMjNT2YhrMB76ptLGTtt1cAzeKmsju2wmhDI4Q9RyXiCTM-gDJPGxbw6x5Yp71tGEtjITfeVnZWvJjMG1SiQ/w1200-h630-p-k-no-nu/tomthe.github.io_wiki-importance-map_.png",
+          "label": ""
+        },
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMofOnJSGWGCYi7SJDgm6B1TjTv004rBA6iGHcWSpzF3Wc84nwwBE5aawjIHq7yrVu-pfkpvIHDzzJ5-mLVeF6MVSFWrzLjDPslikO_tcN7IPBlO_4a97VWwAtXhHGc-n2jCV9/s400/earth.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "https://tomthe.github.io/wiki-importance-map/",
+      "square_path": "drafts/images/2026-10-22-3-the-world-s-most-notable-places.jpg",
+      "image_note": "square crop, from 1374px of source width"
+    },
+    "score": 6.0,
+    "why": "Maps Mania post on a Wikidata-OSM notable-places map; geo-data hook, image present.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A view of the interactive Wikipedia Importance Map (tomthe.github.io), featured on Maps Mania. It plots geolocated Wikipedia articles worldwide, sizing each label by a combination of PageRank (how articles link to one another across all language editions) and QRank (pageview popularity). Around 2.5 million subjects without their own coordinates (people, paintings, battles, companies) are tied to a related place and shown as coloured dots around the relevant town or city.",
+      "uncertainties": [
+        "The page does not name the map's maker. The credit uses the site (tomthe.github.io) plus Maps Mania. Check whether the author's name is available.",
+        "The source does not say which area the square crop shows. Check before writing anything place-specific.",
+        "No image licence is stated and the reuse policy is link_only. Confirm the screenshot can be reposted as a square.",
+        "The source does not say what the different dot colours mean.",
+        "The source does not say whether the map uses Wikimedia Enterprise's new Geospatial Wikidata Dataset, so the posts do not claim it.",
+        "The source gives no data date or update frequency for the rankings."
+      ],
+      "image_credit": "Map: Wikipedia Importance Map (tomthe.github.io) via Maps Mania",
+      "facebook": "Around 2.5 million Wikipedia subjects without coordinates still get a spot here: people at their birthplace, paintings at their museum, battles where they were fought.\n\nLabel size blends PageRank (cross-language links) and QRank (pageviews). Zoom into any town to see what dominates its Wikipedia footprint. Big labels reflect ranking signals, not historical weight.\n\nRead more: http://googlemapsmania.blogspot.com/2026/10/the-worlds-most-notable-places.html\n\nMap: Wikipedia Importance Map (tomthe.github.io) via Maps Mania\n\n#Wikipedia #Wikidata #Cartography #Geoawesome",
+      "instagram": "Every label on this map is sized by how much attention Wikipedia gives a place.\n\nColoured dots cluster around towns: people at their birthplace, paintings at their museum, companies at their headquarters.\n\nFind out more: http://googlemapsmania.blogspot.com/2026/10/the-worlds-most-notable-places.html\n\nMap: Wikipedia Importance Map (tomthe.github.io) via Maps Mania\n\n#Wikipedia #Maps #GIS #Geoawesome",
+      "youtube": "Two ranking signals decide how big each place name is drawn on the Wikipedia Importance Map.\n\nPageRank scores how articles link to one another across all language editions, while QRank measures popularity from pageviews. A companion Wikivoyage Travel Map sizes sights, food and lodging by how often travellers read about them.\n\nLearn more: http://googlemapsmania.blogspot.com/2026/10/the-worlds-most-notable-places.html\n\nMap: Wikipedia Importance Map (tomthe.github.io) via Maps Mania\n\n#Wikipedia #Wikivoyage #Wikidata #Geoawesome",
+      "x": "Which places does Wikipedia care about most? This map sizes every label by PageRank and QRank.\nhttp://googlemapsmania.blogspot.com/2026/10/the-worlds-most-notable-places.html\nMap: tomthe.github.io via Maps Mania\n#Wikipedia #Maps #Cartography #Geoawesome",
+      "alt_text": "A web map with place and subject names shown as text labels of different sizes, with clusters of coloured dots around towns and cities."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-22-3-the-world-s-most-notable-places.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.space.com/space-exploration/artemis/when-will-spacex-and-blue-origin-fly-to-the-moon-nasa-reveals-lunar-lander-timelines-and-an-artemis-iii-update",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "When will SpaceX and Blue Origin fly to the moon? NASA reveals lunar lander timelines ...",
+      "link": "https://www.space.com/space-exploration/artemis/when-will-spacex-and-blue-origin-fly-to-the-moon-nasa-reveals-lunar-lander-timelines-and-an-artemis-iii-update",
+      "published": "2026-10-22T01:26:40+00:00",
+      "summary": "NASA has updated the timeline for its Artemis ... An ICEYE synthetic aperture radar satellite image of the Kerch Strait Bridge, or Kerch Bridge.",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ySjXaUojZJ8Piuq3edDhbn-2241-80.webp",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Join The Club for quick access. Enter your email below and we'll send confirmation, and sign you up to our newsletter.\nBy submitting your information, you confirm you are aged 16 or over,\nhave read our Privacy Policy and agree to the Terms & Conditions . Geographical rules apply.\nKeep exploring and earning more as a member.\nLatest space missions, discoveries and exploration updates.\nStargazing tips, cosmic events and expert insights on the universe\nStart exploring exclusive deals, expert advice and more\nSpace news, cosmic updates and expert insights straight to your inbox.\nBreaking space news, the latest updates on rocket launches, skywatching events and more!\nUnlock instant access to exclusive member features.\nBreaking space news, the latest updates on rocket launches, skywatching events and more!\nSign up to our monthly entertainment newsletter to keep up with all our coverage of the latest sci-fi and space movies, tv shows, games and books.\nDiscover this week's must-see night sky events, moon phases, and stunning astrophotos. Sign up for our skywatching newsletter and explore the universe with us!\nSpace.com's Sci-Fi Reader's Club. Read a sci-fi short story every month and join a virtual community of fellow science fiction fans!\nGet full access to premium articles, exclusive features and a growing list of member rewards.\nNASA has revealed new details about its plans to return astronauts to the surface of the moon, outlining a series of upcoming milestones for SpaceX and Blue Origin as both companies race to ready their lunar landers for the agency's Artemis program .\nDuring an Oct. 5 presentation at the Astronautical Congress (IAC) in Antalya, Türkiye, Steve Creech, acting manager of NASA's Human Landing System (HLS) Program, laid out development timelines for both spacecraft, with key demonstrations planned through early 2028 that include orbital refueling and uncrewed lunar landing tests to qualify the vehicles to fly astronauts to the surface of the moon .\nA more pressing deadline, however, is NASA's Artemis III mission, which is targeted for the third quarter (Q3) of 2027. Artemis III will launch four astronauts aboard NASA's Orion spacecraft to low Earth orbit (LEO), where they will rendezvous and dock with test versions of both companies' landers for interoperability checkouts. Those demonstrations will help inform NASA's determination about which lander the agency will choose to carry astronauts to the moon's surface on Artemis IV, targeted for early 2028.\nSpaceX and Blue Origin were both awarded NASA contracts to develop HLS vehicles — Starship and Blue Moon , respectively — and have spent the past several years refining their respective lunar lander designs and dealing with various delays along the way. In the face of those delays, and in an effort to better structure its mission progression for success, NASA overhauled its Artemis program architecture in February to maintain its goal of landing astronauts on the moon by the end of 2028 and establish a more regular cadence of uncrewed landings in the meantime.\nAs part of that shakeup, Artemis III, previously the program's first crewed lunar landing mission, was moved up a year and repurposed for the lunar lander vehicle tests the agency is preparing to fly to LEO next year. The program's first moon landing remains scheduled for 2028, but was shifted to the manifest for Artemis IV.\nBetween now and then, both SpaceX and Blue Origin have more than a dozen test demonstrations and vehicle milestones to achieve, including success during Artemis III and flights afterward. This will all lead up to a key decision NASA must make: Which vehicle will carry out the first crewed landing on the surface of the moon since the Apollo program ended in 1972?\nStarship reached for the first time on its most recent test flight, which occurred on Sept. 28 from SpaceX's Starbase site in South Texas. NASA lists several other important goals for the vehicle to achieve in 2026, including (in the order listed during the IAC presentation) the first return and catch of the rocket's upgraded Version 3 (V3) booster at its launch pad; the first-ever return and catch of a Ship upper stage; the first Starship launch from one of SpaceX's launch pads still under construction on Florida's Space Coast; and, possibly, the first V3 booster reflight.\nNASA also expects SpaceX to complete the initial build of the crew cabin for its lunar lander Starship variant. SpaceX released renders of Starship's interior last year , as well as images of the test elevator astronauts are using to train for Starship egress on the lunar surface, but little else has been made public about the progress the company has made on the cabin's design.\nShould the cabin's initial build wrap up by the end of the year, as NASA's presentation suggested, SpaceX will use Q1 2027 to complete integration of the systems that Starship will need to communicate with Orion during Artemis III, and deliver a cabin simulator for astronauts to train on leading up to the mission. SpaceX plans to continue Starship test flights through Q2 of next year, complete a landing leg demonstration and begin crew cabin airlock tests.\nBlue Origin's lunar lander mockup is ready for NASA Artemis astronaut training\nFor Artemis III, SpaceX plans to fly one of its existing V3 Starship upper stages, with some slight modifications. Starship and Orion will dock as part of Artemis III but the SpaceX vehicle won't be equipped with a crew cabin for the mission's astronauts to enter. Between the end of this year and the beginning of the next, SpaceX is expected to complete the addition of a docking system and nosecone cover to the Artemis III Starship vehicle, which, NASA documents suggest, has already completed its mechanical fit checks.\nOther notches on SpaceX's checklist leading up to Artemis III include the first propellant transfer demonstration with Starship in orbit. As the first-ever launch vehicle and spacecraft designed for full ",
+      "image_credit": "Blue Origin/SpaceX)",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ySjXaUojZJ8Piuq3edDhbn-2241-80.webp",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ySjXaUojZJ8Piuq3edDhbn.webp",
+          "label": ""
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/KS2ahLkqDgMEt2mmDLDt6E.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/JyJ5ALNraocukdfjvdk6ca.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/cNUJh6WPZB3JHY5nSRH6Uh.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/dpnbewsyjn1783958986.svg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "square_path": "",
+      "image_note": "square crop, from 1261px of source width"
+    },
+    "score": 5.0,
+    "why": "Mainly a timeline story, but includes an ICEYE radar image of Kerch Bridge.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Space-industry news about NASA lunar lander timelines, with no Earth observation or map visual; the image (credited Blue Origin/SpaceX, licence not stated, reuse policy link_only) is likely company renders and cannot be described without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page text does not describe the image; the credit 'Blue Origin/SpaceX' suggests company renders of the Starship and Blue Moon landers, but this is unconfirmed.",
+        "Image licence not stated and source reuse policy is link_only.",
+        "Topic (Artemis/HLS programme milestones) is outside Geoawesome's Earth observation, GIS and maps focus."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.iflscience.com/theres-a-suspicious-looking-hole-on-the-moon-and-nasas-going-to-investigate-it-with-a-surface-mission-84983",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "There's A Suspicious-Looking Hole On The Moon, And NASA's Going To Investigate It With ...",
+      "link": "https://www.iflscience.com/theres-a-suspicious-looking-hole-on-the-moon-and-nasas-going-to-investigate-it-with-a-surface-mission-84983",
+      "published": "2026-10-21T22:44:26+00:00",
+      "summary": "The Moon is covered in pits and craters to choose from, but the Marius Lunar Pit has NASA's attention.",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Lunar pit story with a visual hook, though no image is in the feed.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was found on the page, there is no image credit or licence, the reuse policy is link_only, and the page text is a single sentence, too little to caption without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image found on the page (IMAGE NOTE), so there is nothing to crop to a square.",
+        "Image credit not found and image licence not stated.",
+        "Source type is a Google Alert with reuse policy link_only.",
+        "Page text is one sentence naming the Marius Lunar Pit. It gives no sensor, date, mission name, pit dimensions or reason for NASA's interest.",
+        "Lunar subject sits outside Geoawesome's core Earth observation focus. If the editor wants it, a better source would be NASA's own release with a credited orbital image of the Marius Hills pit."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.visualcapitalist.com/?p=206424",
+      "source_id": "visual_capitalist_maps",
+      "source_name": "Visual Capitalist (maps)",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "Mapped: The Cost of Raising a Child in Every U.S. State",
+      "link": "https://www.visualcapitalist.com/cost-of-raising-a-child-in-every-u-s-state/",
+      "published": "2026-10-21T14:57:46+00:00",
+      "summary": "Explore the cost of raising a child by state, from over $412,000 in Hawaii to about $202,000 in New Hampshire.",
+      "image_url": "https://www.visualcapitalist.com/wp-content/uploads/2026/10/cost-of-raising-a-child-1.webp",
+      "credit_hint": "Visual Capitalist",
+      "source_tag": "@VisualCap",
+      "page_text": "Raising a child to age 18 costs an estimated $303,418 nationwide, but the total can vary by more than $210,000 depending on where a family lives.\nMuch of that difference comes down to housing, transportation, and childcare expenses, which can significantly affect the cost of raising a child from one state to another.\nThis visualization uses a 2026 study from LendingTree to compare the projected cost of raising a child across all 50 states and Washington, D.C.\nHawaii is the most expensive state by a considerable margin, with an estimated 18-year cost of $412,661. That’s nearly $48,000 more than second-place Alaska ($365,047) and over $86,000 more than Maryland ($326,360), which ranks third.\nCalifornia and New Jersey round out the top five, both at approximately $312,000.\nPerhaps the biggest surprise is Kansas, which ranks sixth at $303,250. Despite its reputation for affordability, the state has a higher projected child-rearing cost than New York, Massachusetts, and Washington.\nThe table below shows the estimated cost of raising a child to age 18 in every state and Washington, D.C.\nAt the other end of the ranking, New Hampshire has the lowest projected cost at $201,963, followed by Washington, D.C. ($202,115) and South Carolina ($204,213).\nCosts also vary considerably within states. San Francisco, for example, has an estimated annual child-rearing cost of $43,171, the highest among 48 major metropolitan areas in our ranking of the most expensive U.S. cities to raise a child .\nLendingTree’s estimates include additional expenses associated with having a child, such as food, rent, daycare, clothing, transportation, and health insurance premiums. The calculations account for state tax exemptions and credits but exclude the federal child tax credit and college expenses.\nAlaska ranks as the second-most expensive state to raise a child, but childcare isn’t the main reason.\nAccording to LendingTree, Alaska has the highest additional rent and transportation expenses associated with raising a child. These costs help push its projected 18-year total to $365,047.\nInterestingly, annual infant daycare costs approximately $12,100 in Alaska, well below the national figure of roughly $17,000.\nThe first five years of raising a child can cost more than twice as much per year as the years that follow.\nAccording to LendingTree, families spend an estimated $29,325 annually during a child’s first five years, compared with roughly $12,000 per year during the remaining years through age 18.\nDaycare is a major reason for the difference. Infant daycare costs approximately $17,000 annually across the U.S., while childcare expenses generally decline once children enter school.\nAlthough the projected 18-year cost rose 1.9% to $303,418 nationwide, average annual expenses during the first five years fell 0.3% from the previous report, largely due to a slight decline in daycare costs.\nThe study’s estimates are based on a married, two-earner household with one child earning the national median family income. They primarily use 2024 cost data, and projected expenses are not adjusted for future inflation.\nChildcare costs consume a larger share of earnings in the U.S. than the OECD average.\nAccording to the OECD , childcare for a two-earner family with two young children cost approximately 20% of average earnings in the U.S., compared with 14% across OECD countries, based on 2021 data.\nCountries such as Germany, Sweden, and Norway generally have lower out-of-pocket childcare costs, reflecting differences in government subsidies and public funding.\nIf you enjoyed this visualization, check out Mapped: What a Home Is Worth in Every U.S. State in 2026 on the Voronoi app.\nRanked: The World’s Largest Economies in 2026\nRanked: The Most Educated Countries in the World\nRanked: The Most and Least Affordable U.S. Cities for Fast Food\nMarriage vs. Divorce Rates, by U.S. State\nRanked: The Top 10 Cars Driven by Each Generation\nRanked: The World’s Most and Least Free Countries\nRanked: The World’s Biggest Carbon Emitters\nCredit scores shape Americans’ abilities to get everything from credit cards to mortgages. This is bad news for Southerners.\nA strong credit score can mean lower interest rates on mortgages, car loans, and credit cards, making it an important measure of Americans’ financial health.\nBut how does your state compare with the rest of the country?\nThis map shows average credit scores across all 50 states using Experian’s September 2025 data . Scores are based on FICO Score 8, which ranges from 300 to 850.\nThe Upper Midwest and New England dominate the top of the rankings, with Minnesota, Wisconsin, Vermont, and New Hampshire all averaging 735 or higher.\nAt the other end, several Southern states fall below 700, including Mississippi, Alabama, Georgia, and South Carolina. The pattern highlights a clear geographic divide in average credit scores across the country.\nThe contrast extends to America’s largest state economies . Texas averages 692, well below California’s 721, while Florida’s 704 also falls short of the national average of 713.\nThe following table ranks U.S. states by their average credit scores as of September 2025.\nNationally, the average slipped from 715 in 2024 to 713 in 2025, marking a notable reversal after more than a decade of improving or stable scores.\nHousehold budgets are also facing higher debt payments. Average monthly debt obligations reached $1,256 in 2025, up 2.6%, even as average total debt balances increased just 0.4%. Borrowers are paying more each month without taking on substantially larger balances.\nOne major change in 2025 was the return of negative reporting on federal student loans. After nearly five years of pandemic-era protections, missed payments began appearing on credit reports again, exposing struggling borrowers to sharp declines in their credit scores.\nMore than 2 million student loan borrowers who became newly delinquent in the first quarter experienced credit score drops exceeding 10",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.visualcapitalist.com/wp-content/uploads/2026/10/20261019_-The-Most-Expensive-States-to-Raise-a-Child-to-Age-18_MAIN.webp",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://www.visualcapitalist.com/wp-content/uploads/2026/10/20261019_-The-Most-Expensive-States-to-Raise-a-Child-to-Age-18_MAIN.webp",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "square_path": "drafts/images/2026-10-22-6-mapped-the-cost-of-raising-a-child-in-ev.jpg",
+      "image_note": "square crop, from 1200px of source width"
+    },
+    "score": 5.0,
+    "why": "State map of child-raising costs; plain ranking, but the spread may intrigue geo readers.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A Visual Capitalist state-level map of the estimated cost of raising a child to age 18 across all 50 US states and Washington, D.C., based on a 2026 LendingTree study. Hawaii is highest at $412,661 and New Hampshire lowest at $201,963. The national estimate is $303,418. The page does not describe the colour scheme or legend.",
+      "uncertainties": [
+        "Reuse policy is 'link_only' and no image licence is stated on the page. Check with Visual Capitalist whether reposting a square crop of the map is permitted before publishing.",
+        "The page text does not describe the map's colour scheme, classes or legend. Confirm on the image that the square crop shows the map and not the accompanying table.",
+        "No image credit appears on the page, so the credit falls back to 'Visual Capitalist'. The underlying data is from LendingTree.",
+        "Kansas ranks sixth at $303,250, slightly below the $303,418 national figure, which implies most states fall below the national number. Worth a quick check on how LendingTree derives the national total.",
+        "LendingTree's figures assume a married two-earner household with one child on the national median family income. They mostly use 2024 cost data, are not adjusted for future inflation, and exclude the federal child tax credit and college costs.",
+        "The page text includes an unrelated credit-score article (Experian data). None of it was used."
+      ],
+      "image_credit": "Map: Visual Capitalist",
+      "facebook": "Raising a child to 18 in Hawaii is estimated at $412,661, roughly twice New Hampshire's $201,963.\n\nVisual Capitalist maps a 2026 LendingTree study across all 50 states and Washington, D.C., with housing, transportation and childcare driving most of the spread. The surprise is Kansas: sixth at $303,250, above New York and Massachusetts.\n\nRead more: https://www.visualcapitalist.com/cost-of-raising-a-child-in-every-u-s-state/\n\nMap: Visual Capitalist\n\n#Geoawesome #Cartography #Maps #Housing",
+      "instagram": "More than $210,000 separates the costliest and cheapest US states for raising a child.\n\nHawaii tops the map at an estimated $412,661 to age 18. New Hampshire sits at the bottom with $201,963.\n\nFind out more: https://www.visualcapitalist.com/cost-of-raising-a-child-in-every-u-s-state/\n\nMap: Visual Capitalist\n\n#Geoawesome #Maps #Dataviz #USA",
+      "youtube": "Alaska is the second most expensive state to raise a child ($365,047), yet its infant daycare costs about $12,100 a year against roughly $17,000 nationally.\n\nLendingTree's 2026 estimates behind this map cover food, rent, daycare, clothing, transportation and health insurance for a married two-earner household with one child on median income. They mostly use 2024 costs and exclude the federal child tax credit, college and future inflation.\n\nLearn more: https://www.visualcapitalist.com/cost-of-raising-a-child-in-every-u-s-state/\n\nMap: Visual Capitalist\n\n#Geoawesome #Cartography #Childcare #Economics",
+      "x": "Despite its affordable reputation, Kansas ranks 6th for the cost of raising a child to 18 ($303,250), ahead of New York and Massachusetts.\nhttps://www.visualcapitalist.com/cost-of-raising-a-child-in-every-u-s-state/\nMap: Visual Capitalist\n#Geoawesome #Maps #USA",
+      "alt_text": "Map of the United States with each state and Washington, D.C. shaded by the estimated cost of raising a child to age 18."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-22-6-mapped-the-cost-of-raising-a-child-in-ev.jpg"
+  },
+  {
+    "item": {
+      "id": "https://flowingdata.com/?p=83124",
+      "source_id": "flowingdata",
+      "source_name": "FlowingData",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "Cost of electricity from investor-owned vs. public",
+      "link": "https://flowingdata.com/2026/10/22/cost-of-electricity-from-investor-owned-vs-public/",
+      "published": "2026-10-22T09:13:33+00:00",
+      "summary": "If your electricity provider is an investor-owned company, it’s likely you’re paying more… Tags: Bloomberg , cost , electricity",
+      "image_url": "https://flowingdata.com/wp-content/uploads/2026/10/investor-owned-vs-public-750x758.png",
+      "credit_hint": "via FlowingData",
+      "source_tag": "",
+      "page_text": "If your electricity provider is an investor-owned company, it’s likely you’re paying more than someone with a public provider. For Bloomberg Green, Michelle Ma and Nadja Popovich highlight the difference :\nEstimates are based on data from the Annual Electric Power Industry Report published by the U.S. Energy Information Administration.\nGet access to courses, tutorials, and more resources.",
+      "image_credit": "2007-Present FlowingData. All rights reserved.",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://flowingdata.com/wp-content/uploads/2026/10/investor-owned-vs-public-750x758.png",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://flowingdata.com/wp-content/uploads/2026/10/investor-owned-vs-public.png",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "square_path": "",
+      "image_note": "square crop, from 750px of source width"
+    },
+    "score": 5.0,
+    "why": "Electricity cost visual from FlowingData; likely a chart rather than a true map, borderline.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The page does not describe the graphic (no map type, numbers, colour key or date), so it cannot be captioned without guessing, and the image is Bloomberg Green's work shown on FlowingData under a link-only, all-rights-reserved policy.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page does not say whether the visual is a map or a chart, what geography it covers, or what the colours mean.",
+        "No figures are given for the price gap between investor-owned and public utilities. The page only says customers of investor-owned companies are 'likely' paying more.",
+        "The image credit on the page ('2007-Present FlowingData. All rights reserved.') is a site copyright line, not a credit for the graphic. The original is by Michelle Ma and Nadja Popovich for Bloomberg Green.",
+        "Reuse policy is link_only and no licence is stated, so reposting the image as a square may not be permitted.",
+        "Data year is not stated. The page says only that the estimates are based on the EIA Annual Electric Power Industry Report.",
+        "If the editor wants this, consider going to the original Bloomberg Green piece for a description of the graphic and reuse terms."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.bellingcat.com/?p=54055",
+      "source_id": "bellingcat",
+      "source_name": "Bellingcat",
+      "source_type": "research",
+      "licence": "link_only",
+      "title": "Can LLMs Supercharge Geolocations? Our Tests Show Big Improvements But Humans Remain Key",
+      "link": "https://www.bellingcat.com/resources/2026/10/22/can-llms-supercharge-geolocations-our-tests-show-big-improvements-but-humans-remain-key/",
+      "published": "2026-10-22T11:06:57+00:00",
+      "summary": "Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. In September, the AI company Anthropic published a blog post that claimed its models were approaching “superhuman capabilities for geolocating outdoor photos”. Anthropic made this claim by comparing its models’ performance to that of players of the popular online […]",
+      "image_url": "https://www.bellingcat.com/app/uploads/2026/10/Screenshot-2026-10-22-at-10.33.33-1200x324.jpg",
+      "credit_hint": "Bellingcat",
+      "source_tag": "@bellingcat",
+      "page_text": "Foeke is an investigator and trainer at Bellingcat. He has a background in conflict analysis and resolution and is particularly interested in military, environmental and human rights issues. Bluesky: @foeke.eurosky.social\nMiguel is an Investigative Technologist for Bellingcat. He uses data and code to investigate and communicate stories, he experiments and builds research tools with and for the online investigations community.\nSign up here to receive Bellingcat’s biggest investigations by email as soon as they are published .\nIn September, the AI company Anthropic published a blog post that claimed its models were approaching “ superhuman capabilities for geolocating outdoor photos”. Anthropic made this claim by comparing its models’ performance to that of players of the popular online game GeoGuessr, which challenges users to geolocate Google Street View images.\nBellingcat has been running its own benchmark tests on AI models since June 2025, right around the time when Large Language Models (LLMs) began to challenge reverse image searches for assisting with geolocation tasks. In our first round, GPT 4o-mini from OpenAI appeared to be the best tool for geolocating, a title which was taken by Google AI mode when we performed our second round of tests a few months later in August 2025.\nThis time, we significantly upped the ante for the models, providing increasingly challenging photos and asking for only one set of coordinates. We tasked not only closed-weight models from Claude , Grok , Gemini , ChatGPT , and Mistral , but also open-weight models from Moonshot AI’s Kimi , commercial provider GeoSeer and the non-generative geolocation model GeoClip . In total, we fed each model 52 photos that had not been published anywhere on the internet before.\nThe results showed that the current generation of models have markedly improved geolocation capabilities. Anthropic’s Opus and Fable, as well as Google’s recent Gemini 4 Argon model, performed the best on geolocation tasks, narrowing down locations from images faster than a human could under specific conditions. Preliminary tests of a set of agentic skills and tools being developed internally by Bellingcat also showed promising results in further improving the geolocation performance of generic-use AI agents.\nBut crucially, the tests also showed why humans remain necessary for accurate and trustworthy geolocation work, as no models were foolproof. This is particularly important given the increased use of AI in military contexts. The Anthropic blog post focused specifically on geolocating photos for military and intelligence purposes such as targeting, a historically labour-intensive process requiring significant human expertise.\nWhile our tests showed some models performed extremely well at narrowing down results to the correct general area, none were close to being perfect at finding the exact spot a picture was taken. That accuracy is extremely important in geolocation, especially in military contexts where the cost of incorrect information can be life or death . It is also important for organisations like Bellingcat whose reputation relies on pinpoint factual accuracy.\nTo compare model results, we used two metrics built on the distance in kilometres between a prediction and the real location. GeoGuessr Score was used to assess whether models could systematically identify the general area, while the Mean Log Score (explained below) measured which models most accurately pinpointed the correct location in the final few kilometres.\nThe GeoGuessr Score metric is based on the online game of the same name, whose scoring system Stanford University academics reverse-engineered in a 2024 study. This system rewards answers close to the general area an image was taken, but does not strongly distinguish between guesses close to the precise location. For example, an answer 200km from the correct location with more points than one 2,000km away. However, an answer 500m from where a picture was taken and another 5km away achieve a similar score. For real-world geolocations, that distance matters a great deal.\nFor more precision, we introduced a custom metric that grades models higher if they narrow down the search in the last few kilometres. This metric, the Mean Log Score, assigns a value from 0 (completely inaccurate) to 100 (perfect model) and works on a logarithmic scale instead of a linear one like GeoGuessr score.\nTherefore, a 10-fold improvement in distance means the same whether it is from 5km to 500m or from 500km to 50km. You can compare both metrics here .\nBelow are the model results sorted by either metric, showing how many photos each model geolocated within distance bands from the true location.\nSeveral models placed at least 10 out of the 52 photos correctly within one kilometre, and the top-performing models placed over 50 percent of the photos within 25 kilometres.\nNOTE: Geoseer-fast refused to answer on four of the 52 photos, claiming “This image is not suitable for geolocation”, while Mistral-large-4 refused once with “insufficient information in image to identify location”. Kimi-k2.6 also failed to provide a set of coordinates on one photo, and Gemini 4 Argon timed out repeatedly on one photo.\nTo independently assess the models, we sought to give them very specific instructions and some images that were harder to geolocate than those provided in our past tests. The prompt asked for a single set of coordinates reflecting the photographer’s location. The purpose of restricting the response in this way was to prevent hedging, such as multiple guesses or confidence scores, and make the grading more uniform across different models. Models were allowed to use their providers’ built-in tools: search, code execution and page fetch. We capped their token output at 64,000 and ran each model under its default effort setting with a maximum time of 15 minutes per photo. If a model did not return coordinates on the first prompt, we also allowed a single ",
+      "image_credit": "Bellingcat.",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.bellingcat.com/app/uploads/2026/10/September-25-6.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://www.bellingcat.com/app/uploads/2026/10/September-25-6.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www.bellingcat.com/app/uploads/2021/12/DSCF9286-300x300.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www.bellingcat.com/app/uploads/2023/03/Miguel-1200x1200.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://public.flourish.studio/visualisation/30555559/thumbnail",
+          "label": ""
+        },
+        {
+          "url": "https://www.bellingcat.com/app/uploads/2026/10/Kenya-Picture.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "square_path": "",
+      "image_note": "square crop, from 1080px of source width"
+    },
+    "score": 5.0,
+    "why": "Geolocation-focused investigation with a screenshot; relevant to geodata readers, weak visual.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The page text never says what the image shows, and the article is about AI geolocation benchmarks rather than an Earth observation image or map, so a caption would require guessing.",
+      "what_it_shows": "The source material does not describe the image. The article reports Bellingcat's third round of geolocation tests on AI models: 52 previously unpublished photos, scored with a GeoGuessr Score and a custom Mean Log Score. The page mentions results charts showing how many photos each model placed within distance bands of the true location, but it is not clear whether the cropped image is one of those charts or a header illustration.",
+      "uncertainties": [
+        "The image is not described anywhere in the source material. It could be a results chart, a test photo or a header graphic. Check before considering a post.",
+        "If it is the distance-band results chart, it is a bar chart, not a map or satellite image, and the square crop from 1080px of source width may cut off model names or legends.",
+        "Reuse policy is link_only and the image licence is not stated on the page, so reposting the image itself may not be permitted.",
+        "Model names in the text (Opus, Fable, Gemini 4 Argon, Kimi-k2.6, Mistral-large-4, Geoseer-fast) should be checked against the original page before quoting.",
+        "The page text is truncated mid-sentence in the methodology section, so details of the retry rule and the full results are missing.",
+        "Anthropic's 'superhuman capabilities' claim is Anthropic's own and would need attribution if the story is covered as a link post."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  }
+]
