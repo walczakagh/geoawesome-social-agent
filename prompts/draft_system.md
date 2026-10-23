@@ -44,6 +44,10 @@ One plain sentence describing what is visible in the image, for screen readers. 
 - British English (colour, kilometres). No exclamation marks.
 - @-tag an institution (@esa, @NASAEarth, @USGS, @CopernicusEU) only if you are confident of the handle; otherwise write the name plainly.
 
+## Reddit posts
+
+When the publisher is Reddit, the post title is the only description. Write from the title and what a reader can see in a map with that title; do not add data sources, dates or numbers the title does not give. Credit the creator as "Map: u/<name> via r/<subreddit>" (the credit given in the source material), link to the Reddit post, and list in "uncertainties" that the data source of the map is not stated. Skip (worth_posting false) if the title is a joke, a meme or political point-scoring.
+
 ## The image
 
 The editor posts a 1080x1080 square made from the source image. IMAGE NOTE in the source material says how it was made. If it says "before/after pair stacked", the square shows the earlier date on top and the later date below; describe it that way ("top: ..., bottom: ...").

@@ -412,3 +412,24 @@ def test_shortlist_respects_min_score():
                                   {"id": "i2", "score": 6}]})
     picks = llm.shortlist(its, limit=10, ask=lambda *a, **k: reply, min_score=7)
     assert [p["id"] for p in picks] == ["i0", "i1"]
+
+
+REDDIT = b"""<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+<entry><author><name>/u/mapmaker</name></author>
+<content type="html">&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="https://www.reddit.com/r/MapPorn/comments/abc/x/"&gt;&lt;img src="https://preview.redd.it/abc.png?width=140&amp;amp;crop=smart" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td&gt; submitted by &lt;a href="https://www.reddit.com/user/mapmaker"&gt; /u/mapmaker &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://i.redd.it/abc123.png"&gt;[link]&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+<id>t3_abc</id><link href="https://www.reddit.com/r/MapPorn/comments/abc/population_density_of_russia/" />
+<updated>2026-10-23T05:00:00+00:00</updated><title>Population density map of Russia 2025</title></entry>
+</feed>"""
+
+
+def test_reddit_feed_gives_full_image_credit_and_no_page_fetch(monkeypatch):
+    src = {"id": "reddit_mapporn", "name": "Reddit r/MapPorn", "format": "reddit",
+           "subreddit": "MapPorn", "type": "maps", "licence": "link_only"}
+    it = scout.parse_feed(src, REDDIT)[0]
+    assert it.image_url == "https://i.redd.it/abc123.png"
+    assert it.credit_hint == "u/mapmaker via r/MapPorn"
+    assert it.summary == "Population density map of Russia 2025" and not it.fetch_page
+    monkeypatch.setattr(enrich.requests, "get", lambda *a, **k: pytest.fail("page must not be fetched"))
+    it = enrich.enrich(it)
+    assert it.images == [{"url": "https://i.redd.it/abc123.png", "label": ""}]
+    assert it.image_credit == "u/mapmaker via r/MapPorn" and "only description" in it.page_text

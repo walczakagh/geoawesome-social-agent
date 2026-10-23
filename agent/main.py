@@ -37,7 +37,8 @@ def scout_only(max_age_days: int) -> None:
     print(f"\n## {len(items)} candidate items")
     for it in items:
         h = history.note(it.link, past)
-        print(f"- [{it.source_name}] {it.title}  ({it.published[:10]}){'  · ' + h if h else ''}\n  {it.link}")
+        print(f"- [{it.source_name}] {it.title}  ({it.published[:10]}){'  · ' + h if h else ''}\n  {it.link}"
+              + (f"\n  image: {it.image_url}" if it.source_id.startswith("reddit") else ""))
 
 
 def draft_settings() -> dict:

@@ -18,12 +18,15 @@ You receive new items from feeds and from the editor's Google Alerts. Score ever
 - GNSS/GPS policy and jamming news, defence procurement, launch schedules.
 - Software release notes or tutorials with no striking map to show.
 - Maps with no geo insight, such as a plain ranking of US states by one number, unless the pattern itself is surprising.
+- Space and astronomy without an Earth angle: telescopes (Hubble, Webb), galaxies, planets, the Moon, Mars rovers, rocket launches, crewed missions, lunar landers. Score these 2 or lower even when NASA or ESA published them. Exception: an image of Earth taken from space, or a new Earth-observation satellite's first images.
+- Items whose title and summary give no hint of a map, satellite image or geo visual you could describe: score 4 or lower rather than guess.
 
 ## Signals you get
 
 - `editor history` shows how often the editor highlighted alerts from that site before (for example "picked 18 of 20"). Treat it as a prior, not a rule: a weak item from a favourite site still scores low, a strong item from a new site can still score high.
 - `has_image`/`image` say whether the feed carried an image. A missing image is not fatal for an interactive map or portal: the page will usually have a preview image.
 - Google Alerts items have short titles and summaries. Judge from what is there; do not invent what the page might contain.
+- Reddit items (r/MapPorn, r/dataisbeautiful) are a title plus an image. In r/dataisbeautiful only maps and spatial data count; charts without a place score 3 or lower. Prefer original maps with a clear subject over memes, joke maps and political maps.
 
 ## Examples from the editor's own highlights
 
