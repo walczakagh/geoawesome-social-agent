@@ -1,0 +1,84 @@
+[scout] google_alerts_1: 0 in feed, 0 new
+[scout] google_alerts_2: 19 in feed, 0 new, 1 from excluded sites
+[scout] google_alerts_3: 20 in feed, 0 new
+[scout] google_alerts_4: 20 in feed, 0 new
+[scout] google_alerts_5: 0 in feed, 0 new
+[scout] google_alerts_6: 4 in feed, 0 new
+[scout] google_alerts_7: 3 in feed, 0 new
+[scout] nasa_eo: 10 in feed, 0 new
+[scout] esa_eo: 15 in feed, 0 new
+[scout] eumetsat: 10 in feed, 0 new
+[scout] cams: 10 in feed, 0 new
+[scout] nasa_jpl: 100 in feed, 0 new
+[scout] planet: 50 in feed, 0 new
+[scout] maps_mania: 25 in feed, 0 new
+[scout] visual_capitalist_maps: 10 in feed, 0 new
+[scout] flowingdata: 10 in feed, 0 new
+[scout] google_maps_blog: 20 in feed, 0 new
+[scout] google_research: 100 in feed, 0 new
+[scout] overture: 20 in feed, 0 new
+[scout] bellingcat: 10 in feed, 0 new
+[scout] reddit_mapporn: 25 in feed, 6 new
+[scout] reddit_dataisbeautiful: 25 in feed, 6 new
+
+## Sources
+- Google Alerts #1: 0 in feed, 0 new
+- Google Alerts #2: 19 in feed, 0 new, 1 from excluded sites
+- Google Alerts #3: 20 in feed, 0 new
+- Google Alerts #4: 20 in feed, 0 new
+- Google Alerts #5: 0 in feed, 0 new
+- Google Alerts #6: 4 in feed, 0 new
+- Google Alerts #7: 3 in feed, 0 new
+- NASA Earth Observatory: 10 in feed, 0 new
+- ESA Observing the Earth: 15 in feed, 0 new
+- EUMETSAT: 10 in feed, 0 new
+- Copernicus Atmosphere Monitoring Service: 10 in feed, 0 new
+- NASA JPL: 100 in feed, 0 new
+- Planet Pulse: 50 in feed, 0 new
+- Maps Mania: 25 in feed, 0 new
+- Visual Capitalist (maps): 10 in feed, 0 new
+- FlowingData: 10 in feed, 0 new
+- Google Maps blog: 20 in feed, 0 new
+- Google Research blog: 100 in feed, 0 new
+- Overture Maps blog: 20 in feed, 0 new
+- Bellingcat: 10 in feed, 0 new
+- Reddit r/MapPorn: 25 in feed, 6 new
+- Reddit r/dataisbeautiful: 25 in feed, 6 new
+
+## 12 candidate items
+- [Reddit r/MapPorn] Results of the Alberta Independence Referendum (October 19, 2026)  (2026-10-22)
+  https://www.reddit.com/r/MapPorn/comments/1xcw48e/results_of_the_alberta_independence_referendum/
+  image: https://i.redd.it/y2193hihb3xh1.png
+- [Reddit r/MapPorn] All active professional soccer teams in southeastern Brazil  (2026-10-22)
+  https://www.reddit.com/r/MapPorn/comments/1xcus61/all_active_professional_soccer_teams_in/
+  image: https://i.redd.it/v0ww5alk23xh1.png
+- [Reddit r/MapPorn] Greco-Turkish conflict in the Eastern Mediterranean. Greek & Turkish positions on EEZ.  (2026-10-22)
+  https://www.reddit.com/r/MapPorn/comments/1xctkif/grecoturkish_conflict_in_the_eastern/
+  image: https://preview.redd.it/0avr8gd5u2xh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=64387949a57404f930bec34892079736874ed405
+- [Reddit r/MapPorn] Feudal Netherlands 1555  (2026-10-22)
+  https://www.reddit.com/r/MapPorn/comments/1xct3he/feudal_netherlands_1555/
+  image: https://i.redd.it/qyztmariq2xh1.png
+- [Reddit r/MapPorn] France vs Germany — Every train of the same day, Thursday 15 October 2026  (2026-10-22)
+  https://www.reddit.com/r/MapPorn/comments/1xcrkv5/france_vs_germany_every_train_of_the_same_day/
+  image: https://preview.redd.it/njuzokt2h2xh1.gif?width=640&crop=smart&s=b3c98cea74f66450fef93a1efbbdd122e85e6bea
+- [Reddit r/MapPorn] Turkish villages by counties and districts in Iran  (2026-10-22)
+  https://www.reddit.com/r/MapPorn/comments/1xcpxd9/turkish_villages_by_counties_and_districts_in_iran/
+  image: https://i.redd.it/7ks8hh8762xh1.jpeg
+- [Reddit r/dataisbeautiful] [OC] I made an interactive map of Indonesia's fires, orangutan habitat, and oil palm plantations  (2026-10-22)
+  https://www.reddit.com/r/dataisbeautiful/comments/1xctyhv/oc_i_made_an_interactive_map_of_indonesias_fires/
+  image: https://i.redd.it/wpjdbkk8w2xh1.png
+- [Reddit r/dataisbeautiful] [OC] Fiction Map: an interactive cartographic atlas of speculative fiction topics on Wikipedia, where territory size is based on reader popularity  (2026-10-22)
+  https://www.reddit.com/r/dataisbeautiful/comments/1xctq2f/oc_fiction_map_an_interactive_cartographic_atlas/
+  image: https://i.redd.it/8fx6dphlu2xh1.jpeg
+- [Reddit r/dataisbeautiful] [OC] GTA 5 sold 100 million copies in its first 5 years and another 130 million since then  (2026-10-22)
+  https://www.reddit.com/r/dataisbeautiful/comments/1xct32x/oc_gta_5_sold_100_million_copies_in_its_first_5/
+  image: https://i.redd.it/mwdhag1yq2xh1.png
+- [Reddit r/dataisbeautiful] [OC] Senate 2026: every rater’s rating, side by side  (2026-10-22)
+  https://www.reddit.com/r/dataisbeautiful/comments/1xcrhyo/oc_senate_2026_every_raters_rating_side_by_side/
+  image: https://preview.redd.it/hnaeez4ff2xh1.png?width=140&height=93&auto=webp&s=0f8f2f8434fc4075d333488bbddd91333710b5d7
+- [Reddit r/dataisbeautiful] Russia’s GDP in Context: World Economies by Region (2025) [OC]  (2026-10-22)
+  https://www.reddit.com/r/dataisbeautiful/comments/1xcqy0w/russias_gdp_in_context_world_economies_by_region/
+  image: https://i.redd.it/l6sghtm7c2xh1.jpeg
+- [Reddit r/dataisbeautiful] [OC] What 40 public figures have actually said about 17 conspiracy theories, from over 2,000 sourced quotes  (2026-10-22)
+  https://www.reddit.com/r/dataisbeautiful/comments/1xcqn3p/oc_what_40_public_figures_have_actually_said/
+  image: https://preview.redd.it/0lt80idma2xh1.png?width=140&height=102&auto=webp&s=e88e03854cd1f9cfdfc83ef06fd21f097a49f029

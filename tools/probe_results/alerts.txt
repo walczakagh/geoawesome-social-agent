@@ -1,0 +1,73 @@
+=== ALERT 1 | (empty or error: HTTP 200 but no feed entries (content-type text/xml, starts:) | 0 entries
+=== ALERT 2 | Google Alert - ("cartography" OR "map design" OR "web mapping" OR "mapping tools" OR "mapping software") OR (QGIS OR ArcGIS OR Mapbox OR Leaflet OR (Felt AND GIS) OR MapLibre OR "GIS plugin") OR ("GIS software" OR "spatial analytics") | 19 entries
+2026-10-22 | dice.com | Senior Full Stack .NET GIS Developer ArcGIS Pro - Peer Consulting Resources - Dice | https://www.dice.com/job-detail/c615a7cf-fa53-4753-bad8-4d6fdf6308ac
+2026-10-22 | apply.workable.com | GIS Analyst - Two95 International Inc. - Jobs by Workable | https://apply.workable.com/two95-international-inc-3/j/AC054062C6/
+2026-10-22 | careers.uh.edu | GIS Analyst - Houston, Texas, United States - UH System Careers | https://careers.uh.edu/jobs/gis-analyst-houston-texas-united-states-efc0caa0-4973-496e-933c-1280d45dbdc9
+2026-10-22 | mygisjobs.com | Job Listing - GIS Developer in Las Vegas, Nevada | https://www.mygisjobs.com/job-listing-gis-developer-las-vegas-nevada/8455699730
+2026-10-22 | virtualvocations.com | GIS Specialist - NC Licensed - Virtual Vocations | https://www.virtualvocations.com/job/gis-specialist-nc-licensed-3312432-i.html
+2026-10-22 | eagle.co.nz | ArcGIS Online - Eagle Technology | https://www.eagle.co.nz/products-capabilities/arcgis-online/
+2026-10-22 | blog.utc.edu | Research on the road: A conversation with student Abby Borden | UTC News | https://blog.utc.edu/news/2026/10/research-on-the-road-a-conversation-with-student-abby-borden/
+2026-10-22 | freejobalert.com | ORGI Recruitment 2026 – Apply Offline for 26 Assistant Registrar General, Research Officer ... | https://www.freejobalert.com/articles/orgi-recruitment-2026-apply-offline-for-26-assistant-registrar-general-research-officer-and-more-posts-3074962
+2026-10-22 | shawlocal.com | Ottawa approves train monitoring system that could improve emergency response | https://www.shawlocal.com/illinois-valley/2026/10/22/ottawa-approves-train-monitoring-system-that-could-improve-emergency-response/
+2026-10-22 | geoawesome.com | CARTO Brings Its Founder Back as CEO. Now Agentic GIS Must Become a Business | https://geoawesome.com/carto-founder-javier-de-la-torre-ceo-agentic-gis/
+2026-10-22 | jobs.egis-group.com | GIS Engineer - Esri ArcGIS Platform job in Bengaluru | Egis | https://jobs.egis-group.com/job/gis-engineer-esri-arcgis-platform-in-bengaluru-jid-9685
+2026-10-22 | maxwell.syr.edu | Making/Mapping Memories: A Dialogue on Form, Method, and the Politics of Maps and Memory | https://www.maxwell.syr.edu/research/article/making-mapping-memories-a-dialogue-on-form-method-and-the-politics-of-maps-and-memory
+2026-10-21 | esri.com | What's new in the Communications Utility Network Foundation - Esri | https://www.esri.com/arcgis-blog/products/arcgis-solutions/telecommunications/whats-new-in-the-communications-utility-network-foundation
+2026-10-21 | it.engineering.oregonstate.edu | ArcGIS | Information Technology and Computing Support - Oregon State University | https://it.engineering.oregonstate.edu/software/arcgis
+2026-10-21 | storymaps.arcgis.com | Glenade / Glencar - ArcGIS StoryMaps | https://storymaps.arcgis.com/stories/c36b2558dba64ca98c8095cf84178d6f
+2026-10-21 | fiercewireless.com | IQGeo's new CEO wants to move operators from paper records to AI - Fierce Network | https://www.fiercewireless.com/cloud/iqgeos-new-ceo-wants-move-operators-paper-records-ai
+2026-10-21 | esri.com | Energy Needs and Empty Rooftops: Rethinking Business Power Potential - Esri | https://www.esri.com/about/newsroom/publications/wherenext/solar-rooftops
+2026-10-21 | esri.com | Esri President Jack Dangermond Elected to the American Academy of Arts and Sciences | https://www.esri.com/about/newsroom/announcements/esri-president-jack-dangermond-elected-to-the-american-academy-of-arts-and-sciences
+2026-10-21 | uk.finance.yahoo.com | VertiGIS Accelerates Enterprise GIS Modernization for the City of Houston | https://uk.finance.yahoo.com/news/vertigis-accelerates-enterprise-gis-modernization-130000490.html
+=== ALERT 3 | Google Alert - ("satellite imagery" OR "hyperspectral imagery" OR "Synthetic Aperture Radar" OR SAR OR LiDAR OR "photogrammetry") OR (Copernicus OR ESA OR NASA OR Landsat OR "Sentinel-2" OR "Sentinel-1" OR Copernicus OR "Earth Engine") OR ("open geospatial data" OR DEM) -government -politics -win -trump -candidate | 20 entries
+2026-10-23 | reddit.com | Latest estimate for refuelings needed to support a Starship landing on the Moon? "Around ... - Reddit | https://www.reddit.com/r/space/comments/1xcx6kp/latest_estimate_for_refuelings_needed_to_support/
+2026-10-23 | x.com | NASA on X | https://x.com/NASA/status/2113358139999265160
+2026-10-23 | science.nasa.gov | APOD: 2026 October 22 - The First Green Star, WD J1330+6435 - NASA Science | https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/
+2026-10-23 | ir.microvision.com | MicroVision Begins Commercial Production of MOVIA(TM) Pro to Meet Immediate Customer ... | https://ir.microvision.com/news/press-releases/detail/484/microvision-begins-commercial-production-of-moviatm-pro
+2026-10-22 | engage.aiaa.org | NASA New Horizons Mission to Pluto and Beyond | Tennessee Section - AIAA Engage | https://engage.aiaa.org/tennessee/discussion/aiaa-tennessee-section-zoom-seminar-oct-30-alice-bowman-nasa-new-horizons-mission-to-pluto-and-beyond
+2026-10-22 | egusphere.copernicus.org | A LiDAR -Based Clustering Method for Automated Atmospheric Boundary Layer ... - EGUsphere | https://egusphere.copernicus.org/preprints/2026/egusphere-2026-6296/
+2026-10-22 | forums.developer.nvidia.com | LiDAR Driveworks Plugin for 7.2.5 - DRIVE AGX Thor General - NVIDIA Developer Forums | https://forums.developer.nvidia.com/t/lidar-driveworks-plugin-for-7-2-5/386603
+2026-10-22 | linkedin.com | Rolf Densing - esa #spaceoperations #spacesafety - LinkedIn | https://www.linkedin.com/posts/rolf-densing-63079911b_esa-spaceoperations-spacesafety-activity-7519065348801822720-MzYG
+2026-10-22 | esawebb.org | Stars brewing in a nebulous cauldron | ESA /Webb | https://esawebb.org/images/potm2610a/
+2026-10-22 | imec-int.com | SAR Imaging from Drone-Borne Radar Platforms | imec | https://www.imec-int.com/en/work-at-imec/job-opportunities/sar-imaging-drone-borne-radar-platforms
+2026-10-22 | ncssm.edu | Unicorn astronaut assumes terrestrial role at NASA | https://www.ncssm.edu/news/unicorn-astronaut-assumes-terrestrial-role-at-nasa
+2026-10-22 | astrobiology.com | NASA Science Leadership Town Hall Meeting - Astrobiology | https://astrobiology.com/event/nasa-science-leadership-town-hall-meeting/
+2026-10-22 | oxts.com | OXTS and Hesai: powerful LiDAR and INS sensor fusion in action | https://www.oxts.com/resources/blogs/lidar-and-ins-sensor-fusion/
+2026-10-22 | facebook.com | SATELLITE IMAGERY OF SUPER TYPHOON ROSAL Super Typhoon #RosalPH (international name | https://www.facebook.com/gmaweather/posts/satellite-imagery-of-super-typhoon-rosalsuper-typhoon-rosalph-international-name/1689440546555097/
+2026-10-22 | ieeexplore.ieee.org | ROSE-L SAR Instrument Design Overview and Development Status - IEEE Xplore | https://ieeexplore.ieee.org/document/11721126/
+2026-10-22 | dataspace.copernicus.eu | CDSE Website Service Restored Following Essential System Updates | https://dataspace.copernicus.eu/news/2026-10-22-cdse-website-service-restored-following-essential-system-updates
+2026-10-22 | wipo.int | WO/2018/091970 LIDAR SYSTEMS AND METHODS - WIPO | http://www.wipo.int/patentscope/search/en/WO2018091970
+2026-10-22 | divearizona.com | Arizona ESA Scuba Certification | https://divearizona.com/pages/arizona-esa-scuba-certification
+2026-10-22 | x.com | FC Cincinnati on X: "90' | Sub ON: Kenji Mboma Dem OFF: Evander #AllForCincy | #CINvDC | 2-1" / X | https://x.com/fccincinnati/status/2113073818860163537
+2026-10-22 | support.enlightiumacademy.com | Learn More About Wyoming's Education Savings Account ( ESA ) Program | https://support.enlightiumacademy.com/support/solutions/articles/48001286539-learn-more-about-wyoming-s-education-savings-account-esa-program
+=== ALERT 4 | Google Alert - ("GNSS" OR "GPS positioning" OR "PNT technology" OR "geospatial startups") OR ("drone mapping" OR "drone survey" OR lidar OR UAV OR "unmanned aerial vehicles") -military -war -weapon -attack -watch -tracker -smartphone -threat | 20 entries
+2026-10-22 | youtube.com | Houthi-Saudi Tensions Surge After Deadly UAV Incident at Large Aramco Oil Field Near UAE Border | https://www.youtube.com/shorts/QOH4TJQ48h8
+2026-10-22 | reddit.com | Tesla reports first Cybercab crash as Austin robotaxi wreck totals increase - Reddit | https://www.reddit.com/r/SelfDrivingCars/comments/1xca2v1/tesla_reports_first_cybercab_crash_as_austin/
+2026-10-22 | journals.ametsoc.org | NOTES AND CORRESPONDENCE A Small Portable Mie–Rayleigh Lidar System ... - AMS Journals | https://journals.ametsoc.org/downloadpdf/view/journals/atot/19/11/1520-0426_2002_019_1873_aspmrl_2_0_co_2.pdf
+2026-10-22 | linkedin.com | Scan to Model = point cloud in, editable objects out A LiDAR or SLAM scan captures a site as ... | https://www.linkedin.com/posts/florian-palatini_scan-to-model-point-cloud-in-editable-activity-7518927492590534656-tHY6
+2026-10-22 | laas.hal.science | A Universal Framework for Extrinsic Calibration of Camera, Radar, and LiDAR - LAAS | https://laas.hal.science/hal-05703774
+2026-10-22 | kitemagnetics.com | Aeroperm Material and Core | Revolutionizes electric… - Kite Magnetics | https://kitemagnetics.com/products/uav-stator-cores
+2026-10-22 | drdo.gov.in | DRDO — UAV Technology Foresight - रक्षा अनुसंधान एवं विकास संगठन | http://drdo.gov.in/drdo/en/offerings/technology-foresight/uav
+2026-10-22 | weeroc.com | Liroc | SiPM Readout Chip for LiDAR | Weeroc France | https://weeroc.com/liroc/
+2026-10-22 | surveysc.com | Santee Cooper Transmission Corridor LiDAR - Abraham Land Surveying | https://surveysc.com/santee-cooper-transmission-lidar/
+2026-10-22 | github.com | [Isaac Sim 6.2] RTX LiDAR uses only the first 256 emitter states per prim (tickStates wraps at ... | https://github.com/isaac-sim/IsaacSim/issues/901
+2026-10-22 | iz.ru | Air defense forces intercepted one UAV over the Leningrad region - Известия | https://iz.ru/en/2188392/2026-10-22/air-defense-forces-intercepted-one-uav-over-leningrad-region
+2026-10-22 | ieeexplore.ieee.org | Geo-Position Estimation and Navigation Under Satellite-Out-of-Coverage Area through UAV ... | https://ieeexplore.ieee.org/abstract/document/10817201/
+2026-10-22 | it4forest.de | UAV LAB – Theme- it4forest | https://www.it4forest.de/uav-lab/
+2026-10-21 | spie.org | Bandwidth and capacitance engineering for noise suppression inSTUD-based variable-FOV ... - SPIE | https://spie.org/future-sensing-technologies/presentation/Bandwidth-and-capacitance-engineering-for-noise-suppression-in-STUD-based/14350-81
+2026-10-21 | cddis.nasa.gov | https - cddis - NASA | https://cddis.nasa.gov/archive/gnss/products/ionex/
+2026-10-21 | ideas.repec.org | Low-altitude delivery path planning for unmanned aerial vehicles based on optimal energy ... | https://ideas.repec.org/a/eee/transe/v216y2026ics1366554526005132.html
+2026-10-21 | linedesigntechnology.com | Drone Mapping at Findel Complex - Line Design Technology | https://linedesigntechnology.com/case-studies/drone-mapping-at-findel-complex
+2026-10-21 | preprints.opticaopen.org | LIDAR with Optically Amplified Thermal Light - preprints from Optica Open | https://preprints.opticaopen.org/articles/preprint/LIDAR_with_Optically_Amplified_Thermal_Light/34737498
+2026-10-21 | javad.com | JDC Release Notes 1.2.6 - JAVAD GNSS | https://www.javad.com/support/firmware/release-notes/jdc-1-2-6/
+2026-10-21 | github.com | Incorrect LaserScan angular resolution for solid-state RTX LiDAR in Isaac Sim · Issue #896 | https://github.com/isaac-sim/IsaacSim/issues/896
+=== ALERT 5 | (empty or error: HTTP 200 but no feed entries (content-type text/xml, starts:) | 0 entries
+=== ALERT 6 | Google Alert - ("Felt map" OR "Atlas.co" OR "Mapbox GL" OR "MapLibre" OR "Leaflet JS" OR "Deck.gl" OR "CesiumJS") OR ("interactive map portal" OR "web GIS platform" OR "cloud GIS" OR "no-code mapping") | 4 entries
+2026-10-22 | maplibre.org | Artifacts - MapLibre Android Examples | https://maplibre.org/maplibre-native/android/examples/artifacts/
+2026-10-22 | youtube.com | Vibe coding the Web: Rapid prototypes with Claude Code & Mapbox GL JS - YouTube | https://www.youtube.com/watch?v=tRF45QQYVCI
+2026-10-22 | context7.com | MapLibre for Python (eoda-dev/py-maplibregl) - Context7 | https://context7.com/eoda-dev/py-maplibregl
+2026-10-21 | observablehq.com | Cosme Velho, Rio de Janeiro | Eduardo Belluti - Observable | https://observablehq.com/@ebelluti/cosme-velho-rio-de-janeiro
+=== ALERT 7 | Google Alert - ("digital twin" AND (geospatial OR city OR mapping OR GIS)) OR ("3D terrain" OR "3D city model" OR "3D mesh" OR "photogrammetry 3D") OR ("Unreal Engine" AND (GIS OR geospatial OR terrain)) | 3 entries
+2026-10-22 | geoawesome.com | CARTO Brings Its Founder Back as CEO. Now Agentic GIS Must Become a Business | https://geoawesome.com/carto-founder-javier-de-la-torre-ceo-agentic-gis/
+2026-10-22 | geoawesome.com | Gridsight Raises $26M to Find the Power Capacity Hiding in Plain Sight - Geoawesome | https://geoawesome.com/gridsight-funding-ai-grid-digital-twin/
+2026-10-21 | timestech.in | Esri India's Agendra Kumar on GIS Adoption, AI and Geospatial Growth - TimesTech | https://timestech.in/esri-indias-agendra-kumar-on-gis-adoption-ai-and-geospatial-growth/
