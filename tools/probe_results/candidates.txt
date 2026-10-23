@@ -1,0 +1,116 @@
+[scout] google_alerts_1: 0 in feed, 0 new
+[scout] google_alerts_2: 5 in feed, 5 new
+[scout] google_alerts_3: 4 in feed, 4 new
+[scout] google_alerts_4: 2 in feed, 0 new
+[scout] google_alerts_5: 0 in feed, 0 new
+[scout] google_alerts_6: 1 in feed, 1 new
+[scout] google_alerts_7: 0 in feed, 0 new
+[scout] nasa_eo: 10 in feed, 1 new
+[scout] esa_eo: 15 in feed, 0 new
+[scout] eumetsat: 10 in feed, 0 new
+[scout] cams: 10 in feed, 0 new
+[scout] nasa_jpl: 100 in feed, 1 new
+[scout] planet: 50 in feed, 1 new
+[scout] maps_mania: 25 in feed, 0 new
+[scout] visual_capitalist_maps: 10 in feed, 1 new
+[scout] flowingdata: 10 in feed, 2 new
+[scout] google_maps_blog: 20 in feed, 0 new
+[scout] google_research: 100 in feed, 0 new
+[scout] overture: 20 in feed, 0 new
+[scout] bellingcat: 10 in feed, 0 new
+[scout] reddit_mapporn: 25 in feed, 6 new
+[scout] reddit_dataisbeautiful: 25 in feed, 6 new
+
+## Sources
+- Google Alerts #1: 0 in feed, 0 new
+- Google Alerts #2: 5 in feed, 5 new
+- Google Alerts #3: 4 in feed, 4 new
+- Google Alerts #4: 2 in feed, 0 new
+- Google Alerts #5: 0 in feed, 0 new
+- Google Alerts #6: 1 in feed, 1 new
+- Google Alerts #7: 0 in feed, 0 new
+- NASA Earth Observatory: 10 in feed, 1 new
+- ESA Observing the Earth: 15 in feed, 0 new
+- EUMETSAT: 10 in feed, 0 new
+- Copernicus Atmosphere Monitoring Service: 10 in feed, 0 new
+- NASA JPL: 100 in feed, 1 new
+- Planet Pulse: 50 in feed, 1 new
+- Maps Mania: 25 in feed, 0 new
+- Visual Capitalist (maps): 10 in feed, 1 new
+- FlowingData: 10 in feed, 2 new
+- Google Maps blog: 20 in feed, 0 new
+- Google Research blog: 100 in feed, 0 new
+- Overture Maps blog: 20 in feed, 0 new
+- Bellingcat: 10 in feed, 0 new
+- Reddit r/MapPorn: 25 in feed, 6 new
+- Reddit r/dataisbeautiful: 25 in feed, 6 new
+
+## 28 candidate items
+- [Google Alerts #2] CARTO Brings Its Founder Back as CEO. Now Agentic GIS Must Become a Business  (2026-10-22)
+  https://geoawesome.com/carto-founder-javier-de-la-torre-ceo-agentic-gis/
+- [Google Alerts #2] Making/Mapping Memories: A Dialogue on Form, Method, and the Politics of Maps and Memory  (2026-10-22)
+  https://www.maxwell.syr.edu/research/article/making-mapping-memories-a-dialogue-on-form-method-and-the-politics-of-maps-and-memory
+- [Google Alerts #2] What's new in the Communications Utility Network Foundation - Esri  (2026-10-21)  · picked 78 of 219 alerts from esri.com
+  https://www.esri.com/arcgis-blog/products/arcgis-solutions/telecommunications/whats-new-in-the-communications-utility-network-foundation
+- [Google Alerts #2] Energy Needs and Empty Rooftops: Rethinking Business Power Potential - Esri  (2026-10-21)  · picked 78 of 219 alerts from esri.com
+  https://www.esri.com/about/newsroom/publications/wherenext/solar-rooftops
+- [Google Alerts #2] Esri President Jack Dangermond Elected to the American Academy of Arts and Sciences  (2026-10-21)  · picked 78 of 219 alerts from esri.com
+  https://www.esri.com/about/newsroom/announcements/esri-president-jack-dangermond-elected-to-the-american-academy-of-arts-and-sciences
+- [Google Alerts #3] APOD: 2026 October 22 - The First Green Star, WD J1330+6435 - NASA Science  (2026-10-23)  · picked 24 of 49 alerts from science.nasa.gov
+  https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/
+- [Google Alerts #3] Rolf Densing - esa #spaceoperations #spacesafety - LinkedIn  (2026-10-22)
+  https://www.linkedin.com/posts/rolf-densing-63079911b_esa-spaceoperations-spacesafety-activity-7519065348801822720-MzYG
+- [Google Alerts #3] What stays with you after a journey beyond Earth? A moment to take it all in. A shared ... - Instagram  (2026-10-21)  · picked 1 of 5 alerts from instagram.com
+  https://www.instagram.com/reel/Dewvde3u8-9/
+- [Google Alerts #3] [2610.28598] Neural Implicit Energy Optimization for LiDAR Mapping - arXiv  (2026-10-21)
+  https://arxiv.org/abs/2610.28598
+- [Google Alerts #6] Artifacts - MapLibre Android Examples  (2026-10-22)
+  https://maplibre.org/maplibre-native/android/examples/artifacts/
+- [NASA Earth Observatory] El Niño Then and Now  (2026-10-23)  · picked 24 of 49 alerts from science.nasa.gov
+  https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/
+- [NASA JPL] Pedal to the Metal: NASA’s Psyche Heads Toward Asteroid Belt  (2026-10-22)  · picked 3 of 12 alerts from jpl.nasa.gov
+  https://www.jpl.nasa.gov/news/pedal-to-the-metal-nasas-psyche-heads-toward-asteroid-belt
+- [Planet Pulse] Why Dense Satellite Time Series Deliver More Trustworthy Insight  (2026-10-22)  · picked 6 of 10 alerts from planet.com
+  https://www.planet.com/pulse/why-dense-satellite-time-series-deliver-more-trustworthy-insight/
+- [Visual Capitalist (maps)] Mapped: Are Americans Getting Richer Since 2000?  (2026-10-22)
+  https://www.visualcapitalist.com/mapped-are-americans-getting-richer-since-2000/
+- [FlowingData] When AI comes for purpose  (2026-10-22)
+  https://flowingdata.com/2026/10/22/when-ai-comes-for-purpose/
+- [FlowingData] ✚ Avoiding charts by default  (2026-10-22)
+  https://flowingdata.com/2026/10/22/process-411-default-avoid/
+- [Reddit r/MapPorn] Map of Los Angeles’Pacific Electric’s Tram Network in 1926, Largest Rail “public” transit network in history, and at 1.3k miles about twice the size of Beijing’s today. It was Planned to Extend to San Diego  (2026-10-23)
+  https://www.reddit.com/r/MapPorn/comments/1xd592o/map_of_los_angelespacific_electrics_tram_network/
+  image: https://i.redd.it/twb88pb9j5xh1.jpeg
+- [Reddit r/MapPorn] Population distribution of the US state of California  (2026-10-23)
+  https://www.reddit.com/r/MapPorn/comments/1xd1zkq/population_distribution_of_the_us_state_of/
+  image: https://i.redd.it/em2r4lqmo4xh1.jpeg
+- [Reddit r/MapPorn] NYC’s subway in 3D, every tunnel and platform at its real depth  (2026-10-22)
+  https://www.reddit.com/r/MapPorn/comments/1xcynte/nycs_subway_in_3d_every_tunnel_and_platform_at/
+  image: https://external-preview.redd.it/Z3Boc2NvZDh3M3hoMZAuMT902R5emqJKVfRc3oIrdN28gAYuHlTC_lYj11nW.png?width=640&crop=smart&auto=webp&s=b8e3cafe4d7f48a2b2ab065a1b6ee3ee064a2740
+- [Reddit r/MapPorn] Embassies in Tehran before Islamic Revolution  (2026-10-22)
+  https://www.reddit.com/r/MapPorn/comments/1xcxrtj/embassies_in_tehran_before_islamic_revolution/
+  image: https://i.redd.it/hr8s5tf1p3xh1.jpeg
+- [Reddit r/MapPorn] Japanese Historical Provinces, Literally Translated  (2026-10-22)
+  https://www.reddit.com/r/MapPorn/comments/1xcx440/japanese_historical_provinces_literally_translated/
+  image: https://i.redd.it/i939oe55j3xh1.png
+- [Reddit r/MapPorn] Results of the Alberta Independence Referendum (October 19, 2026)  (2026-10-22)
+  https://www.reddit.com/r/MapPorn/comments/1xcw48e/results_of_the_alberta_independence_referendum/
+  image: https://i.redd.it/y2193hihb3xh1.png
+- [Reddit r/dataisbeautiful] [OC] Open class-action settlement funds in the US: the 8 largest cases hold $3.19B of $6.32B (50.4%) — one dot per $25M of published fund money  (2026-10-23)
+  https://www.reddit.com/r/dataisbeautiful/comments/1xd5xky/oc_open_classaction_settlement_funds_in_the_us/
+  image: https://i.redd.it/duryo2s2q5xh1.png
+- [Reddit r/dataisbeautiful] [OC] Electricity generation per person in the United Kingdom has fallen by a third from its early-2000s peak  (2026-10-23)
+  https://www.reddit.com/r/dataisbeautiful/comments/1xd5sal/oc_electricity_generation_per_person_in_the/
+  image: https://i.redd.it/4az5szefo5xh1.png
+- [Reddit r/dataisbeautiful] [oc] Google search interest in NBA teams from 2004 - 2026  (2026-10-23)
+  https://www.reddit.com/r/dataisbeautiful/comments/1xd31ff/oc_google_search_interest_in_nba_teams_from_2004/
+  image: https://preview.redd.it/umzoqkb4x4xh1.gif?width=640&crop=smart&s=c4293ac0b4013589619b0e2fa870c54eefb99173
+- [Reddit r/dataisbeautiful] [OC] Share of S&P 500 earnings calls that mentioned tariffs, and how often "tariff refund" was said, by quarter, 2024 to 2026  (2026-10-22)
+  https://www.reddit.com/r/dataisbeautiful/comments/1xcvnl9/oc_share_of_sp_500_earnings_calls_that_mentioned/
+  image: https://i.redd.it/avlh7iqu83xh1.png
+- [Reddit r/dataisbeautiful] Mid-Decade Redistricting Visualization: Interactive Maps and Charts.  (2026-10-22)
+  https://www.reddit.com/r/dataisbeautiful/comments/1xcvgui/middecade_redistricting_visualization_interactive/
+  image: https://external-preview.redd.it/WVFFTMUu2n3VjXefkwDamtsfotRU6sVIbnlH4wIyFyI.png?width=640&crop=smart&auto=webp&s=7c9897ce94866c2145f9bf661efbe458955ef8cc
+- [Reddit r/dataisbeautiful] All active professional soccer teams in southeastern Brazil [OC]  (2026-10-22)
+  https://www.reddit.com/r/dataisbeautiful/comments/1xcuu81/all_active_professional_soccer_teams_in/
+  image: https://i.redd.it/dl9q5pix23xh1.png
