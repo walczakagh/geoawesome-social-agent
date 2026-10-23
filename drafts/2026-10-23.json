@@ -1,0 +1,538 @@
+[
+  {
+    "item": {
+      "id": "https://science.nasa.gov/?p=1500914",
+      "source_id": "nasa_eo",
+      "source_name": "NASA Earth Observatory",
+      "source_type": "eo_imagery",
+      "licence": "reuse",
+      "title": "El Niño Then and Now",
+      "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/",
+      "published": "2026-10-23T04:00:00+00:00",
+      "summary": "A 35-year satellite altimetry record lets scientists hold this year's El Niño up against its strongest predecessors.",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-then-and-now/elninocomp_sen6_19971013.jpg",
+      "credit_hint": "NASA Earth Observatory",
+      "source_tag": "@NASAEarth",
+      "page_text": "A 35-year satellite altimetry record lets scientists hold this year's El Niño up against its strongest predecessors.\nEl Niño is part of a natural climate pattern that occurs roughly every two to seven years, bringing warmer-than-normal water to parts of the equatorial Pacific. The most recent very strong El Niño events, in 1997-98 and 2015-16, upended weather patterns. Impacts spanned the planet, from fires in Indonesia and the Amazon, to crop failures due to drought in southern Africa , to heavy rain and coastal flooding in Southern California. The current El Niño rivals these past heavyweights.\nEvery El Niño grows from a feedback loop between the atmosphere and the ocean. Trade winds normally keep warm water piled up in the western Pacific, where it stands higher than in the east. When those winds weaken, that warm water begins to pulse eastward, which further weakens and sometimes reverses the winds, allowing even more warm water to move east. The cycle intensifies as waters continue to warm and pile up in the central and eastern Pacific.\nBut each El Niño has its own character, shaped by where in the Pacific the warmth builds and how the atmosphere responds. “The search for the ‘typical’ El Niño is very elusive,” said Josh Willis, project scientist for sea level missions at NASA’s Jet Propulsion Laboratory (JPL). “They’re all different in terms of where they land and how their impacts play out.”\nAltimetry satellites can track those differences by measuring the height of the sea surface. Because water expands as it warms, higher-than-normal sea levels in the central and eastern equatorial Pacific signal the buildup of heat associated with El Niño. The maps above depict sea surface height anomalies across the Pacific Ocean on October 13, 1997 (left), and on October 12, 2026 (right). Data are from the TOPEX/Poseidon satellite and the Sentinel-6 Michael Freilich satellite, respectively, and were processed by scientists at JPL.\nShades of red indicate where sea levels were higher than average. Normal sea level conditions appear white, and lower areas are blue. Signals related to seasonal cycles and long-term trends have been removed to highlight sea level anomalies associated with El Niño and other short-term natural phenomena.\n“What’s unique about altimetry is that we have a 35-year record from nearly identical satellites flying almost the same ground track, with each mission overlapping the next,” Willis said. “That lets us look back in time and compare this El Niño to what happened in 1997. And right now, this one is on track to be even bigger.”\nCompared with the 1997-98 event, El Niño in 2026 came on much more suddenly. But as of October, the two events appear similar in character—the tilt of sea level (low in the west and high in the east) and high, warm water extending all the way to South America—so Willis thinks the impacts could be similar as well. In 1997-98, that meant, for instance, lots of rain in California and across the southern tier of the U.S.\nThe 2015-16 El Niño was another heavy hitter but differed in its character. Sea surface height anomalies on October 12, 2015, based on altimetry data from the Jason-2 satellite, are shown above in context with maps from around the same time in 1997 and 2026. In 2015, the exceptionally warm, high water along the equator didn’t push up against South America to the extent it did in the other years. Rainfall impacts that winter concentrated more over Central America and the southeastern U.S., with significant flooding in Mexico.\nNOAA’s El Niño outlook on October 8, 2026, called for an 83 percent chance of a strong-to-very strong El Niño through the first three months of 2027. But exactly how the impacts will play out in winter 2026-27 and beyond remains to be seen. Willis noted that El Niño's influence propagates through a chaotic atmosphere, and the signal can get muddled as it extends beyond the tropics. “There's always a bit of a dice roll here,” Willis said. “Just because this El Niño looks like 1997 doesn't mean it will be exactly the same—it's just our best guess at the moment.”\nNASA Earth Observatory maps by Lauren Dauphin, using NASA-SSH altimetry data provided by Josh Willis, Severine Fournier, and Kevin Marlis, NASA/JPL-Caltech. Story by Kathryn Hansen.\nStay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.\nSatellite observations of sea surface height indicated that the 2026 event continued to strengthen in early June.\nThe ocean’s ebbs and flows reveal dynamic tidal flats and a well-traveled shipping route along the coast of Germany.\nSatellite measurements of chlorophyll at the sea surface signal shifts in the ocean’s nutrient supplies in mid-2026.\nSubscribe to the Earth Observatory and get the Earth in your inbox.\nNASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.\nOpen access to NASA’s archive of Earth science data",
+      "image_credit": "NASA Earth Observatory / Lauren Dauphin",
+      "image_licence": "NASA imagery, generally free to reuse with credit",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-then-and-now/elninocomp_sen6_19971013.jpg",
+          "label": "october 13, 1997"
+        },
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-then-and-now/elninocomp_sen6_20261012.jpg",
+          "label": "october 12, 2026"
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-10-23-1-el-ni-o-then-and-now.jpg",
+      "image_note": "before/after pair stacked, from 1280px of source width"
+    },
+    "score": 8.0,
+    "why": "Satellite altimetry comparison of El Niño years; strong Earth-observation visual with a clear story.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "Two maps of sea surface height anomalies across the Pacific: 13 October 1997 from TOPEX/Poseidon (top) and 12 October 2026 from Sentinel-6 Michael Freilich (bottom), processed by scientists at NASA JPL. Red means sea level is higher than average, white is normal and blue is lower. Seasonal cycles and long-term trends have been removed, so the red band along the equator shows heat building up during El Niño.",
+      "uncertainties": [
+        "The page describes the maps as left (1997) and right (2026). Our stacked square puts 1997 on top and 2026 below, so check the orientation before posting.",
+        "The page also shows a 2015 Jason-2 map that is not in our pair. The captions do not mention it.",
+        "'On track to be even bigger' is Josh Willis's assessment, not a measurement. Likely impacts similar to 1997-98 are also his view, and he stresses they are uncertain.",
+        "The page text does not give the colour scale values (centimetres of anomaly).",
+        "The NOAA figure (83 percent chance of strong-to-very strong El Niño through the first three months of 2027) comes from NOAA's 8 October 2026 outlook, as quoted by NASA."
+      ],
+      "image_credit": "Map: NASA Earth Observatory / Lauren Dauphin",
+      "facebook": "Same tilt, same reach, 29 years apart: El Niño 2026 is tracking 1997.\n\nTop: Pacific sea surface height anomalies on 13 October 1997 (TOPEX/Poseidon). Bottom: 12 October 2026 (Sentinel-6 Michael Freilich). Red is higher than average, blue lower. In both, high, warm water reaches South America, and JPL's Josh Willis says this one is on track to be even bigger, though it came on much more suddenly.\n\nRead more: https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/\n\nMap: NASA Earth Observatory / Lauren Dauphin\n\n#Altimetry #Pacific #Climate #Geoawesome",
+      "instagram": "Red means the Pacific is standing higher than normal, and this October it stretches all the way to South America.\n\nTop: October 1997. Bottom: October 2026. Two El Niño heavyweights, seen through sea surface height from space.\n\nLearn more: https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/\n\nMap: NASA Earth Observatory / Lauren Dauphin\n\n#Ocean #Satellite #Climate #Geoawesome",
+      "youtube": "A 35-year altimetry record from near-identical satellites lets NASA set this El Niño beside 1997's.\n\nSea surface height anomalies from TOPEX/Poseidon (top, 13 Oct 1997) and Sentinel-6 Michael Freilich (bottom, 12 Oct 2026), with seasonal and long-term signals removed. Water expands as it warms, so red marks heat piling up in the central and eastern Pacific, while blue is below average. NOAA gives an 83 percent chance of a strong-to-very strong event through March 2027.\n\nFind out more: https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/\n\nMap: NASA Earth Observatory / Lauren Dauphin\n\n#Sentinel6 #TOPEX #NASA #Geoawesome",
+      "x": "NOAA puts the odds of a strong-to-very strong El Niño at 83 percent. From orbit, October 2026 (bottom) already looks like October 1997 (top).\nhttps://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/\nMap: NASA Earth Observatory / Lauren Dauphin\n#Sentinel6 #Oceanography #Altimetry #Geoawesome",
+      "alt_text": "Two stacked maps of the Pacific Ocean showing sea surface height anomalies, October 1997 on top and October 2026 below, each with a band of red along the equator reaching east to South America and blue in the western Pacific."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-23-1-el-ni-o-then-and-now.jpg"
+  },
+  {
+    "item": {
+      "id": "2c3f209f18e82ff7430c6d391f7685bb",
+      "source_id": "esa_eo",
+      "source_name": "ESA Observing the Earth",
+      "source_type": "eo_imagery",
+      "licence": "reuse",
+      "title": "Earth from Space: The pink city",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_The_pink_city",
+      "published": "2026-10-23T08:00:00+00:00",
+      "summary": "Image: This image shows a detailed view of the city of Toulouse in southwest France, with its terracotta tiled rooftops lending it the nickname la ville rose, or the pink city.",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_the_pink_city/27589033-1-eng-GB/Earth_from_Space_The_pink_city_card_full.jpg",
+      "credit_hint": "ESA",
+      "source_tag": "@esa",
+      "page_text": "You have already liked this page, you can only like it once!\nThis image, captured by the Pleiades Neo satellite mission, shows a detailed view of the city of Toulouse in southwest France, with its terracotta tiled rooftops lending it the nickname la ville rose , or the pink city.\nZoom in to explore this image at its full resolution.\nOne of the central features of Toulouse, as seen from above, is the Garonne river, which meanders through the city centre on its way from its source in the Pyrenees, to its estuary near Bordeaux. Numerous bridges span the Garonne and also connect the Ile Du Grand Ramier, a collection of river islands, south of Toulouse city centre, where the white oval of Toulouse Stadium is clearly visible.\nOther features seen from space include the Brienne, Midi and Garonne canals, the Matabiau railway station at the top of the image, and the tree-lined avenues around the University of Toulouse, one of the oldest universities in Europe, near the circular Boulingrin public garden in the centre of the image.\nWhile the city centre is densely packed with the characteristic red roofs, on the left side of the image near Matabiau station, a rectangular area appears almost grey – this is the city’s historic cemetery, Terre Cabade. Just visible in the top-left corner of the image is the Toulouse congress centre and Japanese gardens.\nThe two Pleiades Neo satellites, in orbit since 2021, capture Earth observation images with a resolution of up to 30 cm. The mission is part of ESA’s Third Party Missions programme , which means ESA uses its multi-mission ground systems and expertise to acquire, process, distribute and archive data from a wide range of satellite missions developed and operated by other agencies.",
+      "image_credit": "Airbus DS (2024), processed by ESA",
+      "image_licence": "ESA Standard Licence",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_the_pink_city/27589034-1-eng-GB/Earth_from_Space_The_pink_city.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_the_pink_city/27589033-1-eng-GB/Earth_from_Space_The_pink_city_card_full.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_the_pink_city/27589033-1-eng-GB/Earth_from_Space_The_pink_city_pillars.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-10-23-2-earth-from-space-the-pink-city.jpg",
+      "image_note": "square crop, from 5670px of source width"
+    },
+    "score": 8.0,
+    "why": "ESA Earth from Space aerial view of Toulouse's terracotta rooftops; vivid and well-known series.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A Pleiades Neo satellite image of central Toulouse in southwest France, where terracotta-tiled rooftops give the city its nickname la ville rose (the pink city). Visible features include the Garonne river and its bridges, the Ile du Grand Ramier river islands with the white oval of Toulouse Stadium, the Brienne, Midi and Garonne canals, Matabiau railway station, the circular Boulingrin garden, and Terre Cabade, the historic cemetery, which appears almost grey among the red roofs. Credit is Airbus DS (2024), processed by ESA. The data come via ESA's Third Party Missions programme.",
+      "uncertainties": [
+        "No exact acquisition date is given. The credit only says 2024.",
+        "The page gives 'up to 30 cm' as the mission's resolution, not a resolution for this specific scene.",
+        "The page does not say whether the image is true colour or name a band combination.",
+        "Feature positions (Matabiau at top, Terre Cabade on the left, congress centre and Japanese gardens top-left, stadium south of centre) describe the full 5670px-wide image. Check that the square crop still contains Toulouse Stadium, Terre Cabade and Matabiau before posting the captions that name them.",
+        "The page places Terre Cabade 'on the left side of the image near Matabiau station' while Matabiau is 'at the top'. Confirm where the grey rectangle sits in the crop."
+      ],
+      "image_credit": "Image: Airbus DS (2024), processed by ESA",
+      "facebook": "Toulouse is called la ville rose for a reason you can see from orbit: its terracotta-tiled rooftops.\n\nThis Pleiades Neo image follows the Garonne past the Ile du Grand Ramier river islands, where Toulouse Stadium shows as a white oval. One rectangle breaks the red: Terre Cabade, the city's historic cemetery, appears almost grey.\n\nRead more: https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_The_pink_city\n\nImage: Airbus DS (2024), processed by ESA\n\n#Toulouse #Geoawesome #Pleiades #France",
+      "instagram": "Terracotta roofs give Toulouse its nickname, the pink city, and from orbit the name fits.\n\nFind the grey rectangle near Matabiau station: Terre Cabade, the historic cemetery, a patch the red roofs skip.\n\nFind out more: https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_The_pink_city\n\nImage: Airbus DS (2024), processed by ESA\n\n#Toulouse #Geoawesome #Cities #Satellite",
+      "youtube": "Pleiades Neo images Earth at up to 30 cm, and Toulouse shows what that means over a dense old city.\n\nThe scene picks out the Brienne, Midi and Garonne canals, the circular Boulingrin garden and the tree-lined avenues around the University of Toulouse. ESA distributes the data through its Third Party Missions programme. Note that 30 cm is the mission's best case, not a stated figure for this image.\n\nLearn more: https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_The_pink_city\n\nImage: Airbus DS (2024), processed by ESA\n\n#Pleiades #Geoawesome #ESA #Airbus",
+      "x": "One grey rectangle in a sea of terracotta: Terre Cabade cemetery in Toulouse, the pink city, seen by Pleiades Neo.\nhttps://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_The_pink_city\nImage: Airbus DS (2024), processed by ESA\n#Toulouse #Pleiades #Geoawesome",
+      "alt_text": "Satellite view of central Toulouse showing a dense spread of red-tiled rooftops crossed by the Garonne river, its bridges and tree-lined avenues."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-23-2-earth-from-space-the-pink-city.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.facebook.com/gmaweather/posts/satellite-imagery-of-super-typhoon-rosalsuper-typhoon-rosalph-international-name/1689440546555097/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "SATELLITE IMAGERY OF SUPER TYPHOON ROSAL Super Typhoon #RosalPH (international name",
+      "link": "https://www.facebook.com/gmaweather/posts/satellite-imagery-of-super-typhoon-rosalsuper-typhoon-rosalph-international-name/1689440546555097/",
+      "published": "2026-10-22T11:45:45+00:00",
+      "summary": "SATELLITE IMAGERY OF SUPER TYPHOON ROSAL Super Typhoon #RosalPH (international name: Champi) was seen on Wednesday, Oct. 21, churning towards ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "SATELLITE IMAGERY OF SUPER TYPHOON ROSAL Super Typhoon #RosalPH (international name: Champi) was seen on Wednesday, Oct. 21, churning towards ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Satellite imagery of a super typhoon; vivid Earth-observation scene, though the feed gives no image.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was found on the page, no image credit or licence is given, the reuse policy is link-only, and the page text is a truncated snippet, so there is nothing to repost or describe without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was retrieved from the page (IMAGE NOTE: no image found).",
+        "The image credit is not given and the licence is not stated. The reuse policy is link_only.",
+        "The page text is cut off: it confirms only that Super Typhoon Rosal (international name: Champi) was seen on Wednesday, Oct. 21, 'churning towards ...', with no destination, sensor, intensity or other details.",
+        "The source is a Facebook post by GMA Weather surfaced via Google Alerts, not the original imagery provider (likely a Himawari or similar agency product, but the page does not say)."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "t3_1xd592o",
+      "source_id": "reddit_mapporn",
+      "source_name": "Reddit r/MapPorn",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "Map of Los Angeles’Pacific Electric’s Tram Network in 1926, Largest Rail “public” transit network in history, and at 1.3k miles about twice the size of Beijing’s today. It was Planned to Extend to San Diego",
+      "link": "https://www.reddit.com/r/MapPorn/comments/1xd592o/map_of_los_angelespacific_electrics_tram_network/",
+      "published": "2026-10-23T05:21:18+00:00",
+      "summary": "Map of Los Angeles’Pacific Electric’s Tram Network in 1926, Largest Rail “public” transit network in history, and at 1.3k miles about twice the size of Beijing’s today. It was Planned to Extend to San Diego",
+      "image_url": "https://i.redd.it/twb88pb9j5xh1.jpeg",
+      "credit_hint": "u/RaiJolt2 via r/MapPorn",
+      "source_tag": "",
+      "page_text": "Title of the post: Map of Los Angeles’Pacific Electric’s Tram Network in 1926, Largest Rail “public” transit network in history, and at 1.3k miles about twice the size of Beijing’s today. It was Planned to Extend to San Diego\nPosted on Reddit by u/RaiJolt2 via r/MapPorn. The post has no other text; the title is the only description of the map.",
+      "image_credit": "u/RaiJolt2 via r/MapPorn",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://i.redd.it/twb88pb9j5xh1.jpeg",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": false,
+      "square_path": "",
+      "image_note": "image download failed: 403 Client Error: Blocked for url: https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Ftwb88pb9j5xh1.jpeg"
+    },
+    "score": 7.0,
+    "why": "Historical 1926 Pacific Electric tram network map; striking historical cartography with a hook.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "According to the Reddit post title, this is a map of Pacific Electric's tram network in the Los Angeles area as it stood in 1926. The poster says the network was about 1,300 miles (1.3k miles) long, calls it the largest rail \"public\" transit network in history and says it was about twice the size of Beijing's network today. The poster also says it was planned to extend to San Diego.",
+      "uncertainties": [
+        "The image download failed (403 Blocked), so nobody has checked the map itself. Confirm that it matches the title before posting, and check the alt text against the actual image.",
+        "The reuse policy is link_only and no licence is stated. The image may not be cleared for reposting as a square without permission from u/RaiJolt2.",
+        "The data source of the map is not stated. It is not clear whether it is a period map from 1926 or a modern reconstruction.",
+        "'Largest rail \"public\" transit network in history' is the poster's unsourced claim. The quotation marks around \"public\" are the poster's own and their meaning is not explained.",
+        "The comparison with Beijing ('about twice the size of Beijing's today') is unsourced. It does not say which Beijing network is meant (metro or all rail transit), and the network types may not be comparable. Verify it before amplifying.",
+        "The 1.3k miles figure is not explained. It could be route length or track length.",
+        "The planned extension to San Diego is stated without a source or date."
+      ],
+      "image_credit": "Map: u/RaiJolt2 via r/MapPorn",
+      "facebook": "Roughly 1,300 miles: that is how long Pacific Electric's tram network was in 1926, according to the creator of this map.\n\nThe map shows the Los Angeles operator's network at its 1926 extent. The poster calls it the largest rail \"public\" transit network in history and about twice the size of Beijing's today. Those claims come without a source, so read them as the mapmaker's framing rather than settled fact.\n\nFull story: https://www.reddit.com/r/MapPorn/comments/1xd592o/map_of_los_angelespacific_electrics_tram_network/\n\nMap: u/RaiJolt2 via r/MapPorn\n\n#Geoawesome #Cartography #Trams #Transit",
+      "instagram": "Los Angeles once had about 1,300 miles of tram lines, if this map's creator is right.\n\nPacific Electric's network in 1926, which the poster says was meant to stretch all the way to San Diego.\n\nRead more: https://www.reddit.com/r/MapPorn/comments/1xd592o/map_of_los_angelespacific_electrics_tram_network/\n\nMap: u/RaiJolt2 via r/MapPorn\n\n#Geoawesome #Maps #Trams #Railways",
+      "youtube": "Here is a 1926 snapshot of a rail system that its mapmaker calls the largest rail \"public\" transit network in history.\n\nThe map traces Pacific Electric's tram network around Los Angeles, which the poster puts at about 1.3k miles and says was planned to extend to San Diego. The post names no data source, and its comparison with Beijing (\"about twice the size\") is unsourced. Check both before quoting them.\n\nLearn more: https://www.reddit.com/r/MapPorn/comments/1xd592o/map_of_los_angelespacific_electrics_tram_network/\n\nMap: u/RaiJolt2 via r/MapPorn\n\n#Geoawesome #Cartography #Railways #History",
+      "x": "Planned to reach San Diego: Pacific Electric's 1926 tram network around Los Angeles, about 1,300 miles long according to the mapmaker.\nhttps://www.reddit.com/r/MapPorn/comments/1xd592o/map_of_los_angelespacific_electrics_tram_network/\nMap: u/RaiJolt2 via r/MapPorn\n#Geoawesome #Maps #Trams #History",
+      "alt_text": "Historical map of the Pacific Electric tram network spreading across the Los Angeles area in 1926."
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "t3_1xcynte",
+      "source_id": "reddit_mapporn",
+      "source_name": "Reddit r/MapPorn",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "NYC’s subway in 3D, every tunnel and platform at its real depth",
+      "link": "https://www.reddit.com/r/MapPorn/comments/1xcynte/nycs_subway_in_3d_every_tunnel_and_platform_at/",
+      "published": "2026-10-22T23:50:30+00:00",
+      "summary": "NYC’s subway in 3D, every tunnel and platform at its real depth",
+      "image_url": "https://external-preview.redd.it/Z3Boc2NvZDh3M3hoMZAuMT902R5emqJKVfRc3oIrdN28gAYuHlTC_lYj11nW.png?width=640&crop=smart&auto=webp&s=b8e3cafe4d7f48a2b2ab065a1b6ee3ee064a2740",
+      "credit_hint": "u/Honest_Musician_2329 via r/MapPorn",
+      "source_tag": "",
+      "page_text": "Title of the post: NYC’s subway in 3D, every tunnel and platform at its real depth\nPosted on Reddit by u/Honest_Musician_2329 via r/MapPorn. The post has no other text; the title is the only description of the map.",
+      "image_credit": "u/Honest_Musician_2329 via r/MapPorn",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://external-preview.redd.it/Z3Boc2NvZDh3M3hoMZAuMT902R5emqJKVfRc3oIrdN28gAYuHlTC_lYj11nW.png?width=640&crop=smart&auto=webp&s=b8e3cafe4d7f48a2b2ab065a1b6ee3ee064a2740",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": false,
+      "square_path": "",
+      "image_note": "image download failed: 403 Client Error: Blocked for url: https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2FZ3Boc2NvZDh3M3hoMZAuMT902R5emqJKVfRc3oIrdN28gAYuHlTC_lYj11nW.png%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3Db8e3cafe4d7f48a2b2ab065a1b6ee3ee064a2740"
+    },
+    "score": 7.0,
+    "why": "3D depth view of NYC subway; unusual, clever geo visualisation of a familiar place.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A 3D map of the New York City subway that, according to the post title, shows every tunnel and platform at its real depth. The Reddit post has no other text, so the data source, date, method and colour scheme are not stated.",
+      "uncertainties": [
+        "The image download failed (403 Blocked), so the editor must get the image manually before making the square. The alt text is based only on the title and must be checked against the actual image.",
+        "The source's reuse policy is link_only and no image licence is stated on the page. Confirm that reposting the image is allowed, or ask u/Honest_Musician_2329 for permission.",
+        "The map's data source is not stated, including where the depth values come from.",
+        "No date, method, software or depth figures are given. It is not known whether 'every tunnel and platform' is literally complete.",
+        "The meaning of any colours (line colours, depth shading) is not stated.",
+        "It is not known whether the map is a static render or an interactive model."
+      ],
+      "image_credit": "Map: u/Honest_Musician_2329 via r/MapPorn",
+      "facebook": "Subway maps flatten New York into one layer. This one puts every tunnel and platform back at its real depth.\n\nIn 3D, the network becomes a stack: crossings that look simple on a diagram turn into tunnels running over and under each other. The creator does not say which depth data it uses, so treat it as a visualisation, not a survey.\n\nRead more: https://www.reddit.com/r/MapPorn/comments/1xcynte/nycs_subway_in_3d_every_tunnel_and_platform_at/\n\nMap: u/Honest_Musician_2329 via r/MapPorn\n\n#Geoawesome #NYC #Subway #Cartography",
+      "instagram": "Every tunnel and platform of the NYC subway, drawn at its real depth.\n\nSeen in 3D, the network stops being a flat diagram and becomes layers of lines stacked beneath the city.\n\nFind out more: https://www.reddit.com/r/MapPorn/comments/1xcynte/nycs_subway_in_3d_every_tunnel_and_platform_at/\n\nMap: u/Honest_Musician_2329 via r/MapPorn\n\n#Geoawesome #Subway #3D #Maps",
+      "youtube": "How deep does the New York subway really go? This 3D map places every tunnel and platform at its real depth.\n\nFor anyone working with 3D city models or underground infrastructure, depth is the dimension that transit maps usually leave out. The post gives no data source, method or depth values, so check the thread before reusing anything from it.\n\nLearn more: https://www.reddit.com/r/MapPorn/comments/1xcynte/nycs_subway_in_3d_every_tunnel_and_platform_at/\n\nMap: u/Honest_Musician_2329 via r/MapPorn\n\n#Geoawesome #NYC #Underground #3D",
+      "x": "The NYC subway with the vertical axis put back: every tunnel and platform at its real depth, in 3D.\nhttps://www.reddit.com/r/MapPorn/comments/1xcynte/nycs_subway_in_3d_every_tunnel_and_platform_at/\nMap: u/Honest_Musician_2329 via r/MapPorn\n#Geoawesome #NYC #Transit",
+      "alt_text": "A three-dimensional map of the New York City subway showing its tunnels and platforms at different depths below the city."
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://storymaps.arcgis.com/stories/c36b2558dba64ca98c8095cf84178d6f",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Glenade / Glencar - ArcGIS StoryMaps",
+      "link": "https://storymaps.arcgis.com/stories/c36b2558dba64ca98c8095cf84178d6f",
+      "published": "2026-10-21T17:46:30+00:00",
+      "summary": "Glenade Valley is a wonderful example of a glacial valley. In Pol na mBear, a cave in the valley, the preserved remains of Ireland's last brown ...",
+      "image_url": "https://www.arcgis.com/sharing/rest/content/items/c36b2558dba64ca98c8095cf84178d6f/resources/505fcdfd-cd69-4df5-9a76-51dd5db6e102.jpeg?w=400",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.arcgis.com/sharing/rest/content/items/c36b2558dba64ca98c8095cf84178d6f/resources/505fcdfd-cd69-4df5-9a76-51dd5db6e102.jpeg?w=400",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 132px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6.0,
+    "why": "ArcGIS StoryMap of Glenade glacial valley; a map-built story, though the summary is thin.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "There is no usable visual or detail: the image is a 132px upscaled crop with unknown content and no credit, and the page text breaks off mid-sentence, so the post would rely on guessing.",
+      "what_it_shows": "An ArcGIS StoryMap titled 'Glenade / Glencar' that calls Glenade Valley 'a wonderful example of a glacial valley'. It mentions Pol na mBear, a cave in the valley, holding preserved remains of 'Ireland's last brown ...'. The text is cut off there. The source does not say what the image shows.",
+      "uncertainties": [
+        "The page text is truncated, so the cave remains claim cannot be completed or checked from the source.",
+        "The image content is unknown (photo, map, terrain model?), and the page gives no sensor, data or date.",
+        "The source image is only 132px wide and would look soft or pixelated when upscaled to 1080x1080.",
+        "The page gives no image credit, and neither the StoryMap author nor publisher is named.",
+        "The image licence is not stated, and the reuse policy is link_only.",
+        "It is unclear what readers can do in the StoryMap (whether it has interactive maps, swipes or timelines)."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "t3_1xcx440",
+      "source_id": "reddit_mapporn",
+      "source_name": "Reddit r/MapPorn",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "Japanese Historical Provinces, Literally Translated",
+      "link": "https://www.reddit.com/r/MapPorn/comments/1xcx440/japanese_historical_provinces_literally_translated/",
+      "published": "2026-10-22T22:41:30+00:00",
+      "summary": "Japanese Historical Provinces, Literally Translated",
+      "image_url": "https://i.redd.it/i939oe55j3xh1.png",
+      "credit_hint": "u/Realistic-Row4599 via r/MapPorn",
+      "source_tag": "",
+      "page_text": "Title of the post: Japanese Historical Provinces, Literally Translated\nPosted on Reddit by u/Realistic-Row4599 via r/MapPorn. The post has no other text; the title is the only description of the map.",
+      "image_credit": "u/Realistic-Row4599 via r/MapPorn",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://i.redd.it/i939oe55j3xh1.png",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": false,
+      "square_path": "",
+      "image_note": "image download failed: 403 Client Error: Blocked for url: https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fi939oe55j3xh1.png"
+    },
+    "score": 6.0,
+    "why": "Japanese historical provinces translated; intriguing cartography, though less visually striking.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The image download failed (403 blocked) and the reuse policy is link_only, so there is no image to make a square from and nothing to describe beyond the post title.",
+      "what_it_shows": "A Reddit r/MapPorn post titled 'Japanese Historical Provinces, Literally Translated' by u/Realistic-Row4599. Judging only by the title, it is a map of Japan's historical provinces with each name given as a literal English translation. The post has no other text and the image could not be retrieved.",
+      "uncertainties": [
+        "Image download failed with a 403 error, so the map itself was not seen.",
+        "Reuse policy is link_only and no image licence is stated, so the image may not be cleared for reposting.",
+        "The map's data source and translation method are not stated.",
+        "Which period's provinces are shown, and how many, is not given.",
+        "To reconsider: retrieve the image manually, confirm reuse permission with u/Realistic-Row4599 and check the translations."
+      ],
+      "image_credit": "Map: u/Realistic-Row4599 via r/MapPorn",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "t3_1xcxrtj",
+      "source_id": "reddit_mapporn",
+      "source_name": "Reddit r/MapPorn",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "Embassies in Tehran before Islamic Revolution",
+      "link": "https://www.reddit.com/r/MapPorn/comments/1xcxrtj/embassies_in_tehran_before_islamic_revolution/",
+      "published": "2026-10-22T23:10:54+00:00",
+      "summary": "Embassies in Tehran before Islamic Revolution",
+      "image_url": "https://i.redd.it/hr8s5tf1p3xh1.jpeg",
+      "credit_hint": "u/ZaBlancJake via r/MapPorn",
+      "source_tag": "",
+      "page_text": "Title of the post: Embassies in Tehran before Islamic Revolution\nPosted on Reddit by u/ZaBlancJake via r/MapPorn. The post has no other text; the title is the only description of the map.",
+      "image_credit": "u/ZaBlancJake via r/MapPorn",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://i.redd.it/hr8s5tf1p3xh1.jpeg",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": false,
+      "square_path": "",
+      "image_note": "image download failed: 403 Client Error: Blocked for url: https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fhr8s5tf1p3xh1.jpeg"
+    },
+    "score": 6.0,
+    "why": "Historical map of embassies in pre-revolution Tehran; interesting historical geo hook.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No usable visual: the image download failed (403) and the source's reuse policy is link_only, so we cannot post the map as a square repost.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "Image download failed (403 Client Error), so the map's content could not be checked.",
+        "Reuse policy is link_only and no image licence is stated, so reposting the image is not permitted.",
+        "The data source, the date range covered and the mapping method are not stated. The post title is the only description.",
+        "The map's accuracy could not be checked. Embassy locations before 1979 would need a historical source.",
+        "If reconsidered, get the image directly and permission from u/ZaBlancJake. The credit would be 'Map: u/ZaBlancJake via r/MapPorn'."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://observablehq.com/@ebelluti/cosme-velho-rio-de-janeiro",
+      "source_id": "google_alerts_6",
+      "source_name": "Google Alerts #6",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Cosme Velho, Rio de Janeiro | Eduardo Belluti - Observable",
+      "link": "https://observablehq.com/@ebelluti/cosme-velho-rio-de-janeiro",
+      "published": "2026-10-21T21:37:42+00:00",
+      "summary": "\"https://cdn.jsdelivr.net/npm/ maplibre -gl/dist/ maplibre -gl.css\";. document.head.appendChild(link);. } // Create map container.",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "\"https://cdn.jsdelivr.net/npm/ maplibre -gl/dist/ maplibre -gl.css\";. document.head.appendChild(link);. } // Create map container.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Observable notebook of Rio neighbourhood map; interactive, but summary is only code snippets.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, and the only page text is a code fragment (a MapLibre stylesheet), so what the notebook shows cannot be described without guessing.",
+      "what_it_shows": "An Observable notebook by Eduardo Belluti titled 'Cosme Velho, Rio de Janeiro'. The captured text is only a code fragment showing it loads MapLibre GL to build a web map. The source gives no visual, data source, date or description of what the map displays.",
+      "uncertainties": [
+        "No image was found on the page, so there is nothing to crop into a square.",
+        "What the map shows is not stated (basemap, terrain, buildings, or another dataset).",
+        "No data source, date or licence is given.",
+        "The reuse policy is link_only and no image credit was found.",
+        "The editor could open the notebook to see whether it is worth revisiting with a proper screenshot and the author's permission."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "t3_1xcx2ly",
+      "source_id": "reddit_mapporn",
+      "source_name": "Reddit r/MapPorn",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "Current map of the Ukrainian War-22 October 2026 (credits to Balkan Mapper on youtube)",
+      "link": "https://www.reddit.com/r/MapPorn/comments/1xcx2ly/current_map_of_the_ukrainian_war22_october_2026/",
+      "published": "2026-10-22T22:39:40+00:00",
+      "summary": "Current map of the Ukrainian War-22 October 2026 (credits to Balkan Mapper on youtube)",
+      "image_url": "https://i.redd.it/qmovehqgj3xh1.png",
+      "credit_hint": "u/MWD1903 via r/MapPorn",
+      "source_tag": "",
+      "page_text": "Title of the post: Current map of the Ukrainian War-22 October 2026 (credits to Balkan Mapper on youtube)\nPosted on Reddit by u/MWD1903 via r/MapPorn. The post has no other text; the title is the only description of the map.",
+      "image_credit": "u/MWD1903 via r/MapPorn",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://i.redd.it/qmovehqgj3xh1.png",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": false,
+      "square_path": "",
+      "image_note": "image download failed: 403 Client Error: Blocked for url: https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fqmovehqgj3xh1.png"
+    },
+    "score": 5.0,
+    "why": "Current war front map; geo subject but a conflict-map style with moderate visual pull.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The image could not be downloaded (403), the map is a repost of a YouTube channel's unverified front-line map rather than the Redditor's own work, and with only a title we cannot describe it without guessing.",
+      "what_it_shows": "According to the post title, a map of the war in Ukraine as of 22 October 2026, credited to the YouTube channel Balkan Mapper and posted to r/MapPorn by u/MWD1903. The post has no other text, so the data source, method and colour legend are unknown.",
+      "uncertainties": [
+        "Image download failed (403 Blocked), so there is no visual to crop or describe.",
+        "The map's maker appears to be Balkan Mapper on YouTube, not u/MWD1903, so the given credit 'u/MWD1903 via r/MapPorn' may not credit the actual creator.",
+        "The data source for the front lines or territorial control is not stated, and conflict front-line maps are often contested and quickly out of date.",
+        "Reuse policy is link_only and the image licence is not stated.",
+        "What the colours or shading represent is unknown."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  }
+]
