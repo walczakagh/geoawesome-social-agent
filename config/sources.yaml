@@ -195,6 +195,35 @@ sources:
     tag: "@bellingcat"
     enabled: true
 
+  # ---- Reddit (added 23 Oct 2026) -------------------------------------------
+  # Each day's top posts. Every image is someone else's work: link_only, the
+  # credit names the Reddit user and subreddit. Reddit blocks normal bots, so
+  # the feed is read with a feed-reader User-Agent and the post page is not
+  # fetched (the title is the only description). Probe 15 Oct: 25 items/day each.
+  - id: reddit_mapporn
+    name: Reddit r/MapPorn
+    url: https://www.reddit.com/r/MapPorn/top/.rss?t=day
+    format: reddit
+    subreddit: MapPorn
+    user_agent: feedreader
+    type: maps
+    licence: link_only
+    tag: ""
+    max_new: 6
+    enabled: true
+
+  - id: reddit_dataisbeautiful
+    name: Reddit r/dataisbeautiful
+    url: https://www.reddit.com/r/dataisbeautiful/top/.rss?t=day
+    format: reddit
+    subreddit: dataisbeautiful
+    user_agent: feedreader
+    type: maps
+    licence: link_only
+    tag: ""
+    max_new: 6
+    enabled: true
+
 # Checked 15 Oct 2026 and not enabled:
 #  - Esri ArcGIS Blog and Esri Newsroom feeds: answer with an empty channel to
 #    every client tried. Esri was your most-picked site (78 of 219 alerts), so
@@ -204,8 +233,6 @@ sources:
 #  - Copernicus (copernicus.eu, newest May 2026) and Copernicus Climate
 #    (newest Aug 2026): too quiet to be worth polling.
 #  - Google Earth blog: newest July 2026.
-#  - Reddit r/MapPorn, r/dataisbeautiful: work with a feed-reader User-Agent
-#    (25 items/day) but every image is someone else's and quality varies.
 #  - Bing News keyword RSS ("satellite images show", "interactive map"): works
 #    and returns direct links, but Bing's terms limit it to personal,
 #    non-commercial use in a feed reader. Google Alerts covers the same need.

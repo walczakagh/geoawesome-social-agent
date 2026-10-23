@@ -165,6 +165,14 @@ def extract(item: Item, page_html: str) -> Item:
 
 
 def enrich(item: Item, timeout: int = 20) -> Item:
+    if not item.fetch_page:  # Reddit: the post page blocks bots; the feed has title, author, image
+        item.page_text = (f"Title of the post: {item.title}\n"
+                          f"Posted on Reddit by {item.credit_hint}. The post has no other text; "
+                          "the title is the only description of the map.")
+        item.image_credit = item.credit_hint
+        if usable(item.image_url):
+            item.images = [{"url": item.image_url, "label": ""}]
+        return item
     try:
         r = requests.get(item.link, headers=HEADERS, timeout=timeout)
         r.raise_for_status()

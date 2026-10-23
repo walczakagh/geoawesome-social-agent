@@ -44,6 +44,7 @@ class Item:
     # more single-image candidates, best first; used when images[0] is too small
     alt_images: list = field(default_factory=list)
     origin_url: str = ""  # where a featured map itself lives (Maps Mania posts)
+    fetch_page: bool = True  # False: the page blocks bots (Reddit); use feed data only
     # filled in by images.py
     square_path: str = ""
     image_note: str = ""
@@ -130,6 +131,26 @@ def _first_image(entry) -> str:
     return html.unescape(m.group(1)) if m else ""
 
 
+def _reddit_image(entry) -> str:
+    """Full-size image of a Reddit image post: the i.redd.it link, else the
+    largest preview. Gallery, video and link posts return ''."""
+    blob = entry.get("summary", "") or ""
+    for c in entry.get("content", []) or []:
+        blob += c.get("value", "")
+    blob = html.unescape(blob)
+    m = re.search(r'href="(https://i\.redd\.it/[^"]+\.(?:jpe?g|png|webp))"', blob)
+    if m:
+        return m.group(1)
+    m = re.search(r'(https://(?:preview|external-preview)\.redd\.it/[^"\s]+)', blob)
+    return m.group(1) if m else ""
+
+
+def _reddit_credit(entry, source: dict) -> str:
+    author = (entry.get("author") or "").strip().removeprefix("/")
+    sub = source.get("subreddit", "")
+    return f"{author} via r/{sub}" if author else f"r/{sub}"
+
+
 def _full_size(url: str) -> str:
     return re.sub(r"/s72-c/", "/s1600/", url)
 
@@ -154,8 +175,12 @@ def sanitise(raw: bytes) -> bytes:
     return re.sub(rb"[\x00-\x08\x0b\x0c\x0e-\x1f]", b"", raw)
 
 
-def _fetch(url: str) -> bytes:
-    r = requests.get(url, headers=HEADERS, timeout=30)
+FEED_READER_UA = "Feedly/1.0 (+http://www.feedly.com/fetcher.html; like FeedFetcher-Google)"
+
+
+def _fetch(url: str, user_agent: str = "") -> bytes:
+    headers = {**HEADERS, "User-Agent": user_agent} if user_agent else HEADERS
+    r = requests.get(url, headers=headers, timeout=30)
     if r.status_code != 200:
         raise RuntimeError(f"HTTP {r.status_code}")
     feed = feedparser.parse(sanitise(r.content))
@@ -173,7 +198,8 @@ def parse_feed(source: dict, raw: bytes | str | None = None) -> list[Item]:
         errors = []
         for url in [source["url"], *source.get("fallback_urls", [])]:
             try:
-                raw = _fetch(url)
+                ua = FEED_READER_UA if source.get("user_agent") == "feedreader" else ""
+                raw = _fetch(url, ua) if ua else _fetch(url)
                 break
             except FeedEmpty:
                 if source.get("type") == "alerts":  # a quiet alert is normal, not a failure
@@ -193,6 +219,7 @@ def parse_feed(source: dict, raw: bytes | str | None = None) -> list[Item]:
         if not link:
             continue
         pub = _published(e)
+        reddit = source.get("format") == "reddit"
         items.append(Item(
             id=link if source.get("type") == "alerts" else (e.get("id") or link),
             source_id=source["id"],
@@ -202,10 +229,12 @@ def parse_feed(source: dict, raw: bytes | str | None = None) -> list[Item]:
             title=strip_html(e.get("title", "")),
             link=link,
             published=pub.isoformat() if pub else "",
-            summary=strip_html(e.get("summary", ""))[:1200],
-            image_url=_full_size(_first_image(e)),
-            credit_hint=source.get("credit_hint", ""),
+            summary=(strip_html(e.get("title", "")) if reddit
+                     else strip_html(e.get("summary", ""))[:1200]),
+            image_url=_reddit_image(e) if reddit else _full_size(_first_image(e)),
+            credit_hint=(_reddit_credit(e, source) if reddit else source.get("credit_hint", "")),
             source_tag=source.get("tag", ""),
+            fetch_page=not reddit,
         ))
     return items
 
