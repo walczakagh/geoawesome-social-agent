@@ -141,8 +141,13 @@ def _reddit_image(entry) -> str:
     m = re.search(r'href="(https://i\.redd\.it/[^"]+\.(?:jpe?g|png|webp))"', blob)
     if m:
         return m.group(1)
-    m = re.search(r'(https://(?:preview|external-preview)\.redd\.it/[^"\s]+)', blob)
-    return m.group(1) if m else ""
+    # a preview only when it is big enough for a square post: gallery posts carry
+    # just a 140 px thumbnail, which would be upscaled into a blur
+    for m in re.finditer(r'(https://(?:preview|external-preview)\.redd\.it/[^"\s]+)', blob):
+        w = re.search(r"[?&]width=(\d+)", m.group(1))
+        if not w or int(w.group(1)) >= 600:
+            return m.group(1)
+    return ""
 
 
 def _reddit_credit(entry, source: dict) -> str:

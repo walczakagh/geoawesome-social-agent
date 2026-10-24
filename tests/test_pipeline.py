@@ -433,3 +433,29 @@ def test_reddit_feed_gives_full_image_credit_and_no_page_fetch(monkeypatch):
     it = enrich.enrich(it)
     assert it.images == [{"url": "https://i.redd.it/abc123.png", "label": ""}]
     assert it.image_credit == "u/mapmaker via r/MapPorn" and "only description" in it.page_text
+
+
+def test_reddit_viewer_url_is_unwrapped_and_image_requested(monkeypatch):
+    seen = {}
+
+    class R:
+        url = "https://i.redd.it/c57pc8avl9xh1.png"
+        def __enter__(self): return self
+        def __exit__(self, *a): return False
+        def raise_for_status(self): pass
+        def iter_content(self, n):
+            import io
+            b = io.BytesIO(); _noise(20, 20).save(b, "PNG"); yield b.getvalue()
+
+    def fake_get(url, headers=None, **k):
+        seen.update(url=url, headers=headers); return R()
+    monkeypatch.setattr(images.requests, "get", fake_get)
+    images.download("https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fc57pc8avl9xh1.png")
+    assert seen["url"] == "https://i.redd.it/c57pc8avl9xh1.png"
+    assert seen["headers"]["Accept"].startswith("image/") and "text/html" not in seen["headers"]["Accept"]
+
+
+def test_reddit_tiny_gallery_thumbnail_is_ignored():
+    feed = REDDIT.replace(b"i.redd.it/abc123.png", b"www.reddit.com/gallery/abc")
+    it = scout.parse_feed({"id": "r", "name": "R", "format": "reddit", "subreddit": "MapPorn"}, feed)[0]
+    assert it.image_url == ""
