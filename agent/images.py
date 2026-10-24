@@ -16,15 +16,40 @@ import numpy as np
 import requests
 from PIL import Image, ImageDraw, ImageFont, ImageOps
 
-from .scout import HEADERS, Item
+from urllib.parse import parse_qs, urlparse
+
+from .scout import FEED_READER_UA, HEADERS, Item
 
 SIZE = 1080
 MAX_BYTES = 40 * 1024 * 1024
 LOW_RES = 700  # source square smaller than this gets upscaled noticeably
 
 
+IMAGE_ACCEPT = "image/avif,image/webp,image/png,image/jpeg,image/*;q=0.9,*/*;q=0.5"
+
+
+def _direct(url: str) -> str:
+    """reddit.com/media?url=<image> is Reddit's viewer page (blocked for bots):
+    use the image it wraps."""
+    p = urlparse(url)
+    if p.netloc.endswith("reddit.com") and p.path.startswith("/media"):
+        inner = parse_qs(p.query).get("url", [""])[0]
+        if inner:
+            return inner
+    return url
+
+
 def download(url: str, timeout: int = 60) -> Image.Image:
-    with requests.get(url, headers=HEADERS, timeout=timeout, stream=True) as r:
+    """Fetch an image. Asks for an image, not a web page: Reddit's image host
+    answers a browser-style request with a redirect to its viewer page, which
+    blocks bots (403 'Blocked' on reddit.com/media?url=...)."""
+    url = _direct(url)
+    headers = {**HEADERS, "Accept": IMAGE_ACCEPT}
+    if urlparse(url).netloc.endswith("redd.it"):
+        headers["User-Agent"] = FEED_READER_UA
+    with requests.get(url, headers=headers, timeout=timeout, stream=True) as r:
+        if r.url != url and "reddit.com/media" in r.url:  # redirected to the viewer anyway
+            raise ValueError("Reddit served its viewer page instead of the image")
         r.raise_for_status()
         buf = io.BytesIO()
         for chunk in r.iter_content(1 << 16):
