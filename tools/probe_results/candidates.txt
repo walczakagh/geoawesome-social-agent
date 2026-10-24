@@ -1,0 +1,176 @@
+[scout] google_alerts_1: 6 in feed, 0 new
+[scout] google_alerts_2: 2 in feed, 2 new
+[scout] google_alerts_3: 20 in feed, 20 new
+[scout] google_alerts_4: 5 in feed, 0 new
+[scout] google_alerts_5: 9 in feed, 9 new
+[scout] google_alerts_6: 0 in feed, 0 new
+[scout] google_alerts_7: 13 in feed, 13 new
+[scout] google_alerts_8: 13 in feed, 0 new
+[scout] nasa_eo: 10 in feed, 0 new
+[scout] esa_eo: 15 in feed, 0 new
+[scout] eumetsat: 10 in feed, 0 new
+[scout] cams: 10 in feed, 0 new
+[scout] nasa_jpl: 100 in feed, 0 new
+[scout] planet: 50 in feed, 0 new
+[scout] maps_mania: 25 in feed, 1 new
+[scout] visual_capitalist_maps: 10 in feed, 0 new
+[scout] flowingdata: 10 in feed, 0 new
+[scout] google_maps_blog: 20 in feed, 0 new
+[scout] google_research: 100 in feed, 0 new
+[scout] overture: 20 in feed, 0 new
+[scout] bellingcat: 10 in feed, 0 new
+[scout] reddit_mapporn: 25 in feed, 6 new
+[scout] reddit_dataisbeautiful: 20 in feed, 6 new
+
+## Sources
+- Google Alerts #1: 6 in feed, 0 new
+- Google Alerts #2: 2 in feed, 2 new
+- Google Alerts #3: 20 in feed, 20 new
+- Google Alerts #4: 5 in feed, 0 new
+- Google Alerts #5: 9 in feed, 9 new
+- Google Alerts #6: 0 in feed, 0 new
+- Google Alerts #7: 13 in feed, 13 new
+- Google Alerts #8: 13 in feed, 0 new
+- NASA Earth Observatory: 10 in feed, 0 new
+- ESA Observing the Earth: 15 in feed, 0 new
+- EUMETSAT: 10 in feed, 0 new
+- Copernicus Atmosphere Monitoring Service: 10 in feed, 0 new
+- NASA JPL: 100 in feed, 0 new
+- Planet Pulse: 50 in feed, 0 new
+- Maps Mania: 25 in feed, 1 new
+- Visual Capitalist (maps): 10 in feed, 0 new
+- FlowingData: 10 in feed, 0 new
+- Google Maps blog: 20 in feed, 0 new
+- Google Research blog: 100 in feed, 0 new
+- Overture Maps blog: 20 in feed, 0 new
+- Bellingcat: 10 in feed, 0 new
+- Reddit r/MapPorn: 25 in feed, 6 new
+- Reddit r/dataisbeautiful: 20 in feed, 6 new
+
+## 57 candidate items
+- [Google Alerts #2] gis #opensource #duckdb # maplibre #geoparquet #qgis #datavisualization | Pukar B.  (2026-10-24)
+  https://www.linkedin.com/posts/arpuuk_gis-opensource-duckdb-activity-7519423175504330752--LkJ
+- [Google Alerts #2] Map Component for React: MapLibre Markers and Routes - shadcn.io  (2026-10-23)
+  https://www.shadcn.io/ui/map
+- [Google Alerts #3] Roter Kamm: an ancient impact crater among the sand dunes of southern Namibia  (2026-10-24)
+  https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-the-day/roter-kamm-ancient-impact-crater-among-sand-dunes-southern-namibia
+- [Google Alerts #3] Dinner for three, a blesser and his beauties, and a waiter holding it all together | News24  (2026-10-24)
+  https://www.news24.com/life/food/restaurants/reviews/dinner-for-three-a-blesser-and-his-beauties-and-a-waiter-holding-it-all-together-20261023-0573
+- [Google Alerts #3] Saudi Arabia intercepts ballistic missile headed for Riyadh; alerts issued in Mecca, Jeddah  (2026-10-24)
+  https://today.lorientlejour.com/article/1551932/saudi-arabia-intercepts-ballistic-missile-headed-for-riyadh-alerts-issued-in-mecca-jeddah.html
+- [Google Alerts #3] A cyclone may be arriving in these two states on October 28. What's happening?  (2026-10-24)  · picked 1 of 5 alerts from indiatoday.in
+  https://www.indiatoday.in/science/story/bay-of-bengal-cyclone-landfall-october-imd-rain-andhra-odisha-3024145-2026-10-24
+- [Google Alerts #3] Houthis' New Nightmare For MBS: Deadly Self-Made Drones 'DESTROY' Convoys Within Seconds  (2026-10-24)  · picked 1 of 9 alerts from timesofindia.indiatimes.com
+  https://timesofindia.indiatimes.com/defence/international/houthis-new-nightmare-for-mbs-deadly-self-made-drones-destroy-convoys-within-seconds/videoshow/135152979.cms
+- [Google Alerts #3] Tracking the Bucket Truck Fire in Montana | WFCA Fire Map  (2026-10-24)
+  https://wfca.com/fire-map/montana/bucket_truck?name=Bucket+Truck
+- [Google Alerts #3] Exclusive-Saudi missile plant expansion may produce more powerful missiles, study says  (2026-10-24)  · picked 1 of 13 alerts from yahoo.com
+  https://www.yahoo.com/news/world/articles/exclusive-saudi-missile-plant-expansion-101033534.html
+- [Google Alerts #3] Wild week of storms, as seen from space - Modern Ghana  (2026-10-24)
+  https://www.modernghana.com/videonews/cnn/1/740286
+- [Google Alerts #3] Fall color just isn't quitting in Michigan, here's a fresh update - mlive.com  (2026-10-24)
+  https://www.mlive.com/weather/2026/10/fall-color-just-isnt-quitting-in-michigan-heres-a-fresh-update.html
+- [Google Alerts #3] China Now Has Not Only KJ-2000s, Resembling russia's A-50s, but Also the Latest KJ-3000s  (2026-10-24)
+  https://en.defence-ua.com/news/china_now_has_not_only_kj_2000s_resembling_russias_a_50s_but_also_the_latest_kj_3000s_what_is_known_about_these_aircraft-20189.html
+- [Google Alerts #3] A satellite image shows an oil spill off the coast of Umm Al Quwain | Reuters Connect  (2026-10-24)  · picked 0 of 4 alerts from reutersconnect.com
+  https://www.reutersconnect.com/item/a-satellite-image-shows-an-oil-spill-off-the-coast-of-umm-al-quwain/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjY5T0FJVlY0SQ?lastViewed=dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjY5T0ExTFVEWg&position=2
+- [Google Alerts #3] Why we shame each other - Modern Ghana  (2026-10-23)
+  https://www.modernghana.com/videonews/cnn/2/740636
+- [Google Alerts #3] Saudi missile plant expansion may produce more powerful missiles, study says  (2026-10-23)
+  https://bdnews24.com/world/middle-east/tqrbo1v3p9
+- [Google Alerts #3] 42 satellite surveys show 11.3 trillion metric tons of polar ice loss across Greenland and ...  (2026-10-23)
+  https://www.ecoticias.com/en/42-satellite-surveys-show-11-3-trillion-metric-tons-of-polar-ice-loss-across-greenland-and-antarctica-since-1979-and-84-percent-of-it-came-from-glaciers-flowing-faster-into-the-ocean-rather-than-surfa/52458/
+- [Google Alerts #3] A satellite image shows the solid propellant motor plant in Al Duwadimi - The Lufkin Daily News  (2026-10-23)
+  https://lufkindailynews.com/news_reuters/top_news/a-satellite-image-shows-the-solid-propellant-motor-plant-in-al-duwadimi/image_b58811c9-2c61-568d-8e08-92262327fc29.html
+- [Google Alerts #3] Exclusive-Saudi missile plant expansion may produce more powerful missiles, study says  (2026-10-23)
+  https://www.internazionale.it/ultime-notizie-reuters/2026/10/23/exclusive-saudi-missile-plant-expansion-may-produce-more-powerful-missiles-study-says
+- [Google Alerts #3] Hurricane Vance intensifies rapidly as it approaches Mexico - CP24  (2026-10-23)
+  https://www.cp24.com/news/world/2026/10/23/vance-becomes-a-hurricane-as-it-churns-off-the-coast-of-mexico/
+- [Google Alerts #3] Tracking the 2026 El Niño from the Open Ocean to the Coast | NASA Earthdata  (2026-10-23)  · picked 18 of 45 alerts from earthdata.nasa.gov
+  https://www.earthdata.nasa.gov/learn/data-in-action/tracking-2026-el-nino-from-open-ocean-coast
+- [Google Alerts #3] Saudi missile plant expansion may produce more powerful missiles, study says - Dawn  (2026-10-23)
+  https://www.dawn.com/news/2039291/saudi-missile-plant-expansion-may-produce-more-powerful-missiles-study-says
+- [Google Alerts #3] Australian Lightning Mapping Array (AUSLMA) and AUSLMARAW Version 1 Datasets Released  (2026-10-23)  · picked 18 of 45 alerts from earthdata.nasa.gov
+  https://www.earthdata.nasa.gov/data/alerts-outages/australian-lightning-mapping-array-auslma-auslmaraw-version-1-datasets-released
+- [Google Alerts #5] This map shows the share of the population that drinks alcohol at least once per week ... - Threads  (2026-10-24)
+  https://www.threads.com/@simongerman600/post/De2J-N9lN9s/this-map-shows-the-share-of-the-population-that-drinks-alcohol-at-least-once/
+- [Google Alerts #5] This map shows the birthplace of 25 of the 26 people to hold a job created in 1954. What is the job?  (2026-10-24)
+  https://www.reddit.com/r/RedactedCharts/comments/1xdd0zv/this_map_shows_the_birthplace_of_25_of_the_26/
+- [Google Alerts #5] 30DayMapChallenge 2026 - Rbanism  (2026-10-23)
+  https://rbanism.org/listings/events/posts/261001_30DMC-2026/
+- [Google Alerts #5] # 30daymapchallenge | Mapbox - LinkedIn  (2026-10-23)
+  https://www.linkedin.com/posts/mapbox_30daymapchallenge-activity-7519405429739859968-FWBk
+- [Google Alerts #5] Asjad Naqvi, PhD - 30daymapchallenge - LinkedIn  (2026-10-23)
+  https://www.linkedin.com/posts/asjadnaqvi_30daymapchallenge-activity-7519316350763241472-XnI2
+- [Google Alerts #5] Birth Gauge on X: "In 2025, the TFR of Italy reached a new all-time low of 1.14 children per ...  (2026-10-23)  · picked 3 of 7 alerts from x.com
+  https://x.com/BirthGauge/status/2113713193277092312
+- [Google Alerts #5] New Map Reveals the Best Time to See Beautiful Fall Foliage Across America - Facebook  (2026-10-23)  · picked 1 of 6 alerts from facebook.com
+  https://www.facebook.com/GOODHOUSEKEEPING/photos/new-map-reveals-the-best-time-to-see-beautiful-fall-foliage-across-america-find-/1502890155042166/
+- [Google Alerts #5] How I Make VIRAL Map Animation Videos With FREE AI TOOLS - YouTube  (2026-10-23)  · picked 14 of 39 alerts from youtube.com
+  https://www.youtube.com/watch?v=f3hsaq-Cf4w&vl=hi
+- [Google Alerts #5] Simon Kuestenmacher - X  (2026-10-23)  · picked 3 of 7 alerts from x.com
+  https://x.com/simongerman600/status/2113601820832522344/photo/1
+- [Google Alerts #7] Gaussian Splatting Based 3D Tomato Fruit Counting and Multi-Stage Classification from ...  (2026-10-24)
+  https://www.pidantuan.com/scholar/2667653xs.html
+- [Google Alerts #7] Robotics Papers on X: "RoMo-GS: Efficient Online 3D Gaussian Splatting for Robot Mapping ...  (2026-10-24)  · picked 3 of 7 alerts from x.com
+  https://x.com/OWW/status/2113730725346197864
+- [Google Alerts #7] For scenes such as substations that contain abundant fine structures, 3D Gaussian Splatting ...  (2026-10-24)  · picked 1 of 6 alerts from facebook.com
+  https://www.facebook.com/GreenValleyINTL/posts/for-scenes-such-as-substations-that-contain-abundant-fine-structures-3d-gaussian/1958990482012036/
+- [Google Alerts #7] Auki on X: "Scaling up our gaussian splatting experiments with a 100-meter domain. Data ...  (2026-10-23)  · picked 3 of 7 alerts from x.com
+  https://x.com/Auki/status/2113660818747171312
+- [Google Alerts #7] I am First time Trying 3D Gaussian Splatting (3DGS) in 360 Customized Virtual Tour - Reddit  (2026-10-23)
+  https://www.reddit.com/r/GaussianSplatting/comments/1xdiv0k/i_am_first_time_trying_3d_gaussian_splatting_3dgs/
+- [Google Alerts #7] UAV-based Orthomosaics and 3D Gaussian Splatting Reconstructions of the 2026 Los ...  (2026-10-23)
+  https://www.researchgate.net/publication/416575492_UAV-based_Orthomosaics_and_3D_Gaussian_Splatting_Reconstructions_of_the_2026_Los_Gallardos_Wildfire_Area_Spain
+- [Google Alerts #7] MixRT: Mixed Neural Representations For Real-Time NeRF Rendering | alphaXiv  (2026-10-23)
+  https://alphaxiv.org/audio/2312.11841
+- [Google Alerts #7] GaussMark: A key-projected QIM native watermarking method for 3D Gaussian splatting  (2026-10-23)
+  https://www.sciencedirect.com/science/article/pii/S2214212626002851
+- [Google Alerts #7] Gaussian Splatting : 100 m2 in 10 Minutes, Per XGRIDS - YouTube  (2026-10-23)  · picked 14 of 39 alerts from youtube.com
+  https://www.youtube.com/shorts/NlUZ_t9vc8k
+- [Google Alerts #7] 3D Gaussian Splatting Tutorial | Capture to Reconstruction with SHARE3DCAM - YouTube  (2026-10-23)  · picked 14 of 39 alerts from youtube.com
+  https://www.youtube.com/watch?v=HMaWAvPpqws
+- [Google Alerts #7] UE5 Gaussian Splatting Render Plugin: Pro_V2.1.0.0 Officially Released : r/UnrealEngine5  (2026-10-23)
+  https://www.reddit.com/r/UnrealEngine5/comments/1xd980f/ue5_gaussian_splatting_render_plugin_pro_v2100/
+- [Google Alerts #7] Gaussian Splatting - Aasman Bashyal OS  (2026-10-23)
+  https://aasmanbashyal.com.np/projects/gaussian
+- [Google Alerts #7] Bringing Photorealistic Anatomy Beyond the Workstation with Gaussian Splatting - Preprints.org  (2026-10-23)
+  https://www.preprints.org/manuscript/202610.2377
+- [Maps Mania] A Fair Election Map for the Midterms  (2026-10-24)
+  http://googlemapsmania.blogspot.com/2026/10/a-fair-election-map-for-midterms.html
+- [Reddit r/MapPorn] Time zones used in Europe in the winter of 1938  (2026-10-24)
+  https://www.reddit.com/r/MapPorn/comments/1xe52ty/time_zones_used_in_europe_in_the_winter_of_1938/
+  image: https://i.redd.it/9ggbg0rj5exh1.png
+- [Reddit r/MapPorn] Map used at the Congress of Berlin (1878)  (2026-10-24)
+  https://www.reddit.com/r/MapPorn/comments/1xe24ci/map_used_at_the_congress_of_berlin_1878/
+  image: 
+- [Reddit r/MapPorn] Countries with higher or lower life expectancy compared to Bangladesh  (2026-10-24)
+  https://www.reddit.com/r/MapPorn/comments/1xdzlyk/countries_with_higher_or_lower_life_expectancy/
+  image: https://i.redd.it/nbtjbfvmicxh1.jpeg
+- [Reddit r/MapPorn] Countries with 50M Popluation and GDP Per Capita 40,000+  (2026-10-23)
+  https://www.reddit.com/r/MapPorn/comments/1xdsedp/countries_with_50m_popluation_and_gdp_per_capita/
+  image: https://i.redd.it/yi9cc8e6paxh1.png
+- [Reddit r/MapPorn] All the race tracks in Brazil  (2026-10-23)
+  https://www.reddit.com/r/MapPorn/comments/1xdp0e7/all_the_race_tracks_in_brazil/
+  image: 
+- [Reddit r/MapPorn] People born in Warsaw are 2.5x more likely to be in the Polish government than an average Pole; generally easterners are more likely to be in government than westerners [OC]  (2026-10-23)
+  https://www.reddit.com/r/MapPorn/comments/1xdkot8/people_born_in_warsaw_are_25x_more_likely_to_be/
+  image: https://i.redd.it/bil1ylao69xh1.png
+- [Reddit r/dataisbeautiful] [OC] 3D View - 7.35M Hong Kong residents placed on the floor they live at, across 165k buildings  (2026-10-24)
+  https://www.reddit.com/r/dataisbeautiful/comments/1xe4ps6/oc_3d_view_735m_hong_kong_residents_placed_on_the/
+  image: https://external-preview.redd.it/kEl-Pd1XlB7FarFYnB-zFtJA-NfixiC1X0T4UOsy6mk.jpeg?width=640&crop=smart&auto=webp&s=7e66158c8b75109e579e480658fd5a6e4a47aba3
+- [Reddit r/dataisbeautiful] Comparing Domino’s locations relative to population across Europe [OC]  (2026-10-24)
+  https://www.reddit.com/r/dataisbeautiful/comments/1xe4msk/comparing_dominos_locations_relative_to/
+  image: https://i.redd.it/f2donoq60exh1.png
+- [Reddit r/dataisbeautiful] “I analyzed the usage of Artificial Intelligence among 40 college students from different branches and here’s what I found.”  (2026-10-24)
+  https://www.reddit.com/r/dataisbeautiful/comments/1xe4fn3/i_analyzed_the_usage_of_artificial_intelligence/
+  image: 
+- [Reddit r/dataisbeautiful] [OC] 8.4 million researchers, placed on a map by who they write papers with  (2026-10-24)
+  https://www.reddit.com/r/dataisbeautiful/comments/1xe2stl/oc_84_million_researchers_placed_on_a_map_by_who/
+  image: https://preview.redd.it/hegtal2wfdxh1.gif?width=640&crop=smart&s=e7dadad86249bf4f85f7ba4b84514609f02fa578
+- [Reddit r/dataisbeautiful] [OC] Powerbill journey on Guam.  (2026-10-24)
+  https://www.reddit.com/r/dataisbeautiful/comments/1xdz8d5/oc_powerbill_journey_on_guam/
+  image: https://i.redd.it/dyvh421jecxh1.png
+- [Reddit r/dataisbeautiful] American Self-Rated Health by Age Group and Decade  (2026-10-23)
+  https://www.reddit.com/r/dataisbeautiful/comments/1xdj6jg/american_selfrated_health_by_age_group_and_decade/
+  image: https://external-preview.redd.it/fY07D4QK27zhz6M41kL4QuVey_xtYoTXMmwOGinfd4k.jpeg?width=640&crop=smart&auto=webp&s=89e9a47a9489eb788578f8cda05b2ab2f2b348bb
