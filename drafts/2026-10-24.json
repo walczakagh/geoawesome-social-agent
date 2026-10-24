@@ -1,0 +1,618 @@
+[
+  {
+    "item": {
+      "id": "https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-the-day/sediment-plumes-along-spains-eastern-coast-after-storm-adam",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Sediment plumes along Spain's eastern coast after Storm Adam | EU Space Support Office",
+      "link": "https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-the-day/sediment-plumes-along-spains-eastern-coast-after-storm-adam",
+      "published": "2026-10-23T08:39:37+00:00",
+      "summary": "This image, acquired by one of the Copernicus Sentinel-2 satellites on 21 October 2026, shows the coastline of eastern Spain from the city of Valencia ...",
+      "image_url": "https://eu-space.europa.eu/sites/default/files/styles/large/public/2026-10/20261023_Valencia%20floods.webp?itok=VlnBdMZF",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Between 18 and 20 October 2026, intense rainfall caused by Storm Adam caused widespread flooding across the Valencia Region in eastern Spain, particularly in the coastal districts of La Safor and Marina Alta. The Spanish State Meteorological Agency recorded 663.8 mm of rain in 37 hours in Pego, in the province of Alicante, nearly as much as the town normally receives in a whole year. Floodwaters affected several municipalities, including Gandia, Oliva, and Pego, inundating roads, agricultural land, and residential areas.\nThis image, acquired by one of the Copernicus Sentinel-2 satellites on 21 October 2026, shows the coastline of eastern Spain from the city of Valencia southwards. Sediment carried to the sea by rivers and surface runoff forms turquoise plumes, which contrast with the darker blue offshore waters of the Mediterranean Sea. The inset shows brown, sediment-laden water across the Marjal de Pego-Oliva, a protected coastal wetland which is normally partly waterlogged.\nAt the request of Spanish authorities, the Copernicus Emergency Management Service provided flood extent and damage assessment emergency mapping products for the areas of La Safor and Marina Alta to support emergency response. More information here .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://eu-space.europa.eu/sites/default/files/styles/wide/public/2026-10/20261023_Valencia%20floods.webp?itok=kK2UaUD4",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://eu-space.europa.eu/sites/default/files/styles/wide/public/2026-10/20261023_Valencia%20floods.webp?itok=kK2UaUD4",
+          "label": ""
+        },
+        {
+          "url": "https://eu-space.europa.eu/sites/default/files/styles/teaser_thumbnail_no_upscaling/public/2026-10/20261022_Super%20Typhoon%20Rosal.webp?itok=y7qvaHzk",
+          "label": ""
+        },
+        {
+          "url": "https://eu-space.europa.eu/sites/default/files/styles/teaser_thumbnail_no_upscaling/public/2026-10/20261021_Fog%20Scandinavia.webp?itok=qGMwBrAK",
+          "label": ""
+        },
+        {
+          "url": "https://eu-space.europa.eu/sites/default/files/styles/teaser_thumbnail_no_upscaling/public/2026-10/20261020_Indonesia%20smoke.webp?itok=sZiQtC5o",
+          "label": ""
+        },
+        {
+          "url": "https://eu-space.europa.eu/sites/default/files/styles/teaser_thumbnail_no_upscaling/public/2026-10/20261020_Greenland%20sea%20ice.webp?itok=jAOA48hF",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-10-24-1-sediment-plumes-along-spain-s-eastern-co.jpg",
+      "image_note": "square crop, from 1810px of source width"
+    },
+    "score": 8.0,
+    "why": "Sentinel-2 image of sediment plumes off Valencia coast; vivid Earth-observation scene with a story.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A Copernicus Sentinel-2 image acquired on 21 October 2026 showing the coast of eastern Spain from the city of Valencia southwards, after Storm Adam caused flooding in the Valencia Region between 18 and 20 October. Turquoise plumes are sediment carried to sea by rivers and surface runoff, contrasting with the darker blue offshore Mediterranean. An inset shows brown, sediment-laden water across the Marjal de Pego-Oliva, a protected coastal wetland that is normally partly waterlogged.",
+      "uncertainties": [
+        "No image credit is named on the page. The credit line uses the page publisher plus the stated satellite. Check the original page for an official credit (e.g. 'contains modified Copernicus Sentinel data') before posting.",
+        "Image licence is not stated and the source reuse policy is 'link_only'. Confirm that reposting the image itself is permitted.",
+        "Square crop from 1810px source width: check whether the inset of the Marjal de Pego-Oliva survives the crop. If it does not, remove the inset references from Facebook.",
+        "No band combination or processing is stated. The image is presumably true colour, but the source does not say so, so it is not claimed.",
+        "663.8 mm in 37 hours is the figure for Pego, as recorded by the Spanish State Meteorological Agency. It is not stated to be the regional maximum."
+      ],
+      "image_credit": "Image: EU Space Support Office, Copernicus Sentinel-2",
+      "facebook": "Storm Adam dropped 663.8 mm of rain on Pego in 37 hours, close to what the town normally gets in a whole year.\n\nThe day after the rain ended, on 21 October 2026, Sentinel-2 caught turquoise sediment plumes spreading off the coast south of Valencia. The inset shows brown water across the Marjal de Pego-Oliva wetland.\n\nRead more: https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-the-day/sediment-plumes-along-spains-eastern-coast-after-storm-adam\n\nImage: EU Space Support Office, Copernicus Sentinel-2\n\n#Sentinel2 #Floods #Spain #Mediterranean #Geoawesome",
+      "instagram": "Rivers in eastern Spain turned the coastal Mediterranean turquoise after Storm Adam.\n\nSentinel-2, 21 October 2026: sediment plumes line the coast south of Valencia after Pego logged 663.8 mm of rain in 37 hours.\n\nFull story: https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-the-day/sediment-plumes-along-spains-eastern-coast-after-storm-adam\n\nImage: EU Space Support Office, Copernicus Sentinel-2\n\n#Sentinel2 #Copernicus #Floods #Valencia #Geoawesome",
+      "youtube": "One Sentinel-2 pass on 21 October 2026 shows where Storm Adam's runoff ended up: in the sea.\n\nTurquoise plumes of river and runoff sediment stand out against darker offshore water. Copernicus EMS also produced flood extent and damage maps for La Safor and Marina Alta at the request of Spanish authorities.\n\nLearn more: https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-the-day/sediment-plumes-along-spains-eastern-coast-after-storm-adam\n\nImage: EU Space Support Office, Copernicus Sentinel-2\n\n#Copernicus #Sediment #Floods #Spain #Geoawesome",
+      "x": "Sediment plumes trace Spain's flooded coast south of Valencia, seen by Sentinel-2 on 21 Oct 2026 after Storm Adam.\nhttps://eu-space.europa.eu/components/earth-observation-copernicus/image-of-the-day/sediment-plumes-along-spains-eastern-coast-after-storm-adam\nImage: EU Space Support Office, Copernicus Sentinel-2\n#Sentinel2 #Floods #Valencia #Geoawesome",
+      "alt_text": "Satellite view of eastern Spain's coastline south of Valencia, with turquoise sediment plumes spreading from the shore into darker blue Mediterranean water."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-24-1-sediment-plumes-along-spain-s-eastern-co.jpg"
+  },
+  {
+    "item": {
+      "id": "https://x.com/milos_gis/status/2113298391119642649",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Milos on X: \"I mapped 1 year of the Iberian peninsula as seen from space \" / X",
+      "link": "https://x.com/milos_gis/status/2113298391119642649",
+      "published": "2026-10-23T06:10:55+00:00",
+      "summary": "I mapped 1 year of the Iberian peninsula as seen from space . 00:00. 3:56 PM · Oct 22, 2026·. 80.7K. Views · 22. 238. 1.8K. 433.",
+      "image_url": "https://pbs.twimg.com/amplify_video_thumb/2113298359003824129/img/IAWPn2lceYyJBQqP?format=webp&name=large",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "See what’s happening and join the conversation",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113298359003824129/img/IAWPn2lceYyJBQqP?format=webp&name=large",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/2043749285024448513/cazPXzuC_normal.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113298359003824129/img/IAWPn2lceYyJBQqP?format=webp&name=medium",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/633400939630739457/jgHrLkzN_normal.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/2002436226318479361/mV9gqtbv_normal.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/2097736941194137600/U4lPRbQM_normal.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1080px of source width"
+    },
+    "score": 8.0,
+    "why": "Year-long satellite timelapse of the Iberian peninsula; strong visual, though no image was carried.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The X page did not load beyond its login boilerplate, so the only fact is the title; sensor, data, time period and what the image shows would all be guesses, and the reuse policy is link_only with no licence stated.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "Page text captured only X's generic login prompt ('See what's happening and join the conversation'); no description of the visual is available.",
+        "The title says '1 year of the Iberian peninsula as seen from space', but it does not say which satellite or sensor, which year or dates, or whether it is a composite, a timelapse or an animation.",
+        "No colour scheme or band combination is given, so the image cannot be explained without guessing.",
+        "No image credit was found on the page. The likely creator is the X account @milos_gis ('Milos'), but the underlying data provider (e.g. a space agency) is unknown and would need crediting.",
+        "Reuse policy is link_only and the image licence is not stated, so reposting the image may not be permitted without the creator's permission.",
+        "If the editor can open the post and confirm the data source, period and method (or ask the creator), this could be reconsidered."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.cnn.com/2026/10/23/climate/iran-war-persian-gulf-oil-spills-pollution",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Iran war's toxic impact on one of the planet's most unique seas | CNN",
+      "link": "https://www.cnn.com/2026/10/23/climate/iran-war-persian-gulf-oil-spills-pollution",
+      "published": "2026-10-23T09:12:54+00:00",
+      "summary": "A satellite image shows oil in the Persian Gulf on April 2, 2026. Sentinel-2 /European Space Agency. Only the hardiest marine life survives in these ...",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-02-00-00-2026-04-02-23-59-sentinel-2-l2a-true-color-1.jpg?c=16x9&q=w_800,c_fill",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The conflict in the Middle East is shaping up to be yet another US war with a toxic legacy .\nBombs and missiles have released heavy metals and harmful chemicals into the atmosphere. US-Israeli and Iranian strikes have hit oil facilities, igniting fires that covered Tehran in thick black smoke and oil-saturated rain , exposing millions to pollution which could have long-lasting health impacts.\nAnd these strikes are also affecting the Persian Gulf. Attacks on ships and oil infrastructure in the waterway have produced oil spills visible from space .\nA spill from a tanker has temporarily closed beaches in the Emirate of Umm Al Quwain with authorities working to contain the environmental impacts, according to an announcement Thursday by the United Arab Emirates Ministry of Climate Change and Environment.\nIt’s not been confirmed whether the spill is linked to Iranian attacks but it’s yet another sign of the huge risks faced by the Persian Gulf, one of the world’s most delicate and unique marine systems.\nAs the conflict continues, experts are warning of a broader contamination crisis.\nGo beyond the forecast with stunning stories and visuals.\nFor months, cargo ships and oil tankers have been targeted in the Strait of Hormuz, the vital shipping route for oil and gas between the Persian Gulf and the Gulf of Oman.\nThe progression from vessel impact to environmental damage is clear to see in many cases, said Brian Barnes, who is part of a group of satellite oceanographers at the University of South Florida analyzing the effects of this war from afar.\n“Some of the major ships that have been targeted, we see prolonged plumes, stretching for hundreds of kilometers away from the impact site,” Barnes said.\nThe Persian Gulf has long suffered from oil pollution, but research by Barnes and other scientists comparing March 2026, when fighting was intense, with the same period last year shows a sharp increase.\n“What we’re seeing is twice the amount of surface oil in the Persian Gulf area relative to what we would expect in the absence of a major conflict,” Barnes said.\nAlthough, he noted, satellite imagery can only show what is on the surface of the water and not the thickness of the oil, which would give a more accurate picture of the extent of the contamination.\nWhat is harder to assess with limited physical access to the conflict-riddled waterway is the impact on marine wildlife.\nThe Persian Gulf hosts an ecosystem teeming with life. It is home to several species of sea turtles, hundreds of species of fish and the world’s second-largest population of dugongs, or sea cows.\n“One of the world’s largest whale shark congregations occurs close to the South Pars oil field where Qatar and Iran meet,” said Bernhard Riegl, a professor at Nova Southeastern University who has studied the Persian Gulf for decades.\nSandy offshore islands and expansive seagrass beds make the Gulf an ideal habitat for nesting and breeding. Extensive mangrove forests and coral reef structures create protected nurseries for dolphins, seabirds, and whale sharks. Yet in springtime, traditionally the season for breeding, the war was raging.\nOnly the hardiest marine life survives in these waters. Not only is the Persian Gulf one of the world’s hottest seas, but it also experiences sharp temperature changes throughout the year.\nThe water near Kuwait City, for example, goes from highs of around 36 degrees Celsius (97 Fahrenheit) in the height of summer to lows of around 16 degrees Celsius (60 Fahrenheit).\nRazan Khalifa Al Mubarak, the UAE’s special envoy of the Minister of Foreign Affairs for Nature, called for an end to attacks on the Gulf in an editorial earlier this year.\n“While the financial costs of damage can be calculated, the loss of ecosystems and species cannot. Once degraded, these systems may not recover,” she wrote.\nContamination in the Gulf brings unique challenges as the body of water is relatively shallow — the deepest areas are only around 360 feet — and it is small, at 93,000 square miles. It also has only one entry and exit point connecting it to the open ocean: the Strait of Hormuz, which leads into the Gulf of Oman and the Indian Ocean beyond. This all means pollutants tend not to disperse or dilute easily.\nNo matter which country or vessel may be a target during this war, the repercussions will have wide impacts, Riegl said: “If we take a drop of oil and put it into the water on the Iranian side of the inflow into the Gulf, a year later it will be in Kuwait, two years later it will be on the Omani side of the Gulf and float out there.”\nThe 1991 Gulf War should be a cautionary tale, Riegl said. Retreating Iraqi forces set fire to hundreds of oil wells in Kuwait creating an environmental catastrophe felt throughout the Gulf.\n“The shorelines were devastatingly affected,” Riegl said. “In fact, in many areas of Saudi (Arabia), if you go and dig in the sand, there’s still old oil in there. It’s just very hard to get rid of.”\nAn additional concern is the fact that tens of millions of Gulf residents rely on desalination plants, which convert seawater into drinking water.\nThe six countries which form the Gulf Cooperation Council produce around a third of the world’s desalinated water. Bahrain and Kuwait are almost entirely dependent on desalination for all drinking water. Oil pollution in the Gulf could damage these facilities, imperiling water supply .\nWhen hundreds of millions of gallons were intentionally released into the Persian Gulf during the Iraq war, Kuwait had to rely on Saudi Arabia, Turkey and others to provide hundreds of water tankers and trucks to deliver bottled water.\nOne perhaps unexpected repercussion of environmental damage in the Persian Gulf is that it could undermine scientists’ understanding of the impacts climate change will have on the world’s seas.\nThe Gulf’s high temperatures are roughly where marine tropics are expected to be around the year 2100, Riegl said.\nThe Gulf has “some of the most… valuable genet",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-02-00-00-2026-04-02-23-59-sentinel-2-l2a-true-color-1.jpg?c=original&q=w_860,c_fill",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-02-00-00-2026-04-02-23-59-sentinel-2-l2a-true-color-1.jpg?c=original&q=w_860,c_fill",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 569px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 7.0,
+    "why": "Sentinel-2 image of oil slicks in the Persian Gulf; strong environmental satellite story.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The page does not describe or credit the image, so we cannot say what it shows without guessing; it is also low resolution (569px, upscaled) and the source is link-only with no licence.",
+      "what_it_shows": "Unknown. The page text does not describe or caption its image. The article says strikes on ships and oil infrastructure in the Persian Gulf have produced oil spills visible from space, and University of South Florida satellite oceanographers report about twice the expected surface oil in March 2026 compared with the same period last year, but nothing ties the image to that analysis.",
+      "uncertainties": [
+        "No image credit found on the page and no licence stated; reuse policy is link_only.",
+        "The image content is not described: it could be satellite imagery, a news photo or a map, and it is not known which.",
+        "Source image is only 569px wide and would have to be upscaled to 1080x1080.",
+        "No sensor, date, location or processing is given for any imagery.",
+        "The Umm Al Quwain tanker spill is not confirmed as linked to Iranian attacks.",
+        "Barnes notes satellite imagery shows surface oil extent only, not thickness.",
+        "If the USF group's satellite plume imagery is published with a credit, that would be a better candidate for a post."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://moosarazauaf.github.io/earthpulse/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "EarthPulse: Free Satellite Image Analysis in Your Browser - Muhammad Moosa Raza",
+      "link": "https://moosarazauaf.github.io/earthpulse/",
+      "published": "2026-10-23T05:53:16+00:00",
+      "summary": "Explore 40 years of EarthMove through Landsat and Sentinel-2 imagery since 1984 and compare any two years. ... Sentinel-2 Level-2A. Provider: ESA ...",
+      "image_url": "https://moosarazauaf.github.io/earthpulse/social-preview.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Click any place on Earth and see what is changing there, with the satellite evidence behind every number.\n          Landsat, Sentinel-1 and Sentinel-2 imagery is read straight from the public archive and analysed on your own\n          computer. No account, no API key.\nLoading the globe… EarthPulse needs JavaScript and WebGL. Source code on GitHub",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://moosarazauaf.github.io/earthpulse/social-preview.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 640px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 7.0,
+    "why": "Interactive browser tool comparing Landsat and Sentinel-2 imagery over 40 years.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The image cannot be described without guessing: the page is a tool landing page with no visual described, no image credit, no licence, a link_only reuse policy and a low-resolution (640px) source.",
+      "what_it_shows": "EarthPulse is a browser tool by Muhammad Moosa Raza. You click any place on Earth to see what is changing there. Landsat, Sentinel-1 and Sentinel-2 imagery is read from the public archive and analysed on the user's own computer, with no account or API key. The page text does not describe the image shown, its location, date or what any colours mean.",
+      "uncertainties": [
+        "Unknown what the source image depicts (globe loading screen, interface screenshot or an actual analysis result)",
+        "No image credit found on the page and licence not stated; reuse policy is link_only, so reposting the image is not cleared",
+        "Source image is only 640px wide and would need upscaling for a 1080x1080 square",
+        "Page gives no example location, date, analysis method or change metric to anchor a caption",
+        "Could work later as a text or link post about a free, no-login Landsat/Sentinel analysis tool, if the editor captures their own screenshot of a specific analysed place with permission"
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.aol.com/articles/map-shows-exactly-jaguars-travel-171353000.html",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "A new map shows exactly how jaguars travel across the Americas and pinpoints which ...",
+      "link": "https://www.aol.com/articles/map-shows-exactly-jaguars-travel-171353000.html",
+      "published": "2026-10-22T18:32:55+00:00",
+      "summary": "A new map shows exactly how jaguars travel across the Americas and pinpoints which important routes have been lost. Earth.com. Rodielon Putol.",
+      "image_url": "https://hermes.media.transform.aol.com/7fd01abce8136c585de5cbecae9fd6d5dc7d6b46/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/22/39ffa31e-bcb8-30b9-a0d4-ccdfe7344c61/82a923ea-64e5-4e49-982d-ec31439ebdc5.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Some of the routes conservationists have mapped for jaguars may no longer be ones that jaguars can use. Elsewhere, several possible new corridors between jaguar populations turned up that older maps had missed.\nAn international team reached both conclusions by mapping the largest cat in the Americas based on where the animals actually went.\nA wildlife corridor is a stretch of land that lets animals travel between larger areas where they live. Over the last century, jaguars have disappeared from more than half of their historic range. Habitat loss, building projects, and conflict with people have all contributed.\nScientists see links between populations as essential for keeping genetic diversity. Corridors also let animals move back into good habitat that has emptied out. And they help wildlife adjust as the environment changes.\nThe study was led by Harshad Karandikar, a conservationist with the Wildlife Conservation Society (WCS), along with an international team.\nThey worked with 99 adult jaguars that wore GPS tracking collars in five countries. Together, the collars logged more than 134,000 locations.\nEarlier maps of jaguar corridors across the whole range were based mostly on expert opinion. This one started with where real jaguars went.\nThe team used those movements to estimate which landscapes jaguars would most likely cross. The goal was to find the routes between key populations, from Mexico to Argentina.\n“Connectivity is fundamental to the long-term survival of jaguars,” said Karandikar.\n“Using GPS movement data from jaguars across their range allowed us to identify areas that are most likely to support movement between populations,” he added.\nSome of the corridors identified by the research align with previous conservation priorities, while others are new and could be useful opportunities to maintain connectivity.\nThe researchers also compared their results with corridors proposed in earlier work. Their findings suggest that some of those older routes may not exist anymore. In those places, a corridor drawn on paper may no longer match the land as it is today.\nRobin Naidoo, a co-author and lead scientist at WWF-US , said fieldwork has to come next.\n“Connectivity maps show us where jaguars can move and what barriers may stand in their way, but the real test is what happens on the ground,” Naidoo said.\n“By combining range-wide mapping with field research, we can see which corridors are being used, where connections are breaking down, and where restoring habitat could help put those connections back together.”\nIn South America, one of the biggest results was a jaguar corridor that starts in northern Bolivia. It runs through the Pantanal and the Paraguay River region, then into Paraguay and northern Argentina.\nThe Pantanal is the world’s largest tropical wetland. According to the World Wildlife Fund, it holds the second-largest concentration of jaguars anywhere.\nAllison Devlin, a co-author who directs the jaguar program at Panthera, a wild cat conservation group, called the study “a future-forward blueprint for the species’ conservation efforts.”\nSome places on the new map still need ground-truthing, which means checking a predicted route against what is actually there.\n“Encouragingly, this research highlights the importance of connections like the Bi-National Corridor in Honduras and Guatemala, the Amazon-Pantanal Corridor in Brazil where Panthera works, and key areas to ground-truth – including Colombia’s A2O Corridor – that warrant greater conservation efforts,” Devlin said.\nMany of the corridors the team identified lie outside national parks and other protected areas. In the authors’ view, keeping those corridors open will take more than parks. Careful planning of how land gets used matters, and so does restoring damaged habitat.\nThe researchers see the map as guidance for governments and conservation groups. They also see it as a tool for Indigenous Peoples and local communities, along with the people who manage land.\nLuke Hunter is executive director of the WCS Big Cats Program. The program coordinates the group’s big cat conservation work in more than 25 countries.\n“Jaguars are telling us something important about the condition of the landscapes they inhabit,” Hunter said.\n“When connectivity is lost, populations become isolated and more vulnerable to decline. Protecting corridors is not just about conserving jaguars – it is about maintaining the ecological processes that sustain entire ecosystems across the Americas.”\nThe new corridors are predictions, not confirmed routes. In the researchers’ view, each one still needs to be checked in the field.\nThey listed camera traps and genetic tests among the methods. Surveys for traces of genetic material that animals leave behind in the environment are on the list too, along with the knowledge of people who live along these routes.\nUntil that checking is done, it isn’t clear which of the possible new links jaguars use today. It also isn’t clear how many of the older ones have been lost.\nThe authors expect the map to guide international efforts to secure and reconnect jaguar populations across the species’ range.\nThe full study was published in the journal Ecosphere .\nLike what you read? Subscribe to our newsletter for engaging articles, exclusive content, and the latest updates.\nCheck us out on EarthSnap , a free app brought to you by Eric Ralls and Earth.com.",
+      "image_credit": "Shutterstock",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://hermes.media.transform.aol.com/7fd01abce8136c585de5cbecae9fd6d5dc7d6b46/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/22/39ffa31e-bcb8-30b9-a0d4-ccdfe7344c61/82a923ea-64e5-4e49-982d-ec31439ebdc5.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://hermes.media.static.aol.com/media/2026/10/22/39ffa31e-bcb8-30b9-a0d4-ccdfe7344c61/c5f595be-c636-49c5-b28d-d6729d13ae9e.webp",
+          "label": ""
+        },
+        {
+          "url": "https://assets.aolcdn.com/uploader/adbuilder/gemini.png",
+          "label": ""
+        },
+        {
+          "url": "https://s.aolcdn.com/images/dims?format=jpg&quality=80&thumbnail=140%2C120&image_uri=https%3A%2F%2Fhermes.media.static.aol.com%2Fmedia%2F2026%2F10%2F23%2F48ca29fb-c103-3b77-85d5-afb092815988%2F20f20176-82d8-43c2-823f-7f846fd6be21.jpg&client=76f99bdb8f78cd44cc0b&signature=3e3a0d9d0f15983466820e61a01ced4dfe787531",
+          "label": ""
+        },
+        {
+          "url": "https://s.aolcdn.com/images/dims?format=jpg&quality=80&thumbnail=140%2C120&image_uri=https%3A%2F%2Fhermes.media.static.aol.com%2Fmedia%2F2026%2F10%2F23%2Ff6dc7099-b4e8-350c-9b14-465b5a4e397e%2F5f932f38-8724-486d-a44b-de4cbab61af1.jpg&client=76f99bdb8f78cd44cc0b&signature=76b60875df9fa17dd9228b7af3f66ef87256fd80",
+          "label": ""
+        },
+        {
+          "url": "https://s.aolcdn.com/images/dims?format=jpg&quality=80&thumbnail=140%2C120&image_uri=https%3A%2F%2Fhermes.media.static.aol.com%2Fmedia%2F2026%2F10%2F23%2F883f2db3-4dc6-3e96-aa86-5c4399c1f190%2F6ac306fe-e6ba-42ca-9e08-94b00d1eafb1.jpg&client=76f99bdb8f78cd44cc0b&signature=7d11cacb93e6b7e7e919eca13f6a0d31f4d0f719",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 650px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 7.0,
+    "why": "Jaguar movement corridors map across the Americas; wildlife geo story.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The only image is a Shutterstock stock picture (very likely a jaguar photo, not the corridor map), with no stated licence and only 650px wide, so there is no map visual to repost.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The image credit is Shutterstock, which suggests a stock wildlife photo rather than the study's corridor map. The page does not say what the image shows.",
+        "No image licence is stated, and the reuse policy is link_only.",
+        "The source image is only 650px wide and would need upscaling to fill a 1080px square.",
+        "A worthwhile post would need the actual range-wide corridor map from the Ecosphere paper (led by Harshad Karandikar, WCS: 99 GPS-collared jaguars, more than 134,000 locations, five countries). Check that figure's licence before using it.",
+        "The corridors are model predictions, not confirmed routes. The researchers say each one still needs ground-truthing."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "t3_1xdn2eb",
+      "source_id": "reddit_dataisbeautiful",
+      "source_name": "Reddit r/dataisbeautiful",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "The world - Each pixel represents 10000 people. [OC]",
+      "link": "https://www.reddit.com/r/dataisbeautiful/comments/1xdn2eb/the_world_each_pixel_represents_10000_people_oc/",
+      "published": "2026-10-23T19:08:29+00:00",
+      "summary": "The world - Each pixel represents 10000 people. [OC]",
+      "image_url": "https://i.redd.it/c57pc8avl9xh1.png",
+      "credit_hint": "u/xygames32YT via r/dataisbeautiful",
+      "source_tag": "",
+      "page_text": "Title of the post: The world - Each pixel represents 10000 people. [OC]\nPosted on Reddit by u/xygames32YT via r/dataisbeautiful. The post has no other text; the title is the only description of the map.",
+      "image_credit": "u/xygames32YT via r/dataisbeautiful",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://i.redd.it/c57pc8avl9xh1.png",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": false,
+      "square_path": "",
+      "image_note": "image download failed: 403 Client Error: Blocked for url: https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fc57pc8avl9xh1.png"
+    },
+    "score": 7.0,
+    "why": "Dot-density world map, one pixel per 10,000 people; a striking geo visual of population distribution.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A world population map posted as original content [OC] by u/xygames32YT on r/dataisbeautiful, in which each pixel represents 10,000 people. The post title is the only description: no data source, reference year, projection or colour scheme is given.",
+      "uncertainties": [
+        "Reuse policy is link_only and no image licence is stated. Get permission from u/xygames32YT before posting the image as a square, or post as a link only.",
+        "The image download failed (403 blocked), so nobody has seen or checked the map. Confirm it matches the title and is legible at 1080x1080 before posting.",
+        "The data source of the map is not stated (e.g. which gridded population dataset).",
+        "Reference year of the population data is not stated.",
+        "Projection, colours and how pixels are placed are not stated.",
+        "The alt text is written from the title only and must be checked against the actual image."
+      ],
+      "image_credit": "Map: u/xygames32YT via r/dataisbeautiful",
+      "facebook": "One pixel, 10,000 people: that is the single unit behind this world map from r/dataisbeautiful.\n\nThe creator's title is the only description, so the population dataset and reference year are not given. What it offers is a fixed, countable unit: each pixel stands for the same number of people wherever it sits on the map.\n\nFull story: https://www.reddit.com/r/dataisbeautiful/comments/1xdn2eb/the_world_each_pixel_represents_10000_people_oc/\n\nMap: u/xygames32YT via r/dataisbeautiful\n\n#Population #Cartography #Dataviz #Geoawesome",
+      "instagram": "Every pixel on this world map stands for 10,000 people.\n\nA simple unit, posted as original work on r/dataisbeautiful. The creator does not say which dataset or year it uses.\n\nFind out more: https://www.reddit.com/r/dataisbeautiful/comments/1xdn2eb/the_world_each_pixel_represents_10000_people_oc/\n\nMap: u/xygames32YT via r/dataisbeautiful\n\n#Population #Maps #Demographics #Geoawesome",
+      "youtube": "How would you draw the whole world's population at one countable scale? This map from r/dataisbeautiful fixes it at 10,000 people per pixel.\n\nUsing one fixed unit means pixels can be compared directly anywhere on the map. The post gives no data source, reference year or projection, so treat it as a visual sketch rather than a reference product.\n\nLearn more: https://www.reddit.com/r/dataisbeautiful/comments/1xdn2eb/the_world_each_pixel_represents_10000_people_oc/\n\nMap: u/xygames32YT via r/dataisbeautiful\n\n#Population #Dataviz #Demographics #Geoawesome",
+      "x": "A world map where each pixel equals 10,000 people. The creator does not state the data source.\nhttps://www.reddit.com/r/dataisbeautiful/comments/1xdn2eb/the_world_each_pixel_represents_10000_people_oc/\nMap: u/xygames32YT via r/dataisbeautiful\n#Population #Maps #Cartography #Geoawesome",
+      "alt_text": "A world map made of pixels, each pixel representing 10,000 people."
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://techseen.com/story/ai2-releases-olmoearth-v1-3-state-of-the-art-ai-ready-satellite-embedd-4bc59a0",
+      "source_id": "google_alerts_1",
+      "source_name": "Google Alerts #1",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet - Techseen",
+      "link": "https://techseen.com/story/ai2-releases-olmoearth-v1-3-state-of-the-art-ai-ready-satellite-embedd-4bc59a0",
+      "published": "2026-10-22T21:45:12+00:00",
+      "summary": "This capability enables more sophisticated geospatial AI applications for mapping and environmental analysis. Evidence. Claims and sources. Read the ...",
+      "image_url": "https://techseen.com/story/ai2-releases-olmoearth-v1-3-state-of-the-art-ai-ready-satellite-embedd-4bc59a0/card.png",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Hugging Face added coverage on Oct 22. 3 records from 3 outlets. The primary source and independent reporting now both cover it.\nThe model provides AI systems with a standardized, numerical representation of global satellite data. This allows researchers and developers to efficiently map and analyze planetary conditions using precomputed embeddings.\nHugging Face published âOlmoEarth v1.3: State-of-the-art embeddings for the whole planet.â\nSiliconANGLE: Ai2, the Allen Institute for Artificial Intelligence, today released a satellite map embedding model called OlmoEarth v1.3 and precomputed annual embeddings for the whole planet at various resolutions with a browser-based map-making tool.\nAi2: OlmoEarth v1.3 brings state-of-the-art satellite embeddings, precomputed global data, and a browser-based Embeddings Explorer for mapping and analyzing the planet.\nHugging Face added a related source record.\nOpened from SiliconANGLE: Ai2 releases OlmoEarth v1.3 state-of-the-art AI-ready satellite embeddings for the whole planet\nOlmoEarth v1.3 brings state-of-the-art satellite embeddings, precomputed global data, and a browser-based Embeddings Explorer for mapping and analyzing the planet.\nOlmoEarth v1.3: State-of-the-art embeddings for the whole planet\nAi2, the Allen Institute for Artificial Intelligence, today released a satellite map embedding model called OlmoEarth v1.3 and precomputed annual embeddings for the whole planet at various resolutions with a browser-based map-making tool. The model compresses a year of satellite observations into a numerical fingerprint for each 10-by-10-meter patch of ground at the smallest resolution, [â¦] The post Ai2 releases OlmoEarth v1.3 state-of-the-art AI-ready satellite embeddings for the whole planet appeared first on SiliconANGLE .\nHow the precomputed embeddings perform when applied to specific, localized environmental or land-use change detection tasks.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://techseen.com/story/ai2-releases-olmoearth-v1-3-state-of-the-art-ai-ready-satellite-embedd-4bc59a0/card.png",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 630px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6.0,
+    "why": "Global satellite embeddings model; map-based potential, but summary shows no visual.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "This is a product-release notice on an aggregator page with no image credit and no description of the visual. A low-resolution 630px header could not be explained without guessing.",
+      "what_it_shows": "The page is a Techseen aggregation of coverage (SiliconANGLE, Ai2, Hugging Face) about Ai2 releasing OlmoEarth v1.3. This is a satellite embedding model with precomputed annual global embeddings at various resolutions, down to 10 by 10 metre patches, plus a browser-based Embeddings Explorer. The page does not say what the image shows, which sensor or date it uses, or what any colours mean.",
+      "uncertainties": [
+        "Image content is unknown: no caption, description or credit on the page (IMAGE CREDIT: NOT FOUND).",
+        "Image licence is not stated, and the source's reuse policy is link_only.",
+        "The image is only 630px wide and would need upscaling for a 1080x1080 square, so sharpness is likely poor.",
+        "Techseen is a secondary aggregator. The primary sources are Ai2's announcement and the Hugging Face post, which are not linked here.",
+        "The page does not name the satellite data behind the embeddings (no sensor, years or band details), apart from the 10 m smallest resolution quoted from SiliconANGLE.",
+        "Suggestion: if the Ai2 post or the Embeddings Explorer offers a credited map image (for example a global embedding visualisation), that could make a worthwhile interactive-map post linking to the primary source."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://webdev.teknium.io/d/viz2/demos/deck-gl-trips-city-pulse/",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "deck.gl — city pulse - webdev.teknium.io",
+      "link": "https://webdev.teknium.io/d/viz2/demos/deck-gl-trips-city-pulse/",
+      "published": "2026-10-23T02:07:21+00:00",
+      "summary": "deck.gl · trips + hexagon layers, no basemap. 00:00. taxitrambike. trails + hexes trails hexes.",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Interactive deck.gl trips and hexagon city map; playable, though summary is sparse.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "There is no image to post, and the page is a bare deck.gl demo with no stated city, data source or date.",
+      "what_it_shows": "A deck.gl web demo combining trips and hexagon layers with no basemap. It appears to animate taxi, tram and bike movements from a clock starting at 00:00. The page does not say which city it shows, where the data comes from, whether the data is real or synthetic, or what period it covers.",
+      "uncertainties": [
+        "No image was found on the page, and the reuse policy is link_only.",
+        "The city or location is not stated.",
+        "The data source is not stated, so the trips may be synthetic or sample data.",
+        "The date or time period of the data is not stated.",
+        "No creator or credit is given, and the page looks like an auto-generated demo on a webdev subdomain picked up by Google Alerts.",
+        "The colour and hexagon height encoding is not explained."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://theins.press/en/news/298618",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "OSINT analysts spot Russian cargo ships loading military vehicles in Kaliningrad",
+      "link": "https://theins.press/en/news/298618",
+      "published": "2026-10-23T03:15:31+00:00",
+      "summary": "Satellite images show military equipment including infantry fighting vehicles (IFVs), armored personnel carriers (APCs), mine-resistant ambush ...",
+      "image_url": "https://theins.press/storage/share/298/298618/FgvlvOW1zMcXGxu0GzH2slgto7lG0Fv4thZ2IV9P.png",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Russian cargo ships have been spotted loading military vehicles and equipment in the port of Baltiysk, in Russia’s Kaliningrad Region. Some of the vessels had previously been observed delivering supplies to Russia’s Africa Corps.\nSatellite images confirming the vessels’ locations were published by the open-source intelligence projects GeoInsider and SONARROW_OSINT.\nAt least three ships were involved in the operation: Ascalon (IMO 9198226), Lady D (IMO 9349289), and Anastasiia (IMO 9349291). The loading took place Oct. 15-16 at the port of Kaliningrad.\nThe operation could be tracked only through satellite imagery because the vessels’ crews had switched off transmission of their location data, making them impossible to follow through conventional ship-tracking services. Ascalon and Lady D had last transmitted signals from the vicinity of the Kaliningrad Region.\nSatellite images show military equipment including infantry fighting vehicles (IFVs), armored personnel carriers (APCs), mine-resistant ambush-protected vehicles (MRAPs), and logistics vehicles.\nAnalysts said there may have been additional cargo ship rotations in October that could not be tracked because of heavy cloud cover. Some convoys may already be underway, but their destinations are unknown.\nAll three vessels have previously been linked to Russian military shipments outside Russia.\nLast month, the Anastasiia was tracked delivering cargo to the Libyan port of Tobruk. Satellite images taken during unloading also showed large quantities of equipment, including Ural military trucks.\nThe cargo may have been intended for Russia’s Africa Corps, which operates in the region. The formation, which took over many of the overseas roles previously associated with the Wagner mercenary group, is backed by the Russian Ministry of Defense.\nThe Anastasiia unloading in Libya in September 2026\nAscalon was previously used in the so-called “Syrian Express” that supplied Russia’s military contingent in the country before the fall of Bashar al-Assad’s regime in December 2024.\nLady D , for its part, has previously been linked to deliveries of Russian weapons to India.\nAll three vessels are under U.S. sanctions.\nAdd The Insider as a preferred source on Google and our reporting will show up in your Top Stories more often. Every reader who chooses The Insider helps show Google that our journalism matters.\nPublication: “ OSINT analysts spot Russian cargo ships loading military vehicles in Kaliningrad ”\nBy subscribing, you agree to The Insider's Terms of Service and Privacy Policy , as well as Google's reCAPTCHA terms ( Privacy Policy , Terms of Service ).",
+      "image_credit": "GeoInsider, SONARROW_OSINT",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://theins.press/_next/image?url=http%3A%2F%2Fstorage%2Fstorage%2Fpost_cover%2Foriginal%2F298%2F298618%2FFgvlvOW1zMcXGxu0GzH2slgto7lG0Fv4thZ2IV9P.webp&w=3840&q=100",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://theins.press/_next/image?url=http%3A%2F%2Fstorage%2Fstorage%2Fpost_cover%2Foriginal%2F298%2F298618%2FFgvlvOW1zMcXGxu0GzH2slgto7lG0Fv4thZ2IV9P.webp&w=3840&q=100",
+          "label": ""
+        },
+        {
+          "url": "https://theins.press/storage/content_image/original/6ad/6ada27248bbc92.78410494/G9MMR1KYRmSGt3fJ9eCZj41ja2Obhn8wxcmK15D7.webp",
+          "label": ""
+        },
+        {
+          "url": "https://theins.press/storage/content_image/original/6ad/6ada272a376451.79231103/y2NYeWUWbJPtlCzL6RkZ344exPZIzXcb7mGETiBX.webp",
+          "label": ""
+        },
+        {
+          "url": "https://theins.press/_next/image?url=http%3A%2F%2Fstorage%2Fstorage%2Fcontent_image%2Foriginal%2F6ad%2F6ada27248bbc92.78410494%2FG9MMR1KYRmSGt3fJ9eCZj41ja2Obhn8wxcmK15D7.webp&w=3840&q=100",
+          "label": ""
+        },
+        {
+          "url": "https://theins.press/_next/image?url=http%3A%2F%2Fstorage%2Fstorage%2Fcontent_image%2Foriginal%2F6ad%2F6ada272a376451.79231103%2Fy2NYeWUWbJPtlCzL6RkZ344exPZIzXcb7mGETiBX.webp&w=3840&q=100",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 720px of source width"
+    },
+    "score": 6.0,
+    "why": "OSINT satellite imagery of Russian cargo ships loading military vehicles at Kaliningrad.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The page has two satellite scenes (Baltiysk loading, 15-16 Oct, and Anastasiia unloading in Tobruk, Sept 2026), and the material doesn't say which one the 720px crop comes from; the reuse policy is link_only and no licence is stated.",
+      "what_it_shows": "The Insider reports satellite images, published by the OSINT projects GeoInsider and SONARROW_OSINT, of three US-sanctioned Russian cargo ships (Ascalon, Lady D, Anastasiia) loading military vehicles (IFVs, APCs, MRAPs, logistics vehicles) at Baltiysk, Kaliningrad Region, on 15-16 October. The ships had switched off location transmission, so satellite imagery was the only way to track them. The page also carries an image of the Anastasiia unloading at Tobruk, Libya, in September 2026.",
+      "uncertainties": [
+        "Unclear which of the page's images the square crop was made from (Baltiysk loading or Tobruk unloading).",
+        "No satellite operator, sensor, resolution or acquisition date given for any image.",
+        "Image licence not stated; credit is to third-party OSINT accounts, and the source reuse policy is link_only.",
+        "Location wording is inconsistent: 'port of Baltiysk' in one paragraph, 'port of Kaliningrad' in another.",
+        "Claims (cargo identification, Africa Corps destination) come from OSINT analysts and are hedged ('may have been intended'); not independently verified.",
+        "Source crop is only 720px wide, likely too soft for a 1080x1080 square showing vehicle-level detail."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://earthstuff.substack.com/p/australian-bushfire-season-is-fast",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "[Australian] Bushfire Season Is Fast Approaching; A Satellite Tool Can Help Communities ...",
+      "link": "https://earthstuff.substack.com/p/australian-bushfire-season-is-fast",
+      "published": "2026-10-23T03:31:34+00:00",
+      "summary": "Within [the] DEA Maps [link above], users are able to explore two layers: DEA FMC Sentinel-2 (A, B & C) and DEA FMC Sentinel-2 Most Recent Observation ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Within [the] DEA Maps [link above], users are able to explore two layers: DEA FMC Sentinel-2 (A, B & C) and DEA FMC Sentinel-2 Most Recent Observation ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "DEA Maps satellite layers for bushfire prep; a usable map tool, but no image.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page (IMAGE NOTE: no image found), no credit, link-only reuse policy, and only a one-line text fragment, so there is nothing to repost without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was found on the page, so there is nothing to crop into a square.",
+        "No image credit and no licence are stated.",
+        "The source is a Substack post found through Google Alerts with a link-only reuse policy, not the original publisher (Digital Earth Australia).",
+        "The page text is a fragment. It names two DEA Maps layers (DEA FMC Sentinel-2 (A, B & C) and DEA FMC Sentinel-2 Most Recent Observation) but does not say what FMC stands for, what the colours mean, the resolution, the coverage or the update frequency.",
+        "If the editor wants this story, a screenshot of the FMC layer taken directly from DEA Maps, with Digital Earth Australia's credit and terms checked, could become a valid post."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  }
+]
