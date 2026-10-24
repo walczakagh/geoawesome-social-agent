@@ -25,14 +25,12 @@ jobs:
       - name: Probe feeds and list candidates
         env:
           GOOGLE_ALERTS_FEEDS: ${{ secrets.GOOGLE_ALERTS_FEEDS }}
-          RECHECK: ${{ vars.RECHECK || 'drafts/2026-10-17.json' }}
+          RECHECK: ''
         run: |
           set -uo pipefail
           mkdir -p tools/probe_results
-          python tools/probe_sources.py tools/probe_urls.txt > tools/probe_results/feeds.txt 2>&1 || true
-          python -m agent.main --scout-only > tools/probe_results/candidates.txt 2>&1 || true
+          PYTHONPATH=. python tools/make_square_probe.py > tools/probe_results/square.txt 2>&1 || true
           if [ -n "${RECHECK:-}" ]; then PYTHONPATH=. python tools/recheck_images.py "$RECHECK" > tools/probe_results/images.txt 2>&1 || echo "EXIT $?" >> tools/probe_results/images.txt; fi
-          { echo '```'; cat tools/probe_results/candidates.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
       - name: Save results on the branch
         if: always() && startsWith(github.ref_name, 'probe/')
         run: |
