@@ -31,6 +31,10 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v5
+        with:
+          # The latest commit on the branch, not the one from when the run was
+          # triggered: a run that waited behind another must see its state.
+          ref: ${{ github.ref_name }}
 
       - uses: actions/setup-python@v6
         with:
@@ -80,10 +84,7 @@ jobs:
           set -euo pipefail
           git config user.name "geoawesome-social-agent"
           git config user.email "actions@users.noreply.github.com"
-          git add state drafts
-          git diff --cached --quiet || git commit -m "Social drafts $(date -u +%F)"
-          git pull --rebase origin "${GITHUB_REF_NAME}"
-          git push
+          python tools/save_state.py "Social drafts $(date -u +%F)" state drafts
 
       - name: Open review issue
         if: env.SKIPPED != '1'
