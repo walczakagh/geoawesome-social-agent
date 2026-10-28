@@ -1,0 +1,522 @@
+[
+  {
+    "item": {
+      "id": "https://www.semafor.com/article/10/26/2026/oil-spill-closes-beaches-across-the-northern-uae",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Oil spill closes beaches across northern UAE | Semafor",
+      "link": "https://www.semafor.com/article/10/26/2026/oil-spill-closes-beaches-across-the-northern-uae",
+      "published": "2026-10-27T07:56:34+00:00",
+      "summary": "European Union/Copernicus Sentinel-2 /Handout via Reuters. The UAE is contending with an oil spill off its shores, the most visible example of the ...",
+      "image_url": "https://img.semafor.com/2dff45314afc0486025f1e304ee021a86575b4bf-2048x1431.jpg?rect=0,179,2048,1075&w=1200&h=630&q=75&auto=format",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The UAE is contending with an oil spill off its shores, the most visible example of the risks of attacks on tankers and a threat to an already fragile tourist season. Beaches are closed across the northern UAE , including in Ras Al Khaimah, where the Wynn Al Marjan Island is set to open next year. In the days before the spill was announced, residents complained of fuel-like odors pervading areas of Dubai and north.\nThis was not the first oil spill of the war: A tanker ran aground near Omanâs southeastern coast, leaving a slick covering about 6.5 times the land area of Manhattan, and Iran had an oil spill off Qeshm Island near a breeding ground for endangered hawksbill sea turtles, Bloomberg reported.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://img.semafor.com/2dff45314afc0486025f1e304ee021a86575b4bf-2048x1431.jpg?rect=0,179,2048,1075&w=1200&h=630&q=75&auto=format",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://img.semafor.com/8f53a67e25d34f7d9a67385ce24a0bc3ee42f7f6-852x852.png?h=50&w=50",
+          "label": ""
+        },
+        {
+          "url": "https://img.semafor.com/2dff45314afc0486025f1e304ee021a86575b4bf-2048x1431.jpg?w=740&q=75&auto=format&h=517",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 629px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 8.0,
+    "why": "Sentinel-2 imagery of a UAE oil spill closing beaches; vivid, newsworthy satellite scene.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "News article with no identified visual: the page does not describe or credit the image, the reuse policy is link_only, and the source crop is low resolution, so any caption would be guesswork.",
+      "what_it_shows": "A Semafor news report on an oil spill that has closed beaches across the northern UAE, including Ras Al Khaimah, after residents reported fuel-like odours in Dubai and further north. It mentions earlier spills reported by Bloomberg: a grounded tanker off Oman's southeastern coast (slick about 6.5 times the land area of Manhattan) and a spill off Iran's Qeshm Island. The page gives no satellite image, sensor, date or map.",
+      "uncertainties": [
+        "The source does not say what the image is: no satellite or sensor, no date, no credit.",
+        "Reuse policy is link_only and the image licence is not stated, so the image should not be reposted.",
+        "The source image is only 629px wide and would need upscaling.",
+        "The Oman and Qeshm Island spill details are attributed to Bloomberg, not verified by Semafor.",
+        "If a sourced satellite image of the UAE slick appears (for example from Copernicus Sentinel-1 or Sentinel-2 via an agency with a clear credit), that would be a better candidate."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "t3_1xh29yr",
+      "source_id": "reddit_mapporn",
+      "source_name": "Reddit r/MapPorn",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "Barcelona - All public transport, every scheduled vehicle, 20 minutes of the timetable",
+      "link": "https://www.reddit.com/r/MapPorn/comments/1xh29yr/barcelona_all_public_transport_every_scheduled/",
+      "published": "2026-10-27T19:31:32+00:00",
+      "summary": "Barcelona - All public transport, every scheduled vehicle, 20 minutes of the timetable",
+      "image_url": "https://preview.redd.it/a9q17ooca2yh1.gif?width=640&crop=smart&s=ec8e57e2aa0426b41be78e289a050b0cb940d984",
+      "credit_hint": "u/vladgrinch via r/MapPorn",
+      "source_tag": "",
+      "page_text": "Title of the post: Barcelona - All public transport, every scheduled vehicle, 20 minutes of the timetable\nPosted on Reddit by u/vladgrinch via r/MapPorn. The post has no other text; the title is the only description of the map.",
+      "image_credit": "u/vladgrinch via r/MapPorn",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://preview.redd.it/a9q17ooca2yh1.gif?width=640&crop=smart&s=ec8e57e2aa0426b41be78e289a050b0cb940d984",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": false,
+      "square_path": "drafts/images/2026-10-28-3-barcelona-all-public-transport-every-sch.jpg",
+      "image_note": "square crop, from 640px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 8.0,
+    "why": "Barcelona transit animation of every scheduled vehicle; striking, playable city visual.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A map of Barcelona that, according to its Reddit title, shows all public transport and every scheduled vehicle across 20 minutes of the timetable. It was posted by u/vladgrinch on r/MapPorn with no other text. Data source, timetable date and what the colours or symbols represent are not given.",
+      "uncertainties": [
+        "The data source of the map is not stated (the title is the only description).",
+        "The date or day of the timetable is not stated, and neither is which 20 minutes (time of day) are shown.",
+        "The legend and colour meaning are not explained, so it is unclear whether modes are distinguished or how vehicles are drawn (positions, traces or routes).",
+        "The title suggests the map may be an animation rather than a static image. Check before posting a still square.",
+        "The reuse policy is link_only and the image licence is not stated. Confirm that reposting the image itself is allowed, or ask the creator.",
+        "The square is cropped from only 640px of source width and upscaled. Check sharpness before posting."
+      ],
+      "image_credit": "Map: u/vladgrinch via r/MapPorn",
+      "facebook": "Twenty minutes of Barcelona's timetable, and every scheduled public transport vehicle in it, on a single map.\n\nu/vladgrinch's map takes in all of the city's public transport at once, not just one mode or operator. A 20-minute window is short, which makes this a snapshot of service at a moment, not a daily total. The post gives only the title, so the data source and timetable date are not stated.\n\nFind out more: https://www.reddit.com/r/MapPorn/comments/1xh29yr/barcelona_all_public_transport_every_scheduled/\n\nMap: u/vladgrinch via r/MapPorn\n\n#Barcelona #Transit #Cartography #Geoawesome",
+      "instagram": "Every scheduled vehicle, every mode, one city.\n\nBarcelona's public transport, plotted across just 20 minutes of the timetable.\n\nLearn more: https://www.reddit.com/r/MapPorn/comments/1xh29yr/barcelona_all_public_transport_every_scheduled/\n\nMap: u/vladgrinch via r/MapPorn\n\n#Barcelona #Maps #Mobility #Geoawesome",
+      "youtube": "How much public transport does Barcelona schedule in 20 minutes? This map plots all of it.\n\nAccording to its title, it shows every scheduled vehicle across the whole public transport system within a 20-minute slice of the timetable. Putting all modes on one map shows the network the way riders experience it. The creator added no further text, so the data source, timetable date and symbology are not explained.\n\nRead more: https://www.reddit.com/r/MapPorn/comments/1xh29yr/barcelona_all_public_transport_every_scheduled/\n\nMap: u/vladgrinch via r/MapPorn\n\n#Barcelona #Transit #Timetables #Cartography #Geoawesome",
+      "x": "Barcelona in a 20-minute window: every scheduled public transport vehicle on one map.\nhttps://www.reddit.com/r/MapPorn/comments/1xh29yr/barcelona_all_public_transport_every_scheduled/\nMap: u/vladgrinch via r/MapPorn\n#Barcelona #Transit #Maps #Geoawesome",
+      "alt_text": "A map of Barcelona showing the city's scheduled public transport vehicles over a 20-minute period of the timetable."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-28-3-barcelona-all-public-transport-every-sch.jpg"
+  },
+  {
+    "item": {
+      "id": "https://yemen.liveuamap.com/en/2026/26-october-14-satellite-images-show-a-rocket-strike-on-the",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Satellite images show a rocket strike on the runway of Aden Airport - Yemen live map",
+      "link": "https://yemen.liveuamap.com/en/2026/26-october-14-satellite-images-show-a-rocket-strike-on-the",
+      "published": "2026-10-27T12:17:48+00:00",
+      "summary": "Satellite images show a rocket strike on the runway of Aden Airport. 'Adan Governorate, Yemen, 26 October 2026.",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Satellite images show a rocket strike on the runway of Aden Airport. 'Adan Governorate, Yemen, 26 October 2026.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Satellite images of a rocket strike on Aden Airport runway; vivid, specific Earth imagery.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image is available (none found on the page, no credit, reuse is link only), and the only text is a one-line, unverified claim about a strike in an active conflict, so there is nothing to post or describe without guessing.",
+      "what_it_shows": "A one-line Liveuamap item, dated 26 October 2026, says satellite images show a rocket strike on the runway of Aden Airport, Aden Governorate, Yemen. The page has no image, no sensor, no provider and no further detail.",
+      "uncertainties": [
+        "No image on the page (IMAGE NOTE: no image found), so there is nothing to make the 1080x1080 square from.",
+        "No image credit or licence stated, and the reuse policy is link only.",
+        "The satellite provider, sensor, capture date/time and resolution are not given.",
+        "The strike claim is unverified and has no attribution, from a live conflict-tracking feed. It would need independent confirmation (and the original imagery provider) before any post.",
+        "The source reached us through a Google Alerts feed, not from the original publisher of the imagery. The original source should be traced if this is reconsidered."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-the-day/sandbanks-emerge-along-germanys-rhine-after-months-low-water",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Sandbanks emerge along Germany's Rhine after months of low water | EU Space Support Office",
+      "link": "https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-the-day/sandbanks-emerge-along-germanys-rhine-after-months-low-water",
+      "published": "2026-10-27T10:10:14+00:00",
+      "summary": "Copernicus Sentinel-2 data support the monitoring of river extent and exposed riverbeds, providing information for drought assessment, water ...",
+      "image_url": "https://eu-space.europa.eu/sites/default/files/styles/banner_1280/public/2026-10/20261027_Rhine%20river%20drought.webp?itok=iHbrUpgQ",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Throughout much of 2026, the River Rhine has been affected by unusually low water levels following a dry spring and a hot summer. In late September, water levels, as measured by the gauge at Kaub, around 30 km south-east of Koblenz, fell to a record low. Readings at Kaub are a key reference for shipping on the river. On 26 October 2026, the gauge read 0.55 m. This figure is a reference value used for navigation rather than the actual depth of the river, but levels this low still limit the loading capacity of vessels.\nThese Copernicus Sentinel-2 false-colour images show the same stretch of the Rhine between Kaub and Bingen, Germany, on 25 October 2026 (top) and 30 October 2025 (bottom). In both images, the river appears in dark blue-green tones, while the surrounding vegetation is highlighted in red. In the 2026 image, large areas of exposed sandbanks are visible near Kaub and along other sections of the river. In the 2025 image, these areas are covered by water.\nCopernicus Sentinel-2 data support the monitoring of river extent and exposed riverbeds, providing information for drought assessment, water resource management, and inland navigation.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://eu-space.europa.eu/sites/default/files/styles/banner_1280/public/2026-10/20261027_Rhine%20river%20drought.webp?itok=iHbrUpgQ",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://eu-space.europa.eu/sites/default/files/styles/wide/public/2026-10/20261027_Rhine%20river%20drought.webp?itok=83Ci85uJ",
+          "label": ""
+        },
+        {
+          "url": "https://eu-space.europa.eu/sites/default/files/styles/teaser_thumbnail_no_upscaling/public/2026-10/20261026_Snow%20Alps_0.webp?itok=PjGvxRZ0",
+          "label": ""
+        },
+        {
+          "url": "https://eu-space.europa.eu/sites/default/files/styles/teaser_thumbnail_no_upscaling/public/2026-10/20261025_Cordillera%20Blanca%20Peru.webp?itok=nBmYEXF4",
+          "label": ""
+        },
+        {
+          "url": "https://eu-space.europa.eu/sites/default/files/styles/teaser_thumbnail_no_upscaling/public/2026-10/20261024_Roter%20Kamm%20crater.webp?itok=BvmnEyqA",
+          "label": ""
+        },
+        {
+          "url": "https://eu-space.europa.eu/sites/default/files/styles/teaser_thumbnail_no_upscaling/public/2026-10/20261023_Valencia%20floods.webp?itok=cPW_OhQQ",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-10-28-5-sandbanks-emerge-along-germany-s-rhine-a.jpg",
+      "image_note": "square crop, from 905px of source width"
+    },
+    "score": 7.0,
+    "why": "Sentinel-2 image of Rhine sandbanks exposed by drought; striking before-style change scene.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "Copernicus Sentinel-2 false-colour images of the River Rhine between Kaub and Bingen, Germany, comparing 25 October 2026 with 30 October 2025. The river appears dark blue-green and vegetation red. In the 2026 image, large exposed sandbanks are visible near Kaub and along other sections, while in the 2025 image these areas are under water; on 26 October 2026 the Kaub gauge read 0.55 m (a navigation reference value, not actual depth), after a record low in late September.",
+      "uncertainties": [
+        "No image credit or licence is stated on the page, and the reuse policy is link_only. Confirm the image may be reposted at all before using it. The credit 'Copernicus Sentinel-2 via EU Space Support Office' is assembled from the page text and publisher, not quoted from an image credit.",
+        "The source's stacked image has 2026 on top and 2025 below (the reverse of the usual before/after order). The IMAGE NOTE says only 'square crop, from 905px of source width', so it is unclear whether the square shows both dates or only one. The posts avoid top/bottom references. Check the crop, and adjust the alt text if only one date is visible.",
+        "Band combination and resolution of the false-colour composite are not given.",
+        "The actual record-low value at Kaub in late September is not stated, only that it was a record. The 0.55 m reading (26 October) is not described as the record."
+      ],
+      "image_credit": "Image: Copernicus Sentinel-2 via EU Space Support Office",
+      "facebook": "The Rhine gauge at Kaub read 0.55 m on 26 October, low enough to limit how much cargo ships can load.\n\nCopernicus Sentinel-2 false-colour images of the Kaub to Bingen stretch show large sandbanks exposed on 25 October 2026 that were under water on 30 October 2025. Vegetation is red, the river dark blue-green.\n\nRead more: https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-the-day/sandbanks-emerge-along-germanys-rhine-after-months-low-water\n\nImage: Copernicus Sentinel-2 via EU Space Support Office\n\n#Rhine #Drought #Sentinel2 #Geoawesome",
+      "instagram": "Sandbanks now sit where the Rhine flowed a year ago.\n\nSentinel-2 false colour, Kaub to Bingen: 25 October 2026 against 30 October 2025, with vegetation in red.\n\nFull story: https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-the-day/sandbanks-emerge-along-germanys-rhine-after-months-low-water\n\nImage: Copernicus Sentinel-2 via EU Space Support Office\n\n#Rhine #Rivers #Copernicus #Geoawesome",
+      "youtube": "Kaub's gauge, the key reference for Rhine shipping, hit a record low in late September after a dry spring and hot summer.\n\nCopernicus Sentinel-2 false colour of the Kaub to Bingen stretch, 25 October 2026 vs 30 October 2025: river in dark blue-green, vegetation in red, and wide sandbanks in 2026 that were submerged in 2025. Exposed riverbed like this feeds drought assessment and inland navigation monitoring.\n\nLearn more: https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-the-day/sandbanks-emerge-along-germanys-rhine-after-months-low-water\n\nImage: Copernicus Sentinel-2 via EU Space Support Office\n\n#Sentinel2 #Germany #Drought #Geoawesome",
+      "x": "Exposed sandbanks between Kaub and Bingen on 25 October 2026, where the Rhine ran a year earlier. Sentinel-2 false colour.\nhttps://eu-space.europa.eu/components/earth-observation-copernicus/image-of-the-day/sandbanks-emerge-along-germanys-rhine-after-months-low-water\nImage: Copernicus Sentinel-2 via EU Space Support Office\n#Rhine #Copernicus #Drought #Geoawesome",
+      "alt_text": "False-colour satellite view of the Rhine between Kaub and Bingen, with the river in dark blue-green, surrounding vegetation in red and pale sandbanks exposed along the riverbed."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-28-5-sandbanks-emerge-along-germany-s-rhine-a.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.reutersconnect.com/item/satellite-imagery-shows-before-oil-spill-near-uae-shores/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlRBT0FSUDg2RQ?lastViewed=dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlRBT0FYMkw3OQ&position=1",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Satellite imagery shows before oil spill near UAE shores - Reuters Connect",
+      "link": "https://www.reutersconnect.com/item/satellite-imagery-shows-before-oil-spill-near-uae-shores/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlRBT0FSUDg2RQ?lastViewed=dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlRBT0FYMkw3OQ&position=1",
+      "published": "2026-10-27T07:43:10+00:00",
+      "summary": "Satellite imagery shows UAE shore before oil spill, off the coast of United Arab Emirates October 19, 2026. European Union/Copernicus Sentinel-2 /",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Satellite imagery shows UAE shore before oil spill, off the coast of United Arab Emirates October 19, 2026. European Union/Copernicus Sentinel-2 /",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Before-spill Sentinel-2 image of UAE shore; strong before/after potential, though Reuters Connect has a weak record here.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image is available to post (no image found on the page, link-only reuse, no credit or licence), and the item is only the 'before' frame of an unconfirmed UAE oil spill with one caption line.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image found on the page and the reuse policy is link_only, so there is nothing we can turn into a square.",
+        "No image credit or licence is stated. The caption ends 'European Union/Copernicus Sentinel-2 /' with the rest of the credit cut off.",
+        "This is the 'before' image (October 19, 2026) only. The page gives no details on the spill itself: location, size, cause or date.",
+        "Worth monitoring for an 'after' frame or a fuller Reuters or Copernicus release with a usable image and credit."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.dawn.com/news/2040106/oil-spill-off-uae-widens-prompting-more-beach-closures",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Oil spill off UAE widens, prompting more beach closures - World - DAWN.COM",
+      "link": "https://www.dawn.com/news/2040106/oil-spill-off-uae-widens-prompting-more-beach-closures",
+      "published": "2026-10-27T05:24:00+00:00",
+      "summary": "Satellite images show the spill is reaching close to the shores of the northern Umm Al Quwain emirate, with dark layers of oil spreading at sea ...",
+      "image_url": "https://i.dawn.com/large/2026/10/24172131196772d.webp",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Get the latest news and updates from Dawn\nDUBAI: An oil spill from a damaged tanker off the coast of the United Arab Emirates has widened, satellite images showed, triggering more beach closures and raising environmental concerns.\nImages from the European Union’s Copernicus satellite observation network dated Oct 24 show the oil spill has widened over the last few days and is reaching close to the shores of the northern Umm Al Quwain emirate, with dark layers of oil spreading at sea and along its coastline.\nSince the start of the US-Israeli war with Iran, attacks on commercial vessels in Gulf shipping lanes have driven up security risks for maritime traffic and heightened fears over the conflict’s environmental fallout.\nOctober has been the worst month for attacks on commercial shipping in the Strait of Hormuz and nearby waterways, according to data compiled by the Washington Institute for Near East Policy think tank.\nThe UAE said on Friday that efforts were under way to contain oil leaking from a tanker offshore, with its Ministry of Climate Change and Environment conducting an environmental assessment.\nAuthorities have not named the tanker involved in the incident or said what caused the spill. But experts said that the spill was coming from a tanker called the Gem No.2, which shipping sources said was a vessel that had been struck by an unidentified projectile last month, causing a fire that was later extinguished.\nThe images provided by the EU’s Copernicus Sentinel-2 satellites showed a large oil spill coming from the tanker.\nAuthorities across various northern emirates respo­nded to the spill by restricting access to coastal areas.\nThe Ministry of Climate Change and Environment said that all beaches and coastal areas around the city of Umm Al Quwain were temporarily closed, while authorities in neighbouring Sharjah shut access to Al Hamriyah Beach as a precaution.\n“The reported oil spill off Umm Al Quwain is a serious environmental concern. The temporary closure of beaches and coastal areas is a prudent precaution while the extent of the spill and the movement of the oil are assessed,” Nidal Hilal, Professor of Engineering and Director of New York University Abu Dhabi’s Water Research Center, said.\nIn Ras Al Khaimah, known for its beaches and luxury resorts, authorities said on Saturday that all beaches in the emirate would be closed until further notice.\nThe UAE’s marine life  “is rich in fish, plants and corals, with over 500 different species of fish inhabiting the Gulf waters,” including dolphins and marine turtles, the International Union for Conservation of Nature, or IUCN, says on its website.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://i.dawn.com/large/2026/10/24172131196772d.webp",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://i.dawn.com/primary/2026/10/24172131196772d.webp",
+          "label": ""
+        },
+        {
+          "url": "https://i.dawn.com/medium/2026/10/261141078d986ed.webp",
+          "label": ""
+        },
+        {
+          "url": "https://i.dawn.com/medium/2026/10/221647217a108b0.webp",
+          "label": ""
+        },
+        {
+          "url": "https://i.dawn.com/medium/2026/10/2112000477d01cc.webp",
+          "label": ""
+        },
+        {
+          "url": "https://i.dawn.com/thumbnail/2026/10/261654460e81ba3.webp",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 720px of source width"
+    },
+    "score": 7.0,
+    "why": "Satellite images of oil spreading toward Umm Al Quwain; dramatic changing scene.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The page is a news article with a link-only reuse policy, no image credit or licence, and nothing confirming that its image is the Copernicus Sentinel-2 scene, so a credit would be a guess.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "Reuse policy is link_only, and no image licence is stated on the page.",
+        "No image credit appears on the page, so it is unclear whether the article image is a Copernicus Sentinel-2 scene, an agency photo or something else.",
+        "Better option: the article says Copernicus Sentinel-2 images dated 24 October show the spill near Umm Al Quwain. If the editor pulls that scene from Copernicus Browser, it could be reposted with a proper credit (Copernicus Sentinel-2 data), with the date and location checked against the scene metadata.",
+        "The tanker's identity (Gem No.2) comes from unnamed experts and shipping sources. Authorities have not named the vessel or the cause of the spill, so any post should keep that hedge.",
+        "The story sits in an active conflict context (attacks on Gulf shipping). Any post should stick to the observable spill and the beach closures."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://flowingdata.com/?p=83184",
+      "source_id": "flowingdata",
+      "source_name": "FlowingData",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "Localized Wikipedia to your geographic area",
+      "link": "https://flowingdata.com/2026/10/27/localized-wikipedia-to-your-geographic-area/",
+      "published": "2026-10-27T09:18:52+00:00",
+      "summary": "Local Wikipedia, by Ed Jefferson, subsets regular Wikipedia to people, places, and things… Tags: Ed Jefferson , local , Wikipedia",
+      "image_url": "https://flowingdata.com/wp-content/uploads/2026/10/local-wikipedia-750x556.png",
+      "credit_hint": "via FlowingData",
+      "source_tag": "",
+      "page_text": "Local Wikipedia , by Ed Jefferson, subsets regular Wikipedia to people, places, and things that are within a half hour walk from you. Just enter a location and get the localness.\nGet access to courses, tutorials, and more resources.",
+      "image_credit": "2007-Present FlowingData. All rights reserved.",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://flowingdata.com/wp-content/uploads/2026/10/local-wikipedia.png",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://flowingdata.com/wp-content/uploads/2026/10/local-wikipedia.png",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1686px of source width"
+    },
+    "score": 7.0,
+    "why": "Wikipedia subset localised to a geographic area; interactive-style map with a clear hook.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Reuse policy is link_only and the image is 'All rights reserved' with no licence, and the page does not describe the image (likely a tool screenshot), so it cannot be reposted or described without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "Reuse policy is link_only and the credit reads '2007-Present FlowingData. All rights reserved.', so reposting the image as a square is likely not permitted.",
+        "The page gives no description of the image. It is probably a screenshot of Ed Jefferson's Local Wikipedia tool, but whether it shows a map, and of which location, is not stated.",
+        "The underlying tool is by Ed Jefferson, not FlowingData. If it is ever covered, link to and credit the tool itself, after checking its own image terms.",
+        "The method behind 'within a half hour walk' (walking network or straight-line radius) and the geocoding source are not stated."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "t3_1xh3kxl",
+      "source_id": "reddit_mapporn",
+      "source_name": "Reddit r/MapPorn",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "[OC] The Ottoman Empire at its greatest extent, 1683",
+      "link": "https://www.reddit.com/r/MapPorn/comments/1xh3kxl/oc_the_ottoman_empire_at_its_greatest_extent_1683/",
+      "published": "2026-10-27T20:20:03+00:00",
+      "summary": "[OC] The Ottoman Empire at its greatest extent, 1683",
+      "image_url": "https://i.redd.it/wlqwdo23j2yh1.jpeg",
+      "credit_hint": "u/Aksiyon2 via r/MapPorn",
+      "source_tag": "",
+      "page_text": "Title of the post: [OC] The Ottoman Empire at its greatest extent, 1683\nPosted on Reddit by u/Aksiyon2 via r/MapPorn. The post has no other text; the title is the only description of the map.",
+      "image_credit": "u/Aksiyon2 via r/MapPorn",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://i.redd.it/wlqwdo23j2yh1.jpeg",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": false,
+      "square_path": "drafts/images/2026-10-28-9-oc-the-ottoman-empire-at-its-greatest-e.jpg",
+      "image_note": "square crop, from 3000px of source width"
+    },
+    "score": 7.0,
+    "why": "Ottoman Empire maximum extent 1683 historical map; strong subject for readers.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "An original map by Reddit user u/Aksiyon2, posted to r/MapPorn, showing the Ottoman Empire at what the creator calls its greatest extent, in 1683. The post title is the only description: no data sources, projection, method or colour key are given.",
+      "uncertainties": [
+        "The data source of the map is not stated.",
+        "No projection, method or legend is described, so what the colours or shading mean is unknown.",
+        "'Greatest extent, 1683' is the creator's framing. It has not been checked against historical references.",
+        "Reuse policy is link_only and the image licence is not stated. Confirm with the creator or editor that posting a square crop of the image is allowed.",
+        "The square crop comes from a 3000px-wide source. Check that the crop does not cut off parts of the empire's territory or the legend."
+      ],
+      "image_credit": "Map: u/Aksiyon2 via r/MapPorn",
+      "facebook": "1683 is the year this map picks for the Ottoman Empire at its greatest extent.\n\nReddit user u/Aksiyon2 drew the empire's territory at that moment and shared it as original work on r/MapPorn. The post lists no data source or projection, so read the boundaries as the creator's interpretation of the period.\n\nFull story: https://www.reddit.com/r/MapPorn/comments/1xh3kxl/oc_the_ottoman_empire_at_its_greatest_extent_1683/\n\nMap: u/Aksiyon2 via r/MapPorn\n\n#Cartography #History #Ottoman #Geoawesome",
+      "instagram": "One empire, one year: the Ottoman state as it stood in 1683.\n\nAn original map by u/Aksiyon2, shared on r/MapPorn.\n\nFind out more: https://www.reddit.com/r/MapPorn/comments/1xh3kxl/oc_the_ottoman_empire_at_its_greatest_extent_1683/\n\nMap: u/Aksiyon2 via r/MapPorn\n\n#Maps #History #Ottoman #Geoawesome",
+      "youtube": "Where did Ottoman rule reach in 1683? This original map draws the line.\n\nIt was posted to r/MapPorn by u/Aksiyon2 under the title \"The Ottoman Empire at its greatest extent, 1683\". That title is the only description. No sources, projection or method are given, so check the borders against your own references before reusing them.\n\nLearn more: https://www.reddit.com/r/MapPorn/comments/1xh3kxl/oc_the_ottoman_empire_at_its_greatest_extent_1683/\n\nMap: u/Aksiyon2 via r/MapPorn\n\n#Cartography #Ottoman #Borders #Geoawesome",
+      "x": "The Ottoman Empire at its greatest extent, mapped for 1683. Original work, no sources listed.\nhttps://www.reddit.com/r/MapPorn/comments/1xh3kxl/oc_the_ottoman_empire_at_its_greatest_extent_1683/\nMap: u/Aksiyon2 via r/MapPorn\n#Cartography #Ottoman #History #Geoawesome",
+      "alt_text": "A map showing the territory of the Ottoman Empire in 1683."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-28-9-oc-the-ottoman-empire-at-its-greatest-e.jpg"
+  },
+  {
+    "item": {
+      "id": "t3_1xh4uhh",
+      "source_id": "reddit_dataisbeautiful",
+      "source_name": "Reddit r/dataisbeautiful",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "[OC] How people draw every country and US state - data from 630k+ drawings",
+      "link": "https://www.reddit.com/r/dataisbeautiful/comments/1xh4uhh/oc_how_people_draw_every_country_and_us_state/",
+      "published": "2026-10-27T21:07:24+00:00",
+      "summary": "[OC] How people draw every country and US state - data from 630k+ drawings",
+      "image_url": "https://external-preview.redd.it/9q0C_H1RDSIrltFqRDQYsvWivCn8PeMEjcjTvmAaBSg.jpeg?width=640&crop=smart&auto=webp&s=35aecdcb8b8e55ee4086bdd4617c0cb3cb450f08",
+      "credit_hint": "u/siorge via r/dataisbeautiful",
+      "source_tag": "",
+      "page_text": "Title of the post: [OC] How people draw every country and US state - data from 630k+ drawings\nPosted on Reddit by u/siorge via r/dataisbeautiful. The post has no other text; the title is the only description of the map.",
+      "image_credit": "u/siorge via r/dataisbeautiful",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://external-preview.redd.it/9q0C_H1RDSIrltFqRDQYsvWivCn8PeMEjcjTvmAaBSg.jpeg?width=640&crop=smart&auto=webp&s=35aecdcb8b8e55ee4086bdd4617c0cb3cb450f08",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": false,
+      "square_path": "drafts/images/2026-10-28-10-oc-how-people-draw-every-country-and-us.jpg",
+      "image_note": "square crop, from 336px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 7.0,
+    "why": "Map of how people draw each country and state from 630k drawings; spatial, novel, eye-catching.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A data visualisation posted as original content on r/dataisbeautiful showing how people draw every country and US state. According to the title, it is based on more than 630,000 drawings. The post has no other text, so the data source, method and visual encoding are not described.",
+      "uncertainties": [
+        "The data source of the map is not stated: the post does not say where the 630k+ drawings came from or how they were collected.",
+        "The post does not explain how the drawings were combined (averaged, overlaid or otherwise) or what any colours mean.",
+        "No date for the drawings and no licence are given. The reuse policy is marked link_only, so confirm that reposting the image is acceptable.",
+        "The image is low resolution (336px source width, upscaled to the square). Check sharpness before posting, or consider a link-only post."
+      ],
+      "image_credit": "Map: u/siorge via r/dataisbeautiful",
+      "facebook": "More than 630,000 drawings went into this map of how people sketch every country and US state.\n\nShared as original work on r/dataisbeautiful, it raises a question cartographers rarely get to test: how well do people actually know the shapes on a map? The post itself is just a title, with no word on where the drawings came from or how they were combined.\n\nFull story: https://www.reddit.com/r/dataisbeautiful/comments/1xh4uhh/oc_how_people_draw_every_country_and_us_state/\n\nMap: u/siorge via r/dataisbeautiful\n\n#Cartography #Geography #Maps #Geoawesome",
+      "instagram": "Every country and every US state, as people draw them.\n\nOne map, built from 630k+ drawings and shared on r/dataisbeautiful.\n\nFind out more: https://www.reddit.com/r/dataisbeautiful/comments/1xh4uhh/oc_how_people_draw_every_country_and_us_state/\n\nMap: u/siorge via r/dataisbeautiful\n\n#Maps #Dataviz #Drawing #Geoawesome",
+      "youtube": "What does a country look like when it has been drawn by hand hundreds of thousands of times?\n\nReddit user u/siorge mapped how people draw every country and US state, working from a dataset of more than 630,000 drawings. The title is the only description: no data source, collection method or aggregation approach is stated. Treat it as a cartographic curiosity rather than a survey.\n\nLearn more: https://www.reddit.com/r/dataisbeautiful/comments/1xh4uhh/oc_how_people_draw_every_country_and_us_state/\n\nMap: u/siorge via r/dataisbeautiful\n\n#Cartography #Dataviz #Geography #Geoawesome",
+      "x": "630k+ drawings, one question: how do people draw every country and US state?\nhttps://www.reddit.com/r/dataisbeautiful/comments/1xh4uhh/oc_how_people_draw_every_country_and_us_state/\nMap: u/siorge via r/dataisbeautiful\n#Cartography #Maps #Dataviz #Geoawesome",
+      "alt_text": "A data visualisation showing how people draw the outlines of countries and US states."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-28-10-oc-how-people-draw-every-country-and-us.jpg"
+  }
+]
