@@ -1,0 +1,527 @@
+[
+  {
+    "item": {
+      "id": "https://science.nasa.gov/?p=1506470",
+      "source_id": "nasa_eo",
+      "source_name": "NASA Earth Observatory",
+      "source_type": "eo_imagery",
+      "licence": "reuse",
+      "title": "Vega Island Frozen in Fright",
+      "link": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
+      "published": "2026-10-30T04:01:00+00:00",
+      "summary": "The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20250322.jpg",
+      "credit_hint": "NASA Earth Observatory",
+      "source_tag": "@NASAEarth",
+      "page_text": "The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.\nShrouded in ice in the lonely Weddell Sea, Vega Island is an eerie sight to behold. On this speck of land east of the Antarctic Peninsula, ice, rock outcrops, and glacial moraines combine to create the appearance of a smirking skull in profile looking toward Devil Island.\nThese images show Vega Island’s creepy countenance at the start of austral autumn (left) and in spring (right). They were acquired with the OLI (Operational Land Imager) on Landsat 9 on March 22, 2025, and October 10, 2026, respectively. (Clouds obscured the island in March 2026.) A nunatak jutting out of the ice has the appearance of an eye socket, a lateral moraine forms a mouth, and Bahía del Diablo (Devil’s Bay) Glacier constitutes a jawbone. In the March 2025 image, a layer of snow coats the ice, which is typical of the region’s wettest month. That contrasts with the October 2026 image, when snow is absent from large areas and darker ice surfaces are visible.\nAbove-average temperatures in winter 2026 —particularly in June —were partly responsible for so much bare ice in October , said glaciologist Mauri Pelto of Nichols College. The ice exposed on Vega and nearby islands indicates limited new snow accumulation over the winter, further reduced by sublimation and wind scouring, he said. “The winter season was no treat for these glaciers.”\nThe melt season ahead may also be more trick than treat. Bare ice is darker than snow and absorbs more solar energy, meaning that melting is poised to speed up as the days grow longer and warmer. “Even a thin cover of new snow from a spring storm would be helpful in the short run,” Pelto said. “When entombed in snow and ice, the skull is preserved. But when exposed to melt, it weathers away, which will lead to a changing jawline and expanding eye socket.”\nThe first comprehensive mapping of Vega Island’s ice was aided by Landsat imagery. In a study published in 1982 , scientists described the island’s four ice caps with protruding rocky cliffs and outlet glaciers. They leveraged early Landsat observations along with aerial photos and topographic maps to catalog 29 glaciers on Vega.\nOf those glaciers, Devil’s Bay Glacier has been closely monitored since the austral summer of 1998-1999, with researchers measuring an overall decline in its mass. Satellite images acquired in recent decades show ice loss from other glaciers on the island as well, with increased areas of exposed bedrock.\nLong before scientists began tracking its glaciers, Vega was a bright spot in a tale of terror born out of early exploration of the area. The Swedish Antarctic Expedition of 1901-1903 set out to study the geography, geology, climate, and wildlife on and around the eastern Antarctic Peninsula. The party became split into three groups during their explorations, isolated for a winter in different locations. Adding to the horror, they lost their ship to the pack ice. Cape Well-met, as it would come to be known, off the “forehead” of the Vega Island skull, was the site of a happy reunion of two of the groups in spring 1903. Soon thereafter, an Argentinean expedition rescued the survivors of the ordeal.\nNASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey . Story by Lindsey Doermann.\nStay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.\nIn summer 2026, a substantial iceberg calved from Petermann Glacier in northwest Greenland and swiftly drifted into Nares Strait, colliding…\nThe expanse of glacial ice on Canada’s Baffin Island lost its snow cover quickly and early in summer 2026, revealing…\nOne narrowing icefall remains the linchpin for the Alpine glacier—and it may not be long for this world.\nSubscribe to the Earth Observatory and get the Earth in your inbox.\nNASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.\nOpen access to NASA’s archive of Earth science data",
+      "image_credit": "NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U",
+      "image_licence": "NASA imagery, generally free to reuse with credit",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20250322.jpg",
+          "label": "March 22, 2025"
+        },
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20261010.jpg",
+          "label": "October 10, 2026"
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-10-30-1-vega-island-frozen-in-fright.jpg",
+      "image_note": "before/after pair stacked, from 1280px of source width"
+    },
+    "score": 8.0,
+    "why": "Striking Antarctic satellite image of Vega Island's skull-like ice; NASA EO history strong.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "Two Landsat 9 OLI images of Vega Island, east of the Antarctic Peninsula in the Weddell Sea, where ice, rock outcrops and glacial moraines look like a smirking skull in profile facing Devil Island (a nunatak forms the eye socket, a lateral moraine the mouth, Devil's Bay Glacier the jawbone). In the square, top is 22 March 2025, with a layer of snow over the ice, and bottom is 10 October 2026, with snow absent from large areas and darker bare ice exposed. Glaciologist Mauri Pelto attributes the bare ice partly to above-average winter temperatures in 2026, particularly in June.",
+      "uncertainties": [
+        "The IMAGE CREDIT field was truncated ('...from the U'). The full credit was taken from the page text ('...from the U.S. Geological Survey').",
+        "The page describes the pair as left/right. The square stacks them top (March 2025) and bottom (October 2026), so the captions use top/bottom.",
+        "The source does not state the band combination or whether the images are natural colour.",
+        "No spatial resolution or island dimensions are given.",
+        "The warm-winter explanation is Pelto's view and he says 'partly responsible'. The captions keep that hedge.",
+        "Published 30 October, so the Halloween framing fits if posting soon. It will feel dated after early November."
+      ],
+      "image_credit": "Image: NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey",
+      "facebook": "On Antarctica's Vega Island, ice, rock and moraine form a skull in profile.\n\nTop: 22 March 2025, snow-coated. Bottom: 10 October 2026, with darker bare ice across large areas. Glaciologist Mauri Pelto links it partly to an above-average winter, particularly June, and bare ice absorbs more sunlight as melt season starts.\n\nRead more: https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/\n\nImage: NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey\n\n#Antarctica #Landsat #Glaciers #Halloween #Geoawesome",
+      "instagram": "A nunatak for an eye, a moraine for a mouth, a glacier for a jaw: meet Vega Island.\n\nTop, March 2025 under snow. Bottom, October 2026, largely stripped of it.\n\nFind out more: https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/\n\nImage: NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey\n\n#Antarctica #Landsat9 #Glaciers #Halloween #Geoawesome",
+      "youtube": "Landsat helped catalogue Vega Island's 29 glaciers in 1982, and Landsat 9 is still watching them.\n\nThese OLI scenes (top: 22 March 2025, bottom: 10 October 2026) show snow cover giving way to bare ice, which glaciologist Mauri Pelto links partly to an above-average winter. Devil's Bay Glacier, the skull's jawbone, has lost mass overall since monitoring began in 1998-1999.\n\nLearn more: https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/\n\nImage: NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey\n\n#Landsat #Antarctica #Cryosphere #Glaciology #Geoawesome",
+      "x": "A skull in Antarctic ice: Vega Island, snow-covered in March 2025 (top) and largely bare in October 2026 (bottom).\nhttps://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/\nImage: NASA Earth Observatory/Lauren Dauphin, Landsat/USGS\n#Antarctica #Landsat #Glaciers #Geoawesome",
+      "alt_text": "Two stacked satellite images of Vega Island in Antarctica, the top one mostly white with snow and the bottom one showing large areas of darker bare ice, with rock outcrops and moraines forming a skull-like profile."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-10-30-1-vega-island-frozen-in-fright.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.reutersconnect.com/item/a-satellite-image-shows-the-aftermath-of-a-high-speed-train-collision-in-urda/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlpDT0FJUkpHQQ",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "A satellite image shows the aftermath of a high-speed train collision in Urda",
+      "link": "https://www.reutersconnect.com/item/a-satellite-image-shows-the-aftermath-of-a-high-speed-train-collision-in-urda/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlpDT0FJUkpHQQ",
+      "published": "2026-10-29T11:33:12+00:00",
+      "summary": "A satellite image shows the aftermath of a high-speed train collision in Urda, Spain, October 29, 2026. 2026 PLANET LABS PBC/Handout via REUTERS ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "A satellite image shows the aftermath of a high-speed train collision in Urda, Spain, October 29, 2026. 2026 PLANET LABS PBC/Handout via REUTERS ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Planet Labs satellite image of a train collision aftermath; vivid, before-after-style scene.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was found on the page to make the square from, and the source is a Reuters Connect item (link_only reuse policy, no licence stated) with only a one-line caption, so there is nothing we can post without guessing or reusing licensed agency content.",
+      "what_it_shows": "According to the one-line caption, a satellite image shows the aftermath of a high-speed train collision in Urda, Spain, dated October 29, 2026. The page text attributes it as '2026 PLANET LABS PBC/Handout via REUTERS'. No sensor, resolution, band combination or description of what is visible is given.",
+      "uncertainties": [
+        "No image was found on the page, so there is nothing to crop into a 1080x1080 square.",
+        "Reuse policy is link_only and no licence is stated. Reuters Connect is a licensed agency marketplace, so reposting the image would likely need a Reuters/Planet licence.",
+        "The image credit field was empty. The page text mentions '2026 PLANET LABS PBC/Handout via REUTERS', but this was not captured as a verified image credit.",
+        "The source gives no Planet sensor or product, resolution, acquisition time or details of the collision (casualties, cause, trains involved).",
+        "This is a fatal-incident news image (likely sensitive). Any post should rely on a fuller, verified report, not a one-line agency caption.",
+        "If the editor wants to cover it, look for Planet's own release or a news article that embeds the image with a clear licence and fuller details."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://x.com/BackpirchCrew/status/2115567132335571421",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "The jaw-dropping Sentinel-2 satellite pass of 190 MPH Hurricane Melissa, on this day in 2025. - X",
+      "link": "https://x.com/BackpirchCrew/status/2115567132335571421",
+      "published": "2026-10-29T05:35:25+00:00",
+      "summary": "The jaw-dropping Sentinel-2 satellite pass of 190 MPH Hurricane Melissa, on this day in 2025.",
+      "image_url": "https://pbs.twimg.com/media/HVwArlKWMAE35dP?format=webp&name=large",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "See what’s happening and join the conversation",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVwArlKWMAE35dP?format=webp&name=large",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1693296304745525248/Nn9za1DX_normal.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1732287344378609664/TFgauNxs_normal.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1654936322417782784/QxXCpvLf_normal.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV19u43asAAZ9_u?format=webp&name=large",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2115985652466749440/img/AkBM2CHX2KAZKATf?format=webp&name=medium",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1281px of source width"
+    },
+    "score": 7.0,
+    "why": "Sentinel-2 pass over Hurricane Melissa; dramatic Earth-observation storm imagery.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Only the title of a third-party X post is available: no image credit, no licence, link-only reuse policy, and unverifiable claims (sensor, 190 mph), so the image cannot be described or credited without guessing.",
+      "what_it_shows": "According to the title of an X post by @BackpirchCrew, the image is a Sentinel-2 pass over Hurricane Melissa, described as a 190 mph storm, posted as an 'on this day in 2025' anniversary item. The page text captured is only the X login banner, so there is no description of the image, acquisition date, band combination or location.",
+      "uncertainties": [
+        "No image credit found on the page. The original Sentinel-2 processing (ESA, Copernicus, or a third party) is unknown.",
+        "Reuse policy is link_only and no licence is stated, so the image should not be reposted as a square.",
+        "The 190 mph wind speed and the Sentinel-2 attribution come only from an unverified X account's post title.",
+        "Acquisition date, location (landfall area or open ocean) and band combination (true colour or otherwise) are not given.",
+        "The post is an anniversary repost ('on this day in 2025'), so the image may have circulated before with a different credit.",
+        "If the editor wants to cover this, a better route is to find the original Copernicus or ESA release of the Sentinel-2 image of Hurricane Melissa, with its own credit and date."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/montana/frazer_tree?name=Frazer+Tree",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Frazer Tree Fire in Montana | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/montana/frazer_tree?name=Frazer+Tree",
+      "published": "2026-10-29T09:32:06+00:00",
+      "summary": "Multi-satellite heat detection combining polar-orbiting (VIIRS, MODIS, Landsat ... Sentinel-2 cloudless by EOX IT Services GmbH — satellite basemap ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The Frazer Tree fire in Valley, Montana is currently 1 acres.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Interactive wildfire tracker with multi-satellite heat detection; a map people can explore.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page (link-only fire tracker entry), and the only fact is a 1-acre fire size, so there is no striking visual to share.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page has no image, map capture or credit to repost.",
+        "The page's only text says the Frazer Tree fire in Valley, Montana is 1 acre, with no date, perimeter source or detection method.",
+        "Reuse policy is link_only and the licence is not stated."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/quebec/290?name=290&id=CA-2026_QC_290",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the 290 Fire in Quebec | WFCA Fire Map",
+      "link": "https://wfca.com/fire-map/quebec/290?name=290&id=CA-2026_QC_290",
+      "published": "2026-10-29T09:42:28+00:00",
+      "summary": "Logan 23711 acStarted Oct 27 · Updated 23h ago. 3 mi. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and map settings. Fires ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The 290 fire in Quebec is currently 27635 acres.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live wildfire map of a 23,711-acre Quebec fire; interactive, though no image is attached.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, link-only reuse policy and a single line of text (fire size only), so there is no visual to post and nothing to explain without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image found on the page and no image credit or licence stated",
+        "Reuse policy is link_only, so the page's visual could not be reposted even if one existed",
+        "Source gives only the fire name and size (27,635 acres): no location detail, cause, containment, date of the figure or data source",
+        "Content comes via Google Alerts from an auto-generated fire tracker page, not an original map or analysis"
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://maritime-executive.com/article/strike-damage-confirmed-at-giant-saudi-refinery-complex",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Strike Damage Confirmed at Giant Saudi Refinery Complex - The Maritime Executive",
+      "link": "https://maritime-executive.com/article/strike-damage-confirmed-at-giant-saudi-refinery-complex",
+      "published": "2026-10-29T09:44:10+00:00",
+      "summary": "... ( Sentinel-2 / Copernicus). By The Maritime Executive 2026-10-28 23:25:35. Commercially-available satellite imaging reveals that the Houthi missile ...",
+      "image_url": "https://maritime-executive.com/media/images/article/Photos/Ocean/Ras-Tanura-25-Oct-2026-Copernicus-Sentinel-2.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "By The Maritime Executive 2026-10-28 23:25:35\nCommercially-available satellite imaging reveals that the Houthi missile strike on the giant oil export hub of Ras Tanura hit a critical component of the site's refining complex.\nThe unit in question appears to be a cracking unit at the refining complex. Open-source intelligence analysts suggest that the refinery has stopped flaring, a sign that it has shut down or curtailed its operations.\nRas Tanura normally processes up to 550,000 barrels per day, making it one of the largest refineries in Saudi Arabia. The shutdown will reduce throughput for production of diesel, jet fuel, gasoline and bunker fuel, all in short supply on the global market. The timing is poor; most refineries have been running flat-out to capture profits in a period of tight supply conditions, and some have even been extending service intervals to keep running.\nThe hits on the refinery have not impeded the export of unrefined crude, and Saudi Aramco continues to ship as much as possible out of its Gulf and Red Sea loading terminals. At Ras Tamura and Juaymah, satellite imaging captured nine VLCCs loading simultaneously, enough to carry 18 million barrels at once, according to Bloomberg's Javier Blas. By his calculations, Aramco has fully recovered its prewar crude oil export volumes, and nearly recovered its product exports as well.\nAccording to the Associated Press, there is compelling evidence to suggest that Russian imaging satellites have been used to support Houthi strikes on Saudi energy facilities. Swiss geospatial consultancy Aurorah Geosignal Intelligence told the AP that there was a \"100% match\" between the movements of Russian government satellites over Saudi sites and subsequent Houthi missile attacks, including events as recent as October 19.\nGet the latest maritime news delivered to your inbox daily.\nHouthi and Saudi officials confirmed to the AP that the Houthis have access to Russian satellite intelligence products. Iranian military advisers in Yemen provide both the raw imaging product and  the analysis needed to interpret it, AP's sources said. The officials added that the Houthis also have access to Chinese satellite imaging products.\n???? Satelitte imagery confirms that the Ras Tanura Refinery was struck (less than 48 hours ago) damaging a processing unit. https://t.co/W7bVJRSYsg\nIf you're new, check your inbox to confirm your subscription.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://maritime-executive.com/media/images/article/Photos/Ocean/Ras-Tanura-25-Oct-2026-Copernicus-Sentinel-2.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://maritime-executive.com/cdn-cgi/image/width=1024,format=auto,quality=80,fit=scale-down,onerror=redirect,trim.left=0,trim.top=37,trim.width=889,trim.height=499/media/images/article/Photos/Ocean/Ras-Tanura-25-Oct-2026-Copernicus-Sentinel-2.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://maritime-executive.com/cdn-cgi/image/width=768,format=auto,quality=80,fit=scale-down,onerror=redirect/images/quick-sub-header.png",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 571px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6.0,
+    "why": "Sentinel-2 imagery confirming Houthi strike damage at a Saudi refinery complex.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No usable image credit or licence (reuse policy link_only), and the source does not say who captured the imagery, when, or exactly what the posted crop shows, so it cannot be captioned or credited without guessing.",
+      "what_it_shows": "The Maritime Executive reports that commercially available satellite imagery shows a Houthi missile strike on the Ras Tanura refining complex in Saudi Arabia, apparently hitting a cracking unit. Open-source analysts suggest the refinery has stopped flaring, a possible sign of shutdown or curtailed operations. The page names no imagery provider, capture date, sensor or resolution for the image.",
+      "uncertainties": [
+        "Image credit not found on the page and licence not stated. Reuse policy is link_only, so the image should not be reposted.",
+        "The satellite operator, sensor, capture date and resolution are not given. The image appears to come from an embedded social media post with an unknown original source.",
+        "The damage assessment is hedged: the unit only 'appears to be' a cracking unit, and the shutdown is inferred from the refinery having stopped flaring, according to unnamed OSINT analysts.",
+        "The nine-VLCC loading figure and export recovery come from Bloomberg's Javier Blas. The Russian satellite claims come from AP sources and Aurorah Geosignal Intelligence. All are third-party and unverified here.",
+        "The page text spells the site as both 'Ras Tanura' and 'Ras Tamura'.",
+        "The source image is low resolution (571px wide) and upscaled for the square crop, so sharpness is likely poor.",
+        "The subject is active-conflict strike damage. If reconsidered, it would need careful editorial framing and a properly licensed image from the original provider."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.oilandgasmiddleeast.com/news/caroline-bezengi-oil-leak",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Caroline Bezengi oil leak off Oman appears to have stopped, satellite images show",
+      "link": "https://www.oilandgasmiddleeast.com/news/caroline-bezengi-oil-leak",
+      "published": "2026-10-29T10:12:24+00:00",
+      "summary": "Caroline Bezengi oil leak off Oman appears to have stopped, satellite images show . Satellite imagery suggests the Caroline Bezengi leak off Oman ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Caroline Bezengi oil leak off Oman appears to have stopped, satellite images show . Satellite imagery suggests the Caroline Bezengi leak off Oman ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Satellite views of an oil leak off Oman; a clear environmental scene.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, no image credit or licence, and the text is a one-line alert snippet with no sensor, date or detail to describe without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "IMAGE NOTE says no image was found on the page, so there is nothing to crop to a square.",
+        "No image credit or licence is stated, and the reuse policy is link_only.",
+        "The page text is only a snippet: 'Satellite imagery suggests the Caroline Bezengi leak off Oman ...'. It does not name a sensor, an acquisition date, who analysed the imagery, or the size or location of the slick.",
+        "The claim is hedged ('appears to have stopped', 'suggests') and comes from a trade outlet via Google Alerts. If the editor wants to cover this, the original imagery (for example a Sentinel-1 or Sentinel-2 scene with a stated credit) should be found from the primary source first."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://en.royanews.tv/news/75419",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Widening oil spill off UAE coast forces beach closures - Roya News",
+      "link": "https://en.royanews.tv/news/75419",
+      "published": "2026-10-28T22:41:39+00:00",
+      "summary": "Photographs captured on October 24 by the European Union's Copernicus Sentinel-2 satellite observation network reveal that the slick has widened over ...",
+      "image_url": "https://img.royanews.tv/imagechanger/Size728Q70/storage/english/news/20261028/6ae1ed5f2b1c31793191263.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Note: AI technology was used to generate this article’s audio.\nAn oil spill originating from a damaged tanker off the coast of the United Arab Emirates has expanded, according to recent satellite imagery, prompting authorities to close additional beaches amid growing environmental alarms.\nPhotographs captured on October 24 by the European Union's Copernicus Sentinel-2 satellite observation network reveal that the slick has widened over recent days and approached the shores of the northern emirate of Umm Al Quwain, leaving visible dark slicks of crude spreading across the water and reaching the coastline.\nThe incident unfolds against a backdrop of escalating regional hostilities.\nSince the onset of the US-'Israeli' war on Iran, recurrent attacks on commercial vessels across Gulf maritime corridors have sharply increased navigation risks and intensified concerns regarding the conflict's ecological toll.\nData compiled by the Washington Institute for Near East Policy think tank indicates that October has been the most severe month for assaults targeting commercial shipping in the Strait of Hormuz and adjacent waters.\nOn Friday, the UAE stated that operations were actively underway to contain the offshore leak, with the Ministry of Climate Change and Environment conducting an environmental assessment.\nWhile Emirati officials did not officially identify the vessel or specify the exact cause of the discharge, experts told Reuters that the oil originated from a tanker named Gem No.2.\nShipping sources indicated the vessel had been struck by an unidentified projectile last month, resulting in an onboard fire that was subsequently extinguished.\nIn response to the spreading contamination, authorities across several northern emirates enacted strict measures to limit access to coastal zones.\nThe Ministry of Climate Change and Environment announced on Friday the temporary closure of all beaches and coastal waterfronts around Umm Al Quwain city. Neighboring Sharjah similarly shut access to Al Hamriyah Beach as a precautionary measure.\n\"The reported oil spill off Umm Al Quwain is a serious environmental concern. The temporary closure of beaches and coastal areas is a prudent precaution while the extent of the spill and the movement of the oil are assessed,\" Nidal Hilal, Professor of Engineering and Director of New York University Abu Dhabi's Water Research Center, told Reuters.\nOn Saturday, authorities in Ras Al Khaimah, a destination renowned for its luxury resorts and public shores, declared that all beaches across the emirate would remain closed until further notice.\nThe expanding slick poses hazards to the UAE’s marine ecosystem, which the International Union for Conservation of Nature (IUCN) notes is \"rich in fish, plants and corals, with over 500 different species of fish inhabiting the Gulf waters,\" including populations of dolphins and marine turtles.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://img.royanews.tv/imagechanger/Size728Q70/storage/english/news/20261028/6ae1ed5f2b1c31793191263.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://en.royanews.tv/image/gallery.svg",
+          "label": ""
+        },
+        {
+          "url": "https://en.royanews.tv/assets/images/next 10.svg",
+          "label": ""
+        },
+        {
+          "url": "https://en.royanews.tv/assets/images/back 10.svg",
+          "label": ""
+        },
+        {
+          "url": "https://img.royanews.tv/imagechanger/Size728Q70/storage/english/news/20261017/6ad305d65cd801792214486.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://en.royanews.tv/assets/images/shadow.png",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 400px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6.0,
+    "why": "Sentinel-2 photos of a widening oil slick forcing UAE beach closures.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The page image has no credit, no licence and a link-only reuse policy, it is only 400px wide, and nothing confirms it is the Sentinel-2 scene rather than a news or file photo.",
+      "what_it_shows": "A Roya News article (drawing on Reuters) reports that an oil spill off the UAE coast widened and approached Umm Al Quwain, based on Copernicus Sentinel-2 imagery captured on 24 October. The article does not say whether its accompanying image is that Sentinel-2 scene, and it gives no credit, so what the image shows cannot be confirmed.",
+      "uncertainties": [
+        "Image credit not found on the page, so it is unclear whether the image is Sentinel-2 imagery, a Reuters photo or a file picture.",
+        "Image licence not stated, and the source reuse policy is link_only, so the image should not be reposted.",
+        "The source image is only 400px wide and would be upscaled to 1080x1080, so it will probably look soft.",
+        "The tanker's identity (Gem No.2) comes from experts speaking to Reuters. Emirati officials did not officially identify the vessel or the cause.",
+        "The projectile strike is attributed only to unnamed shipping sources.",
+        "The article frames the spill within the regional conflict using politically loaded wording. Any post would need neutral sourcing.",
+        "No slick area, extent in kilometres or spill volume is given.",
+        "Better option: look for the original Copernicus Sentinel-2 scene from 24 October (for example via Copernicus Browser or an ESA or Copernicus release), which would have a clear credit and licence."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://risingkashmir.com/video/upper-jhelum-shifting-536m-satellite-study-reveals-rapid-river-migration-massive-erosion-12765030",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Upper Jhelum Shifting 5.36m: Satellite Study Reveals Rapid River Migration & Massive Erosion",
+      "link": "https://risingkashmir.com/video/upper-jhelum-shifting-536m-satellite-study-reveals-rapid-river-migration-massive-erosion-12765030",
+      "published": "2026-10-29T10:16:02+00:00",
+      "summary": "... Sentinel-2 satellite imagery and geospatial analysis of changes recorded between 2018 and 2023. Read More. Related Articles. Meet Ziyan: The 18-Year ...",
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/rising-kashmir/media/media_library/vi/ktFqVrMkmp4/hq2-193851.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "A research study has found significant changes in the upper Jhelum River between 2018 and 2023, including a centreline migration rate of 5.36 metres per year and erosion affecting 26.94 sq km downstream Reports: Abid Bashir Camera/Edit: Musaib Fayaz/Ada Bhat Note:\nThe findings are from a research study titled “Geospatial technology based evaluation of recent morphodynamic changes and flow patterns in the upper Jhelum River”, based on Sentinel-2 satellite imagery and geospatial analysis of changes recorded between 2018 and 2023.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://img-cdn.publive.online/fit-in/1200x675/rising-kashmir/media/media_library/vi/ktFqVrMkmp4/hq2-193851.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://risingkashmir.com/static/images/google_news.png",
+          "label": ""
+        },
+        {
+          "url": "https://static-cdn.publive.online/publive-publisher-templates/neo_legacy/assets/images/newsletter_new_icon.svg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 675px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6.0,
+    "why": "Sentinel-2 river migration study; a before-after erosion story with a map angle.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The page is a TV news video report with no identifiable map or satellite visual, no image credit, a link-only reuse policy and a low-resolution (675px) source, so the square cannot be described or credited without guessing.",
+      "what_it_shows": "A Rising Kashmir video news report on a research study of the upper Jhelum River. The study, based on Sentinel-2 imagery and geospatial analysis, found a centreline migration rate of 5.36 metres per year between 2018 and 2023 and erosion affecting 26.94 sq km downstream. The page does not say what the featured image shows (thumbnail, map or footage still).",
+      "uncertainties": [
+        "Content of the image is unknown: it may be a video thumbnail or title card rather than a map or satellite image.",
+        "No image credit and no licence are given on the page, and the source's reuse policy is link_only.",
+        "The source image is only 675px wide and would need upscaling for a 1080x1080 square.",
+        "The study's authors, journal and publication details are not given. It is reported second-hand by a news outlet, so it is worth finding the original paper and its figures, which could make a postable map with proper credit.",
+        "The page does not say whether 26.94 sq km is total erosion or erosion in a specific reach, or how 'downstream' is defined."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  }
+]
