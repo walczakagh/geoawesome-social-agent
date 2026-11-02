@@ -1,19 +1,19 @@
 [
   {
     "item": {
-      "id": "https://eijournal.com/slider-images/champis-eerie-eye-seen-from-space",
+      "id": "https://www.reddit.com/r/MapPorn/comments/1xm4vqn/three_bridges_now_cross_the_strait_that_divides/",
       "source_id": "google_alerts_3",
       "source_name": "Google Alerts #3",
       "source_type": "alerts",
       "licence": "link_only",
-      "title": "Champi's Eerie Eye Seen from Space - Earth Imaging Journal",
-      "link": "https://eijournal.com/slider-images/champis-eerie-eye-seen-from-space",
-      "published": "2026-11-01T23:47:37+00:00",
-      "summary": "Champi's Eerie Eye Seen from Space ... A satellite image of Super Typhoon Champi resembles a Halloween illustration, with an orange backdrop, purple ...",
+      "title": "Three bridges now cross the strait that divides Europe from Asia, and in places it is only 700 ...",
+      "link": "https://www.reddit.com/r/MapPorn/comments/1xm4vqn/three_bridges_now_cross_the_strait_that_divides/",
+      "published": "2026-11-02T20:47:14+00:00",
+      "summary": "The image is Sentinel-2 true colour from 10 October 2026. I traced the ... Europe seen from space last night via NOAA-20 (Colorized) · r ...",
       "image_url": "",
       "credit_hint": "",
       "source_tag": "",
-      "page_text": "Champi's Eerie Eye Seen from Space ... A satellite image of Super Typhoon Champi resembles a Halloween illustration, with an orange backdrop, purple ...",
+      "page_text": "The image is Sentinel-2 true colour from 10 October 2026. I traced the ... Europe seen from space last night via NOAA-20 (Colorized) · r ...",
       "image_credit": "",
       "image_licence": "",
       "extra_images": [],
@@ -25,20 +25,18 @@
       "image_note": "no image found on the page"
     },
     "score": 8.0,
-    "why": "Super Typhoon Champi from orbit, eerie eye imagery; a vivid Earth-observation scene.",
+    "why": "Sentinel-2 true-colour view of the Bosphorus with three bridges; striking map.",
     "draft": {
       "worth_posting": false,
-      "skip_reason": "No image was found on the page, there is no image credit or licence, the reuse policy is link_only, and the page text is only a truncated snippet, so the post could not be written without guessing.",
-      "what_it_shows": "According to the snippet, a satellite image of Super Typhoon Champi looks like a Halloween illustration, with an orange backdrop and purple tones. The source does not give the sensor, the date or what the colours represent.",
+      "skip_reason": "No image was found, the creator and credit are unknown, the title is cut off mid-number, and the page text is a mix of unrelated alert snippets, so nothing can be described without guessing.",
+      "what_it_shows": "",
       "uncertainties": [
-        "No image was found on the page, so there is nothing to crop to a square.",
-        "The image credit was not found and the licence is not stated.",
-        "The reuse policy is link_only, so the image should not be reposted even if it is located.",
-        "The page text is truncated ('purple ...'), so the full description is unavailable.",
-        "The source does not say which satellite or sensor took the image, or when.",
-        "The colour scheme (orange backdrop, purple) is not explained. It may be a false-colour or enhanced infrared product, but the source does not say.",
-        "The page's publication date may not match when the image was acquired. Check this against the original source.",
-        "The publisher is a Google Alerts feed pointing to Earth Imaging Journal. Find the original image provider before considering any post."
+        "IMAGE NOTE says no image was found on the page, so there is no visual to make the 1080x1080 square from.",
+        "No Reddit username or subreddit credit is given in the source material, so the required 'Map: u/<name> via r/<subreddit>' credit cannot be written.",
+        "The title is truncated ('only 700 ...'). The unit and the full claim are missing, and the strait is not named.",
+        "The page text is fragmentary and appears to combine at least two unrelated posts: one mentioning 'Sentinel-2 true colour from 10 October 2026' and another about 'Europe seen from space last night via NOAA-20 (Colorized)'. It is unclear which details, if any, belong to this post.",
+        "The source type is a Google Alerts aggregator with a link_only reuse policy, and no image licence is stated.",
+        "Worth revisiting: open the Reddit link directly. If it holds a Sentinel-2 map with a named creator, a full title and a clear data note, it could be resubmitted for a post."
       ],
       "image_credit": "",
       "facebook": "",
@@ -52,15 +50,333 @@
   },
   {
     "item": {
-      "id": "https://www.instagram.com/reel/DfM5mHYD1e8/",
+      "id": "https://www.earthdata.nasa.gov/news/worldview-image-archive/autumnal-colors-ridge-valley-region",
       "source_id": "google_alerts_3",
       "source_name": "Google Alerts #3",
       "source_type": "alerts",
       "licence": "link_only",
-      "title": "Green Wave One year of leaves across North America, seen from space Every spring a ... - Instagram",
-      "link": "https://www.instagram.com/reel/DfM5mHYD1e8/",
-      "published": "2026-11-01T21:56:01+00:00",
-      "summary": "503 likes, 2 comments - geopandamaps on November 1, 2026: \"Green Wave One year of leaves across North America, seen from space Every spring a ...",
+      "title": "Autumnal Colors in the Ridge-and-Valley Region | NASA Earthdata",
+      "link": "https://www.earthdata.nasa.gov/news/worldview-image-archive/autumnal-colors-ridge-valley-region",
+      "published": "2026-11-02T20:24:47+00:00",
+      "summary": "... Landsat Sentinel-2 (HLS) dataset. The image was acquired by the Multi Spectral Instrument (MSI) aboard the Sentinel-2B platform on October 24 ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "... Landsat Sentinel-2 (HLS) dataset. The image was acquired by the Multi Spectral Instrument (MSI) aboard the Sentinel-2B platform on October 24 ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 8.0,
+    "why": "NASA Worldview autumn colours over the Ridge-and-Valley region; picked before, vivid.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was found on the page, no image credit or licence is given, the page text is only a fragment, and the reuse policy is link_only, so there is no visual to post.",
+      "what_it_shows": "A NASA Earthdata Worldview Image Archive entry titled 'Autumnal Colors in the Ridge-and-Valley Region'. The page text mentions the Harmonized Landsat Sentinel-2 (HLS) dataset and an acquisition by the Multi Spectral Instrument (MSI) aboard Sentinel-2B on October 24. The available text does not say which band combination was used.",
+      "uncertainties": [
+        "No image was found on the page, so there is nothing to crop to a 1080x1080 square.",
+        "The image credit was not found and the image licence is not stated.",
+        "The reuse policy is link_only, so the image should not be reposted even if it is located.",
+        "The page text is a fragment, so the full description is missing.",
+        "The acquisition year is not stated, only 'October 24'.",
+        "The band combination and the meaning of the colours are not given.",
+        "The exact area within the Ridge-and-Valley region is not specified."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.instagram.com/p/DfPsYMGo8iz/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "India after dark, as seen from space . Millions of lights reveal the extraordinary geography of ...",
+      "link": "https://www.instagram.com/p/DfPsYMGo8iz/",
+      "published": "2026-11-02T16:21:23+00:00",
+      "summary": "India after dark, as seen from space . Millions of lights reveal the extraordinary geography of South Asia, from the densely populated plains of ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 8.0,
+    "why": "India at night from space; city lights reveal South Asian geography, a beautiful image.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image or credit found on the page, the reuse policy is link-only, and the truncated Instagram text names no sensor, date or maker, so the post could not be written without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was retrieved from the page (IMAGE NOTE: no image found).",
+        "No image credit or licence is stated, and the reuse policy is link_only, so the image cannot be reposted.",
+        "The page text is truncated and gives no sensor (for example a night-lights instrument), acquisition date, processing or original creator.",
+        "The Instagram account behind the post is not named, so the original source cannot be verified."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "tag:blogger.com,1999:blog-12158290.post-2184124890615776477",
+      "source_id": "maps_mania",
+      "source_name": "Maps Mania",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "A Neon Matterhorn",
+      "link": "http://googlemapsmania.blogspot.com/2026/11/a-neon-matterhorn.html",
+      "published": "2026-11-02T14:28:54+00:00",
+      "summary": "For Day 2 of the #30DayMapChallenge , the theme is Lines . For my contribution, I've created MapterGLOW , an interactive 3D terrain map that turns elevation data into glowing neon contour lines. The map uses elevation tiles from Mapterhorn to build a three-dimensional model of the landscape, overlaid with luminous cyan contour lines at 50-metre intervals. You can rotate the terrain, tilt the camera and zoom in and out to explore the topography from different angles. You aren't restricted to exploring the Matterhorn, either. The map accepts latitude and longitude coordinates in the URL hash, allowing you to load terrain from different parts of the world. For example, try Mont Blanc , the Eiger or the Jungfrau . You can also substitute your own coordinates to explore other mountain ranges and landscapes. I built the map using Three.js, loading Mapterhorn's elevation tiles directly into the browser. The elevation data is decoded and resampled into a terrain mesh, which is then used to generate contour lines at regular height intervals. Finally, I added some neon lighting effects to give the contours their distinctive electric-blue glow. It's a relatively simple experiment in 3D cartog",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4EGmmBnkpcoD2037UhEUsVUYrmA1dRDd51il8z9mFYjjFrZpdCXPZmO9-rQWkcAokJmk6XIPmjAz2fJbRWylMJp7w1ZJlcHtyzFe_zXvOJvNJZqIJhDNyoPjRg3TcYwp1L5SbPYmuX0M3sebtXxnhZZnBUD9Hrb9Cvv0Kg3ykLumO-5GxRZiU_Q/s1600/Screenrecording2026-11-029.25.09AM-ezgif.com-optimize.gif",
+      "credit_hint": "via Maps Mania",
+      "source_tag": "",
+      "page_text": "For Day 2 of the #30DayMapChallenge , the theme is Lines . For my contribution, I've created MapterGLOW , an interactive 3D terrain map that turns elevation data into glowing neon contour lines. The map uses elevation tiles from Mapterhorn to build a three-dimensional model of the landscape, overlaid with luminous cyan contour lines at 50-metre intervals. You can rotate the terrain, tilt the camera and zoom in and out to explore the topography from different angles. You aren't restricted to exploring the Matterhorn, either. The map accepts latitude and longitude coordinates in the URL hash, allowing you to load terrain from different parts of the world. For example, try Mont Blanc , the Eiger or the Jungfrau . You can also substitute your own coordinates to explore other mountain ranges and landscapes. I built the map using Three.js, loading Mapterhorn's elevation tiles directly into the browser. The elevation data is decoded and resampled into a terrain mesh, which is then used to generate contour lines at regular height intervals. Finally, I added some neon lighting effects to give the contours their distinctive electric-blue glow. It's a relatively simple experiment in 3D cartog",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4EGmmBnkpcoD2037UhEUsVUYrmA1dRDd51il8z9mFYjjFrZpdCXPZmO9-rQWkcAokJmk6XIPmjAz2fJbRWylMJp7w1ZJlcHtyzFe_zXvOJvNJZqIJhDNyoPjRg3TcYwp1L5SbPYmuX0M3sebtXxnhZZnBUD9Hrb9Cvv0Kg3ykLumO-5GxRZiU_Q/s1600/Screenrecording2026-11-029.25.09AM-ezgif.com-optimize.gif",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-02-4-a-neon-matterhorn.jpg",
+      "image_note": "square crop, from 450px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 8.0,
+    "why": "Interactive 3D neon contour terrain map of the Matterhorn; striking glowing visual, explorable.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "MapterGLOW is an interactive 3D terrain map built by Maps Mania for Day 2 (theme: Lines) of the 30 Day Map Challenge. Elevation tiles from Mapterhorn are loaded into the browser with Three.js, turned into a terrain mesh and overlaid with glowing cyan contour lines at 50-metre intervals. The featured view is the Matterhorn, but users can load other places by entering latitude and longitude in the URL hash.",
+      "uncertainties": [
+        "Reuse policy is link_only and no image licence is stated on the page. Check whether posting the image itself is permitted.",
+        "No image credit or author name appears on the page. The credit falls back to the tool name plus Maps Mania.",
+        "The source image is only 450px wide and has been upscaled. Check sharpness before posting.",
+        "The resolution and underlying source of the Mapterhorn elevation data are not stated.",
+        "The page text is cut off at the end. Nothing from the missing part is used.",
+        "The direct URL of the MapterGLOW map is not in the source material, so the posts link to the blog post.",
+        "The page does not describe the background colour or lighting in the featured image. Confirm the alt text matches what the image shows."
+      ],
+      "image_credit": "Map: MapterGLOW via Maps Mania",
+      "facebook": "Every 50 metres of the Matterhorn, traced as a glowing cyan line.\n\nMapterGLOW, Maps Mania's Day 2 entry for the 30 Day Map Challenge (theme: Lines), builds a 3D terrain model from Mapterhorn elevation tiles. You can rotate, tilt and zoom, or change the coordinates in the URL hash to load Mont Blanc, the Eiger or anywhere else.\n\nRead more: http://googlemapsmania.blogspot.com/2026/11/a-neon-matterhorn.html\n\nMap: MapterGLOW via Maps Mania\n\n#Cartography #Contours #Matterhorn #Terrain #Geoawesome",
+      "instagram": "The Matterhorn, redrawn in neon.\n\nCyan contour lines at 50 m intervals glow over a 3D terrain model you can spin and tilt in the browser.\n\nFind out more: http://googlemapsmania.blogspot.com/2026/11/a-neon-matterhorn.html\n\nMap: MapterGLOW via Maps Mania\n\n#Matterhorn #Neon #Contours #Alps #Geoawesome",
+      "youtube": "A Three.js experiment that turns raw elevation tiles into an electric-blue contour map.\n\nMapterhorn's elevation tiles are loaded directly into the browser, decoded and resampled into a terrain mesh, then contoured at 50-metre intervals with neon lighting effects on top. The map reads latitude and longitude from the URL hash, so the same view works for the Jungfrau or any range you choose. Made for Day 2 (Lines) of the 30 Day Map Challenge.\n\nLearn more: http://googlemapsmania.blogspot.com/2026/11/a-neon-matterhorn.html\n\nMap: MapterGLOW via Maps Mania\n\n#Topography #Terrain #Cartography #Elevation #Geoawesome",
+      "x": "Neon contours at 50 m intervals, wrapped around a 3D Matterhorn you can rotate in your browser.\n\nhttp://googlemapsmania.blogspot.com/2026/11/a-neon-matterhorn.html\n\nMap: MapterGLOW via Maps Mania\n\n#Cartography #Matterhorn #Contours #Geoawesome",
+      "alt_text": "A 3D model of the Matterhorn's terrain traced with glowing cyan contour lines."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-02-4-a-neon-matterhorn.jpg"
+  },
+  {
+    "item": {
+      "id": "tag:blogger.com,1999:blog-12158290.post-2745237234574024469",
+      "source_id": "maps_mania",
+      "source_name": "Maps Mania",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "Europe Divided by Driving Time",
+      "link": "http://googlemapsmania.blogspot.com/2026/11/europe-divided-by-driving-time.html",
+      "published": "2026-11-02T08:37:22+00:00",
+      "summary": "What if every European capital sent out a car at exactly the same moment, with the aim of reaching every town and village in Europe before its rivals? Which capital would claim the most territory, and how far would its influence extend beyond its own national borders? If Every European Capital Sent Out a Car at the Same Moment is an intriguing interactive map from Copilot Travel that attempts to answer these questions. It imagines 38 cars setting off simultaneously from 38 European capitals, with each car travelling outwards along the road network at typical driving speeds. Every location in Europe is then assigned to whichever capital's car can reach it first. The resulting map divides Europe into 38 differently coloured territories, each representing the area that can be reached more quickly from one capital than from any of the others. The visualization is rather like a Voronoi diagram, in which a territory is divided according to the distance from a collection of starting points. However, instead of using straight-line distances to determine where one territory ends and another begins, this map uses travel time. In other words, it creates a kind of time-based Voronoi diagram us",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYoZPyxhhGodT6xiv6tZ5AWVX58oHf0ZVvDM4uI7znBI74phaKddnNUkyXd6BevFYKLxyjTo2y0v690Ub37yNM6la16_E6n02zMdu1MZJpc5WC1gZRmMuaz58wCuLDuYg06ahHS104PmDL0xLf7Wvm0poqK_wY2vjMruOsF30tfp711Y7cQcm4MQ/s1600/drive-time-borders.gif",
+      "credit_hint": "via Maps Mania",
+      "source_tag": "",
+      "page_text": "What if every European capital sent out a car at exactly the same moment, with the aim of reaching every town and village in Europe before its rivals? Which capital would claim the most territory, and how far would its influence extend beyond its own national borders? If Every European Capital Sent Out a Car at the Same Moment is an intriguing interactive map from Copilot Travel that attempts to answer these questions. It imagines 38 cars setting off simultaneously from 38 European capitals, with each car travelling outwards along the road network at typical driving speeds. Every location in Europe is then assigned to whichever capital's car can reach it first. The resulting map divides Europe into 38 differently coloured territories, each representing the area that can be reached more quickly from one capital than from any of the others. The visualization is rather like a Voronoi diagram, in which a territory is divided according to the distance from a collection of starting points. However, instead of using straight-line distances to determine where one territory ends and another begins, this map uses travel time. In other words, it creates a kind of time-based Voronoi diagram us",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYoZPyxhhGodT6xiv6tZ5AWVX58oHf0ZVvDM4uI7znBI74phaKddnNUkyXd6BevFYKLxyjTo2y0v690Ub37yNM6la16_E6n02zMdu1MZJpc5WC1gZRmMuaz58wCuLDuYg06ahHS104PmDL0xLf7Wvm0poqK_wY2vjMruOsF30tfp711Y7cQcm4MQ/s1600/drive-time-borders.gif",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-02-5-europe-divided-by-driving-time.jpg",
+      "image_note": "square crop, from 1080px of source width"
+    },
+    "score": 8.0,
+    "why": "Interactive map of European driving-time territories from 38 capitals; clever geo concept with a clear hook.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "An interactive map by Copilot Travel, featured on Maps Mania, that imagines 38 cars leaving 38 European capitals at the same moment and driving outwards along the road network at typical driving speeds. Every location in Europe is assigned to the capital whose car reaches it first, producing 38 coloured territories. The page describes it as a time-based Voronoi diagram: travel time, not straight-line distance, sets the boundaries.",
+      "uncertainties": [
+        "Reuse policy is 'link_only' and no image licence is stated: confirm we may post the image itself, or post as a link only.",
+        "No image credit on the page; credit built from the map maker named in the text (Copilot Travel) plus Maps Mania.",
+        "The road network data source and the speed values behind 'typical driving speeds' are not stated.",
+        "The page does not list the 38 capitals or say which capital claims the most territory. The page text is cut off, so results may appear further down.",
+        "The page does not say what the interactive version lets users do beyond viewing the map, so the posts avoid naming specific features.",
+        "Colours are arbitrary territory colours. The page does not give a legend."
+      ],
+      "image_credit": "Map: Copilot Travel via Maps Mania",
+      "facebook": "Thirty-eight cars leave thirty-eight European capitals at the same instant, and every town goes to whichever car arrives first.\n\nThat is the premise of an interactive map from Copilot Travel, which assigns every location in Europe to the capital that can reach it fastest along the road network at typical driving speeds. The result works like a Voronoi diagram with travel time in place of straight-line distance, and it asks how far each capital's reach extends beyond its own national borders.\n\nRead more: http://googlemapsmania.blogspot.com/2026/11/europe-divided-by-driving-time.html\n\nMap: Copilot Travel via Maps Mania\n\n#Geoawesome #Cartography #Voronoi #Europe",
+      "instagram": "Europe, redrawn by who gets there first by car.\n\n38 capitals, 38 cars, one start time: each colour is the territory one capital can reach faster than any other.\n\nFind out more: http://googlemapsmania.blogspot.com/2026/11/europe-divided-by-driving-time.html\n\nMap: Copilot Travel via Maps Mania\n\n#Geoawesome #Maps #Europe #Roads",
+      "youtube": "Swap kilometres for minutes behind the wheel and the Voronoi diagram of Europe changes shape.\n\nCopilot Travel's interactive map sends cars out from 38 European capitals simultaneously, travelling along the road network at typical driving speeds, and gives each location to the first car that reaches it. A classic Voronoi diagram splits space by straight-line distance to the nearest seed point. Here travel time sets the boundaries, which yields 38 network-based territories.\n\nLearn more: http://googlemapsmania.blogspot.com/2026/11/europe-divided-by-driving-time.html\n\nMap: Copilot Travel via Maps Mania\n\n#Geoawesome #Voronoi #Networks #Cartography #Mobility",
+      "x": "What does a Voronoi diagram of Europe look like when distance is measured in driving time? 38 capitals race to claim every town.\nhttp://googlemapsmania.blogspot.com/2026/11/europe-divided-by-driving-time.html\nMap: Copilot Travel via Maps Mania\n#Geoawesome #Voronoi #Maps #Europe",
+      "alt_text": "A map of Europe divided into 38 differently coloured territories, one for each capital city."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-02-5-europe-divided-by-driving-time.jpg"
+  },
+  {
+    "item": {
+      "id": "t3_1xmaqtm",
+      "source_id": "reddit_mapporn",
+      "source_name": "Reddit r/MapPorn",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "White storks - One year of migrations",
+      "link": "https://www.reddit.com/r/MapPorn/comments/1xmaqtm/white_storks_one_year_of_migrations/",
+      "published": "2026-11-02T21:53:27+00:00",
+      "summary": "White storks - One year of migrations",
+      "image_url": "https://preview.redd.it/vm8v0ebdt9zh1.gif?width=640&crop=smart&s=d52daed9ec4380edadf17699dbab8245c12595ec",
+      "credit_hint": "u/vladgrinch via r/MapPorn",
+      "source_tag": "",
+      "page_text": "Title of the post: White storks - One year of migrations\nPosted on Reddit by u/vladgrinch via r/MapPorn. The post has no other text; the title is the only description of the map.",
+      "image_credit": "u/vladgrinch via r/MapPorn",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://preview.redd.it/vm8v0ebdt9zh1.gif?width=640&crop=smart&s=d52daed9ec4380edadf17699dbab8245c12595ec",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": false,
+      "square_path": "",
+      "image_note": "image download failed: image larger than 40 MB"
+    },
+    "score": 8.0,
+    "why": "Animated map of white stork migration routes over a year; striking movement visual.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A map posted to r/MapPorn by u/vladgrinch titled 'White storks - One year of migrations'. The title is the only description: no data source, tracking method, number of birds, year or colour meaning is given.",
+      "uncertainties": [
+        "Image download failed (file larger than 40 MB). The editor must fetch the original and make the 1080x1080 square manually. The posts and alt text could not be checked against the actual image.",
+        "Reuse policy is link_only and no licence is stated. Ask u/vladgrinch for permission before reposting the image itself.",
+        "The map's data source is not stated (tracking dataset, number of birds, which year).",
+        "Routes, regions covered and the meaning of colours or lines are unknown. Check the Reddit thread or comments for details before posting.",
+        "A very large file may be a high-resolution or very tall image that crops poorly to a square. Check legibility."
+      ],
+      "image_credit": "Map: u/vladgrinch via r/MapPorn",
+      "facebook": "One species, one year, one map: white stork migration plotted across a full annual cycle.\n\nReddit user u/vladgrinch shared this map of a year of white stork migrations on r/MapPorn. The post names no data source or time period, so read it as a visual overview rather than a dataset. It is still a neat example of how animal movement turns into cartography.\n\nRead more: https://www.reddit.com/r/MapPorn/comments/1xmaqtm/white_storks_one_year_of_migrations/\n\nMap: u/vladgrinch via r/MapPorn\n\n#Geoawesome #Storks #Migration #Maps",
+      "instagram": "Twelve months of white storks on the move, in a single frame.\n\nA year of migrations, mapped by u/vladgrinch.\n\nFull story: https://www.reddit.com/r/MapPorn/comments/1xmaqtm/white_storks_one_year_of_migrations/\n\nMap: u/vladgrinch via r/MapPorn\n\n#Geoawesome #Storks #Birds #Wildlife",
+      "youtube": "How do you show a year of bird migration on one static map?\n\nThis post on r/MapPorn by u/vladgrinch attempts it for white storks. The title is the only description: no tracking source, bird count or dates are given, so check the thread before treating it as data. For anyone working with movement data, it is a useful reference for compressing a full annual cycle into one view.\n\nFind out more: https://www.reddit.com/r/MapPorn/comments/1xmaqtm/white_storks_one_year_of_migrations/\n\nMap: u/vladgrinch via r/MapPorn\n\n#Geoawesome #Migration #Cartography #Dataviz",
+      "x": "A full annual cycle of white stork migration, squeezed into one map.\nhttps://www.reddit.com/r/MapPorn/comments/1xmaqtm/white_storks_one_year_of_migrations/\nMap: u/vladgrinch via r/MapPorn\n#Storks #Migration #Cartography #Geoawesome",
+      "alt_text": "A map showing the migration movements of white storks over the course of one year."
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://unn.ua/en/news/russia-is-building-a-giant-radar-in-kaliningrad-capable-of-tracking-targets-at-distances-of-up-to-3000-km",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Russia is building a giant radar in Kaliningrad capable of tracking targets at distances of up ... - УНН",
+      "link": "https://unn.ua/en/news/russia-is-building-a-giant-radar-in-kaliningrad-capable-of-tracking-targets-at-distances-of-up-to-3000-km",
+      "published": "2026-11-02T21:24:17+00:00",
+      "summary": "The complex is being built near Gvardeysk, 37 km from the Polish border. ICEYE satellite images show three rows of antennas, each more than 500 meters ...",
+      "image_url": "https://unn.ua/img/2026/11/02/1793653209-1444-large.webp",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The radar near Gvardeysk will be able to detect aircraft, missiles, and ships over a significant part of Europe. The system could\nbe used against NATO.\nIn Russia’s Kaliningrad region, construction of a powerful radar station is nearing completion. It could potentially detect aircraft, missiles and ships at distances of up to 3,000 km. A significant part of Europe could fall within its coverage area, including Ukraine, Germany, France and the United Kingdom. Deutsche Welle reports, according to UNN .\nThe complex is being built near Gvardeysk, 37 km from the Polish border. ICEYE satellite images show three rows of antennas, each more than 500 meters long.\nAccording to Defence24, construction began in March 2023. The station will likely be analogous to Russia’s 29B6 “Container” radar, which uses the reflection of radio waves from the ionosphere to detect targets beyond the horizon.\nLithuanian reserve colonel Vaidotas Malinionis believes the station will allow Russia to detect potential threats earlier and gain additional time for military decision-making.\nIn addition, its data could be used to plan offensive operations. Experts also suggest that the radar could help track low-flying drones.\nAt the same time, the complex’s enormous size will make it vulnerable to strikes.\nNear Chernyakhovsk, Russia is building another radar facility more than 1,600 meters in diameter. Its purpose is currently unknown, but analysts do not rule out a connection between the two complexes.\nWhat Ukraine can use to replace the scarce Patriot missiles as early as this winter: experts name possible options 02.11.26, 03:17 • 21890 views",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://unn.ua/img/2026/11/02/1793653209-1444-large.webp",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://unn.ua/_next/image?url=https%3A%2F%2Fimg.unn.ua%2Fimg%2F2026%2F11%2F02%2F1793653209-1444-large.webp&w=720&q=75",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 844px of source width"
+    },
+    "score": 7.0,
+    "why": "ICEYE satellite images of a radar complex near Gvardeysk; strong imagery with a story.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The image is uncredited and unlicensed, the reuse policy is link_only, and we cannot confirm the page image is the ICEYE satellite scene rather than a stock or file photo.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image credit on the page, and no licence stated.",
+        "The source reuse policy is link_only, so the image should not be reposted.",
+        "The text mentions ICEYE satellite images of three antenna rows, each over 500 m long, but the page does not say whether the image shown is one of them.",
+        "If the original ICEYE image is wanted, find it at its first publisher (Deutsche Welle or ICEYE) with a proper credit, date and licence.",
+        "The story is second-hand (UNN citing Deutsche Welle and Defence24). The 3,000 km range and the 29B6 'Container' comparison are hedged ('could', 'likely').",
+        "Military and political subject. Editorial judgement is needed even with a usable image."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.instagram.com/p/DfPmwpSl89R/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Can you pronounce this lake's name on the first try? Meet Lake ... - Instagram",
+      "link": "https://www.instagram.com/p/DfPmwpSl89R/",
+      "published": "2026-11-02T18:56:39+00:00",
+      "summary": "... Landsat image, you can see its three connected sections, North ... 🗺️ USGS 1908 map / Sentinel-2 , 2025 #Quabbin #Massachusetts #Boston ...",
       "image_url": "",
       "credit_hint": "",
       "source_tag": "",
@@ -76,92 +392,18 @@
       "image_note": "no image found on the page"
     },
     "score": 7.0,
-    "why": "Year of North American leaves from space; a striking seasonal time-lapse map from geopandamaps.",
+    "why": "Lake Quabbin Landsat and Sentinel-2 imagery with 1908 USGS map comparison; strong hook.",
     "draft": {
       "worth_posting": false,
-      "skip_reason": "No image on the page, no credit or licence (reuse policy is link only), and the caption is cut off after one line, so data, sensor and dates would all be guesses.",
-      "what_it_shows": "An Instagram reel by geopandamaps titled \"Green Wave\", described as one year of leaves across North America seen from space. The page text stops after \"Every spring a ...\", so the data source, sensor, time period and colour scheme are not given.",
-      "uncertainties": [
-        "No image was found on the page, so there is nothing to crop to a square.",
-        "No image credit or licence is stated, and the reuse policy is link only.",
-        "The source caption is truncated, so the sensor or dataset (for example a vegetation index product), the year shown and what the colours mean are unknown.",
-        "The reel is a third-party visualisation by geopandamaps and the underlying data provider is not named.",
-        "If the editor wants to use it, ask geopandamaps for permission, the full caption and the data source first."
-      ],
-      "image_credit": "",
-      "facebook": "",
-      "instagram": "",
-      "youtube": "",
-      "x": "",
-      "alt_text": ""
-    },
-    "problems": {},
-    "image_url": ""
-  },
-  {
-    "item": {
-      "id": "https://x.com/jembobineuse/status/2116884663822119333",
-      "source_id": "google_alerts_3",
-      "source_name": "Google Alerts #3",
-      "source_type": "alerts",
-      "licence": "link_only",
-      "title": "jembob on X: \"The air defense tower, presumably built in panic—right next to the Yandex ...",
-      "link": "https://x.com/jembobineuse/status/2116884663822119333",
-      "published": "2026-11-01T16:15:12+00:00",
-      "summary": "... unconfirmed, but its existence is becoming increasingly probable. Today's Sentinel-2 images show clearly the shadow of a tower https://t.co/",
-      "image_url": "https://pbs.twimg.com/media/HWCvVEgWAAA1cHL?format=webp&name=large",
-      "credit_hint": "",
-      "source_tag": "",
-      "page_text": "See what’s happening and join the conversation",
-      "image_credit": "",
-      "image_licence": "",
-      "extra_images": [],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HWCvVEgWAAA1cHL?format=webp&name=large",
-          "label": ""
-        }
-      ],
-      "alt_images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1497677080632434700/_ujyWxR3_normal.jpg",
-          "label": ""
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HWCvW_kW4AAHWFR?format=webp&name=large",
-          "label": ""
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HVqe52mWkAAGAKg?format=webp&name=large",
-          "label": ""
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HVqe7mMXMAAb8zv?format=webp&name=large",
-          "label": ""
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HVqe98PWUAIp8uW?format=webp&name=large",
-          "label": ""
-        }
-      ],
-      "origin_url": "",
-      "fetch_page": true,
-      "square_path": "",
-      "image_note": "square crop, from 912px of source width"
-    },
-    "score": 7.0,
-    "why": "Sentinel-2 imagery showing a tower's shadow beside a named site; strong satellite detective hook.",
-    "draft": {
-      "worth_posting": false,
-      "skip_reason": "Truncated third-party X post with no page text, no image credit, link-only reuse policy and an unverified military claim ('presumably'), so it cannot be captioned or credited without guessing.",
+      "skip_reason": "No image was found, no credit is given, reuse is link-only, and the truncated text does not name the lake, so the post could not be written without guessing.",
       "what_it_shows": "",
       "uncertainties": [
-        "The post title is cut off ('right next to the Yandex ...'), so the location and full claim are unknown.",
-        "The page text is only the X login boilerplate, so there is no description of the image, sensor, imagery provider or date.",
-        "No image credit was found and no licence is stated. The image may be commercial satellite imagery reposted without permission.",
-        "The reuse policy is link_only, so the image should not be reposted as a square.",
-        "The author hedges the claim ('presumably built in panic'). It concerns military air defence infrastructure and is unverified.",
-        "The author jembob (@jembobineuse) is an unknown account and the post has not been corroborated by any outlet."
+        "IMAGE NOTE says no image was found on the page, so there is nothing to crop to a square.",
+        "No image credit and no licence are stated, and the reuse policy is link_only.",
+        "The page text is truncated. The lake's name is cut off ('Meet Lake ...'), so we cannot say which lake it is.",
+        "The text mentions a Landsat image, a USGS 1908 map and Sentinel-2 (2025), but it is unclear which image or images the post shows, and no acquisition dates are given.",
+        "The hashtags #Quabbin, #Massachusetts and #Boston do not match the 'hard to pronounce' framing and may refer to a different body of water, so they cannot be used to identify the lake.",
+        "The original Instagram account behind the post is not identified, so the creator cannot be credited."
       ],
       "image_credit": "",
       "facebook": "",
@@ -175,93 +417,19 @@
   },
   {
     "item": {
-      "id": "https://x.com/FirePointUA/status/2116566426509017278",
+      "id": "https://www.tiktok.com/@the.world.in.maps/photo/7703605997125864706",
       "source_id": "google_alerts_3",
       "source_name": "Google Alerts #3",
       "source_type": "alerts",
       "licence": "link_only",
-      "title": "Fire Point on X: \" Satellite images show multiple fires across Russia's Togliattikauchuk ...",
-      "link": "https://x.com/FirePointUA/status/2116566426509017278",
-      "published": "2026-11-01T11:45:22+00:00",
-      "summary": "Satellite images show multiple fires across Russia's Togliattikauchuk plant following an FP-1 drone strike on October 24.",
-      "image_url": "https://pbs.twimg.com/media/HV-N8jCXAAA_Oci?format=webp&name=large",
-      "credit_hint": "",
-      "source_tag": "",
-      "page_text": "See what’s happening and join the conversation",
-      "image_credit": "",
-      "image_licence": "",
-      "extra_images": [],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HV-N8jCXAAA_Oci?format=webp&name=large",
-          "label": ""
-        }
-      ],
-      "alt_images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/2088576541483503616/OiMh_zm9_normal.jpg",
-          "label": ""
-        },
-        {
-          "url": "https://pbs.twimg.com/profile_images/1902576232295976960/1SzBJdhF_normal.jpg",
-          "label": ""
-        },
-        {
-          "url": "https://pbs.twimg.com/tweet_video_thumb/HV-SNH5aIAAPXSd?format=webp&name=large",
-          "label": ""
-        },
-        {
-          "url": "https://pbs.twimg.com/profile_images/2117069550839590912/vyCb49Pq_normal.jpg",
-          "label": ""
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HV-oyWaX0AA0yeZ?format=webp&name=large",
-          "label": ""
-        }
-      ],
-      "origin_url": "",
-      "fetch_page": true,
-      "square_path": "",
-      "image_note": "square crop, from 1220px of source width"
-    },
-    "score": 7.0,
-    "why": "Satellite images of multiple fires at a Russian plant after a drone strike; vivid scene.",
-    "draft": {
-      "worth_posting": false,
-      "skip_reason": "Nothing to describe without guessing: the page text is only X login boilerplate, there is no image credit or licence, and the claim is unverified wartime material from a single X account.",
-      "what_it_shows": "The only information is the post title, which says satellite images show multiple fires at Russia's Togliattikauchuk site. The page text gives no imagery provider, date, sensor or description of the image.",
-      "uncertainties": [
-        "The page text contains only X boilerplate ('See what's happening and join the conversation'), so none of the post content was captured.",
-        "No imagery provider, sensor, acquisition date or resolution is stated.",
-        "No image credit or licence is given, and the reuse policy is link_only.",
-        "The fire claim comes from a single X account (FirePointUA) and has no independent confirmation in the source.",
-        "The title is truncated, so the full claim and context are unknown."
-      ],
-      "image_credit": "",
-      "facebook": "",
-      "instagram": "",
-      "youtube": "",
-      "x": "",
-      "alt_text": ""
-    },
-    "problems": {},
-    "image_url": ""
-  },
-  {
-    "item": {
-      "id": "https://www.facebook.com/geopandamaps/posts/green-wave-one-year-of-leaves-across-north-america-seen-from-spacespring-autumn-/122135440035257074/",
-      "source_id": "google_alerts_3",
-      "source_name": "Google Alerts #3",
-      "source_type": "alerts",
-      "licence": "link_only",
-      "title": "Green Wave One year of leaves across North America, seen from space #spring #autumn ...",
-      "link": "https://www.facebook.com/geopandamaps/posts/green-wave-one-year-of-leaves-across-north-america-seen-from-spacespring-autumn-/122135440035257074/",
-      "published": "2026-11-01T15:03:00+00:00",
-      "summary": "Green Wave One year of leaves across North America, seen from space #spring #autumn #northamerica #canada #usa #mexico #satellite #nature #map ...",
+      "title": "India - after dark, as seen from - #space - . Millions of lights reveal the extraordinary - TikTok",
+      "link": "https://www.tiktok.com/@the.world.in.maps/photo/7703605997125864706",
+      "published": "2026-11-02T16:14:00+00:00",
+      "summary": "TikTok video from The World In Maps (@the.world.in.maps): “#India after dark, as seen from #space . Millions of lights reveal the extraordinary ...",
       "image_url": "",
       "credit_hint": "",
       "source_tag": "",
-      "page_text": "Green Wave One year of leaves across North America, seen from space #spring #autumn #northamerica #canada #usa #mexico #satellite #nature #map ...",
+      "page_text": "",
       "image_credit": "",
       "image_licence": "",
       "extra_images": [],
@@ -273,17 +441,18 @@
       "image_note": "no image found on the page"
     },
     "score": 7.0,
-    "why": "Seasonal leaf-green-up map of North America from space; striking time-lapse style visual.",
+    "why": "Same India night-lights map as a TikTok photo from a map account.",
     "draft": {
       "worth_posting": false,
-      "skip_reason": "No image on the page, no credit or licence, link-only reuse policy, and the only text is a hashtag title with no sensor, data source or date.",
-      "what_it_shows": "",
+      "skip_reason": "No image was retrieved, no credit or licence is given, and the truncated TikTok text names no sensor, date or source, so the post could not be written without guessing.",
+      "what_it_shows": "A TikTok photo post by The World In Maps (@the.world.in.maps) described as India at night seen from space, with millions of lights visible. The page gives no sensor, date or data source, and the caption is cut off.",
       "uncertainties": [
-        "IMAGE NOTE says no image was found on the page, so there is nothing to crop into a square.",
-        "No image credit or licence is stated. The post appears to come from a Facebook page (geopandamaps), but the original maker of the visual is unknown.",
-        "The source is a Google Alert with reuse policy link_only, so the image could not be reposted anyway.",
-        "The page text gives no sensor, vegetation index, year or method. It only says 'one year of leaves across North America, seen from space', so a caption would need guesses about the data.",
-        "If the editor wants to pursue it, find the original creator and dataset (for example, which satellite product and which year) and get permission before posting."
+        "No image was found on the page, so there is nothing to crop to a square.",
+        "No image credit or licence is stated, and the reuse policy is link_only.",
+        "The original data source is unknown. It could be an astronaut photo or a satellite night-lights composite, but the page does not say.",
+        "No acquisition date or compositing period is given.",
+        "The TikTok caption is truncated, so the full claim behind 'Millions of lights reveal the extraordinary...' is unknown.",
+        "The poster is an aggregator account and probably not the original creator of the image."
       ],
       "image_credit": "",
       "facebook": "",
@@ -297,61 +466,217 @@
   },
   {
     "item": {
-      "id": "https://x.com/milan_janosov/status/2116870377322291563/video/1",
+      "id": "https://www.ndtv.com/science/nasa-spots-skull-shaped-antarctic-island-losing-its-snow-cover-12272695",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "NASA Spots Skull-Shaped Antarctic Island Losing Its Snow Cover - NDTV",
+      "link": "https://www.ndtv.com/science/nasa-spots-skull-shaped-antarctic-island-losing-its-snow-cover-12272695",
+      "published": "2026-11-02T15:29:32+00:00",
+      "summary": "Satellite images show snow cover on Vega Island has decreased between 2025 and 2026; Warmer winter temperatures and lack of new snow caused exposed ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Satellite images show snow cover on Vega Island has decreased between 2025 and 2026; Warmer winter temperatures and lack of new snow caused exposed ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Satellite images of Vega Island snow cover loss between 2025 and 2026.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was found on the page, the reuse policy is link-only, there is no image credit, and the only text is a short snippet with no sensor or dates, so there is nothing to post square or caption without guessing.",
+      "what_it_shows": "An NDTV article reporting that NASA satellite images show snow cover on Vega Island, Antarctica, decreased between 2025 and 2026. The snippet attributes this to warmer winter temperatures and a lack of new snow. No image, sensor, exact dates or figures are available in the source material.",
+      "uncertainties": [
+        "No image found on the page (IMAGE NOTE), so there is no visual to crop to 1080x1080.",
+        "Reuse policy is link_only and the image licence is not stated, so even if an image were found it could not be reposted from this page.",
+        "No image credit on the page.",
+        "The page text is a truncated snippet ending in '...', so the full claim is not available.",
+        "Sensor, acquisition dates and any measured change in snow cover are not given.",
+        "This is a third-party news report (NDTV) about NASA imagery. The original NASA source, probably a NASA Earth Observatory feature, would be the better source to check and post from if it has a reusable image and credit."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.facebook.com/OnGeoIntelligence/posts/novokuibyshevsk-oil-refinery-satellite-images-show-massive-smoke-cloud-after-mul/122290751066189100/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Novokuibyshevsk Oil Refinery | Satellite images show massive smoke cloud after ... - Facebook",
+      "link": "https://www.facebook.com/OnGeoIntelligence/posts/novokuibyshevsk-oil-refinery-satellite-images-show-massive-smoke-cloud-after-mul/122290751066189100/",
+      "published": "2026-11-02T14:57:52+00:00",
+      "summary": "Novokuibyshevsk Oil Refinery | Satellite images show massive smoke cloud after multiple strikes 🛰️ Multiple strikes hit Russia's ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Novokuibyshevsk Oil Refinery | Satellite images show massive smoke cloud after multiple strikes 🛰️ Multiple strikes hit Russia's ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Satellite view of a massive refinery smoke cloud after strikes; vivid, though no image carried.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image or credit on the page, truncated third-party text with unverified strike claims, and a link-only reuse policy, so there is nothing we can repost or describe without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "IMAGE NOTE says no image was found on the page, so there is no visual to crop to a square.",
+        "No image credit or licence is given, and the reuse policy is link_only.",
+        "The page text is truncated after 'Multiple strikes hit Russia's ...', so the satellite, acquisition date, imagery type and extent of the smoke cloud are all unknown.",
+        "The source is a third-party Facebook page (OnGeoIntelligence) surfaced by Google Alerts. The original imagery provider is not identified.",
+        "The claim of 'multiple strikes' on the Novokuibyshevsk refinery is a conflict-related claim with no attribution in the available text, and it would need independent verification before any coverage.",
+        "If the editor wants to cover this, look for the original imagery from a named provider with a stated credit and licence."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://thursdaytimes.com/2026/11/02/science/nasa-skull-antarctica-vega-island-landsat-ice/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "NASA images show a grinning 'skull' in the ice on Antarctica's Vega Island, and melting ...",
+      "link": "https://thursdaytimes.com/2026/11/02/science/nasa-skull-antarctica-vega-island-landsat-ice/",
+      "published": "2026-11-02T14:28:40+00:00",
+      "summary": "Landsat photographs reveal large areas of bare ice after a warm ... Recent satellite images show ice loss from other glaciers on the island too.",
+      "image_url": "https://thursdaytimes.com/wp-content/uploads/tt-seo/cards/30939-facebook-95ca544da0.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "WASHINGTON (The Thursday Times) — NASA has released satellite images of an Antarctic island whose ice and rock form what looks like a grinning skull in profile, and a glaciologist says an unusually warm winter has left it exposed to melting.\nThe “skull” is on Vega Island, in the Weddell Sea off the eastern Antarctic Peninsula, gazing towards the nearby Devil Island. A nunatak, a rocky peak jutting out of the ice, forms the eye socket. A lateral moraine, a ridge of debris left along a glacier, forms the mouth, and Bahía del Diablo, or Devil’s Bay, Glacier makes the jawbone.\nNASA’s Landsat 9 satellite photographed the island on March 22, 2025, and again on October 10, 2026. In the first image a layer of snow coats the ice, typical of the region’s wettest month. In the second, snow is absent from large areas and darker ice shows through.\nAbove-average temperatures in winter 2026, particularly in June, were partly responsible, said glaciologist Mauri Pelto of Nichols College. The exposed ice points to limited new snow over the winter, further reduced by sublimation and wind, he said. “The winter season was no treat for these glaciers.”\nBare ice is darker than snow and absorbs more of the sun’s energy, so melting is poised to speed up as the days grow longer and warmer. “Even a thin cover of new snow from a spring storm would be helpful in the short run,” Pelto said. “When entombed in snow and ice, the skull is preserved. But when exposed to melt, it weathers away, which will lead to a changing jawline and expanding eye socket.”\nScientists have tracked the island’s ice for decades. A 1982 study using early Landsat images catalogued 29 glaciers on Vega, and researchers have measured an overall decline in the mass of Devil’s Bay Glacier since the summer of 1998-1999. Recent satellite images show ice loss from other glaciers on the island too.\nThe island also has a place in the history of Antarctic exploration. In spring 1903, two stranded groups from the Swedish Antarctic Expedition, whose ship had been lost to the pack ice, were reunited at a spot off the skull’s “forehead” that became known as Cape Well-met. An Argentine expedition rescued the survivors soon afterwards.\nNo one has said anything yet. Be the first.\nAnswered from this story and the official record, with the proof.\nCookies. We count our readers with Google Analytics, which keeps cookies on your device. May we? The site works the same either way. Privacy",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://thursdaytimes.com/wp-content/uploads/2026/11/vega-island-skull-antarctica-landsat-nasa-1200x675.webp",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://thursdaytimes.com/wp-content/uploads/2026/11/vega-island-skull-antarctica-landsat-nasa-1200x675.webp",
+          "label": ""
+        },
+        {
+          "url": "https://thursdaytimes.com/wp-content/uploads/2026/11/us-midterms-capitol-dusk-spending-record-720x405.webp",
+          "label": ""
+        },
+        {
+          "url": "https://thursdaytimes.com/wp-content/uploads/2026/11/glenn-maxwell-retires-melbourne-stars-720x405.webp",
+          "label": ""
+        },
+        {
+          "url": "https://thursdaytimes.com/wp-content/uploads/2026/11/home-of-fifa-zurich-world-cup-sell-off-documents-720x405.webp",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-02-12-nasa-images-show-a-grinning-skull-in-the.jpg",
+      "image_note": "square crop, from 675px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 7.0,
+    "why": "Landsat imagery of a skull-shaped ice pattern on Vega Island; striking Earth visual with ice-loss story.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "Landsat 9 imagery of Vega Island in the Weddell Sea, off the eastern Antarctic Peninsula. Rock and ice there resemble a grinning skull in profile: a nunatak is the eye socket, a lateral moraine the mouth and Devil's Bay (Bahía del Diablo) Glacier the jawbone. The island was imaged on 22 March 2025, under a snow layer, and on 10 October 2026, when snow was absent from large areas and darker ice showed through.",
+      "uncertainties": [
+        "No image credit or licence on the page. The images are attributed to NASA and Landsat 9 in the text, but the original NASA page (likely NASA Earth Observatory) should be found to confirm the exact credit and the reuse terms.",
+        "Reuse policy for this source is link_only. Check whether the image can be posted, ideally by sourcing it directly from NASA.",
+        "The source is a third-party outlet (The Thursday Times, found via Google Alerts), not NASA. Quotes from Mauri Pelto should ideally be checked against the NASA original.",
+        "The IMAGE NOTE does not say whether the square shows one date or a before/after pair. The posts and alt text do not specify which date is shown. Confirm before posting.",
+        "Low resolution: the square was upscaled from 675 px source width, so check sharpness.",
+        "Band combination and colour rendering are not stated (natural colour is not confirmed). Resolution is not stated.",
+        "Warm winter is described as only 'partly responsible'. That hedge is kept in the posts."
+      ],
+      "image_credit": "Image: NASA, Landsat 9, via The Thursday Times",
+      "facebook": "On Vega Island, a nunatak, a moraine and a glacier line up into a grinning skull in profile.\n\nLandsat 9 captured it on 22 March 2025 under a coat of snow, then on 10 October 2026 with snow gone from large areas and darker ice showing through. Glaciologist Mauri Pelto (Nichols College) says an above-average winter, especially June, was partly responsible. Bare ice absorbs more of the sun's energy, so melt is poised to speed up.\n\nRead more: https://thursdaytimes.com/2026/11/02/science/nasa-skull-antarctica-vega-island-landsat-ice/\n\nImage: NASA, Landsat 9, via The Thursday Times\n\n#Landsat #Antarctica #Glaciers #Geoawesome",
+      "instagram": "Antarctica has a skull, and its snow cover is thinning.\n\nOn Vega Island, a rocky nunatak forms the eye socket and a moraine the grin. By 10 October 2026, Landsat 9 showed snow missing from large areas.\n\nLearn more: https://thursdaytimes.com/2026/11/02/science/nasa-skull-antarctica-vega-island-landsat-ice/\n\nImage: NASA, Landsat 9, via The Thursday Times\n\n#Landsat9 #Antarctica #Ice #Geoawesome",
+      "youtube": "The jawbone of this 'skull' is Devil's Bay Glacier, measured losing mass since the 1998-1999 summer.\n\nLandsat 9 imaged Vega Island on 22 March 2025 and 10 October 2026. By the later date, darker ice was exposed across large areas. Mauri Pelto reads it as limited winter snowfall, further reduced by sublimation and wind. A 1982 study using early Landsat images counted 29 glaciers on the island.\n\nFull story: https://thursdaytimes.com/2026/11/02/science/nasa-skull-antarctica-vega-island-landsat-ice/\n\nImage: NASA, Landsat 9, via The Thursday Times\n\n#Landsat #Glaciers #Cryosphere #Geoawesome",
+      "x": "A 1982 study using early Landsat images counted 29 glaciers on Vega Island. One now forms the jaw of a 'skull' in the ice, and Landsat 9 shows its snow cover thinning.\nhttps://thursdaytimes.com/2026/11/02/science/nasa-skull-antarctica-vega-island-landsat-ice/\nImage: NASA, Landsat 9\n#Landsat #Antarctica #Glaciers #Geoawesome",
+      "alt_text": "Satellite view of Vega Island in Antarctica, where dark rock, a debris ridge and glacier ice form the shape of a grinning skull in profile."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-02-12-nasa-images-show-a-grinning-skull-in-the.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.brusselstimes.com/belgium/2388241/one-in-three-brussels-residents-at-risk-of-basement-flooding-new-map-reveals",
       "source_id": "google_alerts_5",
       "source_name": "Google Alerts #5",
       "source_type": "alerts",
       "licence": "link_only",
-      "title": "30DayMapChallenge 1919 points in one city: every pub, gym and healthc… / X",
-      "link": "https://x.com/milan_janosov/status/2116870377322291563/video/1",
-      "published": "2026-11-01T15:50:35+00:00",
-      "summary": "Day 1 - Points | # 30DayMapChallenge 1919 points in one city: every pub, gym and healthcare site in Budapest that OpenStreetMap knows ...",
-      "image_url": "https://pbs.twimg.com/amplify_video_thumb/2116870118516862976/img/fllNTO1A5xUee3AE?format=webp&name=large",
+      "title": "One in three Brussels residents at risk of basement flooding, new map reveals",
+      "link": "https://www.brusselstimes.com/belgium/2388241/one-in-three-brussels-residents-at-risk-of-basement-flooding-new-map-reveals",
+      "published": "2026-11-02T16:36:18+00:00",
+      "summary": "Almost one in three Brussels residents could face basement flooding during heavy rain. A new interactive map reveals the risks at each address.",
+      "image_url": "https://api.brusselstimes.com/wp-content/uploads/2026/07/0ea3858b-belgaimage-33351835-1024x683.jpg",
       "credit_hint": "",
       "source_tag": "",
-      "page_text": "See what’s happening and join the conversation",
-      "image_credit": "",
+      "page_text": "Almost one in three Brussels residents could face basement flooding during heavy rainfall, according to Brussels Environment, which has launched an updated interactive map allowing residents to check the flood risk at their address.\nThe new tool provides detailed information on flood-prone areas across the Brussels-Capital Region, alongside practical advice on protecting homes against heavy rain and storms.\nThe updated map, which complies with the latest European requirements, allows residents to zoom in on individual properties and identify potential flood risks.\nIt also directs users towards practical solutions to prevent water from entering their homes.\nAccording to Brussels Environment, protecting a property does not necessarily require expensive structural work.\nSimple measures, such as placing sandbags in front of basement windows during weather warnings, installing flood barriers or adding a raised threshold at the top of a garage ramp, can help reduce the risk of flooding.\nLower-lying areas of Brussels are particularly vulnerable to flooding, including the Senne, Molenbeek, Maalbeek and Woluwe valleys.\nHowever, other neighbourhoods where rainwater accumulates during heavy downpours are also exposed.\nOne of the main threats comes from sewage systems overflowing and pushing wastewater back into basements.\nBrussels Environment estimates that almost one in three residents could be affected by this phenomenon during heavy rain or thunderstorms.\nIn the event of an exceptionally severe rainfall event, statistically expected once every 1,000 years, one in five Brussels residents could be exposed to flooding.\nFor rainfall events with a probability of occurring once every 100 years, the risk affects approximately one in 12 residents.\nResidents can check the risk at their address using the interactive flood map published by Brussels Environment .\nBrussels State Secretary for the Environment, Climate and Urban Renewal Ans Persoons (Vooruit) stressed the importance of preventive measures to make the capital more resilient to extreme weather.\n“There are already several measures making a difference. In new construction projects, rainwater must be disconnected from the sewage network. We are also removing paved surfaces wherever possible so that water can soak into the ground,” she said.\nWater utility Vivaqua is also constructing a new stormwater retention basin in Watermael-Boitsfort.\nThe measures form part of Brussels Environment’s wider strategy to improve rainwater management and reduce pressure on the city’s drainage systems.\nVivaqua currently operates 33 stormwater retention basins across Brussels and is expected to take over the management of five additional facilities from Hydria, the former Brussels water management company, on 1 January.\n“After the heatwaves this summer, we are preparing for an autumn of heavy rain and stormy weather,” Persoons said.\n“We want to protect Brussels and its residents as effectively as possible against the consequences of climate change.”\nShe added that the new tool offers simple, affordable measures that residents can implement quickly.\n“We must do everything we can to prevent rainwater from entering the sewage system.”\nCopyright © 2026 The Brussels Times. All Rights Reserved.",
+      "image_credit": "Belga/Anthony Dehez",
       "image_licence": "",
       "extra_images": [],
       "images": [
         {
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2116870118516862976/img/fllNTO1A5xUee3AE?format=webp&name=large",
+          "url": "https://api.brusselstimes.com/wp-content/uploads/2026/07/0ea3858b-belgaimage-33351835-1024x683.jpg",
           "label": ""
         }
       ],
-      "alt_images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/2081435304829857792/UDanjc5i_normal.jpg",
-          "label": ""
-        },
-        {
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2116870118516862976/img/fllNTO1A5xUee3AE?format=webp&name=medium",
-          "label": ""
-        },
-        {
-          "url": "https://pbs.twimg.com/profile_images/1805796154199736320/qbVugNoD_normal.jpg",
-          "label": ""
-        }
-      ],
+      "alt_images": [],
       "origin_url": "",
       "fetch_page": true,
       "square_path": "",
-      "image_note": "square crop, from 576px of source width (low resolution: upscaled, check sharpness)"
+      "image_note": "square crop, from 683px of source width (low resolution: upscaled, check sharpness)"
     },
     "score": 7.0,
-    "why": "Dense OSM point map of Budapest; a clear, striking city visual from the 30DayMapChallenge.",
+    "why": "Interactive address-level flood-risk map of Brussels; strong geo hook for readers.",
     "draft": {
       "worth_posting": false,
-      "skip_reason": "The page gives only a truncated title and X boilerplate (no city, data source, date or credit), and the image is a low-resolution video frame with a link-only reuse policy, so the post could not be written without guessing.",
-      "what_it_shows": "",
+      "skip_reason": "The only image is a Belga agency news photo (credit Belga/Anthony Dehez, licence not stated, reuse policy link_only, 683px upscaled), not the flood map itself, and its content cannot be described without guessing.",
+      "what_it_shows": "The article reports that Brussels Environment has launched an updated interactive flood map for the Brussels-Capital Region. Residents can zoom in to individual properties to check flood risk at their address and get advice on protective measures. Brussels Environment estimates almost one in three residents could face basement flooding from sewer overflow in heavy rain, one in five in a 1,000-year rainfall event and about one in 12 in a 100-year event.",
       "uncertainties": [
-        "The title is cut off ('every pub, gym and healthc…'), so the full list of mapped categories is unknown.",
-        "The source does not name the city.",
-        "No data source is given for the 1919 points (for example OpenStreetMap or an official register).",
-        "The page states no image credit. The URL suggests the X account milan_janosov, but this is not confirmed as the map's maker.",
-        "No image licence is stated, and the reuse policy is link_only.",
-        "The source is a video, and the square was upscaled from 576px of source width. It will likely look soft at 1080x1080.",
-        "The page text is only X boilerplate, so none of the post's content could be checked."
+        "The page image is a Belga agency photograph, not a map. What it depicts is not described in the source.",
+        "The image licence is not stated and the reuse policy is link_only, so reposting an agency photo is unlikely to be permitted.",
+        "The source image is only 683px wide and would be upscaled to 1080x1080.",
+        "The article does not give the URL of the Brussels Environment map, its data sources, modelling method or spatial resolution.",
+        "'Complies with the latest European requirements' is not specified (presumably the EU Floods Directive, but the source does not say so).",
+        "If the editor can get a screenshot of the Brussels Environment map with permission (credit 'Map: Brussels Environment'), this story could be reconsidered as an interactive map post."
       ],
       "image_credit": "",
       "facebook": "",
@@ -365,94 +690,72 @@
   },
   {
     "item": {
-      "id": "https://x.com/MenchOsint/status/2116936671640138225",
-      "source_id": "google_alerts_3",
-      "source_name": "Google Alerts #3",
-      "source_type": "alerts",
+      "id": "t3_1xm8yi6",
+      "source_id": "reddit_mapporn",
+      "source_name": "Reddit r/MapPorn",
+      "source_type": "maps",
       "licence": "link_only",
-      "title": "MenchOsint on X: \"At least 25 U.S. Air Force refueling aircraft parked at Ramon Airport, on ...",
-      "link": "https://x.com/MenchOsint/status/2116936671640138225",
-      "published": "2026-11-01T17:16:37+00:00",
-      "summary": "At least 25 U.S. Air Force refueling aircraft parked at Ramon Airport, on Sentinel-2 imagery from October 31st. *There are not much in Tel Aviv or ...",
-      "image_url": "https://pbs.twimg.com/media/HWDeqNLWkAABesr?format=webp&name=large",
-      "credit_hint": "",
+      "title": "How the US could be divided if state lines followed economic regions",
+      "link": "https://www.reddit.com/r/MapPorn/comments/1xm8yi6/how_the_us_could_be_divided_if_state_lines/",
+      "published": "2026-11-02T20:44:58+00:00",
+      "summary": "How the US could be divided if state lines followed economic regions",
+      "image_url": "https://i.redd.it/xqx7hvn5h9zh1.jpeg",
+      "credit_hint": "u/vladgrinch via r/MapPorn",
       "source_tag": "",
-      "page_text": "See what’s happening and join the conversation",
-      "image_credit": "",
+      "page_text": "Title of the post: How the US could be divided if state lines followed economic regions\nPosted on Reddit by u/vladgrinch via r/MapPorn. The post has no other text; the title is the only description of the map.",
+      "image_credit": "u/vladgrinch via r/MapPorn",
       "image_licence": "",
       "extra_images": [],
       "images": [
         {
-          "url": "https://pbs.twimg.com/media/HWDeqNLWkAABesr?format=webp&name=large",
+          "url": "https://i.redd.it/xqx7hvn5h9zh1.jpeg",
           "label": ""
         }
       ],
-      "alt_images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1931115896602288128/b0tqXVn6_normal.jpg",
-          "label": ""
-        },
-        {
-          "url": "https://pbs.twimg.com/profile_images/2077000795950632961/GC6jYZvv_normal.jpg",
-          "label": ""
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HWC5Y4qXcAA56G-?format=webp&name=large",
-          "label": ""
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HWDfkDBXYAAzg8f?format=webp&name=large",
-          "label": ""
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HWDfke_XYAAGxlB?format=webp&name=large",
-          "label": ""
-        }
-      ],
+      "alt_images": [],
       "origin_url": "",
-      "fetch_page": true,
-      "square_path": "",
-      "image_note": "square crop, from 1753px of source width"
+      "fetch_page": false,
+      "square_path": "drafts/images/2026-11-02-14-how-the-us-could-be-divided-if-state-lin.jpg",
+      "image_note": "square crop, from 670px of source width (low resolution: upscaled, check sharpness)"
     },
-    "score": 6.0,
-    "why": "Sentinel-2 imagery counting aircraft at Ramon Airport; a concrete satellite read, though news-driven.",
+    "score": 7.0,
+    "why": "Alternative US map redrawing states around economic regions; strong geo concept.",
     "draft": {
-      "worth_posting": false,
-      "skip_reason": "Truncated X post with no page text, no image credit, unknown imagery source or date, and a link-only reuse policy, so the image can't be described or credited without guessing.",
-      "what_it_shows": "",
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A Reddit map by u/vladgrinch, posted to r/MapPorn, that shows how the United States could be divided if state lines followed economic regions. The post title is the only description: no data source, method, date of data or legend explanation is given.",
       "uncertainties": [
-        "Title is cut off ('on ...'), so the date or context of the claim is unknown",
-        "Page text is only the X login boilerplate; the post content and image were not captured",
-        "No sensor, imagery provider or acquisition date is given, so it is not even confirmed to be satellite imagery",
-        "Image credit not found and licence not stated; source reuse policy is link_only",
-        "The claim of 'at least 25 U.S. Air Force refueling aircraft' comes from a single OSINT account and is unverified",
-        "Military deployment content may be politically sensitive and needs editorial judgement even if a sourced image becomes available"
+        "The map's data source is not stated, and neither is how 'economic regions' were defined (for example GDP, commuting, trade or metro areas).",
+        "The number of regions, their names and what the colours mean are not described in the source, so they are left out of the captions.",
+        "Reuse policy is 'link_only' and the image licence is not stated. Check with the creator or confirm policy before reposting the image itself.",
+        "The square was cropped from only 670px of source width and upscaled. Check sharpness and legibility of any labels before posting.",
+        "The alt text is based on the title only. Adjust it to match what is actually visible in the image."
       ],
-      "image_credit": "",
-      "facebook": "",
-      "instagram": "",
-      "youtube": "",
-      "x": "",
-      "alt_text": ""
+      "image_credit": "Map: u/vladgrinch via r/MapPorn",
+      "facebook": "What if US state boundaries were drawn around economic regions instead of today's state lines?\n\nThis map from r/MapPorn redraws the country along economic regions, replacing the familiar state outlines with a different set of territories. It is a thought experiment, not an official proposal, and the post names no data source or method, so read the borders as one mapmaker's interpretation.\n\nFull story: https://www.reddit.com/r/MapPorn/comments/1xm8yi6/how_the_us_could_be_divided_if_state_lines/\n\nMap: u/vladgrinch via r/MapPorn\n\n#Geoawesome #Cartography #USA #Economy",
+      "instagram": "The US map, with state lines swapped for economic regions.\n\nA what-if redraw of the United States where borders follow the economy, not current state boundaries.\n\nLearn more: https://www.reddit.com/r/MapPorn/comments/1xm8yi6/how_the_us_could_be_divided_if_state_lines/\n\nMap: u/vladgrinch via r/MapPorn\n\n#Geoawesome #Maps #USA #Geography",
+      "youtube": "Administrative borders rarely match how an economy actually works, and this map asks what happens if they did.\n\nPosted on r/MapPorn, it divides the United States into territories based on economic regions rather than existing states. The post does not say which data or criteria define a region, so the method is open: worth comparing with how you would delineate functional economic areas yourself.\n\nFind out more: https://www.reddit.com/r/MapPorn/comments/1xm8yi6/how_the_us_could_be_divided_if_state_lines/\n\nMap: u/vladgrinch via r/MapPorn\n\n#Geoawesome #Cartography #Regions #USA",
+      "x": "Redraw US state lines around economic regions and you get this what-if map from r/MapPorn. Data source not stated.\nhttps://www.reddit.com/r/MapPorn/comments/1xm8yi6/how_the_us_could_be_divided_if_state_lines/\nMap: u/vladgrinch via r/MapPorn\n#Geoawesome #Maps #Economy",
+      "alt_text": "A map of the United States divided into new regions based on economic areas instead of the current state lines."
     },
     "problems": {},
-    "image_url": ""
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-02-14-how-the-us-could-be-divided-if-state-lin.jpg"
   },
   {
     "item": {
-      "id": "https://wfca.com/fire-map/massachusetts/green_dot_trail",
+      "id": "https://wfca.com/fire-map/detection/ce420a5757154e0a",
       "source_id": "google_alerts_2",
       "source_name": "Google Alerts #2",
       "source_type": "alerts",
       "licence": "link_only",
-      "title": "Tracking the Green Dot Trail Fire in Massachusetts | WFCA Fire Map",
-      "link": "https://wfca.com/fire-map/massachusetts/green_dot_trail",
-      "published": "2026-11-01T06:19:28+00:00",
-      "summary": "Beach RdStarted Oct 29 · Updated 1d ago. 5 mi. MapLibre . MenuOpen the menu and map settings. FiresBrowse active fires on the map. WFCA Fire Map ...",
+      "title": "Tracking fires in Coffee, Georgia | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/ce420a5757154e0a",
+      "published": "2026-11-02T15:04:04+00:00",
+      "summary": "Newton 98063 ac · 0% containedStarted Oct 30 · Updated 2d ago. 3000 ft. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and ...",
       "image_url": "",
       "credit_hint": "",
       "source_tag": "",
-      "page_text": "The Green Dot Trail fire in Norfolk, Massachusetts is currently 3 acres.",
+      "page_text": "Tracking satellite fire detections in Coffee, Georgia observed by LANDSAT covering 0.4 acres from 2 merged observations. View on WFCA's real-time fire map.",
       "image_credit": "",
       "image_licence": "",
       "extra_images": [],
@@ -464,15 +767,17 @@
       "image_note": "no image found on the page"
     },
     "score": 6.0,
-    "why": "Live wildfire tracker map with perimeter and active-fire layers; interactive and clickable.",
+    "why": "Live wildfire map tracker for Coffee, Georgia; interactive and useful, though no image.",
     "draft": {
       "worth_posting": false,
-      "skip_reason": "No image on the page and only one line of text (a 3-acre fire in Norfolk, Massachusetts), so there is no visual to repost and nothing to caption without guessing.",
-      "what_it_shows": "",
+      "skip_reason": "No image on the page (link-only reuse policy) and the content is an automated 0.4-acre Landsat fire detection entry with no striking visual.",
+      "what_it_shows": "An auto-generated WFCA fire map entry for a satellite fire detection in Coffee, Georgia. The page says it was observed by Landsat, covers 0.4 acres and is merged from 2 observations. It gives no date beyond the publish time and has no image or credit.",
       "uncertainties": [
-        "No image was found on the page, and no image credit or licence is given.",
-        "The page text says only that the Green Dot Trail fire in Norfolk, Massachusetts is currently 3 acres. There is no date of the measurement, no data source and no map description.",
-        "Reuse policy is link_only, so nothing from the page could be reposted anyway."
+        "No image found on the page, and the reuse policy is link_only.",
+        "No image credit or licence stated.",
+        "The detection date and time are not given (only the page publish timestamp).",
+        "It is unclear whether this is a confirmed fire or a raw satellite hotspot detection.",
+        "There is no context on cause, size beyond 0.4 acres, or status."
       ],
       "image_credit": "",
       "facebook": "",
@@ -486,19 +791,19 @@
   },
   {
     "item": {
-      "id": "https://www.facebook.com/geopandamaps/posts/green-wave-one-year-of-leaves-across-europe-seen-from-spaceevery-spring-a-green-/122135414847257074/",
-      "source_id": "google_alerts_3",
-      "source_name": "Google Alerts #3",
+      "id": "https://wfca.com/fire-map/detection/418b535911bf4e90",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
       "source_type": "alerts",
       "licence": "link_only",
-      "title": "Green Wave One year of leaves across Europe, seen from space Every spring a green ... - Facebook",
-      "link": "https://www.facebook.com/geopandamaps/posts/green-wave-one-year-of-leaves-across-europe-seen-from-spaceevery-spring-a-green-/122135414847257074/",
-      "published": "2026-11-01T08:39:24+00:00",
-      "summary": "Green Wave One year of leaves across Europe, seen from space Every spring a green wave rolls across Europe. Around the Mediterranean the land ...",
+      "title": "Tracking fires in Pacific, Washington | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/418b535911bf4e90",
+      "published": "2026-11-02T11:50:38+00:00",
+      "summary": "2026-n4234622 acStarted Oct 26 · Updated 6d ago. 3000 ft. MapLibre . MenuOpen the menu and map settings. FiresBrowse active fires on the map. WFCA ...",
       "image_url": "",
       "credit_hint": "",
       "source_tag": "",
-      "page_text": "Green Wave One year of leaves across Europe, seen from space Every spring a green wave rolls across Europe. Around the Mediterranean the land ...",
+      "page_text": "Tracking satellite fire detections in Pacific, Washington observed by SOF from 4 merged observations. View on WFCA's real-time fire map.",
       "image_credit": "",
       "image_licence": "",
       "extra_images": [],
@@ -510,17 +815,208 @@
       "image_note": "no image found on the page"
     },
     "score": 6.0,
-    "why": "Companion Europe leaf-wave map; strong seasonal visual but similar to the North America post.",
+    "why": "Interactive active-fire map for Pacific, Washington; playable tracker with a clear place.",
     "draft": {
       "worth_posting": false,
-      "skip_reason": "No image on the page, no credit, a link-only reuse policy and truncated text, so there is no visual to post and nothing to describe without guessing.",
+      "skip_reason": "No image on the page: this is an auto-generated satellite fire detection entry for Pacific, Washington with one line of text, no visual and no image credit.",
       "what_it_shows": "",
       "uncertainties": [
-        "The page has no image (IMAGE NOTE: no image found).",
-        "There is no image credit or licence, and the reuse policy is link_only.",
-        "The page text cuts off after the first sentences. It gives no sensor, dataset, index (e.g. NDVI), date range or colour meaning.",
-        "The source is a third-party Facebook post (geopandamaps) found through Google Alerts. The original data source is unknown.",
-        "If the editor wants this, find the original animation or map and its maker, check the data source and dates, and confirm reuse rights."
+        "No image was found on the page, so there is nothing to crop into a square.",
+        "The text names the detection source only as 'SOF' (4 merged observations) and does not explain it; it gives no fire size, date of detection or confirmation.",
+        "Reuse policy is link_only and no image credit or licence is stated.",
+        "It is unclear whether this detection is a confirmed wildfire or an unverified hotspot."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/5c438a9106964240",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Kittitas, Washington | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/5c438a9106964240",
+      "published": "2026-11-02T08:20:18+00:00",
+      "summary": "Willow7,359 ac · 92% containedStarted Jun 28 · Updated 3d ago. 3000 ft. MapLibre . MenuOpen the menu and map settings. FiresBrowse active fires on the ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Kittitas, Washington observed by VIIRS_NOAA21 covering 360.9 acres from 7 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Willow fire tracker in Kittitas, Washington; interactive map with containment data.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page: it is an auto-generated fire detection stub (VIIRS NOAA-21, 360.9 acres from 7 merged observations) with a link-only reuse policy and no credit or licence.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page has no image, so there is nothing to crop into a square.",
+        "The image credit and licence are not stated, and the reuse policy is link_only.",
+        "The text is an automated detection summary. It gives no fire name, cause, or confirmation that this is an active wildfire rather than another heat source.",
+        "The detection date and time are not given beyond the page's publish timestamp (2026-11-02).",
+        "The 360.9 acres is an area derived from merged satellite pixels, not a confirmed burned area."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/c5d369d1f38641f7",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Colusa, California | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/c5d369d1f38641f7",
+      "published": "2026-11-02T06:32:28+00:00",
+      "summary": "StuhrStarted Oct 30 · Updated 2d ago. 3000 ft. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and map settings. FiresBrowse ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Colusa, California observed by SOF from 2 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live wildfire tracker map for Colusa, California; interactive and current.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page and only one line of text (an automated fire detection listing), so there is nothing to post square and no story to tell without guessing.",
+      "what_it_shows": "An auto-generated WFCA fire map listing for a satellite fire detection in Colusa, California, built from 2 merged observations attributed to 'SOF'. The page provides no image, no date for the detection, no fire size and no sensor detail beyond that abbreviation.",
+      "uncertainties": [
+        "No image found on the page; nothing to crop to 1080x1080.",
+        "Reuse policy is link_only, so even a screenshot of the map would not be cleared.",
+        "'SOF' is not explained on the page; the sensor or detection system behind it is not stated.",
+        "No detection date or time, location precision, fire size or confirmation that it is an active wildfire rather than another heat source.",
+        "Image credit and licence not stated.",
+        "Single automated detection with no news context; not clear this is a notable fire."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/b90aadc36de142da",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Grant, Oregon | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/b90aadc36de142da",
+      "published": "2026-11-02T06:32:27+00:00",
+      "summary": "Ojo TecoloteStarted Oct 26 · Updated 4d ago. 3000 ft. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and map settings. Fires ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Grant, Oregon observed by VIIRS_NOAA21 covering 129.7 acres from 2 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live wildfire tracker map for Grant, Oregon; interactive and current.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page (link-only reuse policy); it is an auto-generated detection stub with one line of text and no visual to post.",
+      "what_it_shows": "An automated Western Fire Chiefs Association fire map entry for a satellite fire detection in Grant, Oregon. The page says it was observed by VIIRS_NOAA21 and covers 129.7 acres from 2 merged observations. No image, date of observation or fire name is given.",
+      "uncertainties": [
+        "No image found on the page and no image credit or licence, so there is nothing to post square.",
+        "Reuse policy is link_only.",
+        "Observation date and time are not stated (only the page publish timestamp, 2026-11-02).",
+        "The 129.7 acres is an area derived from merged satellite detections, not a confirmed burn perimeter. The page does not say whether this is a wildfire, prescribed burn or other heat source.",
+        "Grant, Oregon is not specified further (presumably Grant County, but not stated)."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/e8d64ef7533d47ad",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Chelan, Washington | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/e8d64ef7533d47ad",
+      "published": "2026-11-02T06:32:26+00:00",
+      "summary": "2026-n4234622 acStarted Oct 26 · Updated 6d ago. 3000 ft. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and map settings.",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Chelan, Washington observed by VIIRS_NOAA21 covering 94.0 acres from 2 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live fire map for Chelan, Washington; a 4,234 acre fire, interactive.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page (reuse policy link_only): an auto-generated fire-detection listing (VIIRS NOAA-21, 94 acres from 2 merged observations) with no visual to repost.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image found on the page and no image credit or licence stated.",
+        "Reuse policy is link_only, so no visual from the page could be reposted anyway.",
+        "Page is an automated detection record: it gives no date of observation, no fire name and no confirmation that the detection is an active wildfire rather than another heat source.",
+        "Publisher listed as Google Alerts; the underlying source is the Western Fire Chiefs Association fire map."
       ],
       "image_credit": "",
       "facebook": "",
