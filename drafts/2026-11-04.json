@@ -1,0 +1,1123 @@
+[
+  {
+    "item": {
+      "id": "https://science.nasa.gov/?p=1507747",
+      "source_id": "nasa_eo",
+      "source_name": "NASA Earth Observatory",
+      "source_type": "eo_imagery",
+      "licence": "reuse",
+      "title": "Before the Dawn in America’s Heartland",
+      "link": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/",
+      "published": "2026-11-04T05:01:00+00:00",
+      "summary": "With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest.",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/before-the-dawn-in-america’s-heartland/ISS075-E-226709.jpg?w=1440&h=960&fit=clip&crop=faces%2Cfocalpoint",
+      "credit_hint": "NASA Earth Observatory",
+      "source_tag": "@NASAEarth",
+      "page_text": "With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest.\nThe predawn hours brought clear skies over much of the eastern United States on October 18, 2026. An astronaut aboard the International Space Station seized the opportunity to capture this wide-angle photo at 4:54 a.m. Central Daylight Time (09:54 Universal Time), with illuminated cities large and small arrayed across the darkened landscape.\nThe U.S. Midwest’s largest metropolitan areas , such as Chicago, Illinois, and Detroit, Michigan, stand out as some of the brightest features. Mid-sized cities—including Indianapolis, Indiana; Cincinnati, Ohio; and Louisville, Kentucky—and their interconnections along state and interstate highways also shine brightly.\nAbove the web of nighttime lights and Earth’s lower atmosphere, a diffuse layer of green and orange is visible along the horizon to the left. This band of light is airglow , produced when sunlight strikes atoms and molecules in the upper atmosphere and causes them to eject photons . To the right, light from the Sun arcs across the horizon; sunrise was about an hour away on the East Coast and about two hours away in Chicago.\nAstronaut photos and other remote sensing observations of nighttime lights are scientifically valuable for tracking changes in the built environment. For example, Chicago's lightscape appears a homogeneous pale yellow in the wide view above. But in detailed photos, like the one below, a range of colors stemming from different types of lighting is discernible. Using NASA’s extensive Gateway to Astronaut Photography of Earth archive, researchers have developed a method for distinguishing lighting types within the pixels of nighttime photos. Systematically quantifying urban lights’ brightness, color, and extent can provide insight into how cities grow and evolve .\nSatellite sensors also observe changes to lighting. In particular, NASA’s Black Marble nighttime lights product suite uses satellite observations to produce science-quality records of nighttime lights across the globe at daily, monthly, and yearly time scales. In the eastern U.S., scientists have used these data to track everything from power outages and restoration following major storms to lighting changes associated with new infrastructure to transitions to LED lighting from older forms.\nAstronaut photograph ISS075-E-226709 was acquired on October 18, 2026, with a Nikon Z9 digital camera using a focal length of 14 millimeters, and photograph ISS070-E-105097 was acquired on March 1, 2024, with a Nikon D5 digital camera using a focal length of 400 millimeters. They are provided by the ISS Crew Earth Observations Facility and the Earth Science and Remote Sensing Unit at NASA Johnson Space Center. The images were taken by members of the Expedition 75 and Expedition 70 crews, respectively. The images have been cropped and enhanced to improve contrast, and lens artifacts have been removed. The International Space Station Program supports the laboratory as part of the ISS National Lab to help astronauts take pictures of Earth that will be of the greatest value to scientists and the public, and to make those images freely available on the internet. Additional images taken by astronauts and cosmonauts can be viewed at the NASA/JSC Gateway to Astronaut Photography of Earth . Story by Lindsey Doermann.\nStay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.\nThe tilt in Earth's axis of rotation makes the apparent position of continents shift with the seasons in imagery from…\nA bright lens of anorthosite, a rock type prevalent on the lunar surface, is cradled within sheared rocks in the…\nOver the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA World…\nSubscribe to the Earth Observatory and get the Earth in your inbox.\nNASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.\nOpen access to NASA’s archive of Earth science data",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/before-the-dawn-in-america’s-heartland/ISS075-E-226709.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/before-the-dawn-in-america’s-heartland/ISS075-E-226709.jpg?w=1440&h=960&fit=clip&crop=faces%2Cfocalpoint",
+          "label": ""
+        },
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/153000/153622/iss070e105097.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
+          "label": ""
+        },
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/153000/153622/iss070e105097_lrg.jpg?w=150&h=150&fit=crop&crop=faces,focalpoint",
+          "label": ""
+        },
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=1536&h=864&fit=clip&crop=faces%2Cfocalpoint",
+          "label": ""
+        },
+        {
+          "url": "https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=1536&h=1536&fit=clip&crop=faces%2Cfocalpoint",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-04-1-before-the-dawn-in-america-s-heartland.jpg",
+      "image_note": "square crop, from 853px of source width"
+    },
+    "score": 8.0,
+    "why": "Astronaut photo of Midwest nighttime lights from orbit; strong Earth view with a striking visual.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A wide-angle astronaut photograph (ISS075-E-226709) taken from the International Space Station at 4:54 a.m. CDT (09:54 UTC) on 18 October 2026 with a Nikon Z9 at 14 mm. It shows nighttime lights across the US Midwest under clear skies: Chicago and Detroit are the brightest features, and mid-sized cities such as Indianapolis, Cincinnati and Louisville are linked by lit highways. A green and orange band of airglow lies along the horizon to the left, and sunlight arcs across the horizon to the right. NASA cropped the image, enhanced its contrast and removed lens artefacts.",
+      "uncertainties": [
+        "The page names no image credit. 'NASA Earth Observatory' is used as instructed. The page says the photos come from the ISS Crew Earth Observations Facility and the Earth Science and Remote Sensing Unit at NASA Johnson Space Center, which may be the better credit.",
+        "The image licence is not stated on the page. Check NASA's reuse terms before posting.",
+        "The square was cropped from only 853px of source width. Check that it still shows the airglow on the left horizon, the sunlight on the right, and the cities named in the captions (Chicago, Detroit, Indianapolis, Cincinnati, Louisville). If not, edit those mentions.",
+        "The page has two photos: the wide 14 mm view from 2026 and a 400 mm Chicago detail from 1 March 2024. Confirm the square uses the wide view, which these captions describe.",
+        "The image has been processed (cropped, contrast-enhanced, lens artefacts removed), so the colours are not raw."
+      ],
+      "image_credit": "Image: NASA Earth Observatory",
+      "facebook": "Two hours before sunrise in Chicago, an astronaut on the International Space Station caught much of the US Midwest lit up under almost cloudless skies.\n\nTaken at 09:54 UTC on 18 October 2026, the photo shows Chicago and Detroit as the brightest features, with Indianapolis, Cincinnati and Louisville tied together by glowing interstate corridors. Along the left horizon sits a green and orange band of airglow, while sunlight arcs in from the right.\n\nRead more: https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/\n\nImage: NASA Earth Observatory\n\n#ISS #Midwest #Airglow #Geoawesome",
+      "instagram": "The Midwest at 4:54 a.m., seen from orbit.\n\nChicago and Detroit burn brightest, and highways thread the smaller cities into one web of light beneath a faint green and orange glow in the upper atmosphere.\n\nFind out more: https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/\n\nImage: NASA Earth Observatory\n\n#Astronaut #Cities #Airglow #Geoawesome",
+      "youtube": "One 14 mm frame from the ISS takes in night lights from Chicago to Louisville.\n\nAn Expedition 75 crew member shot ISS075-E-226709 with a Nikon Z9 on 18 October 2026. At this scale Chicago reads as a uniform pale yellow. In detailed night photos, though, researchers using NASA's astronaut photography archive can tell lighting types apart within individual pixels, which helps them track how cities grow.\n\nLearn more: https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/\n\nImage: NASA Earth Observatory\n\n#ISS #Urban #Lighting #Geoawesome",
+      "x": "Clear predawn skies gave an ISS astronaut the whole Midwest in one shot, Chicago to Louisville, with airglow on the horizon.\nhttps://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/\nImage: NASA Earth Observatory\n#ISS #Chicago #Nighttime #Geoawesome",
+      "alt_text": "Night-time photograph of the US Midwest taken from the International Space Station, showing yellow clusters of city lights joined by bright lines of highways across a dark landscape."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-04-1-before-the-dawn-in-america-s-heartland.jpg"
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/f7e97f34ff7a42be",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Blair, Pennsylvania | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/f7e97f34ff7a42be",
+      "published": "2026-11-04T01:01:39+00:00",
+      "summary": "Crooked2 acStarted Oct 25 · Updated 9d ago. 3000 ft. MapLibre . MenuOpen the menu and map settings. FiresBrowse active fires on the map. WFCA Fire ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Blair, Pennsylvania observed by LANDSAT covering 0.4 acres from 2 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live wildfire detection map for Blair, PA; interactive, but no image in feed.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page and reuse is link only; the page is an automated listing of a 0.4-acre Landsat fire detection with no striking visual.",
+      "what_it_shows": "An automated WFCA fire map entry for Blair, Pennsylvania. It lists a Landsat satellite fire detection covering 0.4 acres from 2 merged observations. No image, date of observation or map visual is provided on the page.",
+      "uncertainties": [
+        "No image found on the page, so there is nothing to post as a square.",
+        "Reuse policy is link only, and the image licence is not stated.",
+        "No image credit is given on the page.",
+        "The observation date is not given; only the alert publication time (2026-11-04) is known.",
+        "It is not stated whether the detection is a confirmed fire or an unverified thermal anomaly."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/597934ca3b814f60",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in McCurtain, Oklahoma | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/597934ca3b814f60",
+      "published": "2026-11-04T00:35:25+00:00",
+      "summary": "Fifty Range 2 Zh 14 acStarted Oct 29 · Updated 1d ago. 3000 ft. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and map ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in McCurtain, Oklahoma observed by GOES_ABI covering 1529.3 acres from 2 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live wildfire detection map for McCurtain, OK; interactive, but no image in feed.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, only an automated text entry for a GOES ABI fire detection (1,529.3 acres, 2 merged observations) with link-only reuse, so there is no visual to post.",
+      "what_it_shows": "An auto-generated WFCA Fire Map detection page for McCurtain, Oklahoma. It reports a satellite fire detection from GOES_ABI covering 1,529.3 acres, built from 2 merged observations. The source provides no image, no detection date and no colour scheme.",
+      "uncertainties": [
+        "No image found on the page, and the image licence is not stated.",
+        "Reuse policy is link_only.",
+        "The detection date and time are not given, only the page publication timestamp.",
+        "The page does not say whether the detection is a confirmed wildfire, a prescribed burn or another heat source.",
+        "The area comes from merged geostationary satellite pixels. GOES ABI has coarse resolution, so 1,529.3 acres may not match the actual burned area."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://x.com/CesiumJS/status/2117373593625453026",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Cesium on X: \"Voxels have come to 3D Tiles, making it possible to stream and query ...",
+      "link": "https://x.com/CesiumJS/status/2117373593625453026",
+      "published": "2026-11-03T09:16:28+00:00",
+      "summary": "https://t.co/hWkt2vSAaR #3DTiles #Voxels # CesiumJS \". @ CesiumJS . Cesium · @ CesiumJS . Voxels have come to 3D Tiles, making it possible to stream and ...",
+      "image_url": "https://pbs.twimg.com/profile_images/378800000723966304/85ba7259a6a0bbfa00ffd975240b3846_400x400.png",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "See what’s happening and join the conversation",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/378800000723966304/85ba7259a6a0bbfa00ffd975240b3846_400x400.png",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/378800000723966304/85ba7259a6a0bbfa00ffd975240b3846_normal.png",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 400px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6.0,
+    "why": "Voxels in 3D Tiles: streaming 3D geodata visual; no image, but a Cesium viewer demo is likely.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No usable source material: the page text is X login boilerplate, the title is truncated, the image is unidentified, low resolution (400px upscaled) and uncredited, and reuse is link_only.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page text is only the X boilerplate 'See what's happening and join the conversation', so there is no description of the image.",
+        "The title is truncated ('Voxels have come to 3D Tiles, making it possible to stream and query ...'), so the full claim is unknown.",
+        "There is no image credit or licence on the page, and the reuse policy is link_only.",
+        "The image comes from 400px of source width and is upscaled, so it is likely too soft for a 1080x1080 square.",
+        "This looks like a software feature announcement (CesiumJS and 3D Tiles voxels) rather than a map or EO image. It might suit a news item once Cesium's own blog post or documentation is available."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.linkedin.com/posts/corybarr_gaussiansplatting-cesiumjs-geospatialai-activity-7523414030816804864-ToEJ",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "#gaussiansplatting # cesiumjs #geospatialai #computervision | Cory Barr - LinkedIn",
+      "link": "https://www.linkedin.com/posts/corybarr_gaussiansplatting-cesiumjs-geospatialai-activity-7523414030816804864-ToEJ",
+      "published": "2026-11-04T00:07:19+00:00",
+      "summary": "... CesiumJS , Cesium ion, C-RADIOv4 (NVIDIA), SigLIP 2 (Google DeepMind), RADSeg and Anthropic Claude Code. ⠀ #GaussianSplatting # CesiumJS ...",
+      "image_url": "https://dms.licdn.com/playlist/vid/v2/D5605AQGPpYTBST1d8g/thumbnail-with-play-button-overlay-high/B56aGfoqTzJQC0-/0/1793679602383?e=2147483647&v=beta&t=6BNcLAwLlyJ9hmg1Cn6uLSx91MsYQ5Ow9Lc1Cp9SofA",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\nCan you Thanos-snap away the parts of a 3D Gaussian splat you don't want? Yeah, you can.\n⠀\nHere it's a splat of Microsoft's Redmond campus in CesiumJS, edited one typed sentence at a time. Nothing in the scene is labeled. Every Gaussian holds its own 1536-D embedding, built from what a vision model saw in 429 rendered views. A text query is matched against all of them, so any phrase becomes a selection.\n⠀\nA planner turns each sentence into tool calls that run per Gaussian in the shader: glow, spin, launch, dissolve.\n⠀\nMade with CesiumJS, Cesium ion, C-RADIOv4 ( NVIDIA ), SigLIP 2 ( Google DeepMind ), RADSeg and Anthropic Claude Code.\n⠀ #GaussianSplatting #CesiumJS #GeospatialAI #ComputerVision\nWould be super cool to see this applied as a VFX!\nMy goodness. I never stop being shocked by this kind of black magic.\nCreate your free account or sign in to continue your search\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://dms.licdn.com/playlist/vid/v2/D5605AQGPpYTBST1d8g/thumbnail-with-play-button-overlay-high/B56aGfoqTzJQC0-/0/1793679602383?e=2147483647&v=beta&t=6BNcLAwLlyJ9hmg1Cn6uLSx91MsYQ5Ow9Lc1Cp9SofA",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 720px of source width"
+    },
+    "score": 6.0,
+    "why": "Gaussian splatting of a 3D geo scene in CesiumJS; striking if the post shows the render.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "LinkedIn tech-demo post with link-only reuse, no image credit or licence, and no description of which frame the square crop shows, so the visual cannot be described without guessing.",
+      "what_it_shows": "A LinkedIn post by Cory Barr about a 3D Gaussian splat of Microsoft's Redmond campus displayed in CesiumJS and edited with typed sentences. Each Gaussian carries a 1536-D embedding built from what a vision model saw in 429 rendered views, so a text query can select any part of the scene. A planner turns each sentence into per-Gaussian shader effects (glow, spin, launch, dissolve).",
+      "uncertainties": [
+        "Reuse policy is link_only, so the image should not be reposted as a square.",
+        "No image credit or licence is stated on the page.",
+        "The page text does not say what the attached image or video frame shows (for example, which effect or which part of the campus), so the square crop cannot be described or given alt text without guessing.",
+        "The post is likely a video demo. A still crop may not show the text-driven editing that makes it interesting.",
+        "The source is a personal LinkedIn post (via Google Alerts), not a published article or dataset release.",
+        "This could suit a link-only or text post about language-queried Gaussian splats in CesiumJS, if the editor wants to cover it."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.semafor.com/article/11/03/2026/us-strikes-irans-qeshm-island-despite-peace-push",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "US strikes Iran despite diplomatic push | Semafor",
+      "link": "https://www.semafor.com/article/11/03/2026/us-strikes-irans-qeshm-island-despite-peace-push",
+      "published": "2026-11-03T12:55:33+00:00",
+      "summary": "Iran's Qeshm Island, following suspected oil spills at sea on Aug 10, 2026. Iran's Qeshm Island. EU/Copernicus Sentinel-2 /Handout via Reuters. The ...",
+      "image_url": "https://img.semafor.com/6f84f14332ccd3aa47d868b61942728597400ff8-2048x1482.jpg?rect=0,204,2048,1075&w=1200&h=630&q=75&auto=format",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The US attacked Iranâs Qeshm Island, the latest in a series of targeted strikes that came even as President Donald Trump pushed for an off-ramp in his war with Tehran. Officials in Washington reportedly kept the strikes â intended to ensure the Strait of Hormuz remains open â under wraps to avoid signalling a major resumption of hostilities on the eve of the US midterm elections; the surging cost of living sparked by the Iran war is topping votersâ concerns .\nWhile traffic along the key waterway remains a shadow of its prewar levels, Gulf countries are finding ways to export their oil and gas: Saudi Aramcoâs third-quarter net profits surged by more than a third compared to the same period last year.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://img.semafor.com/6f84f14332ccd3aa47d868b61942728597400ff8-2048x1482.jpg?rect=0,204,2048,1075&w=1200&h=630&q=75&auto=format",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://img.semafor.com/18252f73ac6dbea9f3c4ef53a617546c922e07f3-852x852.png?h=50&w=50&auto=format&q=75",
+          "label": ""
+        },
+        {
+          "url": "https://img.semafor.com/6f84f14332ccd3aa47d868b61942728597400ff8-2048x1482.jpg?w=740&q=75&auto=format&h=535",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 629px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6.0,
+    "why": "Sentinel-2 image of Qeshm Island with suspected oil spills; strong geo visual, news hook.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "News article on US strikes on Iran's Qeshm Island with no identified map or satellite image, no image credit or licence, and a link-only reuse policy.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page text describes no image, so its content (photo, satellite image or map) is unknown.",
+        "There is no image credit and no licence, and the reuse policy is link_only, so the image cannot be reposted.",
+        "The source image is only 629px wide and would need upscaling for a 1080x1080 square.",
+        "The strike details are reported second-hand ('reportedly') and concern an active conflict, which is outside Geoawesome's image-repost remit."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.instagram.com/p/DfSg9HbMVWE/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Lake Koroneia, a protected wetland north-east of Thessaloniki in northern Greece was ... - Instagram",
+      "link": "https://www.instagram.com/p/DfSg9HbMVWE/",
+      "published": "2026-11-03T18:24:02+00:00",
+      "summary": "... Sentinel-2 satellites on 19 October 2026, shows the lake surrounded by agricultural fields. Pale grey areas of exposed lakebed and shallow water ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Sentinel-2 view of Lake Koroneia exposed lakebed and shallow water; vivid change scene.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No usable image: none was found on the page, there is no image credit or licence, the reuse policy is link_only, and the page text is only a truncated fragment of someone else's Instagram post.",
+      "what_it_shows": "The fragment describes a Copernicus Sentinel-2 image of Lake Koroneia, a protected wetland north-east of Thessaloniki in northern Greece, acquired on 19 October 2026. It shows the lake surrounded by agricultural fields, with pale grey areas of exposed lakebed and shallow water. The rest of the caption is cut off, so the context (drought, water level, comparison) is unknown.",
+      "uncertainties": [
+        "No image was found on the page, so there is nothing to crop to a 1080x1080 square.",
+        "No image credit or licence is stated. The image is presumably Copernicus Sentinel-2 data, but the processor or publisher (ESA, Copernicus, or a third party) is not given.",
+        "The reuse policy is link_only, so the image could not be reposted even if found.",
+        "The page text is truncated mid-sentence. The main claim about Lake Koroneia (what 'was ...' refers to) is missing.",
+        "The original Instagram account behind the post is not identified.",
+        "Worth checking whether ESA or Copernicus published this image with a licence that allows reuse. If so, it could be posted from that source instead."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.reutersconnect.com/item/satellite-image-shows-damage-in-beit-hanoun-gaza/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlpTTkFUSkZITw?lastViewed=dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkFZTkFLMUY5MA&position=2",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Licensable picture: Satellite image shows damage in Beit Hanoun, Gaza | Reuters Connect",
+      "link": "https://www.reutersconnect.com/item/satellite-image-shows-damage-in-beit-hanoun-gaza/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlpTTkFUSkZITw?lastViewed=dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkFZTkFLMUY5MA&position=2",
+      "published": "2026-11-03T20:41:38+00:00",
+      "summary": "A satellite image shows damage in Beit Hanoun, Gaza, September 23, 2026. 2026 Planet Labs PBC/Handout via REUTERS THIS IMAGE HAS BEEN SUPPLIED BY ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "A satellite image shows damage in Beit Hanoun, Gaza, September 23, 2026. 2026 Planet Labs PBC/Handout via REUTERS THIS IMAGE HAS BEEN SUPPLIED BY ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Planet Labs satellite image of conflict damage in Beit Hanoun; before-and-after style story.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image is available (the page has no image, the reuse policy is link_only and it is a licensable Reuters picture), and the text gives only a one-line caption.",
+      "what_it_shows": "According to the Reuters caption, a Planet Labs PBC satellite image shows damage in Beit Hanoun, Gaza, on 23 September 2026. The page gives no image, resolution, sensor detail or extent of damage.",
+      "uncertainties": [
+        "No image was found on the page, so there is nothing to crop to a square.",
+        "Reuse policy is link_only and Reuters Connect sells licences for this picture, so a repost is likely not permitted without a licence.",
+        "The page states no image credit or licence. The caption text says '2026 Planet Labs PBC/Handout via REUTERS', but this is not a confirmed credit line.",
+        "No detail is given on what the damage is, how much there is, or what caused it.",
+        "Conflict damage imagery needs careful editorial handling and context the source does not provide."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.linkedin.com/posts/amir-zelman_30daymapchallenge-activity-7523464931027910657-D6qN",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "# 30daymapchallenge | Amir Zelman - LinkedIn",
+      "link": "https://www.linkedin.com/posts/amir-zelman_30daymapchallenge-activity-7523464931027910657-D6qN",
+      "published": "2026-11-04T00:12:07+00:00",
+      "summary": "... brought together Overture Maps Foundation buildings and NYC's building records, then rendered in Blender. # 30DayMapChallenge .",
+      "image_url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQF64EPN0HRnwQ/thumbnail-with-play-button-overlay-high/B4EaGi3ctnH0C0-/0/1793733808963?e=2147483647&v=beta&t=mwvepwOE2wP_-_zvgxSkp4MhyX4q0Awtx6xstImNTkE",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\nJoining the 30 Day Map Challenge a little late this year. Just got back from a long weekend celebrating my wife's birthday.\n\nI lived in the boroughs my whole life. Now that I'm in more suburban New Jersey, I've started missing the concrete jungle. So for Day 3, Polygons: Midtown Manhattan building itself, 1850 to today. Every building still standing rises in the year it went up.\n\nBuilt with Geodesic by SeerAI, Inc. , which brought together Overture Maps Foundation buildings and NYC's building records, then rendered in Blender. #30DayMapChallenge\nAmir, watching Midtown assemble itself by construction year is a great take on the polygons prompt. Joining Overture footprints with NYC building records is the unglamorous half of the work and clearly the reason the animation holds up. Which era's records needed the most cleanup, the 1800s or the mid-century ones?\nCreate your free account or sign in to continue your search\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQF64EPN0HRnwQ/thumbnail-with-play-button-overlay-high/B4EaGi3ctnH0C0-/0/1793733808963?e=2147483647&v=beta&t=mwvepwOE2wP_-_zvgxSkp4MhyX4q0Awtx6xstImNTkE",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E16AQGsJYIDj-3mkQ/profile-displaybackgroundimage-shrink_200_800/B4EZXY6OVLHcAY-/0/1743100899342?e=2147483647&v=beta&t=cKkX7QpPftjBH38wQcmWFwjtm1365iuGFMHBECt7j34",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-04-9-30daymapchallenge-amir-zelman-linkedin.jpg",
+      "image_note": "square crop, from 720px of source width"
+    },
+    "score": 6.0,
+    "why": "30DayMapChallenge 3D Blender render of NYC buildings; striking visual, though no image in feed.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A 3D animation by Amir Zelman, made for Day 3 (Polygons) of the 30 Day Map Challenge, showing Midtown Manhattan building itself from 1850 to today: every building still standing rises in the year it went up. It was built with Geodesic by SeerAI, which combined Overture Maps Foundation buildings with NYC's building records, and rendered in Blender. The post is a still taken from that animation.",
+      "uncertainties": [
+        "The source's reuse policy is link_only and the page states no image licence. Get permission from Amir Zelman before reposting the image.",
+        "The page gives no image credit. 'Map: Amir Zelman via LinkedIn' is based on the post author and should be confirmed.",
+        "The source is an animation, but the square is a still crop, so we do not know which year or frame it shows.",
+        "Any colour scheme or legend in the render is not explained in the post.",
+        "The post does not say how building heights were derived or what date 'today' refers to in the data.",
+        "Only buildings still standing are included, so demolished buildings are absent. The captions mention this.",
+        "The comment on the page is from a third party and adds no verified facts. It was not used."
+      ],
+      "image_credit": "Map: Amir Zelman via LinkedIn",
+      "facebook": "From 1850 to today, Midtown Manhattan builds itself polygon by polygon.\n\nAmir Zelman's Day 3 entry for the 30 Day Map Challenge raises every standing building in the year it went up, joining Overture Maps Foundation buildings with NYC building records. Demolished buildings never appear, so this is the age of today's Midtown, not its full history.\n\nRead more: https://www.linkedin.com/posts/amir-zelman_30daymapchallenge-activity-7523464931027910657-D6qN\n\nMap: Amir Zelman via LinkedIn\n\n#Geoawesome #Manhattan #Buildings #Polygons",
+      "instagram": "Watch Midtown's skyline assemble itself, one construction year at a time.\n\nEvery building still standing in Midtown Manhattan rises in the year it went up, from 1850 to today, rendered in Blender.\n\nLearn more: https://www.linkedin.com/posts/amir-zelman_30daymapchallenge-activity-7523464931027910657-D6qN\n\nMap: Amir Zelman via LinkedIn\n\n#Geoawesome #Manhattan #Blender #NYC",
+      "youtube": "Two datasets, one join: Overture Maps Foundation buildings meet NYC's building records.\n\nAmir Zelman combined them in Geodesic by SeerAI, then rendered Midtown Manhattan in Blender so each standing building rises in its year of construction, 1850 to today. It was his Day 3 (Polygons) entry for the 30 Day Map Challenge. Only surviving buildings are included, so lost structures leave no trace.\n\nFull story: https://www.linkedin.com/posts/amir-zelman_30daymapchallenge-activity-7523464931027910657-D6qN\n\nMap: Amir Zelman via LinkedIn\n\n#Geoawesome #Overture #Blender #Cartography",
+      "x": "Midtown Manhattan's skyline, built up year by year from 1850, using only buildings that still stand.\nOverture + NYC building records, rendered in Blender.\nhttps://www.linkedin.com/posts/amir-zelman_30daymapchallenge-activity-7523464931027910657-D6qN\nMap: Amir Zelman via LinkedIn\n#Geoawesome #Manhattan #Overture #Buildings",
+      "alt_text": "A 3D render of Midtown Manhattan's buildings, taken from an animation in which each building rises in the year it was constructed."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-04-9-30daymapchallenge-amir-zelman-linkedin.jpg"
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/2436cdad699d4c7b",
+      "source_id": "google_alerts_6",
+      "source_name": "Google Alerts #6",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Union, Oregon | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/2436cdad699d4c7b",
+      "published": "2026-11-04T00:03:14+00:00",
+      "summary": "Bluff Fire96 acStarted Jul 24 · Updated 1d ago. 3000 ft. MapLibre . MenuOpen the menu and map settings. FiresBrowse active fires on the map. WFCA ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Union, Oregon observed by VIIRS_NOAA20 covering 136.0 acres from 4 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live fire-map detection page showing a 96-acre fire; interactive map, but no image.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The page is an auto-generated fire detection entry with no image, no stated image credit or licence, and a link-only reuse policy, so there is nothing to repost.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was found on the page, and the licence and credit are not stated.",
+        "The page text is a one-line automated summary: VIIRS on NOAA-20, 136.0 acres from 4 merged observations in Union, Oregon. It gives no date of observation, no fire name and no confirmation on the ground.",
+        "Satellite thermal detections can include non-wildfire heat sources. Nothing on the page confirms this is an active wildfire."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.linkedin.com/posts/pawarashutosh_remotesensing-sentinel2-geoai-activity-7523066578075217920-z6pp",
+      "source_id": "google_alerts_1",
+      "source_name": "Google Alerts #1",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "#remotesensing #sentinel2 # geoai #climatetrace #methane #earthobservation | Ashutosh Pawar",
+      "link": "https://www.linkedin.com/posts/pawarashutosh_remotesensing-sentinel2-geoai-activity-7523066578075217920-z6pp",
+      "published": "2026-11-02T21:55:24+00:00",
+      "summary": "... geospatial foundation model . We tested it across 5 countries with 3675 ... GeoAI #ClimateTRACE #Methane #EarthObservation.",
+      "image_url": "https://media.licdn.com/dms/image/v2/D5622AQH0ic4fQZ56bg/feedshare-shrink_800/B56aGaQSIzKEAc-/0/1793589323059?e=2147483647&v=beta&t=CW5QGqKC22YlNvlCezJ-nxM_9TdKvhytor4A1Ue4eV4",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\nWhen I started learning remote sensing, I was amazed that a ratio of two or three spectral bands could reveal so much about vegetation, soil, and water. I never thought I’d get to build an index of my own. 🌎 🛰️\n\nMy first dissertation chapter is now out, open access in the International Journal of Applied Earth Observation and Geoinformation!\n\nWe introduce the Bovine Slurry Index (BSI), a Sentinel-2 index that maps liquid manure ponds within cattle operations identified by a geospatial foundation model. We tested it across 5 countries with 3,675 manure ponds. BSI outperformed standard water indices in every region, reaching up to 91% precision in the U.S.\n\nWhy it matters: manure ponds are a major source of livestock methane, and knowing where they are is a first step toward better emissions inventories.\n\nBuilt with an amazing team: my advisor, Dr. Vasit Sagan , and my co-authors Derek Tesser , Alessandro Farbo, PhD , Edward Boyda, and Aaron Davitt , with support from the Remote Sensing Lab at Saint Louis University , Climate TRACE , and Earth Genome .\n\n📄 Read it for free: https://lnkd.in/gR4ADg4g #RemoteSensing #Sentinel2 #GeoAI #ClimateTRACE #Methane #EarthObservation\nLooks amazing!! I have been working in methane generation lab tests and geospatial data by separate, and I have never thought how both worlds could be merged, despite just simple gis processing. Congratulations!\nCreate your free account or sign in to continue your search\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQH0ic4fQZ56bg/feedshare-shrink_800/B56aGaQSIzKEAc-/0/1793589323059?e=2147483647&v=beta&t=CW5QGqKC22YlNvlCezJ-nxM_9TdKvhytor4A1Ue4eV4",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5616AQFUq_B_b0qXcg/profile-displaybackgroundimage-shrink_200_800/B56aBGZ_4rJAAQ-/0/1787887616209?e=2147483647&v=beta&t=WIUOk-kqPuBKSxeZDtDUU5Zq3zkqg0ZtUwlbBh39INM",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 418px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 5.0,
+    "why": "Sentinel-2 methane mapping via ClimateTRACE; spatial topic but no visual in feed.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "This is a LinkedIn paper announcement: the page never describes the image (418px wide, no credit, no licence), so we cannot say what it shows without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page text does not describe the attached image. It could be a figure, a Sentinel-2 scene, a graphical abstract or a portrait, so a caption and alt text would be guesswork.",
+        "No image credit or licence appears on the page, and the reuse policy is link_only.",
+        "The source image is only 418px wide, so a 1080x1080 square would be heavily upscaled.",
+        "The story itself is promising: the Bovine Slurry Index (BSI), a Sentinel-2 index for liquid manure ponds, tested on 3,675 ponds in 5 countries, with up to 91% precision in the U.S. It is open access in the International Journal of Applied Earth Observation and Geoinformation. If the paper has a clearly licensed figure (for example an open-access CC BY map of detected ponds), that figure could be a better basis for a post, credited to the authors and journal.",
+        "The lnkd.in short link to the paper should be resolved to the journal DOI before any future use."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/8ba6e4e59c1d43ac",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Kootenai, Idaho | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/8ba6e4e59c1d43ac",
+      "published": "2026-11-03T10:29:16+00:00",
+      "summary": "Willow7,359 ac · 92% containedStarted Jun 28 · Updated 4d ago. 3000 ft. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Kootenai, Idaho observed by VIIRS_NOAA20 covering 87.5 acres from 2 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Interactive fire map of Kootenai Idaho fire, 7,359 acres; a live tracker reader can open.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page and the reuse policy is link-only; this is an auto-generated detection notice (one VIIRS NOAA-20 detection, 87.5 acres) with nothing visual to share.",
+      "what_it_shows": "An automated WFCA fire map entry for a satellite fire detection in Kootenai, Idaho, observed by VIIRS on NOAA-20 and covering 87.5 acres from 2 merged observations. The page contains no image.",
+      "uncertainties": [
+        "No image found on the page, so there is nothing to crop into a square",
+        "Reuse policy is link_only and no image credit or licence is given",
+        "No date of the detection is stated beyond the alert timestamp (2026-11-03)",
+        "Not stated whether the detection is a confirmed wildfire, a prescribed burn or another heat source",
+        "Auto-generated page with a single data point and no context or analysis"
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/maine/shredded_tire_fire",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Shredded Tire Fire Fire in Maine | WFCA Fire Map",
+      "link": "https://wfca.com/fire-map/maine/shredded_tire_fire",
+      "published": "2026-11-04T00:03:18+00:00",
+      "summary": "Crooked2 acStarted Oct 25 · Updated 9d ago. 100 mi. MapLibre . MenuOpen the menu and map settings. FiresBrowse active fires on the map. WFCA Fire ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The Shredded Tire Fire fire in Somerset, Maine is currently 0 acres.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Live fire tracker map for a notable Maine shredded tire fire; interactive and unusual.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page and only one line of text (a tire fire in Somerset, Maine listed at 0 acres), so there is no visual to post and nothing to explain without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image found on the page and no image credit or licence stated.",
+        "The page text is a single auto-generated line; fire size is given as 0 acres, with no date of ignition, cause, status or data source.",
+        "The title repeats 'Fire Fire', which suggests an automated listing rather than reporting.",
+        "Reuse policy is link_only, so no visual could be reposted from this page anyway."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.stripes.com/theaters/middle_east/2026-11-03/us-strikes-iran-qeshm-island-hormuz-23348317.html",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "US quietly strikes Iranian island in Strait of Hormuz as Trump weighs next steps",
+      "link": "https://www.stripes.com/theaters/middle_east/2026-11-03/us-strikes-iran-qeshm-island-hormuz-23348317.html",
+      "published": "2026-11-03T14:26:47+00:00",
+      "summary": "A satellite image shows an arrow-shaped island in dark blue water beside a brown. A satellite image shows Qeshm Island in the Strait of Hormuz.",
+      "image_url": "https://www.stripes.com/incoming/uz4hr1-041126qeshmphoto01.jpg/alternates/LANDSCAPE_480/041126QESHMphoto01.JPG",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "A satellite image shows Qeshm Island in the Strait of Hormuz. American strikes targeting the Iranian island were reported Monday, the eve of midterm elections in the U.S.  (European Space Agency/Wikimedia Commons)\nThe U.S. struck an Iranian island in the Strait of Hormuz on the eve of Election Day, the latest in a series of what officials call limited defensive strikes against the country in recent weeks.\nThe strikes Monday targeting Qeshm Island came as President Donald Trump has talked up a diplomatic off-ramp to the Iran war. But Trump has been considering stepping up the conflict after Tuesday’s midterm elections, according to news reports.\nTrump told Fox News on Tuesday morning that it was a “minor attack, it wasn’t a war,” and that it targeted an anti-aircraft facility that took Iran about two months to build.\n“We watched it get built,” he said . “As soon as it was completed — we hit it.”\nOn Monday, he downplayed the prospect of a return to major fighting, posting on Truth Social that oil prices were falling and that Tehran wanted a settlement as soon as possible.\nIn remarks on the last day of campaigning before the midterm elections, Trump said “we haven’t been doing any fighting for months.”\nBut overnight, a series of blasts in rapid succession were heard on Qeshm Island, Al Jazeera reported , citing Iran’s state-owned IRNA news agency. Witnesses said they saw two planes flying over the island off Iran’s southern coast.\nOil is seen on the shoreline of Iran’s Qeshm Island on Aug. 13, 2026. The U.S. carried out strikes Monday on the island, a key point in the Strait of Hormuz. (Amirhosein Khorgooi/AP)\nThe largest island in the Persian Gulf, it is key terrain in Iran’s attempts to control shipping traffic through the Strait of Hormuz, a critical waterway for global energy supplies.\nAt least two incidents Monday prompted U.S. strikes in the area, The Wall Street Journal reported , citing unidentified U.S. officials. CNN also reported details of one of the incidents, citing an unidentified official.\nIn that case, a U.S. fighter jet struck back in self-defense after Iran’s Revolutionary Guard fired a surface-to-air missile at it, the officials said.\nIn a separate instance, U.S. forces intercepted an Iranian missile fired the same day from Qeshm and targeting commercial shipping, one official told the newspaper.\nU.S. Central Command often issues statements about its defensive strikes and sometimes provides video footage. It did not do either in these two cases.\nThe strikes Monday were part of a series of smaller-scale assaults in recent weeks that the U.S. sought to keep quiet to avoid indicating that major combat operations were resuming, officials told CNN and The Wall Street Journal.\nCENTCOM did not immediately respond to questions about the strikes.\nIn recent days, reports have suggested Trump was mulling a strike hundreds of miles to the north on Pickaxe Mountain near Natanz, which houses a nuclear complex deep inside that Israel believes may hold stores of enriched uranium and the equipment Iran uses to make nuclear fuel.\nIn a Fox News appearance that aired Monday night, Trump said it would be “not a big deal” to hit the site.\n“We can do it in literally, we can do that in one hour,” he said. “As soon as we want, at any time we want.”\nLast week, CENTCOM boss Adm. Brad Cooper visited the White House to brief the president on military options in the conflict, The Wall Street Journal reported .\nIn a call with Axios on Monday, Trump said he was in “no rush” to resume strikes. Treasury Secretary Scott Bessent, CIA Director John Ratcliffe and Secretary of State Marco Rubio were advising him to let an economic pressure campaign play out instead, Axios reported.\nMeanwhile, Iran has promised to respond to any escalation in the war with a harder and broader response that would not be confined to the Middle East.\nChad Garland is a Marine Corps veteran who covers the U.S. military in Vicenza, Italy, for Stars and Stripes. He previously covered military operations downrange in the Middle East and elsewhere. He has also reported for news outlets in Washington, D.C., Arizona, Oregon and California.\nGulf states fear fiercer Iran retaliation if US strikes again\nUS sending Patriot system to Israel as Mideast tensions rise, news report says\nEUCOM urges troops, families to vary routines amid base threats\nFriend noticed changes in Marine accused of Okinawa killing after possible head injury\nHonolulu City Council presses Air Force to return Oahu acreage to Hawaii\nSign up to receive a daily email of today's top military news stories from Stars and Stripes and top news outlets\n      from around the world.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.stripes.com/incoming/uz4hr1-041126qeshmphoto01.jpg/alternates/LANDSCAPE_910/041126QESHMphoto01.JPG",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://www.stripes.com/incoming/uz4hr1-041126qeshmphoto01.jpg/alternates/LANDSCAPE_910/041126QESHMphoto01.JPG",
+          "label": ""
+        },
+        {
+          "url": "https://www.stripes.com/theme/icons/icon_share_linkedin.svg",
+          "label": ""
+        },
+        {
+          "url": "https://www.stripes.com/theme/icons/icon_share_email.svg",
+          "label": ""
+        },
+        {
+          "url": "https://www.stripes.com/theme/icons/icon_share_reddit.svg",
+          "label": ""
+        },
+        {
+          "url": "https://www.stripes.com/theme/icons/icon_share_x.svg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 568px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 5.0,
+    "why": "Same Qeshm Island satellite image with oil spill context; news-driven.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "This is a war news story illustrated with a generic, undated ESA satellite view of Qeshm Island that does not show the strikes; there is no sensor, date or resolution, the image is low resolution (568px upscaled), no credit was found on the page and the reuse policy is link_only.",
+      "what_it_shows": "A satellite image of Qeshm Island in the Strait of Hormuz, captioned on the page as 'European Space Agency/Wikimedia Commons'. The article is about reported US strikes on the island and does not say when the image was taken or which sensor took it. It does not show the strike sites or any damage.",
+      "uncertainties": [
+        "The page does not name the sensor or acquisition date.",
+        "The image is only an illustration and does not show the reported strikes, so posting it next to the story could imply it does.",
+        "Details of the strikes come from unnamed officials via CNN, the WSJ, Al Jazeera and IRNA; CENTCOM did not confirm them.",
+        "The reuse policy is link_only and no image licence is stated on the page. The original may be on Wikimedia Commons under a different licence, but that would need checking.",
+        "The source image is low resolution (568px, upscaled to square)."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://nypost.com/2026/11/03/world-news/russian-strikes-knock-out-power-to-swathes-of-ukraine-kyiv-hits-russian-refinery/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Russia unleashes massive assault on Ukrainian infrastructure in overnight blitz - NY Post",
+      "link": "https://nypost.com/2026/11/03/world-news/russian-strikes-knock-out-power-to-swathes-of-ukraine-kyiv-hits-russian-refinery/",
+      "published": "2026-11-03T21:03:03+00:00",
+      "summary": "Satellite imagery shows the aftermath of an attack on the Novokuybyshevsk refinery in Russia. 4. A satellite image shows the aftermath of Ukrainian ...",
+      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/11/147414642.jpg?quality=75&strip=all&w=1200",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Russia on Tuesday launched one of its biggest ever attacks on Ukraine’s infrastructure, forcing emergency power outages in multiple regions — while also disrupting the water supply to millions of civilians.\nIt came as rescuers in the south of the country continued their intense search for survivors at a bombed-out aid facility and shelter where at least 31 people were killed and dozens remain missing.\nUkraine’s national energy company said Russia had deliberately attacked its energy facilities more than 20 times, leading to the forcible application of emergency power outages in seven regions, including the capital, Kyiv, the outlet Ukrainska Pravda reported .\nIn regions where emergency outages weren’t in place, scheduled power cuts were applied on Tuesday, leaving some consumers without electricity for over 12 hours, the first such outages this fall.\nSpecial emergency power outage schedules were implemented in Sumy and Poltava regions, with no indication as to when the outages might end.\nRussia also hit a substation critical to the Khmelnytskyi Nuclear Power Plant, as it targeted transmission systems and power plants across the country, Ukraine’s energy minister, Denys Shmyhal, said on Tuesday, according to the Kyiv Independent .\n“Such actions pose a threat not only to Ukraine but also to the nuclear safety of all of Europe,” Shmyhal said.\nThe minister has spoken to the International Atomic Energy Agency about the incident, while calling on Ukraine’s international partners to respond to the attack.\nMajor water supply facilities have been left without power, causing interruptions to Kyiv’s water supply.\n“Thousands of power engineers have been working since the very night to deal with the aftermath of the attacks and restore the power supply. Critical infrastructure facilities will be reconnected first,” Ukrenergo, Ukraine’s energy supplier, said in a statement.\nIn total, Russia on Tuesday attacked Ukraine with 289 drones, 17 ballistic missiles, and 59 cruise missiles, Shmyhal said.\nUkraine’s largest private energy firm, DTEK, reported one of the “most serious attacks ever” on its facilities, halting production at three of its thermal power plants and damaging grid infrastructure in Odesa, according to CEO Maxim Timchenko.\n“It is clear Russia is dangerously escalating its efforts to deny Ukrainians critical services like energy this winter. We will not let them succeed,” Timchenko said.\nUkrainian President Volodymyr Zelensky’s government is bracing for another energy crisis this winter, following last year’s Russian attacks, which saw millions of people without heating and power amid subzero temperatures.\n“The Russians think America won’t notice this signal of theirs,” he said on social media. “But we need to notice and stop such terror. We need to help Ukraine defend its skies; otherwise, Russia will never stop its missile strikes.”\nThe latest attacks come as rescuers in the southern Zaporizhzhia region continued their work at the site of a Russian bombing at an aid facility and shelter in a school .\nAt least 31 people have been killed, and more than 45 are still missing at the site in the village of Komyshukakha, where Russia used nearly 1.5 tons of bunker-busting bombs in Monday’s attack.\n“The scale of the tragedy is terrifying,” Mykhailo Semikin, acting head of the region’s military administration, wrote online.\nMorning Report delivers the latest news, videos, photos and more.\nBy clicking above you agree to the Terms of Use and Privacy Policy .\n“This is one of the worst tragedies in terms of the number of civilian victims in our region since the start of the full-scale war,” he added.\nZelensky on Tuesday traveled to Germany for the start of a new round of discussions with European leaders, ahead of next week’s US-brokered peace talks in Abu Dhabi.\nKremlin spokesman Dmitry Peskov confirmed Tuesday that a Russian delegation will attend the talks, the first since February , aimed at ending the four-and-a-half-year war.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2026/11/147414642.jpg?quality=75&strip=all&w=1200",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2026/11/rescuers-carry-body-person-killed-147318687.jpg?w=1024",
+          "label": ""
+        },
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2026/11/rescuers-evacuate-person-found-debris-147385367.jpg?w=1024",
+          "label": ""
+        },
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2026/11/147450032.jpg?quality=75&strip=all&w=171&h=114&crop=1",
+          "label": ""
+        },
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2026/11/147424797.jpg?quality=75&strip=all&w=171&h=114&crop=1",
+          "label": ""
+        },
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2026/11/iran-peace-proposal-us-trump-comp.jpg?quality=75&strip=all&w=171&h=114&crop=1",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 799px of source width"
+    },
+    "score": 5.0,
+    "why": "Satellite image of Novokuybyshevsk refinery aftermath; news-led, but a real satellite scene.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "General war news article with no satellite image or map described, no image credit and a link-only reuse policy, so there is nothing from Earth observation or cartography to repost.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page names no image and gives no credit or licence; any accompanying photo is likely news photography, not satellite imagery or a map.",
+        "Reuse policy is link_only, so the image could not be reposted anyway."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.youtube.com/watch?v=wAgPJ7sT8SI",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Why the Philippines Gets Hit by So Many Typhoons - YouTube",
+      "link": "https://www.youtube.com/watch?v=wAgPJ7sT8SI",
+      "published": "2026-11-03T20:52:26+00:00",
+      "summary": "... Sentinel-2 cloudless 2016 by EOX IT Services GmbH (CC BY 4.0), contains modified Copernicus Sentinel data 2016. Clouds: NASA (public domain) ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Typhoon explainer likely using Sentinel and cloud imagery; the editor often picks this channel.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was found on the page, and the source is a YouTube video with only a basemap attribution snippet, so there is nothing to describe without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "IMAGE NOTE says no image was found on the page, so there is no visual to crop to a square.",
+        "The page text is only a basemap attribution (Sentinel-2 cloudless 2016 by EOX IT Services GmbH, CC BY 4.0, with NASA clouds). It does not say what the video shows, who made it or what claims it makes about typhoons in the Philippines.",
+        "No image credit or licence is stated, and the reuse policy is link_only.",
+        "The publisher is a Google Alerts feed, not the channel that made the video, so the creator is unknown."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.linkedin.com/posts/saraaharon_day-3-of-30daymapchallenge-polygons-how-activity-7523328815465508864-ynhj",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Polygons How far is the nearest airport in Romania? Each colored zone shows the driving ...",
+      "link": "https://www.linkedin.com/posts/saraaharon_day-3-of-30daymapchallenge-polygons-how-activity-7523328815465508864-ynhj",
+      "published": "2026-11-03T23:19:00+00:00",
+      "summary": "... Made with Python (GeoPandas + Matplotlib). # 30DayMapChallenge #Day3 #Polygons #Romania #GIS #OpenStreetMap #Python #Accessibility.",
+      "image_url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGwgKS5uzm_6w/thumbnail-with-play-button-overlay-high/B4DaGg7q2MKQC0-/0/1793701360598?e=2147483647&v=beta&t=-XneJ4nvAUtuNGrRR7zf5lC0nLRqWCfFmhI_W4FZYew",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\nEnvironmental Research ✧ saraaharon.github.io\nDay 3 of #30DayMapChallenge : Polygons \n\nHow far is the nearest airport in Romania? \n\n✧ Each colored zone shows the driving time to the closest of 18 airports, growing from 0 to 3 hours. \n\n✧ About 97% of the country is within 3 hours of an airport. The mountains are the exception.\n\n✧ This counts all airports with an IATA code in OpenStreetMap, including small regional ones, so it shows the distance to the nearest airport, not to a scheduled flight.\n\nData: OpenStreetMap contributors | Driving times: OpenRouteService\nMade with Python (GeoPandas + Matplotlib). #30DayMapChallenge #Day3 #Polygons #Romania #GIS #OpenStreetMap #Python #Accessibility\nCreate your free account or sign in to continue your search\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGwgKS5uzm_6w/thumbnail-with-play-button-overlay-high/B4DaGg7q2MKQC0-/0/1793701360598?e=2147483647&v=beta&t=-XneJ4nvAUtuNGrRR7zf5lC0nLRqWCfFmhI_W4FZYew",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5616AQFXFxKhOKoZvg/profile-displaybackgroundimage-shrink_200_800/B56ZrQDQIpJUAU-/0/1764427105783?e=2147483647&v=beta&t=8vrczR2YK-5sXpk9zVJn-zTHdGa6y4dDJk_EUt2jJM0",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-04-17-polygons-how-far-is-the-nearest-airport.jpg",
+      "image_note": "square crop, from 720px of source width"
+    },
+    "score": 5.0,
+    "why": "Drive-time polygon map of Romanian airport access; clear geo insight, no image attached.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A map of Romania divided into coloured polygons showing driving time, from 0 to 3 hours, to the closest of 18 airports. Airports are all those with an IATA code in OpenStreetMap, including small regional ones, and driving times come from OpenRouteService. About 97% of the country is within 3 hours of an airport, with the mountains as the exception. Made in Python (GeoPandas + Matplotlib) for Day 3 (Polygons) of the 30DayMapChallenge.",
+      "uncertainties": [
+        "Reuse policy is link_only and no image licence is stated: get the maker's permission before reposting the map image.",
+        "No image credit on the page. The credit uses the maker's site (saraaharon.github.io) because the LinkedIn page gives no full name. Confirm the name and preferred credit with the maker.",
+        "The colour scale for the 0 to 3 hour zones is not described beyond that range.",
+        "It is not stated whether the 97% figure is by land area or by population.",
+        "The source does not give the OpenStreetMap data date or the routing profile settings.",
+        "The square crop comes from a 720px-wide source, so legibility may be limited. Check the legend survives the crop."
+      ],
+      "image_credit": "Map: saraaharon.github.io",
+      "facebook": "About 97% of Romania is within a three-hour drive of an airport. The mountains are the exception.\n\nEach coloured zone shows driving time, 0 to 3 hours, to the closest of 18 airports. It counts every OpenStreetMap airport with an IATA code, small regional ones included, so this is distance to an airport, not to a scheduled flight.\n\nRead more: https://www.linkedin.com/posts/saraaharon_day-3-of-30daymapchallenge-polygons-how-activity-7523328815465508864-ynhj\n\nMap: saraaharon.github.io\n\n#Geoawesome #Romania #Airports #Accessibility",
+      "instagram": "18 airports, one country, three hours of driving.\n\nColoured polygons map the drive to Romania's nearest airport, and the gaps beyond three hours are in the mountains.\n\nFind out more: https://www.linkedin.com/posts/saraaharon_day-3-of-30daymapchallenge-polygons-how-activity-7523328815465508864-ynhj\n\nMap: saraaharon.github.io\n\n#Geoawesome #Romania #Cartography #Polygons",
+      "youtube": "Where in Romania are you more than three hours from an airport? Mostly in the mountains.\n\nAirports with an IATA code were taken from OpenStreetMap (18 in total, regional ones included). Drive times were calculated with OpenRouteService, and the 0 to 3 hour zones were drawn in Python with GeoPandas and Matplotlib. The catch: the map measures access to the nearest airport, not to a scheduled flight.\n\nLearn more: https://www.linkedin.com/posts/saraaharon_day-3-of-30daymapchallenge-polygons-how-activity-7523328815465508864-ynhj\n\nMap: saraaharon.github.io\n\n#Geoawesome #Romania #Python #GIS",
+      "x": "Romania mapped by drive time to the nearest of 18 airports: only the mountains sit beyond three hours.\nhttps://www.linkedin.com/posts/saraaharon_day-3-of-30daymapchallenge-polygons-how-activity-7523328815465508864-ynhj\nMap: saraaharon.github.io\n#Geoawesome #Romania #Airports #Maps",
+      "alt_text": "Map of Romania divided into coloured zones showing the driving time to the nearest airport, from 0 to 3 hours."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-04-17-polygons-how-far-is-the-nearest-airport.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.linkedin.com/posts/alejandro-quinto_30daymapchallenge-barcelona-cartography-activity-7523462788992831489-VeCv",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "# 30daymapchallenge #barcelona #cartography #dataviz #mapping #spatialdata #gis ... - LinkedIn",
+      "link": "https://www.linkedin.com/posts/alejandro-quinto_30daymapchallenge-barcelona-cartography-activity-7523462788992831489-VeCv",
+      "published": "2026-11-03T20:05:12+00:00",
+      "summary": "... footprint and use. # 30DayMapChallenge #Barcelona #Cartography #DataViz #Mapping #SpatialData #GIS #MapDesign #UrbanData.",
+      "image_url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQED8EtQM9u_bg/thumbnail-with-play-button-overlay-high/B4EaGhd.bWKoCw-/0/1793710353872?e=2147483647&v=beta&t=WYQBJD58YHYwoAmDyrag9xn6TXQnX-2pGy2pl9Xr_zk",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\nNovember Mapping Challenge, day 3: polygons.\n\n1,304 buildings that Spain's cadastre records in el Barri Gòtic in Barcelona.\n\nHow it was made : Python (GeoPandas, Shapely) to read the cadastre's INSPIRE data and normalise each footprint, React and TypeScript on a single HTML canvas to draw it.\n\nSources :\n- Buildings: Dirección General del Catastro (Ministerio de Hacienda), INSPIRE Buildings for Barcelona (municipality 08900), 2026 release, under the cadastre's free re-use licence with attribution. \n- Neighbourhood boundaries: \"Administrative units of the city of Barcelona\", Open Data BCN portal (CC BY 4.0).\n\nIn the animation, the cards turn over from the centre of the neighbourhood outwards, and each one brings its record with it: year, storeys, footprint and use. #30DayMapChallenge #Barcelona #Cartography #DataViz #Mapping #SpatialData #GIS #MapDesign #UrbanData\nCreate your free account or sign in to continue your search\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .",
+      "image_credit": "",
+      "image_licence": "CC BY 4.0).",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQED8EtQM9u_bg/thumbnail-with-play-button-overlay-high/B4EaGhd.bWKoCw-/0/1793710353872?e=2147483647&v=beta&t=WYQBJD58YHYwoAmDyrag9xn6TXQnX-2pGy2pl9Xr_zk",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5616AQHhnsSMILwEWQ/profile-displaybackgroundimage-shrink_200_800/B56Z2XIfR8K4AY-/0/1776357079893?e=2147483647&v=beta&t=bJ6U4CucADGGwFVroARTIuJKl9RSdlAQI4Yfgqf2ZCQ",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-04-18-30daymapchallenge-barcelona-cartography.jpg",
+      "image_note": "square crop, from 720px of source width"
+    },
+    "score": 5.0,
+    "why": "Barcelona building cartography for 30DayMapChallenge; likely a striking map but feed gives little detail.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A 30 Day Map Challenge entry (day 3: polygons) showing the 1,304 buildings that Spain's cadastre records in Barcelona's Barri Gòtic, each footprint drawn as its own card. Building data come from the Dirección General del Catastro's INSPIRE Buildings for Barcelona (municipality 08900, 2026 release), and neighbourhood boundaries come from Open Data BCN. The original is an animation in which the cards turn over from the centre of the neighbourhood outwards, each showing the building's year, storeys, footprint and use.",
+      "uncertainties": [
+        "The page gives no image credit. The creator's name (Alejandro Quinto) is taken from the LinkedIn URL slug only, so confirm it before posting.",
+        "Reuse policy is 'link_only'. Check whether reposting the image itself is allowed, or ask the author.",
+        "The 'CC BY 4.0' licence line appears to belong to the Open Data BCN boundary data, not to the image.",
+        "The source is an animation, so the square is a still crop from only 720px of source width. Check legibility and what the frame actually shows (for example cards flipped or not).",
+        "Colours and the visual layout of the cards are not described in the source."
+      ],
+      "image_credit": "Map: Alejandro Quinto via LinkedIn",
+      "facebook": "Spain's cadastre records 1,304 buildings in Barcelona's Barri Gòtic. This map gives each one its own card.\n\nIt was built for day 3 (polygons) of the 30 Day Map Challenge from the cadastre's 2026 INSPIRE Buildings release. In the animation the cards turn over from the centre outwards, each showing year, storeys, footprint and use.\n\nFull story: https://www.linkedin.com/posts/alejandro-quinto_30daymapchallenge-barcelona-cartography-activity-7523462788992831489-VeCv\n\nMap: Alejandro Quinto via LinkedIn\n\n#Barcelona #Cadastre #Cartography #GIS #Geoawesome",
+      "instagram": "1,304 footprints, one neighbourhood: Barcelona's Barri Gòtic, drawn polygon by polygon.\n\nEach card flips to reveal the building's year, storeys and use.\n\nFind out more: https://www.linkedin.com/posts/alejandro-quinto_30daymapchallenge-barcelona-cartography-activity-7523462788992831489-VeCv\n\nMap: Alejandro Quinto via LinkedIn\n\n#Barcelona #Buildings #Polygons #Geoawesome",
+      "youtube": "Day 3 of the 30 Day Map Challenge was polygons, and this entry uses 1,304 of them from Spain's cadastre.\n\nPython (GeoPandas, Shapely) reads the cadastre's INSPIRE Buildings data for municipality 08900 and normalises each footprint. React and TypeScript then draw everything on a single HTML canvas, with neighbourhood boundaries from Open Data BCN.\n\nLearn more: https://www.linkedin.com/posts/alejandro-quinto_30daymapchallenge-barcelona-cartography-activity-7523462788992831489-VeCv\n\nMap: Alejandro Quinto via LinkedIn\n\n#Cadastre #Python #Cartography #INSPIRE #Geoawesome",
+      "x": "Barri Gòtic, Barcelona: 1,304 cadastre buildings, each flipping over to reveal its year, storeys and use.\nhttps://www.linkedin.com/posts/alejandro-quinto_30daymapchallenge-barcelona-cartography-activity-7523462788992831489-VeCv\nMap: Alejandro Quinto via LinkedIn\n#Barcelona #Cadastre #GIS #Geoawesome",
+      "alt_text": "Building footprint polygons from Barcelona's Barri Gòtic neighbourhood, each drawn as a separate card-like shape."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-04-18-30daymapchallenge-barcelona-cartography.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.linkedin.com/posts/alisondegraff_30daymapchallenge-activity-7523294570567106560-bck-",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "# 30daymapchallenge | Alison Ollivierre, MSc, GISP - LinkedIn",
+      "link": "https://www.linkedin.com/posts/alisondegraff_30daymapchallenge-activity-7523294570567106560-bck-",
+      "published": "2026-11-03T18:41:46+00:00",
+      "summary": "For Day 2 \"Lines\" of the # 30DayMapChallenge I took a stab at making my first joy plot / topographic ridgeline map of the island of Saint ...",
+      "image_url": "https://media.licdn.com/dms/image/v2/D4E22AQEtwkqARpM_Wg/feedshare-image-high-res/B4EaGgci6nJgAU-/0/1793693200479?e=2147483647&v=beta&t=OvvGIpclsAz1hY0zg4UUbl377QEs-GYw5HYkZvCvb_M",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\nFor Day 2 \"Lines\" of the #30DayMapChallenge I took a stab at making my first joy plot / topographic ridgeline map of the island of Saint Vincent—and apparently I was in good company with folks who also took this route with the prompt! (I particularly like Dave Taylor 's: https://lnkd.in/p/eedxzavZ )\n\nThanks Victoria (Vicky) Johnson-Dahl for the font tip 😊 \n\nA few of my favorite maps from fellow mappers that I came across for this prompt include: Alan McConchie ( https://lnkd.in/p/em8dvDHw ), Chaney Swiney ( https://lnkd.in/p/edWYjjP8 ), Shira Ellenson, GISP ( https://lnkd.in/p/ebdFJDny ), Karan Dhingra ( https://lnkd.in/p/gB8UVKyF ), and Nathan McKinley ( https://lnkd.in/p/gudNXuyY ).\nThis could be such a fun print for a Tshirt ! ☺️ Love this !\nCreate your free account or sign in to continue your search\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQEtwkqARpM_Wg/feedshare-image-high-res/B4EaGgci6nJgAU-/0/1793693200479?e=2147483647&v=beta&t=OvvGIpclsAz1hY0zg4UUbl377QEs-GYw5HYkZvCvb_M",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5616AQEgfYTUT7X-Pg/profile-displaybackgroundimage-shrink_200_800/B56ZcZyN8hHwAU-/0/1748484285159?e=2147483647&v=beta&t=V97oGRwSR-HCN3wp1HmJrMtcuyw4114RQcTBfw9v6cM",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-04-19-30daymapchallenge-alison-ollivierre-msc.jpg",
+      "image_note": "square crop, from 1186px of source width"
+    },
+    "score": 5.0,
+    "why": "Joy plot ridgeline topographic map of Saint Lucia; a striking, clever visual.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A joy plot, or topographic ridgeline map, of the island of Saint Vincent, made by Alison Ollivierre for Day 2 (\"Lines\") of the 30DayMapChallenge. The terrain is drawn as stacked line profiles. She says it is her first map of this kind. The post does not state the elevation data source, resolution or processing.",
+      "uncertainties": [
+        "Reuse policy is link_only and no image licence is stated: get the creator's permission before posting her image as a square.",
+        "No image credit is given on the page. The credit uses the author's name from the post title (Alison Ollivierre, MSc, GISP).",
+        "The elevation data source (DEM), its resolution and its date are not stated.",
+        "Alt text is based on the post's description of a ridgeline map. Check it against the actual image.",
+        "The square crop comes from a 1186px-wide source. Check that the whole island and any title stay in frame.",
+        "The 'T-shirt print' line on the page is a comment from another user, not the author. It is not used.",
+        "Part of the LinkedIn page sits behind a login prompt, so some context may be missing.",
+        "The 30DayMapChallenge hashtag was left out because it is a joined phrase. Add it if the house style allows it for this event."
+      ],
+      "image_credit": "Map: Alison Ollivierre via LinkedIn",
+      "facebook": "The 30DayMapChallenge prompt for Day 2 was \"Lines\", and Alison Ollivierre answered it by turning the island of Saint Vincent into a stack of ridgelines.\n\nIt is her first joy plot: each horizontal line traces a terrain profile, so the island's relief builds up line by line. She was in good company, since several other mappers took the same approach to the prompt.\n\nFull story: https://www.linkedin.com/posts/alisondegraff_30daymapchallenge-activity-7523294570567106560-bck-\n\nMap: Alison Ollivierre via LinkedIn\n\n#Cartography #Topography #Caribbean #Geoawesome",
+      "instagram": "Saint Vincent, drawn one line at a time.\n\nAlison Ollivierre's first joy plot, a topographic ridgeline map made for Day 2 (\"Lines\") of the 30DayMapChallenge.\n\nLearn more: https://www.linkedin.com/posts/alisondegraff_30daymapchallenge-activity-7523294570567106560-bck-\n\nMap: Alison Ollivierre via LinkedIn\n\n#Maps #Cartography #Elevation #Geoawesome",
+      "youtube": "A joy plot turns elevation into a series of stacked profile lines. This one covers the island of Saint Vincent.\n\nAlison Ollivierre made it for Day 2 (\"Lines\") of the 30DayMapChallenge, as her first try at the technique. The post does not name the elevation data behind it. She credits Victoria Johnson-Dahl for the font tip. Ridgelines were a popular answer to this prompt.\n\nRead more: https://www.linkedin.com/posts/alisondegraff_30daymapchallenge-activity-7523294570567106560-bck-\n\nMap: Alison Ollivierre via LinkedIn\n\n#Topography #GIS #Cartography #Geoawesome",
+      "x": "Saint Vincent as a joy plot: Alison Ollivierre's first topographic ridgeline map, made for Day 2 (\"Lines\") of the 30DayMapChallenge.\nhttps://www.linkedin.com/posts/alisondegraff_30daymapchallenge-activity-7523294570567106560-bck-\nMap: Alison Ollivierre via LinkedIn\n#Cartography #Topography #Maps #Geoawesome",
+      "alt_text": "A topographic ridgeline map of the island of Saint Vincent, drawn as stacked horizontal lines that rise where the land is higher."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-04-19-30daymapchallenge-alison-ollivierre-msc.jpg"
+  },
+  {
+    "item": {
+      "id": "https://jgregoriorincon.github.io/30DayMapChallenge-2026/",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "# 30DayMapChallenge 2026 · RustGIS",
+      "link": "https://jgregoriorincon.github.io/30DayMapChallenge-2026/",
+      "published": "2026-11-03T17:48:15+00:00",
+      "summary": "# 30DayMapChallenge 2026. Maps of Bogotá, Barranquilla and Colombia made end to end with RustGIS in the browser, from public web services. Each ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Gallery of 30DayMapChallenge maps of Bogotá and Colombia; a portal with several maps to browse.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was found on the page, the reuse policy is link-only, and the only text is a one-line snippet, so there is no visual to post or describe without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was found on the page, so there is nothing to crop to a square.",
+        "Reuse policy is link_only and no image licence is stated.",
+        "The page text is a truncated snippet ('Each ...'). It does not say which maps exist, what data they use or what they show beyond 'maps of Bogotá, Barranquilla and Colombia made with RustGIS in the browser from public web services'.",
+        "Worth revisiting later if a specific map from the series is published with a clear image and permission to reuse."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  }
+]
