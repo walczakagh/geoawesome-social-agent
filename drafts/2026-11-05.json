@@ -1,0 +1,1062 @@
+[
+  {
+    "item": {
+      "id": "https://x.com/geoawesome_dgtl/status/2117855115184885933",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Geoawesome on X: \"Sediment plumes trace Spain's flooded coast south of Valencia, seen ...",
+      "link": "https://x.com/geoawesome_dgtl/status/2117855115184885933",
+      "published": "2026-11-04T16:53:13+00:00",
+      "summary": "Sediment plumes trace Spain's flooded coast south of Valencia, seen by Sentinel-2 on 21 Oct 2026 after Storm Adam. https://t.co/3reVOXQezF Image: ...",
+      "image_url": "https://pbs.twimg.com/media/HWQiARbW0AAYxIJ?format=webp&name=large",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "See what’s happening and join the conversation",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HWQiARbW0AAYxIJ?format=webp&name=large",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1516895890581110786/IeOMZhsG_normal.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 905px of source width"
+    },
+    "score": 8.0,
+    "why": "Sentinel-2 sediment plumes tracing flooded Valencia coast; vivid satellite scene with a story.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "This is Geoawesome's own X post with no recoverable content (only X login boilerplate), no image credit, no licence and a link-only reuse policy, so it cannot be described or credited without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page text is X boilerplate only. Sensor, date, location details and the original image source are all missing.",
+        "The source is Geoawesome's own X account, so reposting it would recycle our own post rather than credit the original creator.",
+        "No image credit was found, and the licence is not stated.",
+        "The reuse policy is link_only, so the image should not be reposted as a square.",
+        "The title fragment ('Sediment plumes trace Spain's flooded coast south of Valencia') suggests a satellite image. If wanted, track down the original source (for example a Copernicus or NASA release) and post from that with its proper credit."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.reddit.com/r/remotesensing/comments/1xnvi0o/26_years_of_landsat_dry_season_composites_over/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "26 years of Landsat dry season composites over one Brazilian municipality, with the change ...",
+      "link": "https://www.reddit.com/r/remotesensing/comments/1xnvi0o/26_years_of_landsat_dry_season_composites_over/",
+      "published": "2026-11-04T19:57:10+00:00",
+      "summary": "Every frame is a dry season composite (April 15 to October 15) of Landsat surface reflectance at 30 m, built in Google Earth Engine with clouds ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Every frame is a dry season composite (April 15 to October 15) of Landsat surface reflectance at 30 m, built in Google Earth Engine with clouds ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 8.0,
+    "why": "26 years of Landsat composites animated over a municipality; strong before/after change visual.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was found on the page, no creator or credit is given, and the title and text are truncated, so there is nothing to post square or credit correctly.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "IMAGE NOTE says no image was found on the page, so there is no visual to make the 1080x1080 square from.",
+        "No image credit or Reddit username is given, so the required 'Map: u/<name> via r/remotesensing' credit cannot be written without guessing.",
+        "The title is cut off ('with the change ...'), so what change the visual highlights is unknown.",
+        "The municipality is not named; the title only says 'one Brazilian municipality'.",
+        "The page text is truncated mid-sentence ('with clouds ...'), so the cloud masking method and any other processing details are missing.",
+        "Reuse policy is link_only and the image licence is not stated.",
+        "Partial facts from the source, if the editor gets the image and the creator's name from the Reddit post itself: 26 years of Landsat dry season composites (April 15 to October 15), surface reflectance at 30 m, built in Google Earth Engine.",
+        "The years covered, the band combination and what the colours mean are not stated."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "t3_1xo9a3h",
+      "source_id": "reddit_dataisbeautiful",
+      "source_name": "Reddit r/dataisbeautiful",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "The Mackenzie River Delta [OC]",
+      "link": "https://www.reddit.com/r/dataisbeautiful/comments/1xo9a3h/the_mackenzie_river_delta_oc/",
+      "published": "2026-11-05T04:13:34+00:00",
+      "summary": "The Mackenzie River Delta [OC]",
+      "image_url": "https://i.redd.it/yj5thahrypzh1.jpeg",
+      "credit_hint": "u/visualgeomatics via r/dataisbeautiful",
+      "source_tag": "",
+      "page_text": "Title of the post: The Mackenzie River Delta [OC]\nPosted on Reddit by u/visualgeomatics via r/dataisbeautiful. The post has no other text; the title is the only description of the map.",
+      "image_credit": "u/visualgeomatics via r/dataisbeautiful",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://i.redd.it/yj5thahrypzh1.jpeg",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": false,
+      "square_path": "drafts/images/2026-11-05-4-the-mackenzie-river-delta-oc.jpg",
+      "image_note": "square crop, from 2667px of source width"
+    },
+    "score": 8.0,
+    "why": "Mackenzie River Delta aerial/satellite-style map; vivid landscape of a remote delta, fits geo audience.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "An original map titled \"The Mackenzie River Delta\", posted by u/visualgeomatics on r/dataisbeautiful and marked [OC] (the poster's own work). The post has no other text, so the data source, date and colour meaning are not stated.",
+      "uncertainties": [
+        "The data source of the map is not stated (no sensor, dataset or elevation model named).",
+        "No date or time period is given for the underlying data.",
+        "What the colours or shading represent is not explained in the post.",
+        "Image licence is not stated and the reuse policy is link_only: confirm permission from u/visualgeomatics before posting the image itself, or share as a link only.",
+        "Alt text is generic because the post gives no description of the map's content; the editor should refine it after viewing the image."
+      ],
+      "image_credit": "Map: u/visualgeomatics via r/dataisbeautiful",
+      "facebook": "The Mackenzie River Delta, drawn as an original map by a Reddit cartographer.\n\nu/visualgeomatics shared it on r/dataisbeautiful with the title \"The Mackenzie River Delta [OC]\" and nothing else. The [OC] tag marks it as the poster's own work. No data source or date is given, so read it as a cartographic piece rather than a dated observation.\n\nRead more: https://www.reddit.com/r/dataisbeautiful/comments/1xo9a3h/the_mackenzie_river_delta_oc/\n\nMap: u/visualgeomatics via r/dataisbeautiful\n\n#Geoawesome #Cartography #Rivers #Maps",
+      "instagram": "A whole river delta, fitted into one square.\n\nThe Mackenzie River Delta, mapped by u/visualgeomatics as original work and shared on r/dataisbeautiful.\n\nFind out more: https://www.reddit.com/r/dataisbeautiful/comments/1xo9a3h/the_mackenzie_river_delta_oc/\n\nMap: u/visualgeomatics via r/dataisbeautiful\n\n#Geoawesome #Maps #Delta #Cartography",
+      "youtube": "No description and no legend notes: just a title and the map.\n\nThis original map of the Mackenzie River Delta was posted by u/visualgeomatics on r/dataisbeautiful. The post names no data source, sensor or date, so we cannot say what the colours encode. If you know the delta or recognise the method, tell us in the comments what you read from it.\n\nLearn more: https://www.reddit.com/r/dataisbeautiful/comments/1xo9a3h/the_mackenzie_river_delta_oc/\n\nMap: u/visualgeomatics via r/dataisbeautiful\n\n#Geoawesome #Hydrology #Rivers #Cartography",
+      "x": "One title, no caption: the Mackenzie River Delta, mapped as original work by a Reddit user.\nhttps://www.reddit.com/r/dataisbeautiful/comments/1xo9a3h/the_mackenzie_river_delta_oc/\nMap: u/visualgeomatics via r/dataisbeautiful\n#Geoawesome #Cartography #Delta",
+      "alt_text": "A map of the Mackenzie River Delta, created by Reddit user visualgeomatics."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-05-4-the-mackenzie-river-delta-oc.jpg"
+  },
+  {
+    "item": {
+      "id": "t3_1xnz13k",
+      "source_id": "reddit_dataisbeautiful",
+      "source_name": "Reddit r/dataisbeautiful",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "[OC] Where this week's fires met the honey bee nectar flow: NASA fire detections over an estimated nectar-flow map, 28 Oct – 4 Nov 2026",
+      "link": "https://www.reddit.com/r/dataisbeautiful/comments/1xnz13k/oc_where_this_weeks_fires_met_the_honey_bee/",
+      "published": "2026-11-04T20:31:22+00:00",
+      "summary": "[OC] Where this week's fires met the honey bee nectar flow: NASA fire detections over an estimated nectar-flow map, 28 Oct – 4 Nov 2026",
+      "image_url": "https://i.redd.it/5cvprd2aonzh1.png",
+      "credit_hint": "u/anatolian_apiary via r/dataisbeautiful",
+      "source_tag": "",
+      "page_text": "Title of the post: [OC] Where this week's fires met the honey bee nectar flow: NASA fire detections over an estimated nectar-flow map, 28 Oct – 4 Nov 2026\nPosted on Reddit by u/anatolian_apiary via r/dataisbeautiful. The post has no other text; the title is the only description of the map.",
+      "image_credit": "u/anatolian_apiary via r/dataisbeautiful",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://i.redd.it/5cvprd2aonzh1.png",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": false,
+      "square_path": "drafts/images/2026-11-05-5-oc-where-this-week-s-fires-met-the-hone.jpg",
+      "image_note": "square crop, from 1400px of source width"
+    },
+    "score": 8.0,
+    "why": "NASA fire detections overlaid on nectar-flow map; spatial story combining fires and bee habitat.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "An original map posted to r/dataisbeautiful by u/anatolian_apiary that overlays NASA fire detections on an estimated honey bee nectar-flow map for 28 October to 4 November 2026. The post title is the only description: it does not state the region, the specific NASA fire product, how the nectar-flow layer was estimated, or what the colours mean.",
+      "uncertainties": [
+        "Reuse policy is link_only and the image licence is not stated: confirm with u/anatolian_apiary before reposting the image itself.",
+        "The data source of the map is not fully stated: 'NASA fire detections' does not name the product or sensor, and the source or method of the nectar-flow estimate is not given.",
+        "The geographic area covered is not stated in the title or post.",
+        "No legend or colour key is described, so the colours cannot be explained without seeing and checking the map.",
+        "The nectar-flow layer is described as 'estimated', so any overlap with fires is indicative only.",
+        "Alt text is generic because the map's actual appearance is not described in the source: check it against the image."
+      ],
+      "image_credit": "Map: u/anatolian_apiary via r/dataisbeautiful",
+      "facebook": "One week of NASA fire detections, laid over a map of where honey bees find nectar.\n\nThe map plots fire detections from 28 October to 4 November 2026 on top of an estimated nectar-flow layer, showing where the week's fires overlapped areas of nectar flow. Treat the overlap as indicative: the nectar layer is an estimate, and the post does not name the NASA fire product or the region covered.\n\nFind out more: https://www.reddit.com/r/dataisbeautiful/comments/1xnz13k/oc_where_this_weeks_fires_met_the_honey_bee/\n\nMap: u/anatolian_apiary via r/dataisbeautiful\n\n#Geoawesome #Wildfires #Bees #Dataviz",
+      "instagram": "Fires and flowers, on a single map.\n\nNASA fire detections for 28 October to 4 November 2026 sit over an estimated honey bee nectar-flow layer: an angle on fire impact that beekeepers will care about.\n\nLearn more: https://www.reddit.com/r/dataisbeautiful/comments/1xnz13k/oc_where_this_weeks_fires_met_the_honey_bee/\n\nMap: u/anatolian_apiary via r/dataisbeautiful\n\n#Geoawesome #Beekeeping #Fires #Maps",
+      "youtube": "Two layers, one question: did this week's fires burn through areas of honey bee nectar flow?\n\nPosted as original content on r/dataisbeautiful, the map combines NASA fire detections for 28 October to 4 November 2026 with an estimated nectar-flow surface. The title is the only documentation: no fire product, region, nectar model or colour key is given, so the result is a visual overlap rather than a measured impact.\n\nRead more: https://www.reddit.com/r/dataisbeautiful/comments/1xnz13k/oc_where_this_weeks_fires_met_the_honey_bee/\n\nMap: u/anatolian_apiary via r/dataisbeautiful\n\n#Geoawesome #Wildfires #Cartography #Bees",
+      "x": "Where did this week's fires overlap the honey bee nectar flow? NASA fire detections over an estimated nectar-flow map, 28 Oct to 4 Nov 2026.\nhttps://www.reddit.com/r/dataisbeautiful/comments/1xnz13k/oc_where_this_weeks_fires_met_the_honey_bee/\nMap: u/anatolian_apiary via r/dataisbeautiful\n#Geoawesome #Fires #Bees #Dataviz",
+      "alt_text": "A map with NASA fire detection points overlaid on a shaded layer showing estimated honey bee nectar flow."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-05-5-oc-where-this-week-s-fires-met-the-hone.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.reddit.com/r/oil/comments/1xo5r8g/recent_satellite_images_show_a_spill_of_heavy/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Recent Satellite images show a spill of heavy fuel oil from a ship north of Qeshm Island in ... - Reddit",
+      "link": "https://www.reddit.com/r/oil/comments/1xo5r8g/recent_satellite_images_show_a_spill_of_heavy/",
+      "published": "2026-11-05T02:18:17+00:00",
+      "summary": "Recent Satellite images show a spill of heavy fuel oil from a ship north of Qeshm Island in the Strait of Hormuz. Iran War.",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Recent Satellite images show a spill of heavy fuel oil from a ship north of Qeshm Island in the Strait of Hormuz. Iran War.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Satellite images of a heavy fuel oil spill near Qeshm Island; vivid, newsworthy scene.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was found on the page and no credit or licence is given; the only source is a one-line Reddit title (with an 'Iran War' tag) making an unverified claim about an oil spill.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image found on the page, so there is nothing to crop to a square or describe.",
+        "Image credit and licence not stated, and the reuse policy is link_only.",
+        "The Reddit poster's username and subreddit credit are not given in a usable form.",
+        "No sensor, acquisition date or imagery provider is given for the 'recent satellite images'.",
+        "The identification as heavy fuel oil from a ship is unverified and comes from a third-party Reddit title.",
+        "The 'Iran War' framing is a conflict and political claim not supported by any source in the material.",
+        "If a verified source exists (for example a Sentinel-1 or Sentinel-2 image from an agency or established analyst), it would be worth revisiting with that source instead."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://x.com/CopernicusEU/status/2118010359143661874",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Copernicus EU on X: \" Autumn colours in Slovakia! 🛰️ #CopernicusEU Sentinel-2 ...",
+      "link": "https://x.com/CopernicusEU/status/2118010359143661874",
+      "published": "2026-11-04T16:09:07+00:00",
+      "summary": "Autumn colours in Slovakia! 🛰️ #CopernicusEU Sentinel-2 captures golden beech forests around Banská Bystrica, contrasting with dark green ...",
+      "image_url": "https://pbs.twimg.com/media/HWSvLkCWYAAo1g5?format=webp&name=large",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "See what’s happening and join the conversation",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HWSvLkCWYAAo1g5?format=webp&name=large",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/2088196415730126848/V1AYI5t6_normal.png",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1448px of source width"
+    },
+    "score": 7.0,
+    "why": "Sentinel-2 autumn beech forests in Slovakia; colourful, seasonal, reader-friendly satellite scene.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Reuse policy is link_only and no image credit or licence appears on the page, and the source gives only a truncated title (Sentinel-2, Slovakia, autumn colours), so the image could not be reposted or described without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "Reuse policy is link_only and no image licence is stated, so the image should not be reposted as a square.",
+        "No image credit was found on the page. A Copernicus Sentinel-2 credit is likely, but the page does not confirm it.",
+        "The title is cut off after 'Sentinel-2 ...', and the page text is only X boilerplate, so the post's full wording is unknown.",
+        "No acquisition date, exact area within Slovakia, band combination or explanation of the colours is given.",
+        "If the editor wants to use it, open the original X post to get the full text, date and credit, and check whether Copernicus allows reuse of the image."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.linkedin.com/posts/milan-janosov_30daymapchallenge-activity-7523782559831388160-QKLC",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "# 30daymapchallenge | Milan Janosov - LinkedIn",
+      "link": "https://www.linkedin.com/posts/milan-janosov_30daymapchallenge-activity-7523782559831388160-QKLC",
+      "published": "2026-11-04T17:55:04+00:00",
+      "summary": "30DayMapChallenge pick of the day - @Adam Roberts took every building in Paris and lined them up by use, largest first, at the same scale - and ...",
+      "image_url": "https://static.licdn.com/aero-v1/sc/h/c45fy346jw096z9pbphyyhdz7",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\n#30DayMapChallenge pick of the day - @Adam Roberts  took every building in Paris and lined them up by use, largest first, at the same scale - and you can remake this with his interactive web app for any district in the city! \n𝐖𝐞𝐛 𝐞𝐱𝐩𝐥𝐨𝐫𝐞𝐫: https://lnkd.in/dVTzR3F7 𝐎𝐫𝐢𝐠𝐢𝐧𝐚𝐥 𝐩𝐨𝐬𝐭: https://lnkd.in/dAtJaJy5 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐨𝐟 𝐌𝐚𝐩𝐬 - https://lnkd.in/dXgydHgk\nCreate your free account or sign in to continue your search\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://static.licdn.com/aero-v1/sc/h/c45fy346jw096z9pbphyyhdz7",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5616AQEgQhq2gJQrvw/profile-displaybackgroundimage-shrink_200_800/B56ZtAQsV_LEAU-/0/1766309677353?e=2147483647&v=beta&t=hjQ7fPdRQoC3AUqV6vE2Y5BpjRwObQNSkk6Zzon4JJ0",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-05-8-30daymapchallenge-milan-janosov-linkedi.jpg",
+      "image_note": "square crop, from 800px of source width"
+    },
+    "score": 7.0,
+    "why": "Every Paris building lined up by use, same scale: a striking, original city visual.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A 30 Day Map Challenge entry by Adam Roberts that takes every building in Paris and lines them up by use, largest first, all drawn at the same scale. Roberts also built an interactive web app that recreates the chart for any district of the city. It was shared by Milan Janosov as his challenge pick of the day.",
+      "uncertainties": [
+        "No image credit or licence is stated, and the reuse policy is link_only. Get permission from Adam Roberts before posting his image, or post only the link.",
+        "The page text does not confirm that the image attached to the LinkedIn post is Roberts' chart itself rather than something else (for example a screenshot of Janosov's book). Check the actual image before cropping.",
+        "The building data source (for example which footprint dataset) is not stated.",
+        "The use categories and colour meanings are not described.",
+        "The direct links to Roberts' web app and original post are shortened lnkd.in URLs. Consider linking to Roberts' original post or app once resolved.",
+        "Which day or theme of the 30 Day Map Challenge this was made for is not stated."
+      ],
+      "image_credit": "Map: Adam Roberts via Milan Janosov",
+      "facebook": "Every building in Paris, pulled out of the street grid and lined up by what it is used for, largest first.\n\nAdam Roberts drew them all at the same scale, so any footprint can be compared directly with the rest of its category. Milan Janosov chose it as his 30 Day Map Challenge pick of the day, and Roberts' interactive web app rebuilds the chart for any district in the city.\n\nRead more: https://www.linkedin.com/posts/milan-janosov_30daymapchallenge-activity-7523782559831388160-QKLC\n\nMap: Adam Roberts via Milan Janosov\n\n#Paris #Cartography #Buildings #Geoawesome",
+      "instagram": "Paris, sorted: every building in the city at one scale, grouped by use and ordered by size.\n\nPick a district in Adam Roberts' web app and it builds the same line-up for that neighbourhood.\n\nFind out more: https://www.linkedin.com/posts/milan-janosov_30daymapchallenge-activity-7523782559831388160-QKLC\n\nMap: Adam Roberts via Milan Janosov\n\n#Paris #Maps #Architecture #Geoawesome",
+      "youtube": "Drop location from a city map, keep only footprint and function, and Paris becomes rows of building shapes.\n\nAdam Roberts sorted every building in Paris by use and then by size, largest first, all at the same scale so the shapes stay directly comparable. His interactive web app repeats this for any district you select. The post does not name the building dataset, so read the categories as the author's own classification.\n\nLearn more: https://www.linkedin.com/posts/milan-janosov_30daymapchallenge-activity-7523782559831388160-QKLC\n\nMap: Adam Roberts via Milan Janosov\n\n#Paris #GIS #Buildings #Urbanism #Geoawesome",
+      "x": "All of Paris's buildings at one scale, sorted by use and size. Adam Roberts' web app does the same for any district.\nhttps://www.linkedin.com/posts/milan-janosov_30daymapchallenge-activity-7523782559831388160-QKLC\nMap: Adam Roberts via Milan Janosov\n#Paris #Cartography #Maps #Geoawesome",
+      "alt_text": "Building footprints from Paris arranged in rows grouped by use, ordered from largest to smallest and drawn at the same scale."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-05-8-30daymapchallenge-milan-janosov-linkedi.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.linkedin.com/posts/benjamin-niedermann_30daymapchallenge-30daymapchallenge-dataviz-activity-7523832720746049537-VMGx",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "30daymapchallenge # 30daymapchallenge #dataviz #london #aviation #heathrow #maps - LinkedIn",
+      "link": "https://www.linkedin.com/posts/benjamin-niedermann_30daymapchallenge-30daymapchallenge-dataviz-activity-7523832720746049537-VMGx",
+      "published": "2026-11-04T21:37:31+00:00",
+      "summary": "30DayMapChallenge Day 4: Clusters - Where do planes fly over London, and how low? Try it: https://lnkd.in/dxkdn3MM The map shows the arrivals and ...",
+      "image_url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQE_9cF3s0N-2g/thumbnail-with-play-button-overlay-high/B4DaGn1WkiGYC0-/0/1793817145599?e=2147483647&v=beta&t=pf5PTm-ze4ASIP226koSiusEFXjQASRYTw0AAW_h6hc",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\n#30DayMapChallenge Day 4: Clusters - Where do planes fly over London, and how low? \nTry it: https://lnkd.in/dxkdn3MM The map shows the arrivals and departures of London's airports on two summer days.\n\nFlight maps usually flatten everything into one mass of lines. Here you can look at the sky one layer and one hour at a time, and see which airport uses which part of it.\n\nThe lens starts from a place on the ground rather than from a flight. It answers the question people living under a flight path ask: at what time, and how low, do planes pass over here?\n\nData: adsb.lol , public ADS-B traces of all flights to and from London's nine airports on two days in July 2026 (ODbL). Map: OpenFreeMap, © OpenStreetMap contributors. Built with the VisQuill GDK. #30DayMapChallenge #DataViz #London #Aviation #Heathrow #Maps\nWow it’s really fantastic project! Well done!\nBenjamin you are on fire with this year's 30 day map challenge! Bravo!\nCreate your free account or sign in to continue your search\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQE_9cF3s0N-2g/thumbnail-with-play-button-overlay-high/B4DaGn1WkiGYC0-/0/1793817145599?e=2147483647&v=beta&t=pf5PTm-ze4ASIP226koSiusEFXjQASRYTw0AAW_h6hc",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D16AQF3CATE1mJUqw/profile-displaybackgroundimage-shrink_200_800/B4DaCgxc0KGYAQ-/0/1789403713268?e=2147483647&v=beta&t=zyKk1iD96msK_iFnUTx1muXNOe4CWG507xtTkMgMfjw",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-05-9-30daymapchallenge-30daymapchallenge-data.jpg",
+      "image_note": "square crop, from 720px of source width"
+    },
+    "score": 7.0,
+    "why": "Map of plane arrivals over London and their altitudes; a clear, novel aviation-density visual.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "An interactive map by Benjamin Niedermann for 30DayMapChallenge Day 4 (Clusters), showing arrivals and departures at London's nine airports on two days in July 2026. It uses public ADS-B traces from adsb.lol (ODbL) on an OpenFreeMap basemap (© OpenStreetMap contributors) and was built with the VisQuill GDK. Users pick a place on the ground and view the sky one layer and one hour at a time, to see when and how low planes pass over and which airport uses which part of the sky.",
+      "uncertainties": [
+        "Reuse policy is link_only and no image licence or credit is stated on the page. Get permission from Benjamin Niedermann before reposting the image.",
+        "The credit 'Map: Benjamin Niedermann' comes from the post author named in the URL, not from an explicit image credit.",
+        "The post does not explain the colour scheme or what the 'layers' are (they are presumably altitude bands, but this is not stated).",
+        "The two exact July 2026 dates are not given.",
+        "The interactive map is behind a shortened lnkd.in link (https://lnkd.in/dxkdn3MM). The posts link to the LinkedIn post, which may ask readers to sign in.",
+        "The alt text is generic because the cropped image content was not verified. Check it against the actual square before posting."
+      ],
+      "image_credit": "Map: Benjamin Niedermann",
+      "facebook": "Nine London airports, two July days: how low do planes pass over your street?\n\nBenjamin Niedermann mapped public ADS-B traces from adsb.lol for 30DayMapChallenge Day 4. Pick a spot on the ground and step through the sky one layer and one hour at a time.\n\nRead more: https://www.linkedin.com/posts/benjamin-niedermann_30daymapchallenge-30daymapchallenge-dataviz-activity-7523832720746049537-VMGx\n\nMap: Benjamin Niedermann\n\n#Geoawesome #Aviation #London #Heathrow",
+      "instagram": "London's sky, sliced by the hour.\n\nEvery arrival and departure at the city's nine airports over two days in July 2026, sorted so you can see which airport uses which part of the sky.\n\nFull story: https://www.linkedin.com/posts/benjamin-niedermann_30daymapchallenge-30daymapchallenge-dataviz-activity-7523832720746049537-VMGx\n\nMap: Benjamin Niedermann\n\n#Geoawesome #Flights #London #Maps",
+      "youtube": "Most flight maps flatten everything into one mass of lines. This one starts from a place on the ground instead.\n\nBuilt for 30DayMapChallenge Day 4, it maps public ADS-B traces (adsb.lol, ODbL) of every flight to and from London's nine airports on two days in July 2026. Choose a spot, then filter by layer and hour to see when and how low planes pass.\n\nLearn more: https://www.linkedin.com/posts/benjamin-niedermann_30daymapchallenge-30daymapchallenge-dataviz-activity-7523832720746049537-VMGx\n\nMap: Benjamin Niedermann\n\n#Geoawesome #ADSB #Aviation #Cartography",
+      "x": "Which London airport uses which slice of sky, and how low do its planes fly over you? ADS-B traces, nine airports, two July days.\nhttps://www.linkedin.com/posts/benjamin-niedermann_30daymapchallenge-30daymapchallenge-dataviz-activity-7523832720746049537-VMGx\nMap: Benjamin Niedermann\n#Geoawesome #Aviation #London #Maps",
+      "alt_text": "Map of London overlaid with the tracks of aircraft arriving at and departing from the city's airports."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-05-9-30daymapchallenge-30daymapchallenge-data.jpg"
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/69dc5faf727c48c1",
+      "source_id": "google_alerts_6",
+      "source_name": "Google Alerts #6",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Cascade, Montana | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/69dc5faf727c48c1",
+      "published": "2026-11-04T00:52:50+00:00",
+      "summary": "Sandy CanyonSandy CanyonStarted Oct 31 · Updated 1d ago. 3000 ft. MapLibre . MenuOpen the menu and map settings. FiresBrowse active fires on the ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Cascade, Montana observed by LANDSAT, SOF covering 0.2 acres from 4 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Live wildfire map of Sandy Canyon, Cascade Montana; interactive fire tracker people can open.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "There is no image to post: the page is an auto-generated fire-detection entry (one 0.2-acre Landsat detection) with no visual and a link-only reuse policy.",
+      "what_it_shows": "An automated WFCA fire map page listing a satellite fire detection in Cascade, Montana, attributed to Landsat, covering 0.2 acres from 4 merged observations. The page has no image, map snapshot or other visual.",
+      "uncertainties": [
+        "No image found on the page, so there is nothing to crop to a 1080x1080 square.",
+        "The reuse policy is link_only and no image credit or licence is stated.",
+        "The detection date is not given beyond the page's publication timestamp, and 'SOF' is not explained.",
+        "A single 0.2-acre automated detection is not newsworthy on its own and may not be a confirmed fire."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "tag:blogger.com,1999:blog-12158290.post-8727142673132950896",
+      "source_id": "maps_mania",
+      "source_name": "Maps Mania",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "The Alleyways of Britain",
+      "link": "http://googlemapsmania.blogspot.com/2026/11/the-alleyways-of-britain.html",
+      "published": "2026-11-04T10:00:17+00:00",
+      "summary": "In October, YouGov published a small-multiple visualisation showing the popularity of regional names for alleyways in the UK. The maps in What else do Britons call an alleyway? are based on survey data. YouGov asked 39,224 Britons which words they personally use to describe an alleyway. The resulting maps show the percentage of people in each county or region who use particular terms. I thought it might be interesting to also map the different words for alleyways that actually appear in street names around the UK. To do this, I downloaded the Ordnance Survey Open Names dataset, which contains millions of named places and geographical features across Great Britain. I searched the dataset for regional alleyway terms such as twitten, ginnel, jitty, vennel and chare, then plotted the locations of the matching records on two maps. Unlike the YouGov maps, which show where people say they use particular words, my maps shows where those words appear in recorded place names. My Geography of Words map plots the locations of these different alleyway names across Great Britain. Each term is represented by a different colour, allowing you to see at a glance where particular words are concentrat",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9Ss-eRoHB4WjT-4h2S3vRIEVhAjayPMY1HMmGEsc5x_78J732hBfp1jN6yCVR4P6jPvZaUnA-cZvRTtoKul3TeilVT-_iKGw-weLiNJGNlgqfKpJfhTBybnkXLLKzfHEF0K5bRK7tyfBNkEJXk66lhPkS0c0OS_U_CoKpvN6HmukuBvDC5DlHoQ/s1600/image%20%285%29.jpg",
+      "credit_hint": "via Maps Mania",
+      "source_tag": "",
+      "page_text": "In October, YouGov published a small-multiple visualisation showing the popularity of regional names for alleyways in the UK. The maps in What else do Britons call an alleyway? are based on survey data. YouGov asked 39,224 Britons which words they personally use to describe an alleyway. The resulting maps show the percentage of people in each county or region who use particular terms. I thought it might be interesting to also map the different words for alleyways that actually appear in street names around the UK. To do this, I downloaded the Ordnance Survey Open Names dataset, which contains millions of named places and geographical features across Great Britain. I searched the dataset for regional alleyway terms such as twitten, ginnel, jitty, vennel and chare, then plotted the locations of the matching records on two maps. Unlike the YouGov maps, which show where people say they use particular words, my maps shows where those words appear in recorded place names. My Geography of Words map plots the locations of these different alleyway names across Great Britain. Each term is represented by a different colour, allowing you to see at a glance where particular words are concentrat",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9Ss-eRoHB4WjT-4h2S3vRIEVhAjayPMY1HMmGEsc5x_78J732hBfp1jN6yCVR4P6jPvZaUnA-cZvRTtoKul3TeilVT-_iKGw-weLiNJGNlgqfKpJfhTBybnkXLLKzfHEF0K5bRK7tyfBNkEJXk66lhPkS0c0OS_U_CoKpvN6HmukuBvDC5DlHoQ/s1600/image%20%285%29.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-05-11-the-alleyways-of-britain.jpg",
+      "image_note": "square crop, from 416px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 7.0,
+    "why": "Mapping regional alleyway terms across Britain; clever small-multiple style map with a hook.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A map from Maps Mania (the 'Geography of Words' map) plotting places across Great Britain whose names in the Ordnance Survey Open Names dataset contain regional words for an alleyway, such as twitten, ginnel, jitty, vennel and chare. Each term is shown in a different colour, so you can see where particular words are concentrated. It is a counterpart to YouGov's October survey maps, based on 39,224 Britons, which show where people say they use each word rather than where the words appear in recorded place names.",
+      "uncertainties": [
+        "Reuse policy is link_only and no image licence is stated: confirm we may post the image itself before publishing.",
+        "Source image is only 416px wide and has been upscaled for the square: check sharpness before posting.",
+        "No image credit on the page and the map's author is not named. The credit 'Map: Maps Mania' assumes the blog post's author made the map, as the text says ('my maps'). Confirm this wording, or use 'via Maps Mania' instead.",
+        "The page text is cut off. It is unclear which term each colour represents, what the second map shows, the full list of terms searched, and whether the map is interactive.",
+        "No counts of matches per term or regional findings are given, so none are stated.",
+        "The coverage is Great Britain only (OS Open Names), not the whole UK, while the YouGov survey refers to the UK and Britons."
+      ],
+      "image_credit": "Map: Maps Mania",
+      "facebook": "Twitten, ginnel, jitty, vennel, chare: Britain has many words for an alleyway, and they turn up in its place names.\n\nMaps Mania searched the Ordnance Survey Open Names dataset, which holds millions of named places across Great Britain, for regional alleyway terms and plotted every match, one colour per word. It complements YouGov's October survey of 39,224 Britons: that shows who says a word, this shows where it is recorded on the map.\n\nRead more: http://googlemapsmania.blogspot.com/2026/11/the-alleyways-of-britain.html\n\nMap: Maps Mania\n\n#Cartography #Toponymy #Britain #Geoawesome",
+      "instagram": "One alley, five names: twitten, ginnel, jitty, vennel and chare.\n\nEach mapped record is a British place name from Ordnance Survey Open Names, coloured by the alleyway word it uses, so regional vocabulary becomes regional colour.\n\nFind out more: http://googlemapsmania.blogspot.com/2026/11/the-alleyways-of-britain.html\n\nMap: Maps Mania\n\n#Maps #Dialects #Alleyways #Geoawesome",
+      "youtube": "A survey tells you what people call an alleyway. Street names tell you what got written down.\n\nYouGov mapped the alleyway words that 39,224 Britons say they use, by county or region. Maps Mania instead queried the Ordnance Survey Open Names dataset for terms such as twitten, ginnel, jitty, vennel and chare, then plotted the matching records across Great Britain with a separate colour for each word.\n\nLearn more: http://googlemapsmania.blogspot.com/2026/11/the-alleyways-of-britain.html\n\nMap: Maps Mania\n\n#Cartography #Dialects #Linguistics #Geoawesome",
+      "x": "Where is an alleyway a ginnel, a jitty or a twitten? British place names from Ordnance Survey Open Names, mapped one colour per word.\nhttp://googlemapsmania.blogspot.com/2026/11/the-alleyways-of-britain.html\nMap: Maps Mania\n#Cartography #Toponymy #Geoawesome",
+      "alt_text": "A map of Great Britain with coloured markers showing where place names contain regional words for an alleyway, with each word in a different colour."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-05-11-the-alleyways-of-britain.jpg"
+  },
+  {
+    "item": {
+      "id": "tag:blogger.com,1999:blog-12158290.post-5862761600464611623",
+      "source_id": "maps_mania",
+      "source_name": "Maps Mania",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "U.S. Midterm Election Maps",
+      "link": "http://googlemapsmania.blogspot.com/2026/11/us-midterm-election-maps.html",
+      "published": "2026-11-04T08:49:16+00:00",
+      "summary": "If you want to know what happened in yesterday's midterm elections, you should probably start with The Economist's Swing from 2024 map. The map is paywalled, but the screenshot above tells the story rather well: almost the entire USA (perhaps with the exception of South Dakota) swung towards the Democrats. The Guardian has unpaywalled maps of both the Senate and House results. The House results map is a neat cartogram, in which each House seat is shown as 'the same size regardless of its geography'. It illustrates very clearly how the Republicans have relatively few seats along the West Coast (California, Oregon and Washington) and throughout the Northeast and New England. They have, however, managed to retain a number of seats across the South (Texas, Florida, Georgia, Alabama, Mississippi, Tennessee and South Carolina), as well as across the Central Plains, Great Plains and Mountain West (including Oklahoma, Kansas, Nebraska, Idaho, Wyoming, Montana and the Dakotas). If you don't like cartograms and prefer your election maps to be as geographically accurate as possible, then you might prefer the New York Times . I'd argue, however, that this view rather obscures the real story of",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghiPPcHpA1RS9N7Qdbp5VP5CFVlkxcaRBCCatVfTThEdvUXCU-8lF97FEaQDbZ6cuGdHVT9RIw-106-_8YTnjn5RM5QNVQZb20cFh5QSMiy4ZrCi7QnhbFDu_1cUKJwX76UQ0ecYe1xzZMYaS8jm0o1hc2HtDY9-dGwzNSsvrOu439N4f0Ci6MBw/s1600/swing.webp",
+      "credit_hint": "via Maps Mania",
+      "source_tag": "",
+      "page_text": "If you want to know what happened in yesterday's midterm elections, you should probably start with The Economist's Swing from 2024 map. The map is paywalled, but the screenshot above tells the story rather well: almost the entire USA (perhaps with the exception of South Dakota) swung towards the Democrats.\nThe Guardian has unpaywalled maps of both the Senate and House results. The House results map is a neat cartogram, in which each House seat is shown as 'the same size regardless of its geography'. It illustrates very clearly how the Republicans have relatively few seats along the West Coast (California, Oregon and Washington) and throughout the Northeast and New England. They have, however, managed to retain a number of seats across the South (Texas, Florida, Georgia, Alabama, Mississippi, Tennessee and South Carolina), as well as across the Central Plains, Great Plains and Mountain West (including Oklahoma, Kansas, Nebraska, Idaho, Wyoming, Montana and the Dakotas).\nIf you don't like cartograms and prefer your election maps to be as geographically accurate as possible, then you might prefer the New York Times . I'd argue, however, that this view rather obscures the real story of the midterm elections. The phrase 'people vote, not land' springs to mind. You can, though, switch to the Shift Map view to get a much better sense of the seismic swing towards the Democrats in this election.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghiPPcHpA1RS9N7Qdbp5VP5CFVlkxcaRBCCatVfTThEdvUXCU-8lF97FEaQDbZ6cuGdHVT9RIw-106-_8YTnjn5RM5QNVQZb20cFh5QSMiy4ZrCi7QnhbFDu_1cUKJwX76UQ0ecYe1xzZMYaS8jm0o1hc2HtDY9-dGwzNSsvrOu439N4f0Ci6MBw/s1600/swing.webp",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghiPPcHpA1RS9N7Qdbp5VP5CFVlkxcaRBCCatVfTThEdvUXCU-8lF97FEaQDbZ6cuGdHVT9RIw-106-_8YTnjn5RM5QNVQZb20cFh5QSMiy4ZrCi7QnhbFDu_1cUKJwX76UQ0ecYe1xzZMYaS8jm0o1hc2HtDY9-dGwzNSsvrOu439N4f0Ci6MBw/w1200-h630-p-k-no-nu/swing.webp",
+          "label": ""
+        },
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuvJ9r6B9sCExiAGhnsU6dnpIVfhyphenhyphenB1uXvDCU1q7dsGRFrlGDca0NMID-A7STgkkpDsRNCIer31f7IIjtBYTbxEGgc3hzd-rFSlQ7bVv7dgBlPmO9ZDtI_u9-AJb3Nxr07DelkT_-yaV_lipTFAFhUknc_X3bHFj4x2QCK8xylQ7p9D3GmUkZhXQ/s1273/www.theguardian.com_us-news_ng-interactive_2026_nov_03_midterm-elections-full-results-senate-house-governor-races.png",
+          "label": ""
+        },
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihIKTCfaNoXc03y0A2WSq-M-455mEeFM6rLmbLka_fW4Llba-_IZe667GzjcqvOD8a335u_7NPJFfrem4rb2_PRtxyXylzxlVeKJvZZd-yRMs0vR_Llo0Bs-726cDJYM5hjbAfsAES0e4ylXYEg2q-KOd5Cb-r61yhGwLVW8aJ2he9SyPjrJ1IkQ/s523/Screenshot%202026-11-04%208.36.47%20AM.png",
+          "label": ""
+        },
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMofOnJSGWGCYi7SJDgm6B1TjTv004rBA6iGHcWSpzF3Wc84nwwBE5aawjIHq7yrVu-pfkpvIHDzzJ5-mLVeF6MVSFWrzLjDPslikO_tcN7IPBlO_4a97VWwAtXhHGc-n2jCV9/s400/earth.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "http://www.economist.com/interactive/2026/us-midterms/results/house",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-05-12-u-s-midterm-election-maps.jpg",
+      "image_note": "square crop, from 1451px of source width"
+    },
+    "score": 7.0,
+    "why": "Cartogram and swing maps of US midterms; a striking geo visualisation with a clear story.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A screenshot of The Economist's 'Swing from 2024' map of the US midterm election results, shared by Maps Mania the day after the vote. According to Maps Mania, almost the entire USA swung towards the Democrats, perhaps with the exception of South Dakota. The post also compares it with The Guardian's equal-size House cartogram and The New York Times' geographic map with its Shift Map view.",
+      "uncertainties": [
+        "Reuse policy is 'link_only' and no image licence is stated. The image is a screenshot of a paywalled Economist interactive, so check rights before posting the square.",
+        "The colour scheme is not explained in the source.",
+        "The geographic unit of the swing map (district, county or state) is not stated. The Economist URL points to House results.",
+        "The South Dakota exception is the blogger's hedged reading ('perhaps') of the screenshot, not a stated result.",
+        "The exact election date is not given. The post says 'yesterday's midterm elections' and was published 4 November 2026.",
+        "No vote margins, seat counts or swing percentages are given."
+      ],
+      "image_credit": "Map: The Economist via Maps Mania",
+      "facebook": "On The Economist's 'Swing from 2024' map of the US midterms, almost every part of the country moved towards the Democrats, with South Dakota perhaps the one exception.\n\nThe original is paywalled, so Maps Mania shares a screenshot and sets it beside two free alternatives: The Guardian's House cartogram, where each seat is drawn the same size regardless of geography, and The New York Times' geographic map. It is a useful comparison of how map design shapes the same result.\n\nRead more: http://googlemapsmania.blogspot.com/2026/11/us-midterm-election-maps.html\n\nMap: The Economist via Maps Mania\n\n#Geoawesome #Cartography #Elections #Midterms",
+      "instagram": "One map, one direction: nearly the whole US shifts towards the Democrats in The Economist's swing view of the midterms.\n\nSouth Dakota may be the lone holdout, according to Maps Mania's reading of the paywalled map.\n\nFind out more: http://googlemapsmania.blogspot.com/2026/11/us-midterm-election-maps.html\n\nMap: The Economist via Maps Mania\n\n#Geoawesome #Midterms #Maps #USA",
+      "youtube": "'People vote, not land': this week's US midterms show how much map design changes the story.\n\nThe Economist's 'Swing from 2024' map shows the change since 2024 rather than who won, and on it almost the entire USA moves towards the Democrats (perhaps except South Dakota). Maps Mania contrasts it with The Guardian's cartogram, which shows each House seat at equal size, and The New York Times' geographically accurate map, where switching to the Shift Map view brings the swing back into focus.\n\nLearn more: http://googlemapsmania.blogspot.com/2026/11/us-midterm-election-maps.html\n\nMap: The Economist via Maps Mania\n\n#Geoawesome #Cartography #Elections #Cartograms",
+      "x": "Nearly the whole US swung towards the Democrats in the midterms, going by The Economist's swing-from-2024 map (South Dakota perhaps excepted).\nhttp://googlemapsmania.blogspot.com/2026/11/us-midterm-election-maps.html\nMap: The Economist via Maps Mania\n#Geoawesome #Midterms #Cartography",
+      "alt_text": "A map of the United States showing how the vote in the 2026 midterm elections swung compared with 2024."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-05-12-u-s-midterm-election-maps.jpg"
+  },
+  {
+    "item": {
+      "id": "https://flowingdata.com/?p=83324",
+      "source_id": "flowingdata",
+      "source_name": "FlowingData",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "Mountain peaks to show the shifts",
+      "link": "https://flowingdata.com/2026/11/04/mountain-peaks-to-show-the-shifts/",
+      "published": "2026-11-04T18:43:24+00:00",
+      "summary": "Bloomberg used mountain peaks to show the shifts towards Democrats and Republicans. Taller… Tags: Bloomberg , elections , midterm",
+      "image_url": "https://flowingdata.com/wp-content/uploads/2026/11/mountain-peaks-bloomberg-750x592.png",
+      "credit_hint": "via FlowingData",
+      "source_tag": "",
+      "page_text": "Bloomberg used mountain peaks to show the shifts towards Democrats and Republicans. Taller peaks represent greater shifts, and blue and red indicate Democratic and Republican shifts, respectively.\nI prefer this map to the NYT map that uses arrows. It’s easier to spot the handful of Republican shifts without zooming in. The transparency helps too.\nGet access to courses, tutorials, and more resources.",
+      "image_credit": "2007-Present FlowingData. All rights reserved.",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://flowingdata.com/wp-content/uploads/2026/11/mountain-peaks-bloomberg.png",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://flowingdata.com/wp-content/uploads/2026/11/mountain-peaks-bloomberg.png",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1586px of source width"
+    },
+    "score": 7.0,
+    "why": "Bloomberg mountain-peak map of partisan shifts; unusual visual encoding of a place-based pattern.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The page does not say which election, which years are compared or what geographic unit is mapped, and the reuse policy is link_only (FlowingData, all rights reserved, map by Bloomberg), so we cannot post the image or caption it without guessing.",
+      "what_it_shows": "A Bloomberg map, featured on FlowingData, that shows shifts towards Democrats and Republicans as mountain peaks. Taller peaks mean greater shifts, blue peaks are Democratic shifts and red peaks are Republican shifts. FlowingData prefers it to the NYT arrow map because the few Republican shifts are easier to spot without zooming in, and the transparency helps.",
+      "uncertainties": [
+        "The election and the years being compared are not stated. The publication date (2026-11-04) suggests a recent US election, but the page does not confirm this.",
+        "The geographic unit (counties, districts or states) is not stated.",
+        "The data source and the baseline for the shift (which earlier result it is measured against) are not stated.",
+        "Reuse policy is link_only and the page credit reads '2007-Present FlowingData. All rights reserved.' The map itself is Bloomberg's, so reposting the image would need permission from Bloomberg.",
+        "The election topic carries a risk of being read as political point-scoring. If it is posted later, frame it strictly around the cartographic technique (peaks compared with arrows).",
+        "To reconsider, find the original Bloomberg piece. It should state the election, the unit and the data source, and give a proper image credit or licence."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "t3_1xnywe1",
+      "source_id": "reddit_mapporn",
+      "source_name": "Reddit r/MapPorn",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "Start at Berlin Hbf, take the fastest real trains – how far do you get in 10 hours?",
+      "link": "https://www.reddit.com/r/MapPorn/comments/1xnywe1/start_at_berlin_hbf_take_the_fastest_real_trains/",
+      "published": "2026-11-04T20:26:12+00:00",
+      "summary": "Start at Berlin Hbf, take the fastest real trains – how far do you get in 10 hours?",
+      "image_url": "https://preview.redd.it/tug4xjlgnnzh1.gif?width=640&crop=smart&s=00f4cb71918a4e682b9e9eac0c9b3685fde717cc",
+      "credit_hint": "u/vladgrinch via r/MapPorn",
+      "source_tag": "",
+      "page_text": "Title of the post: Start at Berlin Hbf, take the fastest real trains – how far do you get in 10 hours?\nPosted on Reddit by u/vladgrinch via r/MapPorn. The post has no other text; the title is the only description of the map.",
+      "image_credit": "u/vladgrinch via r/MapPorn",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://preview.redd.it/tug4xjlgnnzh1.gif?width=640&crop=smart&s=00f4cb71918a4e682b9e9eac0c9b3685fde717cc",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": false,
+      "square_path": "drafts/images/2026-11-05-14-start-at-berlin-hbf-take-the-fastest-rea.jpg",
+      "image_note": "square crop, from 720px of source width"
+    },
+    "score": 7.0,
+    "why": "Rail reach map from Berlin showing travel-time isochrone; clever geo idea, animated GIF.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A map posted by u/vladgrinch on r/MapPorn that, according to its title, shows how far you can get in 10 hours from Berlin Hauptbahnhof using the fastest real trains. The post has no description beyond the title, so the data source, timetable date and colour scheme are not stated.",
+      "uncertainties": [
+        "The map's data source is not stated (which timetable or routing data was used).",
+        "No travel date, day of week or departure time is given, and train reach can vary with these.",
+        "Transfer assumptions (minimum change times, waiting) are not described.",
+        "The meaning of the colours or bands on the map is not explained in the post.",
+        "The image licence is not stated and the reuse policy is link_only. Check whether posting the image itself is permitted.",
+        "The square crop was made from 720px of source width. Check that the labels stay legible at 1080x1080."
+      ],
+      "image_credit": "Map: u/vladgrinch via r/MapPorn",
+      "facebook": "Ten hours on the fastest real trains out of Berlin Hauptbahnhof: how far does that actually get you?\n\nThis map by u/vladgrinch answers that from a single starting station. The rules are simple: one origin, real train services and a 10-hour limit. It is a neat example of a travel-time map for anyone who works on accessibility or network analysis.\n\nFull story: https://www.reddit.com/r/MapPorn/comments/1xnywe1/start_at_berlin_hbf_take_the_fastest_real_trains/\n\nMap: u/vladgrinch via r/MapPorn\n\n#Geoawesome #Trains #Berlin #Cartography",
+      "instagram": "One station, a 10-hour budget, only the fastest real trains.\n\nWhere does that leave you if you set off from Berlin Hbf?\n\nFind out more: https://www.reddit.com/r/MapPorn/comments/1xnywe1/start_at_berlin_hbf_take_the_fastest_real_trains/\n\nMap: u/vladgrinch via r/MapPorn\n\n#Geoawesome #Railways #Berlin #Maps",
+      "youtube": "Distance on a map is one thing, distance on a timetable is another.\n\nu/vladgrinch's map starts at Berlin Hauptbahnhof and asks how far the fastest real trains can take you within 10 hours. The post does not say which timetable data, travel date or transfer rules were used. Read it as a visual answer to the question rather than a planning tool.\n\nLearn more: https://www.reddit.com/r/MapPorn/comments/1xnywe1/start_at_berlin_hbf_take_the_fastest_real_trains/\n\nMap: u/vladgrinch via r/MapPorn\n\n#Geoawesome #Trains #Accessibility #Mobility",
+      "x": "Berlin Hbf, 10 hours, fastest real trains only. Where is the edge of your reach?\nhttps://www.reddit.com/r/MapPorn/comments/1xnywe1/start_at_berlin_hbf_take_the_fastest_real_trains/\nMap: u/vladgrinch via r/MapPorn\n#Geoawesome #Railways #Berlin",
+      "alt_text": "Map showing how far a traveller can get by train from Berlin Hauptbahnhof within 10 hours using the fastest real services."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-05-14-start-at-berlin-hbf-take-the-fastest-rea.jpg"
+  },
+  {
+    "item": {
+      "id": "https://scienmag.com/geoai-model-maps-landslide-risk-across-central-nepal-with-88-3-accuracy/",
+      "source_id": "google_alerts_1",
+      "source_name": "Google Alerts #1",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "GeoAI model maps landslide risk across central Nepal with 88.3% accuracy - Scienmag",
+      "link": "https://scienmag.com/geoai-model-maps-landslide-risk-across-central-nepal-with-88-3-accuracy/",
+      "published": "2026-11-04T10:34:14+00:00",
+      "summary": "A new GeoAI framework combining Google Earth Engine, ensemble machine learning, and SHAP explainability mapped landslide susceptibility across ...",
+      "image_url": "https://scienmag.com/wp-content/uploads/2026/11/stackrss-featured-96.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "GeoAI model maps landslide risk across central Nepal with 88.3% accuracy\nLandslides rank among the most destructive natural hazards in mountainous regions, and nowhere is that threat more persistent than in Nepal, where young, tectonically active Himalayan geology, steep terrain, and intense monsoonal precipitation combine to destabilize slopes year after year. A new study published in Frontiers in Earth Science presents a reproducible Geospatial Artificial Intelligence, or GeoAI, framework that integrates Google Earth Engine, ensemble machine learning, and SHAP-based explainable AI to map landslide susceptibility across thirteen districts of central Nepal. The work, led by Pawan Thapa of the Department of Geography and the Environment at the University of Alabama, demonstrates how freely available satellite data, cloud computing, and interpretable models can be combined to identify vulnerable terrain in data-scarce regions.\nThe framework was built on a balanced dataset of 9,479 observations drawn from 4,743 landslide locations and 4,736 non-landslide control points. The landslide inventory consisted of 4,747 landslide polygons obtained from the International Centre for Integrated Mountain Development, compiled following the 2015 Gorkha Earthquake and including both pre-event and co-seismic slope failures identified within the earthquake-affected districts. The polygons were visually digitized from high-resolution imagery in Google Earth Pro. For computational efficiency, the polygons were converted to centroid points, an approach the author acknowledges may introduce minor positional uncertainty and does not fully capture the extent or geometry of individual landslides. Non-landslide samples were generated randomly within Google Earth Engine after a 500-meter exclusion buffer was applied around all mapped landslide polygons to minimize contamination between the two classes.\nSeven conditioning factors were extracted entirely within the Google Earth Engine cloud environment, spanning topographic, climatic, ecological, and anthropogenic domains. Elevation came from the Shuttle Radar Topography Mission digital elevation model at 30-meter resolution, while slope and aspect were derived from the same DEM. The Normalized Difference Vegetation Index was calculated from Sentinel-2 imagery, cumulative rainfall from 2015 to 2024 was derived from CHIRPS data, population density came from WorldPop, and land-cover information was extracted from ESA WorldCover 2021. The aspect variable was transformed into sine and cosine components to address its circular nature, and land-cover categories were converted through one-hot encoding. Predictor layers were clipped to the study area, stacked into a multiband raster, and sampled at each landslide and non-landslide location before export for machine-learning analysis in Google Colab.\nTwo ensemble models were trained and compared: Random Forest, configured with 500 estimators and a maximum depth of 15, and Extreme Gradient Boosting, or XGBoost, configured with 500 estimators, a learning rate of 0.05, and a maximum depth of 6. The dataset was divided using a stratified train-test split with a 70:30 ratio, producing 6,635 training samples and 2,844 independent testing samples. Both architectures demonstrated strong predictive performance on the held-out partition. Random Forest achieved a validation accuracy of 87.9% paired with a ROC-AUC of 0.945, while XGBoost slightly outperformed it with an overall classification accuracy of 88.3% and a superior ROC-AUC of 0.952. Precision, recall, and F1-score values hovered around 0.88 to 0.89 for both models.\nStratified 10-fold cross-validation further verified the stability of both workflows across varying data subsets. Random Forest recorded a mean cross-validation AUC of 0.935, and XGBoost achieved a stable mean cross-validation AUC of 0.939 with a minimal standard deviation of 0.015. Because it demonstrated optimal discrimination and classification efficiency, XGBoost was selected as the champion architecture for downstream explainability analysis and spatial zoning. The author notes, however, that spatially explicit validation was not implemented in this study, meaning that nearby training and testing samples may share similar environmental characteristics, potentially resulting in optimistic performance estimates. Future research, the paper suggests, should evaluate spatial block cross-validation approaches to address this limitation.\nInterpretability was addressed through SHapley Additive exPlanations, a technique that quantifies the contribution of each predictor variable to individual model predictions. Random Forest feature importance calculations identified terrain slope as the most influential predictor, accounting for 26.9% of the total predictive weight. Cumulative monsoonal rainfall ranked second at 16.1%, followed closely by elevation at 14.7% and NDVI at 13.0%. The SHAP analysis further revealed threshold-like patterns in the model’s response surfaces: predicted susceptibility increased above approximately 14,000 millimeters of cumulative rainfall and within an elevation range of roughly 1,500 to 2,500 meters. Lower NDVI values consistently corresponded with elevated susceptibility scores, suggesting an association between reduced vegetation cover and higher predicted susceptibility.\nThe author is careful to frame these threshold patterns as model-derived associations rather than physical triggering thresholds. Cumulative rainfall over a decade differs fundamentally from the event-scale and antecedent rainfall conditions responsible for individual landslide initiation, and the paper explicitly cautions that the rainfall pattern should be interpreted with that distinction in mind. The same interpretive caution extends to the temporal alignment of the predictor datasets: the landslide inventory primarily represents failures mapped following the 2015 Gorkha Earthquake, whereas the environmental predictors re",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://scienmag.com/wp-content/uploads/2026/11/stackrss-featured-96.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://scienmag.com/wp-content/uploads/2026/11/stackrss-featured-487-350x250.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://scienmag.com/wp-content/uploads/2026/11/stackrss-featured-485-350x250.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://scienmag.com/wp-content/uploads/2026/11/stackrss-featured-480-350x250.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://scienmag.com/wp-content/uploads/2026/11/stackrss-featured-460-350x250.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://scienmag.com/wp-content/uploads/2026/11/stackrss-featured-2-350x250.png",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 768px of source width"
+    },
+    "score": 6.0,
+    "why": "Landslide susceptibility map of Nepal; strong geo subject, though no image in feed.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The page never describes its image and gives no image credit or licence (link-only reuse), so the square crop cannot be captioned or credited without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page text never describes the image, so it is unclear whether it is the study's susceptibility map, a stock photo or another figure.",
+        "No image credit was found on the page and no licence is stated. The source's reuse policy is link_only.",
+        "The page text is cut off mid-sentence, so any figure caption or later description of the map is missing.",
+        "If the editor wants this story, check the original paper in Frontiers in Earth Science (Pawan Thapa, University of Alabama) for the susceptibility map figure and its licence, then build the post from that source.",
+        "The source says the 88.3% accuracy figure may be optimistic because no spatial cross-validation was used. Any future post should carry that caveat."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://x.com/MoloWarMonitor/status/2117895558740214076",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "This Sentinel-2 image clearly shows the full carrier strike group centered on the USS ... - X",
+      "link": "https://x.com/MoloWarMonitor/status/2117895558740214076",
+      "published": "2026-11-04T18:35:11+00:00",
+      "summary": "This Sentinel-2 image clearly shows the full carrier strike group centered on the USS Theodore Roosevelt. The group consists of the Nimitz-class ...",
+      "image_url": "https://pbs.twimg.com/media/HWRGyPlXUAAMTsn?format=webp&name=large",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "See what’s happening and join the conversation",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HWRGyPlXUAAMTsn?format=webp&name=large",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/2077000795950632961/GC6jYZvv_normal.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWRBU08WYAE0zaJ?format=webp&name=large",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWRBVH-XcAIFokm?format=webp&name=large",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/2022435524711952384/bWNcpMdc_normal.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1831475406509047808/D4hU6uQa_normal.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 439px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6.0,
+    "why": "Sentinel-2 view of carrier strike group; striking imagery, though military-focused and no image in feed.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The page text is empty and the image has no credit or licence, so the claim of a carrier strike group in Sentinel-2 imagery cannot be verified or captioned without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "Page text is only the X login placeholder, so the claims cannot be read or verified beyond the truncated title.",
+        "The carrier's name is cut off in the title ('USS ...'), and no location or acquisition date is given.",
+        "No image credit or licence is stated, and the reuse policy is link_only.",
+        "The source is a third-party war-monitoring account. The identification of a 'full carrier strike group' is unverified, and a 10 m Sentinel-2 image is unlikely to support identifying individual escort vessels.",
+        "The image is low resolution (439 px source width, upscaled), so sharpness is likely poor.",
+        "This is military and geopolitical content from an unverified source, which carries a misinformation risk."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://x.com/AfriMEOSINT/status/2117981043986731393",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Rich Tedd ✈️ on X: \"Before and after satellite images show damage to the Aroma ...",
+      "link": "https://x.com/AfriMEOSINT/status/2117981043986731393",
+      "published": "2026-11-04T15:14:44+00:00",
+      "summary": "Before and after satellite images show damage to the Aroma electricity substation in Kassala state, eastern Sudan , following RSF one way ...",
+      "image_url": "https://pbs.twimg.com/tweet_video_thumb/HWSUhJAXcAAG3k3?format=webp&name=large",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "See what’s happening and join the conversation",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/tweet_video_thumb/HWSUhJAXcAAG3k3?format=webp&name=large",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/2106983109971288064/nbDY6yYy_normal.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWSBImKW4AA-nPX?format=webp&name=large",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWHtgkfX0AAjo1d?format=webp&name=large",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2117234454951297024/img/rR4UXbNPrkbPYcrX?format=webp&name=medium",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWHuKxNXMAAXFiR?format=webp&name=large",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1024px of source width"
+    },
+    "score": 6.0,
+    "why": "Before-and-after satellite images of Sudan substation damage; clear change story.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Only a truncated X post title and boilerplate page text are available, with no image credit, licence, location, date or sensor (reuse policy is link_only), so the image cannot be described without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page text is only X's generic sign-in boilerplate. The post text, the images and any context did not load.",
+        "The title is truncated ('damage to the Aroma ...'), so the site, location and cause of the damage are unknown.",
+        "No satellite operator, sensor, acquisition dates or image credit are given. The images may come from a commercial provider whose licence does not allow reposting.",
+        "The poster is an OSINT account on X. Any damage claim would be third-party and unverified.",
+        "The reuse policy is link_only and no image licence is stated, so the image should not be reposted as a square.",
+        "The IMAGE NOTE describes a plain square crop, not a stacked before/after pair, so a single crop may not show the comparison the title describes."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.linkedin.com/posts/walkerke_30daymapchallenge-activity-7523762848225878017-HHmd",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "# 30daymapchallenge | Kyle Walker - LinkedIn",
+      "link": "https://www.linkedin.com/posts/walkerke_30daymapchallenge-activity-7523762848225878017-HHmd",
+      "published": "2026-11-04T15:08:15+00:00",
+      "summary": "Day 4 of # 30DayMapChallenge : Clusters. 14797 operating US power plants from EIA data mapped as donut clusters with Mapbox and R's mapgl package.",
+      "image_url": "https://dms.licdn.com/playlist/vid/v2/D5605AQGxol1bLoDwGQ/thumbnail-with-play-button-overlay-high/B56aGnGajDIkC0-/0/1793804840660?e=2147483647&v=beta&t=-eXcdGpjsMZw-iHfqNByjkceUuD5AbFqCJ_y4Tsci-c",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\nDay 4 of #30DayMapChallenge : Clusters.\n\n14,797 operating US power plants from EIA data mapped as donut clusters with Mapbox and R's mapgl package.  The ring segments show capacity by fuel type.\n\nLots of insights in the map / data, some highlights - \n\nAbout half of US power plants are solar but they make up only 12% of capacity.  In contrast, gas is 13% of plants but 41% of capacity.  \n\nTexas leads in battery storage with 19.4 GW; California comes in second with 16.5 GW.\n\nAll of this month's maps, which focus on mapping energy & infrastructure, are found here: https://lnkd.in/gmhMJupH\nThanks for inspiring me to get some mapping started. This is and Residential Auction Arbitrage map of the UK (England).\nwhat was the most surprising pattern you discovered while exploring the data?\nCreate your free account or sign in to continue your search\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://dms.licdn.com/playlist/vid/v2/D5605AQGxol1bLoDwGQ/thumbnail-with-play-button-overlay-high/B56aGnGajDIkC0-/0/1793804840660?e=2147483647&v=beta&t=-eXcdGpjsMZw-iHfqNByjkceUuD5AbFqCJ_y4Tsci-c",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5616AQEZ9JWvyElZDQ/profile-displaybackgroundimage-shrink_200_800/B56Z131ZWCKYAU-/0/1775831979982?e=2147483647&v=beta&t=zPMnfZpJMQgV1hDXCyw6CbDfQEWFzjqvTNrlxLNkZ1o",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-05-19-30daymapchallenge-kyle-walker-linkedin.jpg",
+      "image_note": "square crop, from 720px of source width"
+    },
+    "score": 6.0,
+    "why": "14,797 US power plants as donut clusters on Mapbox; a clean, data-rich map.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "Kyle Walker's Day 4 (Clusters) entry for the 30 Day Map Challenge maps 14,797 operating US power plants from EIA data as donut clusters, built with Mapbox and R's mapgl package. The ring segments of each cluster show generating capacity by fuel type. Walker highlights that about half of US plants are solar but hold only 12% of capacity, while gas is 13% of plants and 41% of capacity. Texas leads battery storage with 19.4 GW, ahead of California with 16.5 GW.",
+      "uncertainties": [
+        "No image credit or licence on the page, and the reuse policy is link_only: confirm permission from Kyle Walker before posting the image itself.",
+        "The vintage of the EIA data (which year or month) is not stated.",
+        "The colour assigned to each fuel type is not described in the text, so the legend is not explained in the captions.",
+        "It is unclear whether the posted image is a static screenshot or comes from an interactive web map. Mapbox/mapgl suggests interactive, but this is not stated, so the captions do not claim interactivity.",
+        "The capacity measure (for example nameplate or summer capacity) is not specified.",
+        "The square crop was made from only 720px of source width and may look soft.",
+        "The page text includes unrelated LinkedIn comments (for example a UK auction arbitrage map). These were ignored."
+      ],
+      "image_credit": "Map: Kyle Walker",
+      "facebook": "About half of the operating power plants in the US are solar, yet they account for only 12% of generating capacity.\n\nKyle Walker mapped 14,797 operating US power plants from EIA data as donut clusters for Day 4 of the 30 Day Map Challenge, using Mapbox and R's mapgl package. The ring segments show capacity by fuel type. Gas is the mirror image of solar: 13% of plants, 41% of capacity.\n\nFull story: https://www.linkedin.com/posts/walkerke_30daymapchallenge-activity-7523762848225878017-HHmd\n\nMap: Kyle Walker\n\n#Geoawesome #Energy #Cartography #Solar",
+      "instagram": "Texas, not California, leads US battery storage: 19.4 GW against 16.5 GW.\n\nThe map groups 14,797 power plants into donut clusters, with each ring split by fuel type.\n\nFind out more: https://www.linkedin.com/posts/walkerke_30daymapchallenge-activity-7523762848225878017-HHmd\n\nMap: Kyle Walker\n\n#Geoawesome #Energy #Batteries #Mapbox",
+      "youtube": "One map, 14,797 power plants, and every cluster is a donut chart.\n\nKyle Walker built this Clusters entry for the 30 Day Map Challenge from EIA data, using Mapbox and the mapgl package for R. Ring segments encode capacity by fuel type, which shows the gap between plant count and capacity: solar is about half of plants but 12% of capacity.\n\nLearn more: https://www.linkedin.com/posts/walkerke_30daymapchallenge-activity-7523762848225878017-HHmd\n\nMap: Kyle Walker\n\n#Geoawesome #Cartography #Infrastructure #Mapbox",
+      "x": "Gas makes up 13% of US power plants but 41% of capacity. Kyle Walker's donut-cluster map of 14,797 plants shows the split.\nhttps://www.linkedin.com/posts/walkerke_30daymapchallenge-activity-7523762848225878017-HHmd\nMap: Kyle Walker\n#Geoawesome #Energy #Cartography",
+      "alt_text": "A map of the United States with power plants grouped into circular donut-chart clusters, each ring divided into coloured segments by fuel type."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-05-19-30daymapchallenge-kyle-walker-linkedin.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.threads.com/@simongerman600/post/DfU4dUeIFEZ/media",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "This map shows all places that are likely to have more than 5cm of snow for more than ... - Threads",
+      "link": "https://www.threads.com/@simongerman600/post/DfU4dUeIFEZ/media",
+      "published": "2026-11-04T17:31:06+00:00",
+      "summary": "Simon Kuestenmacher (@simongerman600). 98 Views. This map shows all places that are likely to have more than 5cm of snow for more than half of the ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Map of where snow over 5cm is likely; a clear forecast-style geo visual.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was found on the page, there is no image credit or licence, and the description is cut off ('more than half of the ...'), so the map cannot be described without guessing.",
+      "what_it_shows": "A Threads post by Simon Kuestenmacher (@simongerman600) describing a map of places likely to have more than 5 cm of snow for more than half of an unstated period. The page text is truncated, and no image, data source or date is available.",
+      "uncertainties": [
+        "No image found on the page (IMAGE NOTE: no image found), so there is nothing to post.",
+        "Description is truncated: the time period ('more than half of the ...') is unknown, possibly the year or the winter, but this cannot be confirmed.",
+        "Map maker unknown: Simon Kuestenmacher regularly reshares other people's maps, so he may not be the original creator.",
+        "Data source, snow-depth dataset, time span and method are not stated.",
+        "No image credit or licence on the page; the reuse policy is link_only.",
+        "The post had 98 views; the original map's source should be traced before any repost."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  }
+]
