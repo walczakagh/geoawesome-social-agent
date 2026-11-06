@@ -1,12 +1,5 @@
 [
  {
-  "base": "2026-11-06T10:00:00+00:00",
-  "issue": 37,
-  "post_id": "2026-11-04-17-polygons-how-far-is-the-nearest-airport",
-  "queued_at": "2026-11-05T18:33:43.757902+00:00",
-  "slot": "2026-11-06T10:04:00+00:00"
- },
- {
   "base": "2026-11-06T15:00:00+00:00",
   "issue": 37,
   "post_id": "2026-11-04-18-30daymapchallenge-barcelona-cartography",
