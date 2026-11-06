@@ -1,0 +1,1160 @@
+[
+  {
+    "item": {
+      "id": "https://www.leadstory.com/v/before-and-after-satellite-images-show-southwest-flood-destruction-202611557",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Before and after: Satellite images show Southwest flood destruction - LeadStory",
+      "link": "https://www.leadstory.com/v/before-and-after-satellite-images-show-southwest-flood-destruction-202611557",
+      "published": "2026-11-05T21:03:57+00:00",
+      "summary": "Satellite images show Pagosa Springs, Colorado, and Farmington and Flora Vista, New Mexico, before and after flooding from the San Juan and Animas ...",
+      "image_url": "https://www.leadstory.com/api/articles/before-and-after-satellite-images-show-southwest-flood-destruction-202611557/ogimage.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Satellite imagery has documented the significant damage caused by severe flooding in the US Southwest, particularly affecting Pagosa Springs, Colorado, and Farmington, New Mexico. The San Juan and Animas Rivers both overflowed, resulting in the transformation of dry terrain into muddy expanses and the disappearance of roads.\n\nHundreds of homes in Colorado and New Mexico have been damaged due to the storms and flooding. According to NOAA, the Four Corners region has received over 20 trillion gallons of rain in the past two weeks, contributing to the historic flooding.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.leadstory.com/api/articles/before-and-after-satellite-images-show-southwest-flood-destruction-202611557/ogimage.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://www.leadstory.com/_next/image?url=https%3A%2F%2Fassets.leadstory.com%2Fpublishers%2F182%2Fimages%2Ficon.jpg&w=96&q=75",
+          "label": ""
+        },
+        {
+          "url": "https://www.leadstory.com/_next/image?url=https%3A%2F%2Fcdn.jwplayer.com%2Fv2%2Fmedia%2Fxvt4HNZE%2Fposter.jpg%3Fwidth%3D320&w=640&q=80",
+          "label": ""
+        },
+        {
+          "url": "https://www.leadstory.com/_next/image?url=https%3A%2F%2Fassets.leadstory.com%2Fpublishers%2F17%2Fimages%2Ficon.jpg&w=48&q=80",
+          "label": ""
+        },
+        {
+          "url": "https://www.leadstory.com/_next/image?url=https%3A%2F%2Fcdn.jwplayer.com%2Fv2%2Fmedia%2FabUiUAMM%2Fposter.jpg%3Fwidth%3D320&w=640&q=80",
+          "label": ""
+        },
+        {
+          "url": "https://www.leadstory.com/_next/image?url=https%3A%2F%2Fassets.leadstory.com%2Fpublishers%2F9%2Fimages%2Ficon.jpg&w=48&q=80",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 720px of source width"
+    },
+    "score": 8.0,
+    "why": "Before-and-after satellite flood imagery of Pagosa Springs and Farmington; strong change story.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image credit or licence on the page, reuse policy is link_only, and the square crop cannot be identified as the 'before' or 'after' frame, so it cannot be credited or captioned without guessing.",
+      "what_it_shows": "A LeadStory piece with before-and-after satellite images of flooding in the US Southwest, focused on Pagosa Springs, Colorado, and Farmington, New Mexico, where the San Juan and Animas Rivers overflowed. The page says dry terrain turned to mud, roads disappeared and hundreds of homes were damaged. It cites NOAA as saying the Four Corners region received over 20 trillion gallons of rain in two weeks. No sensor, provider, acquisition dates or resolution are given.",
+      "uncertainties": [
+        "Image credit not found on the page. The imagery provider (and so the 'Image:' line) is unknown.",
+        "Image licence not stated, and the source reuse policy is link_only, so the image should not be reposted.",
+        "IMAGE NOTE says only 'square crop', not 'before/after pair stacked', so it is unclear whether the square shows the before frame, the after frame or a split of both.",
+        "No satellite or sensor name, acquisition dates or resolution are given for either image.",
+        "The NOAA figure (over 20 trillion gallons in two weeks) is second-hand via LeadStory, an aggregator. Check the original NOAA statement before using it.",
+        "The publisher is a Google Alerts aggregator page. The original outlet and imagery source should be traced (likely a commercial provider, but the page does not say). A repost would need a proper credit from that original source."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://science.nasa.gov/?p=1508687",
+      "source_id": "nasa_eo",
+      "source_name": "NASA Earth Observatory",
+      "source_type": "eo_imagery",
+      "licence": "reuse",
+      "title": "Taking a Gander at Utah’s Goosenecks",
+      "link": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
+      "published": "2026-11-06T05:01:00+00:00",
+      "summary": "The San Juan River has carved deep, improbably curvy meanders into the desert landscape.",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/taking-a-gander-at-utah’s-goosenecks/ISS075-E-188830.jpg?w=2048&h=1365&fit=clip&crop=faces%2Cfocalpoint",
+      "credit_hint": "NASA Earth Observatory",
+      "source_tag": "@NASAEarth",
+      "page_text": "The San Juan River has carved deep, improbably curvy meanders into the desert landscape.\nTens of millions of years ago, the San Juan River in what is now southern Utah shared some characteristics with today's Mississippi River. In a bygone geologic era, the San Juan flowed across a relatively flat plain that formed in an ancient marine environment. Unencumbered by rugged terrain, the river was free to take a long, meandering path on its gradual journey downslope.\nBut this part of the San Juan changed when geologic forces pushed the Colorado Plateau upward. Some experts think that within the later stages of this “ still-enigmatic ” history, starting around 20 million years ago, the plateau’s rise elevated the San Juan’s headwaters , which increased the river’s gradient and sped its flow. With that, the water’s erosive power intensified, and the river started carving its winding path deeper and deeper through 300-million-year-old rock.\nToday, on its westward path to Lake Powell, the San Juan River flows through an impressive series of entrenched meanders, also known as “goosenecks.” An astronaut aboard the International Space Station photographed the stark desert topography on October 6, 2026.\nIn Utah’s Goosenecks State Park , the river runs through a canyon 1,000 feet (300 meters) deep. In places, it nearly loops back on itself, making horseshoe-shaped bends. One section is so curvy that the river travels 5.5 miles (8.9 kilometers) between two points that are only 1.3 miles (2.1 kilometers) apart as the crow—nay, goose—flies.\nWhile the goosenecks are an unusual geologic wonder to behold by day, the area’s dark skies are a spectacle by night. Goosenecks State Park’s remote, high-desert location and 360-degree views of the sky helped earn it an International Dark Sky Park designation in 2021. According to DarkSky International, features such as the Double Cluster in Perseus and the Messier 24 star cloud in the Sagittarius spiral arm of the Milky Way are visible to the unaided eye from the park. In November 2026 , dark skies offer the chance to view several meteor showers, with the Northern Taurids, Southern Taurids, and Leonids reaching their peaks throughout the month.\nAstronaut photograph ISS075-E-188830 was acquired on October 6, 2026, with a Nikon Z9 digital camera using a focal length of 400 millimeters. It is provided by the ISS Crew Earth Observations Facility and the Earth Science and Remote Sensing Unit at NASA Johnson Space Center. The image was taken by a member of the Expedition 75 crew. The image has been cropped and enhanced to improve contrast, and lens artifacts have been removed. The International Space Station Program supports the laboratory as part of the ISS National Lab to help astronauts take pictures of Earth that will be of the greatest value to scientists and the public, and to make those images freely available on the internet. Additional images taken by astronauts and cosmonauts can be viewed at the NASA/JSC Gateway to Astronaut Photography of Earth . Photo by Bob Wick (BLM) , via Flickr. Story by Lindsey Doermann.\nStay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.\nSnow-capped mountains carved by deep river valleys preside over northwestern Washington state.\nThe meandering Congaree River sustains towering forest ecosystems and fashions oxbow lakes as it shifts across its floodplain.\nOver the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA World…\nSubscribe to the Earth Observatory and get the Earth in your inbox.\nNASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.\nOpen access to NASA’s archive of Earth science data",
+      "image_credit": "Photo by Bob Wick (BLM)",
+      "image_licence": "NASA imagery, generally free to reuse with credit",
+      "extra_images": [
+        "Third-party image on page, not reusable without permission: Photo by Bob Wick (BLM)"
+      ],
+      "images": [
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/taking-a-gander-at-utah’s-goosenecks/ISS075-E-188830.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/taking-a-gander-at-utah’s-goosenecks/ISS075-E-188830.jpg?w=2048&h=1365&fit=clip&crop=faces%2Cfocalpoint",
+          "label": ""
+        },
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/taking-a-gander-at-utah’s-goosenecks/goosenecksstatepark_pho_20160808.jpg?w=2048&h=779&fit=clip&crop=faces%2Cfocalpoint",
+          "label": ""
+        },
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=1536&h=864&fit=clip&crop=faces%2Cfocalpoint",
+          "label": ""
+        },
+        {
+          "url": "https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=1536&h=1536&fit=clip&crop=faces%2Cfocalpoint",
+          "label": ""
+        },
+        {
+          "url": "https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?w=1536",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 853px of source width"
+    },
+    "score": 8.0,
+    "why": "ISS photo of San Juan River's sinuous goosenecks; striking Earth-from-space scene, NASA Earth Observatory favourite.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The image picked for the square is credited 'Photo by Bob Wick (BLM)', a third-party photo the page flags as not reusable without permission. Re-run with the ISS astronaut photo (ISS075-E-188830) as the source image.",
+      "what_it_shows": "The story covers the entrenched meanders ('goosenecks') of the San Juan River in Goosenecks State Park, southern Utah, where the canyon is 1,000 feet (300 m) deep. The river travels 5.5 miles (8.9 km) between two points only 1.3 miles (2.1 km) apart. The page's main image is astronaut photograph ISS075-E-188830, taken on 6 October 2026 by an Expedition 75 crew member with a Nikon Z9 at 400 mm focal length. It was cropped and contrast-enhanced, with lens artefacts removed. The image supplied for the square, however, appears to be a separate ground photo by Bob Wick (BLM), shared via Flickr.",
+      "uncertainties": [
+        "Image rights: the supplied credit 'Photo by Bob Wick (BLM)' is a third-party Flickr photo flagged as not reusable without permission. The general 'NASA imagery, free to reuse' licence note does not cover it.",
+        "Which image the square was cropped from is unclear. The IMAGE CREDIT points to the BLM photo, not the astronaut photograph, so a caption describing an ISS view could mismatch the posted image.",
+        "Suggested fix: use astronaut photograph ISS075-E-188830 (NASA, reusable). The page credits it to the ISS Crew Earth Observations Facility and the Earth Science and Remote Sensing Unit at NASA Johnson Space Center. A suitable credit would be something like 'Image: NASA Earth Observatory / ISS Crew Earth Observations Facility, NASA JSC'. Confirm the exact wording before posting.",
+        "Uplift timing is hedged in the source ('Some experts think', 'still-enigmatic' history, starting around 20 million years ago). Keep the hedge in any repost.",
+        "Dark-sky claims (Double Cluster, Messier 24 visible to the naked eye) come from DarkSky International, not NASA, so attribute them if used.",
+        "Published date (2026-11-06) and photo date (2026-10-06) are taken as given. The November 2026 meteor shower peaks are time-sensitive."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.yahoo.com/news/videos/satellite-images-show-southwest-flood-155306778.html",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Before and after: Satellite images show Southwest flood destruction - Yahoo",
+      "link": "https://www.yahoo.com/news/videos/satellite-images-show-southwest-flood-155306778.html",
+      "published": "2026-11-05T22:55:21+00:00",
+      "summary": "Satellite images show Pagosa Springs, Colorado, and Farmington and Flora Vista, New Mexico, before and after flooding from the San Juan and Animas ...",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/3df3258377901e5fe870b4f61ac03d92f3106f23f537ea30e5014c14946eb416/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_weather_channel_videos_110%2F3860f4263aa5913e7eb5e2dbe37b7256.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Satellite images show Pagosa Springs, Colorado, and Farmington and Flora Vista, New Mexico, before and after flooding from the San Juan and Animas rivers.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/3df3258377901e5fe870b4f61ac03d92f3106f23f537ea30e5014c14946eb416/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_weather_channel_videos_110%2F3860f4263aa5913e7eb5e2dbe37b7256.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/f3d73350a91e00258a1c3ace846a68a4006658cb1657034f5cc924c9f71e08b6/lightyear_networkapi/resizefill_h100%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-11%2Fe8299cb0-a5f0-11ef-9bbf-f92606ccf78e",
+          "label": ""
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/aa88d4044549bddf9fdca1502c2917c4dc69294d81321d9de47ea7e13a82b4c7/lightyear_networkapi/resizefill_h100%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-11%2Ff661e6c0-a5f0-11ef-a9bd-e8c3fa124989",
+          "label": ""
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/0baaa6ce82dcccd0e54fd8511c6945fff963f5c14464604ee971d0fb1823534a/lightyear_networkapi/resizefill_w640%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_weather_channel_videos_110%2F3860f4263aa5913e7eb5e2dbe37b7256.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 675px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 7.5,
+    "why": "Same before-and-after Southwest flood satellite story, video format; duplicate of LeadStory item.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image credit or licence, a link-only reuse policy and a low-resolution video still, so the image cannot be credited or reposted without guessing.",
+      "what_it_shows": "A Yahoo News video page with before-and-after satellite images of Pagosa Springs, Colorado, and Farmington and Flora Vista, New Mexico, after flooding from the San Juan and Animas rivers. The page names no satellite provider, sensor or image dates.",
+      "uncertainties": [
+        "No image credit on the page; the satellite imagery provider (e.g. a commercial operator) is not named and cannot be guessed.",
+        "Reuse policy is link_only and no licence is stated, so reposting the image as a Geoawesome square is not permitted.",
+        "No acquisition dates for the 'before' or 'after' images.",
+        "No sensor, resolution or band information.",
+        "Source image is only 675px wide and would need upscaling for a 1080x1080 square; sharpness is likely poor.",
+        "The page is a video, so the image is probably a frame grab rather than an original satellite scene.",
+        "Worth revisiting if the original provider (e.g. a press release from the imagery company) can be found with a clear credit and reuse terms."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.youtube.com/shorts/AXDtwyNanE4",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "This Is an Oil Field, Seen From Space 🛰️ - YouTube",
+      "link": "https://www.youtube.com/shorts/AXDtwyNanE4",
+      "published": "2026-11-05T16:38:15+00:00",
+      "summary": "This Is an Oil Field, Seen From Space 🛰️ ... This content isn't available. Skip video.",
+      "image_url": "https://i.ytimg.com/vi/AXDtwyNanE4/sardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDvm_EwNF9DAnHlsShNSqMheZ3IRQ",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AXDtwyNanE4/sardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDvm_EwNF9DAnHlsShNSqMheZ3IRQ",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 405px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 7.0,
+    "why": "Oil field seen from space short; striking Earth-observation visual, though no image was carried.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The video is unavailable and the page gives no location, sensor, date, creator or image credit, so the image cannot be described or credited without guessing.",
+      "what_it_shows": "A YouTube Short titled 'This Is an Oil Field, Seen From Space'. The page text says the content is not available, and it names no oil field, location, satellite or date.",
+      "uncertainties": [
+        "The video is unavailable ('This content isn't available'), so its content cannot be checked.",
+        "No location or name for the oil field is given.",
+        "No sensor, satellite, date, band combination or resolution is given.",
+        "No image credit or creator was found on the page, and no licence is stated.",
+        "The reuse policy is link_only, so the frame may not be reusable as a repost image.",
+        "The image is only 405px wide and would need upscaling, so sharpness is likely poor."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.earth.com/earth-science/a-lost-sea-channel-shaped-this-striking-corner-of-cyprus/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "A lost sea channel shaped this striking corner of Cyprus - Earth.com",
+      "link": "https://www.earth.com/earth-science/a-lost-sea-channel-shaped-this-striking-corner-of-cyprus/",
+      "published": "2026-11-05T16:56:30+00:00",
+      "summary": "... Seasonal rains begin replenishing Akrotiri Salt Lake on Cyprus's southern coast in this Landsat 8 image. Credit: NASA Earth ...",
+      "image_url": "https://www.earth.com/img/16x9/1920/media-2026/2026/11/05113937/Akrotiri-Peninsula.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "A satellite image of Cyprus reveals how ancient islands joined to form the Akrotiri Peninsula, enclosing a salt lake once open to the sea.\nA shallow salt lake at the southern edge of Cyprus marks a place where the Mediterranean once flowed between two islands.\nToday, strips of land join those islands together, leaving a coastal landscape that still carries the outline of its watery past.\nThe Akrotiri Peninsula offers a striking reminder that even an island’s shape is temporary.\nRivers, shifting shorelines, and rising rock helped build this southern tip of Cyprus, connecting land that once stood apart.\nOn October 10, 2026, Landsat 8 captured images of the peninsula’s sandy margins and the lake enclosed between them.\nBehind that modern view lies a story spanning ancient ocean floors, migrating flamingos, and a cape whose name recalls a legendary arrival of cats.\nAkrotiri Salt Lake occupies a former arm of the Mediterranean.\nIts enclosure happened gradually, as sediment accumulated along two routes between Cyprus and a smaller island to the south.\nThese natural connections are known as tombolos: deposits of sand, gravel, or other sediment that link an island to another landmass.\nAt Akrotiri, two such bridges helped turn separate islands into a single peninsula.\nThe western connection formed first. About 50,000 years ago, gravel and sand delivered by the Kouris River began building the tombolo on that side.\nThe eastern connection developed later, extending south from Cyprus.\nGeologists place the final separation of the lagoon from the open Mediterranean within the past 2,000 years.\nThat difference in timing gives the landscape an unusual perspective.\nAlthough the rocks beneath Cyprus record tens of millions of years, the closure that helped define this lake occurred within human history.\nThe two land bridges also explain why the lake sits where it does. Rather than forming in an isolated inland basin, it occupies space left between growing coastal connections.\nIts position preserves evidence of the channel even though the surrounding land now provides an unbroken route onto the peninsula.\nLong before those sediment bridges formed, the material that would become Cyprus was taking shape underwater.\nAbout 90 million years ago, during the Late Cretaceous, molten rock emerged from the seafloor and cooled into new oceanic crust.\nTectonic forces eventually pushed portions of that crust upward, bringing formerly submerged rock above the waves.\nThe Troodos Mountains preserve remnants of this ancient oceanic material.\nGeologists call the rock assemblage an ophiolite, a term associated with the snakelike appearance of some of its mottled green rocks.\nThe peninsula’s southern portion has a different geological background.\nDuring the much later Miocene epoch, marine deposits accumulated around the emerging island, including chalk, limestone, and marl.\nLater uplift raised some of this younger material into a smaller island offshore.\nRiver sediment and marine deposits eventually filled parts of the intervening channel, creating the connections visible in the peninsula’s present shape.\nThe lake now follows a seasonal rhythm. Water typically returns in late autumn and winter, while summer brings drying.\nThose winter waters have historically supported large gatherings of flamingos , with overwintering numbers averaging about 4,000 birds.\nThe birds come to feed on small creatures such as fairy shrimp. These shrimp contain carotenoids, pigments that contribute to the flamingos’ familiar pink coloration.\nRecent counts offer a more sobering picture. News reports put the lake’s wintering flamingo population at just 30 birds in 2025, a sharp departure from its historical abundance.\nThe satellite scene captures the setting for this seasonal gathering.\nThe birds themselves, and the changes in their numbers, belong to a smaller scale of observation that adds another layer to the landscape’s story.\nOn the southeastern peninsula, Cape Gata introduces a different animal connection. Its name means Cape Cat in Greek.\nAccording to legend, a severe fourth-century drought left Cyprus struggling with snakes. Empress Helena, the mother of Constantine the Great, responded by arranging for cats to arrive from Egypt.\nThe story places some of those cats near what became the Holy Monastery of St. Nicholas of the Cats, where monks supposedly encouraged them to hunt snakes.\nThe tale survives alongside a continuing tradition of caring for cats at the monastery.\nSeen together, the lake, land bridges, and cape reveal several histories sharing one small stretch of coast.\nAncient seabed became an island, sediment closed a channel, and people attached stories to the land that emerged.\nThe shoreline in this image is the latest chapter in a landscape still shaped by water.\nImage Credit: NASA Earth Observatory /Michala Garrison\nLike what you read? Subscribe to our newsletter for engaging articles, exclusive content, and the latest updates.\nCheck us out on EarthSnap , a free app brought to you by Eric Ralls and Earth.com.",
+      "image_credit": "NASA Earth Observatory/Michala Garrison",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.earth.com/img/16x9/1920/media-2026/2026/11/05113937/Akrotiri-Peninsula.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://www.earth.com/assets/_next/image/?url=%2Fimg%2F16x9%2F1920%2Fmedia-2026%2F2026%2F11%2F05113937%2FAkrotiri-Peninsula.jpg&w=1920&q=75",
+          "label": ""
+        },
+        {
+          "url": "https://www.earth.com/assets/_next/image/?url=https%3A%2F%2Fcff2.earth.com%2Fuploads%2F2024%2F02%2F16025353%2Fchrissy-sexton-734.jpg&w=96&q=75",
+          "label": ""
+        },
+        {
+          "url": "https://www.earth.com/shareInSocialMedia/star.svg",
+          "label": ""
+        },
+        {
+          "url": "https://www.earth.com/shareInSocialMedia/facebook.svg",
+          "label": ""
+        },
+        {
+          "url": "https://www.earth.com/shareInSocialMedia/linkedin.svg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-06-5-a-lost-sea-channel-shaped-this-striking.jpg",
+      "image_note": "square crop, from 1080px of source width"
+    },
+    "score": 7.0,
+    "why": "Landsat 8 scene of Cyprus salt lake and lost sea channel; a visual geo story.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A Landsat 8 image from 10 October 2026 of the Akrotiri Peninsula on the southern tip of Cyprus. It shows the peninsula's sandy margins and Akrotiri Salt Lake, which fills a former arm of the Mediterranean enclosed by two tombolos linking Cyprus to a smaller former island to the south. The western tombolo began forming about 50,000 years ago from Kouris River sediment, and the lagoon was finally cut off from the sea within the past 2,000 years.",
+      "uncertainties": [
+        "Band combination and colour rendering are not stated (natural or false colour unknown).",
+        "Spatial resolution and processing details are not given.",
+        "The page does not say whether the lake held water on 10 October 2026. It says water typically returns in late autumn and winter.",
+        "The 2025 flamingo count of 30 birds comes from news reports, not a cited survey, so it was kept out of the posts.",
+        "The source is an Earth.com article republishing a NASA Earth Observatory image. Reuse policy is link_only and no image licence is stated, so check the original NASA Earth Observatory release before posting the image.",
+        "Confirm the 2026 dates against the original NASA Earth Observatory page."
+      ],
+      "image_credit": "Image: NASA Earth Observatory/Michala Garrison",
+      "facebook": "Akrotiri Salt Lake fills a former arm of the Mediterranean that was sealed off from the open sea only within the past 2,000 years.\n\nLandsat 8 imaged the peninsula on 10 October 2026. Two tombolos tie it to Cyprus: the western one began about 50,000 years ago from Kouris River sediment, and the eastern one formed later.\n\nRead more: https://www.earth.com/earth-science/a-lost-sea-channel-shaped-this-striking-corner-of-cyprus/\n\nImage: NASA Earth Observatory/Michala Garrison\n\n#Geoawesome #Landsat #Cyprus #Geology",
+      "instagram": "Two islands, two sediment bridges, one trapped lake.\n\nLandsat 8's view of Cyprus's Akrotiri Peninsula on 10 October 2026 shows the salt lake left behind when sand and gravel closed a sea channel.\n\nFind out more: https://www.earth.com/earth-science/a-lost-sea-channel-shaped-this-striking-corner-of-cyprus/\n\nImage: NASA Earth Observatory/Michala Garrison\n\n#Geoawesome #Cyprus #Satellite #Coastlines",
+      "youtube": "Cyprus's Akrotiri Peninsula was once two separate islands.\n\nIn this Landsat 8 scene from 10 October 2026, the salt lake marks the channel that once separated them, closed by two tombolos of river and marine sediment. The southern part of the peninsula is built from Miocene chalk, limestone and marl that were uplifted into a smaller offshore island.\n\nLearn more: https://www.earth.com/earth-science/a-lost-sea-channel-shaped-this-striking-corner-of-cyprus/\n\nImage: NASA Earth Observatory/Michala Garrison\n\n#Geoawesome #Landsat #Geomorphology #Mediterranean",
+      "x": "Kouris River gravel began stitching two islands together about 50,000 years ago. Landsat 8 shows the result on Cyprus's Akrotiri Peninsula.\nhttps://www.earth.com/earth-science/a-lost-sea-channel-shaped-this-striking-corner-of-cyprus/\nImage: NASA Earth Observatory/Michala Garrison\n#Geoawesome #Landsat #Cyprus #Tombolo",
+      "alt_text": "Satellite view of the Akrotiri Peninsula on the southern coast of Cyprus, with a salt lake enclosed between strips of land joining the peninsula to the main island."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-06-5-a-lost-sea-channel-shaped-this-striking.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.bellingcat.com/?p=54152",
+      "source_id": "bellingcat",
+      "source_name": "Bellingcat",
+      "source_type": "research",
+      "licence": "link_only",
+      "title": "How Online Maps Lay Bare the US Military Bases Targeted by Iran",
+      "link": "https://www.bellingcat.com/news/2026/11/05/how-online-maps-lay-bare-the-us-military-bases-targeted-by-iran/",
+      "published": "2026-11-05T09:46:18+00:00",
+      "summary": "Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. Become a member and support our work here. In September, CBS News obtained new images of the aftermath of attacks on US bases in the Middle East from active service members. One told the news channel: “This is major […]",
+      "image_url": "https://www.bellingcat.com/app/uploads/2026/11/Middle-EAst-Base-Map-1200x675.jpg",
+      "credit_hint": "Bellingcat",
+      "source_tag": "@bellingcat",
+      "page_text": "Sebastian is a researcher at Bellingcat, specialising in terrorism and civilian harm in conflict. He has investigated violence and human rights abuses in the Middle East and West Africa. He previously worked at BBC Verify, the Centre for Information Resilience, and the International Criminal Court.\nSign up here to receive Bellingcat’s biggest investigations by email as soon as they are published . Become a member and support our work here .\nIn September, CBS News obtained new images of the aftermath of attacks on US bases in the Middle East from active service members. One told the news channel : “This is major damage to our bases that hasn’t been communicated to the American public. “We’re standing there with our eyes closed getting punched in the face,” they added.\nWhile reports have detailed how Iran used Russian intelligence , including satellite imagery , to identify US troops, ships and aircraft, Bellingcat found that publicly available mapping platforms also reveal detailed and potentially sensitive information about US military bases in the Middle East.\nGoogle Maps and other online mapping services contain dozens of labels identifying facilities including headquarters, accommodation, gyms and fuel points. Publicly available photographs and videos, including material published by the US military, provide further details about how these facilities are used.\nExperts told Bellingcat that such information could have helped inform Iranian targeting decisions by revealing where personnel gather and how bases operate. However, they cautioned that Iran would also have had access to other sources of intelligence. Reporting from Reuters earlier this year also highlighted how US officials believed commercially available location data was being used to target US troops in war zones.\nThe bases examined by Bellingcat are not secret and have operated for years in a region where US forces maintained a strong sense of security. Joseph Jarnecki, a research fellow at the Royal United Services Institute , said the US had been able to maintain aerial superiority and was understood to have significant air defence capabilities, but that Iran’s missile and drone campaign has undermined both assumptions.\nIranian strikes have damaged at least 20 US military sites across Qatar, Bahrain, the United Arab Emirates (UAE), Jordan, Kuwait, Iraq and Saudi Arabia since the conflict began in February this year.\nGovernments can request that Google blur or remove sensitive information from its services and Google publishes data on government requests for content removal.\nBellingcat contacted the US Department of Defense who asked us to reach out to CENTCOM about the details in this story. We also contacted Google. However, we did not receive responses to questions from these respondents before publication.\nWe examined four of the largest and most heavily affected US military installations by Iran’s missile and drone campaign: Camp Buehring and Camp Arifjan in Kuwait, Muwaffaq Salti Air Base in Jordan and Al Udeid Air Base in Qatar. At each one, we found publicly available Google Maps information providing details about facilities inside the bases and how they are used.\nAt Camp Buehring in Kuwait, Google Maps identifies what is labelled as the main headquarters building, as well as a gym and a self-help facility, all of which were among locations destroyed by recent Iranian strikes. In addition to Google Maps place markers there are dozens of reviews and user-uploaded photographs.\nBellingcat verified that this was a headquarters building by matching the flagpoles and layout in a photo published by the US military’s Defense Visual Information Distribution Service (DVIDS) showing soldiers posing in front of the  building to the Google Maps satellite image.\nWe also identified details about one of the camp’s gyms, including the building’s layout and roof structure, as well as Google reviews that indicate when it is busiest.\nAmong the images published by CBS News in September was that of a heavily damaged tent-like structure with smoke rising from it. Bellingcat matched the location of this image to the above satellite imagery, verifying that it shows the gym building pinned on Google Maps.\n⚡️🚨 Exclusive images released showing damage to E-3 Sentry AWACS aircraft at Prince Sultan Air Base in Saudi Arabia, plus damage to US military camps Arifjan and Buehring in Kuwait from Iranian strikes. Images sent to CBS by active US military personnel. (IRIB News) https://t.co/1urA44f4xz\nA building labeled on Google as “DPW Self-Help Center” was also destroyed at Camp Buehring. Its Google Maps listing includes opening hours, and a photo posted by a Master Sergeant in 2017 labeled “ My office in Kuwait ” shows the interior of an office. Some of the notices on the walls inside the office are legible, including what appears to be a floor plan.\nA Google Maps placemark labelled “ Transient Tent ” identifies a large accommodation area, while another review includes a ground-level photograph of one of the tents. The dining facility can also be seen from the inside, including information regarding meal times .\nWilliam Goodhind of Contested Ground , a visual forensics consultancy that uses OSINT and satellite imagery to analyse military sites, said the information available on Google Maps could reveal “the camp’s layout, the division between secure and non-secure areas, confirms likely accommodation areas, and shows day/time periods of low and high activity.”\nA satellite image of Kuwait’s Camp Arifjan, captured by Planet on March 4, 2026 and published by the The Washington Post , shows damage to numerous structures at the base. Bellingcat compared the image with publicly available mapping data to identify two damaged facilities.\nA post shared by Media Trending (@tmctrending)\nA Google Maps listing for a lodging facility labelled “ TPE FOR ARIFJAN ” includes a soldier’s review discussing room reservations, accommodation shortages and cleaning sch",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.bellingcat.com/app/uploads/2026/11/Buehring.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://www.bellingcat.com/app/uploads/2026/11/Buehring.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www.bellingcat.com/app/uploads/2026/02/20251114_134455_DSC05561-2.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www.bellingcat.com/app/uploads/2026/11/Screenshot-2026-11-01-at-20.54.53.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www.bellingcat.com/app/uploads/2026/11/Screenshot-2026-11-01-at-20.52.25-1200x700.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www.bellingcat.com/app/uploads/2026/11/Screenshot-2026-11-01-at-20.53.45-1200x416.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 766px of source width"
+    },
+    "score": 7.0,
+    "why": "Map-based investigation of US base locations hit by Iran; geo analysis with a clear map image.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The source does not identify the lead image, gives no image credit or licence, and has a link_only reuse policy, so it cannot be described or reposted without guessing.",
+      "what_it_shows": "The source gives no description of the lead image, and the editor's crop is taken from a 766px-wide source. The article is a Bellingcat investigation into how Google Maps labels, reviews and user photos reveal facilities inside four US bases hit by Iranian strikes (Camp Buehring, Camp Arifjan, Muwaffaq Salti, Al Udeid). The visuals it mentions include Google Maps satellite views, a DVIDS photo, CBS News damage photos and a Planet image of Camp Arifjan from 4 March 2026 published by The Washington Post.",
+      "uncertainties": [
+        "The page does not say which of the article's images was used for the crop. It could be a Google Maps screenshot, the Planet satellite image of Camp Arifjan, a DVIDS photo or a CBS News photo, each with a different owner.",
+        "No image credit was found on the page, so 'Bellingcat' as the credit is a fallback and may be wrong if the image is from Planet or The Washington Post, Google, DVIDS or CBS News.",
+        "The image licence is not stated, and the source reuse policy is link_only, which suggests the image should not be reposted as a standalone visual.",
+        "This is sensitive active-conflict material about targeting of military sites. A standalone image post highlighting base layouts could amplify the very information the article criticises, so it may be better as a link-only news share with editorial context.",
+        "Some claims in the article are attributed to third parties (CBS News sources, Reuters reporting, an IRIB-sourced social post) and would need hedging if referenced."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/california/dunstone",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Dunstone Fire in California | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/california/dunstone",
+      "published": "2026-11-04T18:59:06+00:00",
+      "summary": "GlassGlassStarted Nov 2 · Updated 1d ago. DunstoneDunstoneStarted Nov 3 · Updated 9h ago. 5 mi. MapLibre | © OpenStreetMap contributors · ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The Dunstone fire in Butte, California is currently 0 acres.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.5,
+    "why": "Live interactive fire map of the Dunstone Fire; playable map people will click.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, and the only text is an auto-generated tracker line saying the Dunstone fire in Butte, California is 0 acres.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was found on the page, so there is nothing to repost.",
+        "The source has no image credit or licence, and its reuse policy is link only.",
+        "The page text is one auto-generated line ('currently 0 acres'). The source gives no fire perimeter, date of ignition, cause or map imagery.",
+        "If the fire grows, look for a perimeter map or satellite image from a credited source (for example CAL FIRE or NASA FIRMS) and check whether it may be reused."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://mohammadrezanarimaniucdavis.github.io/pages/research/Creek_Wildfire_GeoAI/",
+      "source_id": "google_alerts_1",
+      "source_name": "Google Alerts #1",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Creek Fire Snow Persistence GeoAI - Mohammadreza Narimani",
+      "link": "https://mohammadrezanarimaniucdavis.github.io/pages/research/Creek_Wildfire_GeoAI/",
+      "published": "2026-11-05T00:03:21+00:00",
+      "summary": "... GeoAI . Frontiers in Forests and Global Change 9:2016172 (2026)—read and cite the open-access paper.",
+      "image_url": "https://mohammadrezanarimaniucdavis.github.io/assets/Research/Creek_Wildfire_GeoAI/Markdown/media/Mohammadreza_Narimani_Creek_Wildfire_Figure_02.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Parastoo Farajpoor and Mohammadreza Narimani * (corresponding author)\nFrontiers in Forests and Global Change · Volume 9 · Article 2016172 · 4 November 2026 · Open access CC BY\nDepartment of Biological and Agricultural Engineering · University of California, Davis\nMountain snow links forest condition to the timing and availability of water across the western United States. Warming is already changing snow amount, duration, and seasonality, while wildfire increasingly overlaps Sierra Nevada landscapes that historically retained snow through winter and spring. For hydrologists, forest managers, and remote-sensing researchers searching for Creek Fire snow persistence , post-fire snowpack , or wildfire severity and snow , the practical question is not only “can we map snow after fire?” but “did fire change snow relative to comparable unburned terrain?”\nCanopy removal can reduce interception and increase the fraction of snowfall reaching the ground, yet it also changes shading, longwave radiation, wind, and redistribution. Char on snow can lower albedo and accelerate melt. The same burned landscape can therefore show both greater accumulation and faster ablation. Satellite snow cover, snow disappearance date, snow depth, and snow water equivalent describe related but different quantities—so a high machine-learning score on one optical metric does not automatically prove a causal fire effect.\nThis open-access Frontiers study by Parastoo Farajpoor and Mohammadreza Narimani (corresponding author, University of California, Davis) builds an explainable multisource GeoAI framework for seasonal snow persistence after the 2020 Creek Fire . The analysis uses Harmonized Landsat–Sentinel-2 (HLS) observations for eleven water years (WY2016–WY2026) on a 500 m grid, matched before–after control–impact (BACI) comparisons, and spatially blocked machine learning with SHAP attribution.\nThe workflow separates four tasks that are often conflated in wildfire remote sensing: (1) constructing a seasonal optical snow-persistence metric from HLS; (2) classifying spectral burn severity with Sentinel-2 dNBR; (3) estimating fire-associated change with matched BACI contrasts; and (4) asking whether terrain, climate, and fire descriptors can predict raw persistence versus the fire-adjusted anomaly under spatial cross-validation.\nSeasonal persistence is defined as the fraction of clear-sky HLS observations classified as snow between 1 October and 30 July of each water year. Snow classification uses NDSI with green reflectance thresholds on Harmonized Landsat and Sentinel-2 collections. That metric tracks how often snow is optically detectable under clear skies—it is not snow water equivalent, and it is not the fraction of calendar days with snow.\nThe 2020 Creek Fire burned roughly 1,544 km² in California’s central Sierra Nevada, overlapping montane forests with substantial pre-existing drought- and bark-beetle-associated tree mortality. Five pre-fire and six post-fire snow seasons allow the post-fire record to be interpreted against both local baselines and contemporaneous unburned controls.\nCandidate controls were drawn from a 5–30 km annulus beyond the perimeter: the inner buffer reduces boundary mixing, while the outer limit keeps a regional comparison pool. Geographic proximity alone was not treated as evidence of comparability. Matching used terrain and pre-fire snow conditions so that treatment and control cells start from similar physical settings before the fire year.\nEligible snow-zone cells required mean pre-fire persistence greater than 0.05, yielding 3,778 perimeter-internal treatment cells matched to unburned controls. Absolute standardized mean differences after matching were no greater than 0.047 , indicating strong covariate balance on the matching variables.\nElevation, slope, northness, and Sentinel-2 dNBR classes structure the burned landscape. Raw post-minus-pre persistence maps show where optical snow detection changed, but those raw maps are not control-adjusted: both burned and unburned cells can move together when climate varies from year to year. That is why the BACI design is central to claims about fire-associated change.\nAcross all matched cells, the landscape-average BACI contrast was only +0.0017 , with a year-level 95% confidence interval from −0.023 to +0.027 (p = 0.88). Both treatment and matched-control cells increased in mean persistence after the fire; their similar movement is why the adjusted contrast is much smaller than a naive before–after difference inside the perimeter.\nA clearer signal appears in the highest dNBR class (≥0.44; n = 448): the BACI contrast was +0.026 (2.6 percentage points), with a year-level interval of +0.002 to +0.050 and about 66% positive cell-level contrasts. Moderate severity showed a smaller positive contrast (+0.007); low-severity and internal low-change classes were not distinguishable from zero at the year level. Severity therefore identifies a class-level optical snow response more clearly than a strong, uniformly graded cell-level relationship (Spearman ρ between continuous dNBR and cell BACI ≈ 0.11).\nAnnual spatial agreement between HLS and MODIS persistence was high throughout the eleven-season record (mean Pearson r = 0.947 ; range 0.912–0.970). Both products captured the same prominent annual contrasts, including the low-persistence WY2018 season and the high-persistence WY2023 season. HLS domain means were often slightly higher than MODIS, but the shared pattern supports using HLS as a consistent optical snow indicator for this GeoAI study.\nUnder 5 km spatial-block cross-validation , XGBoost predicted raw post-fire persistence with out-of-fold R² = 0.811 . The same model family applied to the fire-adjusted anomaly reached only R² = 0.046 . In other words, environmental-state prediction can look excellent while disturbance-response prediction remains weak—exactly the distinction researchers need when searching for “explainable GeoAI wildfire snow” or",
+      "image_credit": "",
+      "image_licence": "CC BY",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://mohammadrezanarimaniucdavis.github.io/assets/Research/Creek_Wildfire_GeoAI/Markdown/media/Mohammadreza_Narimani_Creek_Wildfire_Figure_02.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1164px of source width"
+    },
+    "score": 6.0,
+    "why": "Creek Fire snow persistence GeoAI study; a fire-scar mapping project with a possible map visual.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The image itself is not described anywhere, so its contents, alt text and credit would be guesses, and the reuse policy is link_only.",
+      "what_it_shows": "A UC Davis research page for an open-access Frontiers in Forests and Global Change paper (Farajpoor and Narimani, 4 November 2026) on seasonal snow persistence after the 2020 Creek Fire (about 1,544 km², central Sierra Nevada). It uses Harmonized Landsat Sentinel-2 snow detection on a 500 m grid over eleven water years (WY2016 to WY2026), Sentinel-2 dNBR burn severity and matched BACI comparisons with unburned controls. The page text does not say which figure or map the cropped image shows.",
+      "uncertainties": [
+        "The source does not say what the image shows (a map of persistence change, a dNBR severity map, a chart or a page banner), so no alt text or caption can be written without guessing.",
+        "No image credit was found on the page. If posted, it would need confirming with the authors (Parastoo Farajpoor and Mohammadreza Narimani, UC Davis) or Frontiers.",
+        "The reuse policy is link_only, which conflicts with reposting the image, even though the paper is CC BY. Check whether the figure licence applies to the image on this page.",
+        "The key finding is a null or small effect: the landscape-average BACI contrast is +0.0017 (p = 0.88), and only the highest-severity class shows +2.6 percentage points. Any caption would need careful hedging.",
+        "Persistence is the fraction of clear-sky observations classified as snow, not snow water equivalent. A caption would need to say this.",
+        "If the editor can identify a clear map figure from the paper with a confirmed credit, this could be reconsidered."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/9d20c635760e42be",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Henry, Tennessee | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/9d20c635760e42be",
+      "published": "2026-11-04T18:34:57+00:00",
+      "summary": "Billy Fields98 acStarted Oct 23 · Updated 1d ago. 3000 ft. MapLibre . MenuOpen the menu and map settings. FiresBrowse active fires on the map. WFCA ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Henry, Tennessee observed by VIIRS_NOAA20 covering 91.6 acres from 2 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Interactive fire tracker map for Henry, Tennessee; live map to explore.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page (link-only reuse), and the page is an automated WFCA fire map detection entry for one small VIIRS hotspot, not a striking visual to post.",
+      "what_it_shows": "An auto-generated WFCA Fire Map entry for satellite fire detections near Henry, Tennessee, observed by VIIRS on NOAA-20 and covering 91.6 acres from 2 merged observations. The page has no image, date of detection or other context.",
+      "uncertainties": [
+        "No image found on the page, and the reuse policy is link_only",
+        "Detection date and time not given (only the page publish date, 2026-11-04)",
+        "No confirmation that this is an actual wildfire rather than a thermal anomaly (for example agricultural or industrial burning)",
+        "No image credit or licence stated"
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.youtube.com/shorts/F3xK0kYBIcY",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "These Circles Can Be Seen From Space 🛰️ - YouTube",
+      "link": "https://www.youtube.com/shorts/F3xK0kYBIcY",
+      "published": "2026-11-05T15:58:42+00:00",
+      "summary": "... ( Landsat 1 and Landsat 5): NASA, \"Growth of Central Pivot Irrigation, Kansas\" - The High ... These Circles Can Be Seen From Space 🛰️. AI. Like.",
+      "image_url": "https://i.ytimg.com/vi/F3xK0kYBIcY/sardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBT9jBNzVc8bjvnvjOdKyMDN0STWQ&usqp=CBQ",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/F3xK0kYBIcY/sardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBT9jBNzVc8bjvnvjOdKyMDN0STWQ&usqp=CBQ",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 405px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6.0,
+    "why": "Center-pivot irrigation circles seen from space, Landsat imagery; striking visual hook.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Third-party YouTube Short with no image credit, link-only reuse policy, a 405px upscaled frame, fragmentary page text and an 'AI' label; better to repost NASA's original Landsat image of Kansas centre-pivot irrigation directly.",
+      "what_it_shows": "A YouTube Short titled 'These Circles Can Be Seen From Space', apparently about centre-pivot irrigation circles. The page text contains a fragment crediting Landsat 1 and Landsat 5 and NASA's 'Growth of Central Pivot Irrigation, Kansas', but it is unclear whether the frame used for the square is that NASA imagery or something else.",
+      "uncertainties": [
+        "No image credit on the page; the NASA/Landsat reference is a truncated fragment and may not refer to the frame being cropped.",
+        "Page text includes the label 'AI': the video or its imagery may be AI-generated or AI-narrated.",
+        "Reuse policy is link_only and no licence is stated, so the image should not be reposted.",
+        "Source width is only 405px; the 1080x1080 square would be heavily upscaled.",
+        "No dates, location detail beyond 'Kansas', or band information are given.",
+        "Suggestion: find NASA's original 'Growth of Central Pivot Irrigation, Kansas' (Landsat 1 and 5) on NASA's site and use that as the source instead."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.fox13now.com/news/utah-drought/utah-sees-big-improvement-with-latest-drought-map",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Utah sees big improvement with latest drought map",
+      "link": "https://www.fox13now.com/news/utah-drought/utah-sees-big-improvement-with-latest-drought-map",
+      "published": "2026-11-06T02:23:49+00:00",
+      "summary": "The new map shows trend in the right direction for southern, central and eastern Utah. All areas have seen improvements, and few isolated spots ...",
+      "image_url": "https://ewscripps.brightspotcdn.com/dims4/default/96a2a7d/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F5b%2F3a%2F4e803242431d8298fd2eb499cbf2%2Fless-detail-no-emboss-1.png",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "SALT LAKE CITY, Utah — Recent heavy rainfall and flooding over the past few weeks has provided a silver lining in the drought situation across the state. With the new Drought Monitor Map being released for this week, very positive trends can be seen.\nComing out of the summer, most of the state was under Extreme Drought conditions. Even through the middle of October, several spots across the state were dealing with moderate to extreme conditions.\nThe new map shows trend in the right direction for southern, central and eastern Utah.  All areas have seen improvements, and few isolated spots through northeastern Utah are no longer under drought conditions.\nMichael Sanchez from Utah Division of Water Resources explains that it's been several months since we've seen some parts of Utah under no drought concerns.\n\"The last time we saw zero drought in parts of the state was in June 2025, and 3% of the state was in zero,\" Sanchez said.\nHe also cautions the state to not let up on conservation efforts. Even though high water use is sustained through the summer months, our indoor water use can be minimized by taking shorter baths and showers and implement more water efficient appliances.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/a02bdfd/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F5b%2F3a%2F4e803242431d8298fd2eb499cbf2%2Fless-detail-no-emboss-1.png",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/a02bdfd/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F5b%2F3a%2F4e803242431d8298fd2eb499cbf2%2Fless-detail-no-emboss-1.png",
+          "label": ""
+        },
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/c5819f2/2147483647/strip/true/crop/720x720+307+0/resize/300x300!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fb2%2F8d%2Fe330984c4d90aca028111159014c%2Fbrek.png",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 720px of source width"
+    },
+    "score": 6.0,
+    "why": "Latest drought map showing Utah improvement; a current map with a clear trend, though text-only summary.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Local TV news item with an unidentified image: no image credit, no licence, link-only reuse policy, and the article never describes the map's date, extent or colour classes.",
+      "what_it_shows": "A FOX 13 news article says the latest weekly Drought Monitor map shows drought improving across southern, central and eastern Utah after recent heavy rainfall and flooding. A few isolated spots in northeastern Utah are no longer in drought. The page does not describe the image itself, so it is unclear whether it is the Drought Monitor map or a station graphic.",
+      "uncertainties": [
+        "Image credit not found on the page and licence not stated. The source's reuse policy is link_only, so the image should not be reposted.",
+        "The article does not say whether the image is the official U.S. Drought Monitor map or a FOX 13 weather graphic. It may be a crop of the national map, a Utah-only view or something else.",
+        "The map's valid date is not given. The article only says the map was 'released for this week' (published 2026-11-06).",
+        "The drought categories and colours are not described, and the article gives no percentage of Utah currently drought-free.",
+        "The only number is a quote from Michael Sanchez (Utah Division of Water Resources): the last time parts of the state had zero drought was June 2025, when 3% of the state was drought-free.",
+        "If the editor wants this story, a better source would be the original U.S. Drought Monitor Utah map, which has its own credit and date."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.threads.com/@simongerman600/post/DfX93gSj_mz/god-created-the-world-but-the-dutch-created-the-netherlands-this-map-shows-the/",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "'God created the world, but the Dutch created The Netherlands'. This map shows the land ... - Threads",
+      "link": "https://www.threads.com/@simongerman600/post/DfX93gSj_mz/god-created-the-world-but-the-dutch-created-the-netherlands-this-map-shows-the/",
+      "published": "2026-11-05T21:13:19+00:00",
+      "summary": "Simon Kuestenmacher (@simongerman600). 'God created the world, but the Dutch created The Netherlands'. This map shows the land reclamation in The.",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Land reclamation map of the Netherlands; historical geography with a strong hook.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was found on the page, the post text is cut off and there is no credit or licence, so the map could not be described without guessing.",
+      "what_it_shows": "The source is a Threads post by Simon Kuestenmacher (@simongerman600) that appears to share a map of land reclamation in the Netherlands. The page text breaks off mid-sentence. No image, data source, date or legend could be retrieved.",
+      "uncertainties": [
+        "No image was found on the page, so there is nothing to crop to a square.",
+        "The post text is truncated ('This map shows the land reclamation in The.'), so the map's full description is unknown.",
+        "The original maker and data source of the map are not stated. Kuestenmacher often reshares maps made by others, so he may not be the creator.",
+        "No date, period covered or colour key is given (for example, which reclamation eras are shown).",
+        "The image licence is not stated and the reuse policy is link_only.",
+        "The publish date of 2026-11-05 should be checked, as it may be wrong."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.linkedin.com/posts/jonathan-gray-903179275_30daymapchallenge-activity-7524217902317588482-hO32",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "# 30daymapchallenge | Jonathan Gray - LinkedIn",
+      "link": "https://www.linkedin.com/posts/jonathan-gray-903179275_30daymapchallenge-activity-7524217902317588482-hO32",
+      "published": "2026-11-06T00:49:25+00:00",
+      "summary": "30DayMapChallenge - Day 6 - Vintage. I attempted another LOTR mapping style. This time using the whole of Australia! I toned down the vertical ...",
+      "image_url": "https://media.licdn.com/dms/image/v2/D5622AQHmKpH5L94MBQ/feedshare-shrink_800/B56aGrrK00IkAw-/0/1793881583841?e=2147483647&v=beta&t=Yc4q_tyD1Hy8klsbWzEm3w_Wgm1fWSRYjfVCFMxl868",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\n#30DayMapChallenge - Day 6 - Vintage.\n\nI attempted another LOTR mapping style. This time using the whole of Australia!\n\nI toned down the vertical exaggeration in this version as the hill-shading was taking too much away from the details of the map.\n\nOnce again, using my own modified version of John Nelson 's LOTR workflow and using a Blender hill-shade as the map background.\n\nCreated using Blender and Esri 's ArcGIS Pro.\n\nData sourced from DCS Spatial Services and Geoscience Australia\nWhy are maps of Middle-earth so hard to read? Because one does not simply walk into Mordor without a legend.\nBrilliant work, Jonathan! Toning down the vertical exaggeration really let the subtle details and coastline typography shine through. Combining Blender hill-shading with John Nelson's LOTR workflow yields a incredible Middle-earth aesthetic for Australia!\nCreate your free account or sign in to continue your search\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQHmKpH5L94MBQ/feedshare-shrink_800/B56aGrrK00IkAw-/0/1793881583841?e=2147483647&v=beta&t=Yc4q_tyD1Hy8klsbWzEm3w_Wgm1fWSRYjfVCFMxl868",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5616AQGrhD1_fNCZdg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1694067404000?e=2147483647&v=beta&t=GrrDKJUQIff6TzayG2d5goqPDN2LUQp4ofvP0rRUxEY",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-06-14-30daymapchallenge-jonathan-gray-linkedi.jpg",
+      "image_note": "square crop, from 565px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6.0,
+    "why": "Vintage LOTR-style map of Australia; a stylised cartographic piece with an eye-catching look.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A Lord of the Rings style map of the whole of Australia by Jonathan Gray, made for Day 6 (theme: Vintage) of the 30DayMapChallenge. The background is a hill-shade rendered in Blender, and the styling uses his own modified version of John Nelson's LOTR workflow in Esri's ArcGIS Pro. Data comes from DCS Spatial Services and Geoscience Australia. He reduced the vertical exaggeration compared with an earlier attempt because the hill-shading was hiding the map's details.",
+      "uncertainties": [
+        "Reuse policy is link_only and no image licence is stated on the page. Get permission from Jonathan Gray before posting the image itself.",
+        "No image credit is given on the page. The credit 'Map: Jonathan Gray via LinkedIn' is based on the post author's name, so confirm how he wants to be credited.",
+        "The image comes from only 565px of source width and was upscaled. Check sharpness, because fine typography may blur. Asking the author for a higher-resolution file would help.",
+        "A square crop of a whole-continent map may cut off parts of Australia or the labels. Check the framing.",
+        "The source does not name which DCS Spatial Services or Geoscience Australia datasets were used (for example, which elevation model), their resolution, or the vertical exaggeration value.",
+        "The praise for the coastline typography comes from a LinkedIn commenter, not the author, so it is not used as a fact.",
+        "Possible LinkedIn handles for Jonathan Gray, John Nelson and Esri were not checked, so the names are written plainly."
+      ],
+      "image_credit": "Map: Jonathan Gray via LinkedIn",
+      "facebook": "Australia, drawn as if it were Middle-earth.\n\nJonathan Gray's Day 6 (Vintage) entry for the 30DayMapChallenge runs his own modified version of John Nelson's Lord of the Rings workflow over a Blender hill-shade, finished in ArcGIS Pro. He toned down the vertical exaggeration this time because the relief was swallowing the map's details.\n\nRead more: https://www.linkedin.com/posts/jonathan-gray-903179275_30daymapchallenge-activity-7524217902317588482-hO32\n\nMap: Jonathan Gray via LinkedIn\n\n#Geoawesome #Cartography #Australia #Blender",
+      "instagram": "A whole continent, styled like a map from Tolkien.\n\nAustralia's relief comes from a Blender hill-shade, softened so it does not bury the map's details.\n\nFind out more: https://www.linkedin.com/posts/jonathan-gray-903179275_30daymapchallenge-activity-7524217902317588482-hO32\n\nMap: Jonathan Gray via LinkedIn\n\n#Geoawesome #Maps #Australia #LOTR",
+      "youtube": "Less relief, more legibility: that was the fix in Jonathan Gray's latest Lord of the Rings style map.\n\nThis one covers the whole of Australia and was made for Day 6 (Vintage) of the 30DayMapChallenge. The background is a hill-shade rendered in Blender, styled with his modified version of John Nelson's LOTR workflow in Esri's ArcGIS Pro. Data comes from DCS Spatial Services and Geoscience Australia.\n\nLearn more: https://www.linkedin.com/posts/jonathan-gray-903179275_30daymapchallenge-activity-7524217902317588482-hO32\n\nMap: Jonathan Gray via LinkedIn\n\n#Geoawesome #Cartography #Tolkien #Blender",
+      "x": "Australia as Middle-earth: a 30DayMapChallenge entry (Day 6, Vintage) built on a Blender hill-shade and ArcGIS Pro.\nhttps://www.linkedin.com/posts/jonathan-gray-903179275_30daymapchallenge-activity-7524217902317588482-hO32\nMap: Jonathan Gray via LinkedIn\n#Geoawesome #Cartography #LOTR",
+      "alt_text": "A vintage, Lord of the Rings style map of Australia with shaded relief and decorative lettering."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-06-14-30daymapchallenge-jonathan-gray-linkedi.jpg"
+  },
+  {
+    "item": {
+      "id": "https://x.com/Mapbox/status/2118387617138196722",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Mapbox on X",
+      "link": "https://x.com/Mapbox/status/2118387617138196722",
+      "published": "2026-11-06T00:42:37+00:00",
+      "summary": "30DayMapChallenge Day 5 — Senses: Sight Take a virtual sightseeing tour of iconic bridges around the world with Mapbox Standard's detailed 3D ...",
+      "image_url": "https://pbs.twimg.com/media/HV5MxIkWgAA2ZPg?format=webp&name=large",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "See what’s happening and join the conversation",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HV5MxIkWgAA2ZPg?format=webp&name=large",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/2032504164027346944/wKcYocdf_normal.png",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1320px of source width"
+    },
+    "score": 6.0,
+    "why": "Mapbox 3D bridges tour via Mapbox Standard; an interactive 3D map showing iconic places.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The page text is only X's generic login prompt, with no description of the image, no credit and a link-only reuse policy, so any caption would be guesswork.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page text contains only X's sign-in prompt ('See what's happening and join the conversation'), not the content of the Mapbox post.",
+        "There is no information on what the image shows: place, data, date or what the colours mean.",
+        "No image credit was found on the page and no licence is stated.",
+        "The reuse policy is link_only, so the image may not be cleared for reposting even if the post turns out to be relevant.",
+        "The editor could open the post directly to see whether it contains a map worth featuring. If so, a new source with the post text and an image credit would be needed."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.linkedin.com/posts/walkerke_30daymapchallenge-activity-7524172184479686658-hSPj",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "# 30daymapchallenge | Kyle Walker - LinkedIn",
+      "link": "https://www.linkedin.com/posts/walkerke_30daymapchallenge-activity-7524172184479686658-hSPj",
+      "published": "2026-11-05T23:00:18+00:00",
+      "summary": "For Day 5 of # 30DayMapChallenge : Sight, I've done a viewshed analysis for wind turbines in Nolan and Taylor counties in Texas and mapped it with ...",
+      "image_url": "https://dms.licdn.com/playlist/vid/v2/D5605AQENTM2Iiucp1A/thumbnail-with-play-button-overlay-high/B56aGs6sEWHgC4-/0/1793902431650?e=2147483647&v=beta&t=hRRguE9Tfv2lp1ecdUjc30oLUzwqpLPB5sggzYaoHqQ",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\nFor Day 5 of #30DayMapChallenge : Sight, I've done a viewshed analysis for wind turbines in Nolan and Taylor counties in Texas and mapped it with Mapbox . \n\nThis one was a really interesting research project leading to some new features in mapgl.\n\nOn the map, the colors show how many turbine blade tips are in line of sight from each spot on the ground, out to 25 miles. \n\nZoom in and the turbines appear as 3D models, built in Blender and scaled to their real size, using new 3D model support in R's mapgl package.\n\nViewshed rasters were pre-computed in R with terra and pulled in on turbine click.  Estimated visibility comes from Argonne National Laboratory field research on how far away wind facilities stand out.\n\nThe observer is the blade tip, the target is a person's eye about 5.6 feet above the ground, and the calculation corrects for Earth's curvature and atmospheric refraction. Elevation comes from USGS 3DEP.\n\nAll of this month's maps are here: https://lnkd.in/gmhMJupH .  Give this one a look and definitely try making your own 3D models and mapping them with mapgl.\nViewshed is a great fit for 'Sight'. Did you model hub height and blade tip separately? I'd be curious how much the visible area changes between the two.\nCreate your free account or sign in to continue your search\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://dms.licdn.com/playlist/vid/v2/D5605AQENTM2Iiucp1A/thumbnail-with-play-button-overlay-high/B56aGs6sEWHgC4-/0/1793902431650?e=2147483647&v=beta&t=hRRguE9Tfv2lp1ecdUjc30oLUzwqpLPB5sggzYaoHqQ",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5616AQEZ9JWvyElZDQ/profile-displaybackgroundimage-shrink_200_800/B56Z131ZWCKYAU-/0/1775831979982?e=2147483647&v=beta&t=zPMnfZpJMQgV1hDXCyw6CbDfQEWFzjqvTNrlxLNkZ1o",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-06-16-30daymapchallenge-kyle-walker-linkedin.jpg",
+      "image_note": "square crop, from 720px of source width"
+    },
+    "score": 6.0,
+    "why": "Viewshed analysis of wind turbines in Texas counties; a spatial analysis map with a clear subject.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "Kyle Walker's Day 5 entry for the 30DayMapChallenge (theme: Sight): a viewshed analysis of wind turbines in Nolan and Taylor counties, Texas, mapped with Mapbox. Colours show how many turbine blade tips are in line of sight from each spot on the ground, out to 25 miles. Viewsheds were pre-computed in R with terra from USGS 3DEP elevation, use the blade tip as observer and a person's eye about 5.6 feet above ground as target, correct for Earth's curvature and atmospheric refraction, and use Argonne National Laboratory field research for estimated visibility. Zooming in shows turbines as 3D models built in Blender at real size, via new 3D model support in R's mapgl package.",
+      "uncertainties": [
+        "Reuse policy is link_only and no image licence is stated. Confirm permission before posting the image itself.",
+        "No image credit on the page. 'Map: Kyle Walker' is taken from the post author.",
+        "The colour scale and legend values are not described, and the number of turbines is not given.",
+        "Unclear whether the cropped image shows a single turbine's viewshed (loaded on click) or a combined view, or whether it shows the 3D model view.",
+        "USGS 3DEP resolution used is not stated.",
+        "Source image is only 720px wide, so the square crop may look soft.",
+        "The question about modelling hub height versus blade tip is a reader comment and is not answered in the source.",
+        "Source uses miles and feet. Kept as given."
+      ],
+      "image_credit": "Map: Kyle Walker",
+      "facebook": "Each colour on this map counts how many wind turbine blade tips you could see from that spot, out to 25 miles.\n\nKyle Walker's Day 5 entry for the 30DayMapChallenge (theme: Sight) maps turbine viewsheds in Nolan and Taylor counties, Texas. Click a turbine to load its viewshed, or zoom in to see 3D models at real scale.\n\nRead more: https://www.linkedin.com/posts/walkerke_30daymapchallenge-activity-7524172184479686658-hSPj\n\nMap: Kyle Walker\n\n#Geoawesome #Viewshed #Texas #Wind",
+      "instagram": "Zoom in and these Texas wind turbines rise as 3D models, built in Blender and scaled to their real size.\n\nUnderneath, the colours show how many blade tips are visible from each patch of ground.\n\nFind out more: https://www.linkedin.com/posts/walkerke_30daymapchallenge-activity-7524172184479686658-hSPj\n\nMap: Kyle Walker\n\n#Geoawesome #Turbines #Mapbox #Cartography",
+      "youtube": "This viewshed runs from the blade tip down to a person's eye about 5.6 feet above the ground.\n\nKyle Walker pre-computed the viewshed rasters in R with terra, using USGS 3DEP elevation and correcting for Earth's curvature and atmospheric refraction. Estimated visibility draws on Argonne National Laboratory field research, and the map is built with Mapbox and new 3D model support in R's mapgl package.\n\nLearn more: https://www.linkedin.com/posts/walkerke_30daymapchallenge-activity-7524172184479686658-hSPj\n\nMap: Kyle Walker\n\n#Geoawesome #Viewshed #Elevation #Turbines",
+      "x": "How many turbine blade tips are in sight from any spot in Nolan and Taylor counties, Texas? A viewshed map out to 25 miles.\nhttps://www.linkedin.com/posts/walkerke_30daymapchallenge-activity-7524172184479686658-hSPj\nMap: Kyle Walker\n#Geoawesome #Viewshed #GIS",
+      "alt_text": "A map of part of Texas shaded in colours that show how many wind turbine blade tips are visible from each location on the ground."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-06-16-30daymapchallenge-kyle-walker-linkedin.jpg"
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/california/schoolhouse_understory_rx",
+      "source_id": "google_alerts_6",
+      "source_name": "Google Alerts #6",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Schoolhouse Understory Rx Fire in California | WFCA Fire Map",
+      "link": "https://wfca.com/fire-map/california/schoolhouse_understory_rx",
+      "published": "2026-11-06T00:25:14+00:00",
+      "summary": "Cass 98361 ac · 0% containedStarted Nov 4 · Updated 1d ago. 100 mi. MapLibre . MenuOpen the menu and map settings. FiresBrowse active fires on the map.",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The Schoolhouse Understory Rx fire in Humboldt, California is currently 0 acres.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live fire map of a 98,000-acre prescribed burn; interactive and open to explore.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page and only a one-line auto-generated fire tracker entry (0 acres, prescribed burn), so there is no striking visual or story to share.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image found on the page and no image credit or licence stated",
+        "Source type is link_only, so no visual from the page could be reused anyway",
+        "Page text gives only the location (Humboldt, California) and size (0 acres) of a prescribed understory burn; no date, perimeter data or sensor information",
+        "Interactive WFCA fire map content is not described in the page text, so what a reader could do with it is unknown"
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://weather.com/2026/11/05/forecast/national/super-el-nino-nearing-a-record-us-weather-pattern",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Super El Niño nearing a record, and the weather pattern looks like it",
+      "link": "https://weather.com/2026/11/05/forecast/national/super-el-nino-nearing-a-record-us-weather-pattern",
+      "published": "2026-11-05T19:59:31+00:00",
+      "summary": "This map shows rankings of mean temperatures for fall 2026 through Nov. 4. Locations with a dark brown box labeled \"1\" had a record warm Sept. 1 ...",
+      "image_url": "https://s.w-x.co/wxnext/img/el-nino-anomaly-3nov26-7bcdac.png",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The current super El Niño is nearing record strength and is already showing its effects on the nation's weather, from flooding rain to a warm and dry fall.\nWater temperatures near the equator in the central and eastern Pacific Ocean region meteorologists monitor for El Niño were 2.5 degrees Celsius above average as of the last week of October.\nThis animation shows sea-surface temperature anomalies from late April through the end of October 2026. The El Niño shows up in the middle of the map near the equator in the Pacific Ocean.\nBased on daily data using an old \"oceanic Niño index\" (ONI), it would be a new all-time record.\nHowever, NOAA's Climate Prediction Center officially uses data averaged over three-month periods and a new index that filters out the surrounding warming ocean from climate change called the \"relative oceanic Niño index\" (RONI).\nTheir latest three-month RONI value from August through October (1.97 degrees above average) is a little behind the pace from the 1997 (2.07 degrees) El Niño.\nSet The Weather Company as a 'Preferred Source' to get quicker access to the news you value.\nThe record three-month RONI in NOAA's database was 2.4 degrees above average from December 1982 through February 1983.\nThis graph shows three-month values of the relative sea-surface temperature anomalies in degrees Celsius in the Niño3.4 region, the area of the equatorial Pacific Ocean monitored for El Niño. The red line depicts the 2026 values, which reached the El Niño threshold in the May-July period. The red arrow shows the August-October anomaly while the brown arrow shows the record in NOAA's database set from December 1982 through February 1983.\nNOAA uses longer-term data to filter out short-term changes in the weather and ocean from the El Niño signal, according to James Belanger, The Weather Company vice president of meteorology.\nRegardless, the NOAA latest monthly outlook says chances \"remain high for a historic event that would exceed the strength of previous El Niño events dating back to 1950.\"\nBased on past intense El Niño events and on the current pace, that record could be reached some time late this fall or early winter.\nClimate scientist Zeke Hausfather pointed out this El Niño is likely to be the strongest in 1,000 years , based on evidence from tree rings and ocean corals.\nThe stronger the El Niño, the more certain it will impact the weather pattern.\nIt has already done that, limiting the Atlantic hurricane season to only one hurricane, the fewest on record since 1925.\nAnd it now appears the typical winter impacts of El Niño have already started to settle in over the U.S. 1 to 2 months early , according to meteorologist and El Niño expert Eric Webb.\nThis map shows the typical winter pattern over the U.S. and Canada during an El Niño.\nIn the past couple of weeks, we've had two major flash flood events in the Desert Southwest , followed by up to 2 feet of rain inundating parts of the Florida Peninsula and a major overnight flash flood in the mountains of northern Georgia and southeastern Tennessee.\nAccording to the Southeast Regional Climate Center , it's been a record wet fall through Nov. 4 in Albuquerque (5.20 inches), Flagstaff, Arizona (13.15 inches) and West Palm Beach, Florida (34.68 inches).\nElsewhere, it has been very warm and mainly dry.\nDozens of cities in the central U.S. have had a record warm fall through early November, including Chicago, Dallas, Houston and Nashville, according to the SERCC.\nThis map shows rankings of mean temperatures for fall 2026 through Nov. 4. Locations with a dark brown box labeled \"1\" had a record warm Sept. 1 through Nov. 4 period.\nSo, while the daily and weekly weather may throw a few curveballs as usual, this warm North, wet South pattern is forecast to last at least through February.\nJonathan Erdman is a senior meteorologist at weather.com and has been covering national and international weather since 1996. Extreme and bizarre weather are his favorite topics. Reach out to him on Bluesky , X (formerly Twitter) and Facebook .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://s.w-x.co/wxnext/img/el-nino-anomaly-3nov26-7bcdac.png",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://s.w-x.co/wxnext/img/Untitled-1_10?format=auto&optimize=medium&width=64&quality=60",
+          "label": ""
+        },
+        {
+          "url": "https://s.w-x.co/wxnext/img/EN-develop-weekly-31oct26-noaaw-768312.webp",
+          "label": ""
+        },
+        {
+          "url": "https://weather.com/_next/static/immutable/media/google-preferred-source-badge-en.3_z13i7o_cic7.png",
+          "label": ""
+        },
+        {
+          "url": "https://s.w-x.co/wxnext/img/el-nino-vs-others-oct2026-3month-1b9ca3.png?format=auto&optimize=medium&width=1600&quality=60",
+          "label": ""
+        },
+        {
+          "url": "https://s.w-x.co/wxnext/img/el-nino-winter-typical-2026-e9e3fe.png?format=auto&optimize=medium&width=1600&quality=60",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 720px of source width"
+    },
+    "score": 6.0,
+    "why": "Record-warm rankings map for fall 2026; geo pattern, though no image was carried.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image credit, no licence and a link-only reuse policy, and the page has four different visuals (SST anomaly animation, RONI graph, typical El Niño pattern map, fall temperature rankings map), so we cannot tell which one the square shows without guessing.",
+      "what_it_shows": "A weather.com article on the 2026 El Niño nearing record strength. Its visuals include an animation of sea-surface temperature anomalies from late April to end of October 2026, a graph of three-month relative SST anomalies (RONI) in the Niño3.4 region with the 1982-83 record marked, a map of the typical El Niño winter pattern over the US and Canada, and a map of fall 2026 mean temperature rankings through 4 November (dark brown boxes labelled \"1\" mark record warm locations). Key numbers: Niño region waters 2.5°C above average in the last week of October; August-October RONI of 1.97°C versus 2.07°C in 1997 and the record 2.4°C in December 1982 to February 1983.",
+      "uncertainties": [
+        "We cannot tell which of the four visuals was used for the square crop.",
+        "No image credit on the page, so it is unclear whether the visuals are weather.com's own or third-party (for example NOAA data plotted by The Weather Company).",
+        "Image licence not stated, and the source's reuse policy is link_only, so the image should not be reposted.",
+        "No dataset or sensor is named for the SST anomaly animation.",
+        "The 'strongest in 1,000 years' claim is Zeke Hausfather's and is hedged as 'likely'. The 'impacts 1 to 2 months early' claim comes from Eric Webb. Both are third-party claims.",
+        "Daily ONI 'record' versus official three-month RONI 'not yet a record': any post would need to keep this distinction."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/05b065dbea434547",
+      "source_id": "google_alerts_6",
+      "source_name": "Google Alerts #6",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Howard, Texas | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/05b065dbea434547",
+      "published": "2026-11-05T00:38:47+00:00",
+      "summary": "Convenience StationStarted Nov 3 · Updated 1d ago. 3000 ft. MapLibre . MenuOpen the menu and map settings. FiresBrowse active fires on the map.",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Howard, Texas observed by VIIRS_NOAA21 covering 61.4 acres from 2 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live wildfire detection map in Texas; interactive tracker with a current event hook.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page (link-only policy, no credit or licence), and the page is an auto-generated VIIRS detection stub with no striking visual.",
+      "what_it_shows": "An automated WFCA fire map entry for a satellite fire detection in Howard County, Texas. It was observed by VIIRS on NOAA-21 and covers 61.4 acres from 2 merged observations. There is no image, no detection date beyond the publish timestamp, and no context about the fire.",
+      "uncertainties": [
+        "No image found on the page, so there is nothing to crop to a square",
+        "Reuse policy is link_only and no image credit or licence is stated",
+        "No date or time given for the detection itself, only the page publish time",
+        "No confirmation of what was burning (wildfire, agricultural burn, industrial flare), since VIIRS hotspots in this region can be gas flares or field burns",
+        "The 61.4 acre figure is an automated estimate from merged hotspot observations, not a mapped burn perimeter"
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "introducing-the-planet-ai-app-search-explore-act",
+      "source_id": "planet",
+      "source_name": "Planet Pulse",
+      "source_type": "eo_imagery",
+      "licence": "link_only",
+      "title": "Introducing the Planet AI App: Search. Explore. Act.",
+      "link": "https://www.planet.com/pulse/introducing-the-planet-ai-app-search-explore-act/",
+      "published": "2026-11-05T14:30:00+00:00",
+      "summary": "Search the planet using everyday language and explore a decade of near-daily satellite imagery with no GIS expertise required.",
+      "image_url": "https://cdn.sanity.io/images/hvd5n54p/blog/9fc2312745d5debe05cff787a33985467dd5551b-1920x1080.png",
+      "credit_hint": "Planet Labs PBC",
+      "source_tag": "@planet",
+      "page_text": "See what you can discover. Sign up and start exploring at ai.planet.com.\nAI chat apps are now incredibly adept at answering our questions about human knowledge. But for all their power, they are fundamentally blind to the physical world. If a farmer asks how to improve their crop yield, a chatbot will give the agricultural theory but know nothing about their field today. Same for a first responder facing a flood or a journalist investigating a landslide.\nIn short, today’s chatbots live only in the digital world. That’s why I’m excited to share that my team at Planet has built an application that takes the power of the AI chat app into the physical domain.\nThe new Planet AI app lets users search ten years of Planet imagery to find sites of interest, explore how they’ve changed over time, and contextualize what they find with publicly available information, all in a simple, map-based chat interface. Locally and globally. Through space and through time. Beginning today, anyone can use this tool to explore their hunches and messy questions using everyday language.\nThis summer, hundreds of users tried an early version of the app, and we learned a lot from their experience. Perhaps most notably, we learned that many of them really liked using the tool in the discovery phase of their work, when they were determining where to search or start their analysis.\nOne user told us they'd never scroll across an entire desert by hand, so without a tool like this, certain searches simply wouldn’t happen. Another said that AI could help point their team in the right direction and save time. So we built recent enhancements in the app around what’s needed at the beginning of an analysis.\nOur AI-enabled search accelerates this initial phase of geospatial analysis with several key capabilities:\nWith these core capabilities, our AI app democratizes access to geospatial insights, allowing you to minimize the time needed to turn a hunch into a question — or even a hypothesis.\nSome of the most compelling early uses of the app have focused on environmental protection and land stewardship.\nConservation teams are testing the tool to monitor vast habitats, spot illegal encroachment or fire threats, and verify automated deforestation alerts with imagery before deploying field patrols. By pairing conversational search with time-series comparisons, analysts can track vegetation recovery over time and isolate comparable baseline habitats to prove conservation impact to stakeholders.\nMeanwhile, environmental compliance teams demonstrated that they can use AI-enabled search to locate and prioritize industrial sites across entire counties based on proximity to waterways. Workflows that historically took days of manual GIS scanning can now surface high-priority inspection targets in minutes — giving frontline teams the clear visual evidence they need to act fast.\nFor most of Planet’s history, getting value from our data entailed understanding how to analyze it. AI-enabled search removes this barrier by making it easier to explore and benefit from our archive. It’s part of a bigger idea we call Planetary Intelligence : pairing daily satellite imagery with AI to deliver powerful insights about our changing planet in near-real time, to help life on Earth adapt and thrive.\nToday’s AI-enabled search is just the beginning. We look forward to incorporating AI into more of Planet's offerings to help deliver more value for our users. Have an idea about what you’d like to see next? You can use the “share feedback” button on the main menu of the app to share it with us. We welcome your feedback!\nIt’s easy to get started. Just sign up and start exploring at ai.planet.com . Right now, access is free! Sign in with a Planet Insights account to more easily access premium capabilities in the future.\nSo go ahead: start exploring those hunches. See what you can discover. When you find something interesting, we encourage you to share it with us or with your community!",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://cdn.sanity.io/images/hvd5n54p/blog/9fc2312745d5debe05cff787a33985467dd5551b-1920x1080.png",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://www.planet.com/pulse/images/pulse_title.png",
+          "label": ""
+        },
+        {
+          "url": "https://cdn.sanity.io/images/hvd5n54p/blog/89f4fce1223b3df7eff3f6ec5d543f8b14d05828-340x340.jpg?w=2048&q=75&fit=clip&auto=format",
+          "label": ""
+        },
+        {
+          "url": "https://cdn.sanity.io/images/hvd5n54p/blog/9fc2312745d5debe05cff787a33985467dd5551b-1920x1080.png?w=2048&q=75&fit=clip&auto=format",
+          "label": ""
+        },
+        {
+          "url": "https://cdn.sanity.io/images/hvd5n54p/blog/9cd55b9f4c76b8f995fa5b4d414db48cbae47f41-1197x574.jpg?w=2048&q=75&fit=clip&auto=format",
+          "label": ""
+        },
+        {
+          "url": "https://cdn.sanity.io/images/hvd5n54p/blog/0a652fb04fe2fcf9d6560a5bda1747320960cd13-340x340.png?w=2048&q=75&fit=clip&auto=format",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1080px of source width"
+    },
+    "score": 6.0,
+    "why": "Planet's decade of near-daily satellite imagery in an app; map-focused, though the image is missing.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Product launch announcement for the Planet AI app; the page describes no specific image (no place, date or sensor), so the visual could not be captioned without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page text never describes the accompanying image: no location, acquisition date, sensor or colour scheme, so it is likely a product screenshot or promotional graphic rather than a captionable scene.",
+        "No image credit or licence is given on the page (fallback credit would be Planet Labs PBC), and the reuse policy is link_only.",
+        "The app itself (search across ten years of Planet imagery, free access at launch) could suit a news item rather than an image repost."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  }
+]
