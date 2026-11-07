@@ -1,0 +1,1036 @@
+[
+  {
+    "item": {
+      "id": "https://www.youtube.com/watch?v=q3s0-rC5GDI",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "A loopy typhoon, as seen from space - YouTube",
+      "link": "https://www.youtube.com/watch?v=q3s0-rC5GDI",
+      "published": "2026-11-07T01:10:16+00:00",
+      "summary": "... storm and a few other things, in this week's “As Seen From Space .” A loopy typhoon, as seen from space . @CNN 115 likes 6.2K views 4h ago. more.",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 8.0,
+    "why": "A typhoon seen from space: vivid Earth-observation scene from a known series.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No usable visual: no image found on the page, no image credit, link-only reuse policy, and the snippet gives no typhoon name, location, sensor or date.",
+      "what_it_shows": "A CNN YouTube video titled 'A loopy typhoon, as seen from space', part of a weekly 'As Seen From Space' segment. The page text names no storm, location, sensor, date or imagery source, and no still image was found.",
+      "uncertainties": [
+        "No image available to crop into a square (IMAGE NOTE: no image found on the page).",
+        "No image credit or licence stated, and the reuse policy is link_only.",
+        "The typhoon is not named, and its location and date are not given.",
+        "The satellite or sensor behind the footage is not stated.",
+        "What 'loopy' refers to (for example the storm's track) is not explained in the source.",
+        "It is a third-party news video (CNN), not original Earth observation imagery from the data provider."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "5286 at http://www.eumetsat.int",
+      "source_id": "eumetsat",
+      "source_name": "EUMETSAT",
+      "source_type": "eo_imagery",
+      "licence": "link_only",
+      "title": "MTG-I2 first images",
+      "link": "http://www.eumetsat.int/mtg-i2-first-images",
+      "published": "2026-11-06T09:00:00+00:00",
+      "summary": "MTG-I2 first images Craig MacDonald Fri, 06/11/2026 - 10:00 MTG-I2 delivers remarkable first images, previewing a weather view of Europe every 2.5 minutes First full-disc image released from MTG-I2 with an animation previewing a service that will update forecasters in Europe every 2.5 minutes First images from MTG-I2 preview a service that will monitor Europe’s weather every 2.5 minutes, supporting earlier warnings of severe weather. Last Updated Published on Europe’s meteorological satellite agency, EUMETSAT has released the first image from the Flexible Combined Imager (FCI) on board Meteosat Third Generation Imager 2 (MTG-I2), just over two months after the satellite’s launch on 27 August 2026. The satellite will provide forecasters with high-resolution observations of Europe every 2.5 minutes. This unprecedented frequency will help forecasters monitor fast-developing weather hazards more closely and support earlier, more precise warnings. First full-disc image captured by the Flexible Combined Imager on board MTG-I2 on 20 October 2026 at 10:45 UTC. The image reveals extensive cloud cover over northern Europe and the North Atlantic, contrasting with largely clear skies over the ",
+      "image_url": "https://www-cdn.eumetsat.int/files/styles/16_9_large/public/2026-11/MTG-I2---First-Image-Aspot.jpg?h=d1cb525d&itok=JPxlwbEt",
+      "credit_hint": "EUMETSAT",
+      "source_tag": "@eumetsat",
+      "page_text": "First full-disc image released from MTG-I2 with an animation previewing a service that will update forecasters in Europe every 2.5 minutes\nEurope’s meteorological satellite agency, EUMETSAT has released the first image from the Flexible Combined Imager (FCI) on board Meteosat Third Generation Imager 2 (MTG-I2), just over two months after the satellite’s launch on 27 August 2026. The satellite will provide forecasters with high-resolution observations of Europe every 2.5 minutes. This unprecedented frequency will help forecasters monitor fast-developing weather hazards more closely and support earlier, more precise warnings.\nCaptured from geostationary orbit, some 36,000 km above the Earth, the image acquired on 20 October captures Europe, Africa and the Atlantic in remarkable detail, revealing intricate cloud formations stretching across the North Atlantic, contrasting with the largely clear skies over the Sahara.\nWhile the full-disc image captures a single moment in time, an accompanying rapid-scan animation brings Europe’s weather to life, showing how cloud formations and weather systems evolve through observations taken just 2.5 minutes apart. This offers a glimpse of MTG-I2’s future operational service, which will enable meteorologists to monitor rapidly changing weather conditions over Europe more closely.\nThese first data follow the handover of MTG-I2 to EUMETSAT’s Mission Control Centre on 9 September, after the successful completion of the Launch and Early Orbit Phase. The satellite is still undergoing calibration and validation, working with the European Space Agency and European industry, to prepare it for operational service, which is expected to begin in the second quarter of 2027.\n“This first image, and the animation, is a milestone for EUMETSAT and for our Member States,” EUMETSAT Director-General Phil Evans said. “Just two months after launch, MTG-I2 shows us what rapid scanning will make possible: a much timelier view of fast-developing weather over Europe. As extreme events become more frequent and intense, forecasters and emergency services will be able to see hazards evolve more precisely and act sooner.”\nMTG-I2 will empower EUMETSAT’s Member States with a rapid scan service that will deliver high-resolution observations of the European continent every 2.5 minutes. By capturing changes in cloud formations at such rapid intervals, MTG-I2 will help forecasters follow the development of severe weather much more closely. This is especially valuable for fast-developing storms, which can bring heavy rainfall, hail, strong winds and flash floods. Timelier observations will also support earlier, more precise warnings and help emergency response during extreme events, including wildfires.\nMTG-I2 is operated by EUMETSAT from its headquarters in Darmstadt, Germany. The satellite was developed by the European Space Agency with Thales Alenia Space as industry prime contractor , fulfilling the requirements set by EUMETSAT in consultation with the meteorological services of its Member States.\nDownload the high-resolution first full-disc image from MTG-I2 here .\nSince 1986, EUMETSAT, Europe’s meteorological satellite agency, has monitored weather and climate from space. From its headquarters in Darmstadt, Germany, it operates a fleet of satellites observing the Earth system and delivers real-time data and imagery to its 30 member states to help protect communities and support critical sectors. Five Meteosat satellites in geostationary orbit provide continuous observations of fast developing weather events, while two polar-orbiting Metop satellites deliver data critical for forecasts up to 10 days ahead. EUMETSAT also supports European sovereignty policies, operating services under the Copernicus programme and leading development and management of the data lake for the Destination Earth initiative.",
+      "image_credit": "EUMETSAT.",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www-cdn.eumetsat.int/files/styles/16_9_large/public/2026-11/MTG-I2---First-Image-Aspot.jpg?h=d1cb525d&itok=JPxlwbEt",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://www-cdn.eumetsat.int/files/2026-11/MTG-I2---First-Image-Aspot.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www-cdn.eumetsat.int/files/styles/3_4_large/public/2026-11/MTG-I2---First-Image-Aspot.jpg?h=d1cb525d&itok=KcvmuAx6",
+          "label": ""
+        },
+        {
+          "url": "https://www-cdn.eumetsat.int/files/2026-11/MTG-i2_FCI_FirstImage_FDSS_true_color_20261020T104500.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-07-2-mtg-i2-first-images.jpg",
+      "image_note": "square crop, from 1080px of source width"
+    },
+    "score": 8.0,
+    "why": "First full-disc MTG-I2 images of Europe weather, a new Earth-observation satellite debut.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "The first full-disc image from the Flexible Combined Imager (FCI) on EUMETSAT's Meteosat Third Generation Imager 2 (MTG-I2), acquired on 20 October 2026 from geostationary orbit about 36,000 km up. It covers Europe, Africa and the Atlantic, with cloud formations across the North Atlantic and largely clear skies over the Sahara. The satellite launched on 27 August 2026 and is still in calibration and validation, with its 2.5-minute rapid scan service over Europe expected to start in Q2 2027.",
+      "uncertainties": [
+        "The source does not say which FCI channel(s) or composite the image uses, or whether the colours are true or false colour.",
+        "No spatial resolution is given for the image.",
+        "The square is cropped from 1,080 px of the source width, so it may not show the whole disc. Check what the crop contains before describing it as a full disc.",
+        "The rapid-scan animation mentioned on the page is not part of the square image.",
+        "The image licence is not stated on the page (reuse policy: link only)."
+      ],
+      "image_credit": "Image: EUMETSAT",
+      "facebook": "Two months after launch, Meteosat Third Generation Imager 2 has sent back its first full-disc view of Earth.\n\nAcquired on 20 October by the Flexible Combined Imager from geostationary orbit, some 36,000 km up, it shows cloud formations stretching across the North Atlantic against largely clear skies over the Sahara. It is still a calibration-phase image: the rapid scan service, refreshing Europe every 2.5 minutes, is expected to go operational in the second quarter of 2027.\n\nRead more: http://www.eumetsat.int/mtg-i2-first-images\n\nImage: EUMETSAT\n\n#Geoawesome #Meteosat #Weather #EUMETSAT",
+      "instagram": "Clouds over the North Atlantic, clear skies over the Sahara: the first look from MTG-I2.\n\nCaptured on 20 October from 36,000 km up, while the satellite is still being calibrated.\n\nFind out more: http://www.eumetsat.int/mtg-i2-first-images\n\nImage: EUMETSAT\n\n#Geoawesome #Meteosat #Clouds #Satellite",
+      "youtube": "Every 2.5 minutes: that is how often MTG-I2 will refresh its view of Europe once operational.\n\nThis first image comes from the satellite's Flexible Combined Imager. It was acquired on 20 October and released just over two months after the 27 August launch. Calibration and validation with ESA and European industry are still under way, and EUMETSAT has not published band or resolution details with the image. An accompanying rapid-scan animation previews how weather systems will be tracked at that cadence from Q2 2027.\n\nLearn more: http://www.eumetsat.int/mtg-i2-first-images\n\nImage: EUMETSAT\n\n#Geoawesome #MTG #Meteorology #Meteosat",
+      "x": "@eumetsat's newest geostationary satellite, MTG-I2, has delivered its first full-disc image (20 October), still in calibration.\nhttp://www.eumetsat.int/mtg-i2-first-images\nImage: EUMETSAT\n#Geoawesome #Meteosat #Weather",
+      "alt_text": "Satellite view of Earth from geostationary orbit, showing swirling cloud bands over the North Atlantic and Europe and largely cloud-free desert across North Africa."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-07-2-mtg-i2-first-images.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.youtube.com/watch?v=QpQYd-N5zpE",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "How Israel has redrawn the map since the October 7 terrorist attack - YouTube",
+      "link": "https://www.youtube.com/watch?v=QpQYd-N5zpE",
+      "published": "2026-11-07T02:01:54+00:00",
+      "summary": "... Sentinel-2 , ACLED ground incursion data, UN reports, Israeli planning authority records cross-referenced with Peace Now and Kerem Navot data, and ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Sentinel-2 imagery showing how Israel has redrawn the map; strong map story.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, no credit or licence, and only a one-line text fragment from a YouTube video on a contested political topic, so a caption would require guessing.",
+      "what_it_shows": "The source is a YouTube video titled 'How Israel has redrawn the map since the October 7 terrorist attack', found via Google Alerts. The only page text is a fragment listing data sources: Sentinel-2, ACLED ground incursion data, UN reports, and Israeli planning authority records cross-referenced with Peace Now and Kerem Navot data. No image or map was retrieved.",
+      "uncertainties": [
+        "No image found on the page, so there is nothing to crop to a square.",
+        "Image credit not found and licence not stated; reuse policy is link_only.",
+        "Publisher, creator and channel of the video are not identified.",
+        "Page text is a truncated fragment: no place, dates, method or findings are given.",
+        "Highly contested political subject; claims would need careful verification before any post.",
+        "Published date (2026-11-07) should be checked against the video page."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "5287 at http://www.eumetsat.int",
+      "source_id": "eumetsat",
+      "source_name": "EUMETSAT",
+      "source_type": "eo_imagery",
+      "licence": "link_only",
+      "title": "Image of the week: Imagery every 2.5 minutes from MTG-I2",
+      "link": "http://www.eumetsat.int/image-week-imagery-every-25-minutes-mtg-i2",
+      "published": "2026-11-06T09:34:50+00:00",
+      "summary": "Image of the week: Imagery every 2.5 minutes from MTG-I2 Craig MacDonald Fri, 06/11/2026 - 10:34 Image of the week: Imagery every 2.5 minutes from MTG-I2 Watching our Earth from space This week’s images and animations come from the first release of preview imagery from the Flexible Combined Imager (FCI) onboard the Meteosat Third Generation Imager 2 (MTG-I2). Last Updated Published on The Meteosat Third Generation Imager 2 (MTG-I2) was launched on 27 August 2026. When it is operational - expected in Q2 2027 - it will provide the rapid scan service, which is high resolution imagery of the atmosphere over Europe and North Africa, every two and a half minutes. This will help meteorologists detect dangerous conditions earlier and track their development in near-real time, providing observations of thunderstorms, dense fog, dust plumes, and much more. Storm clouds over the Sahara Your browser does not support the video tag. This animation (3-4 November 2026) shows deep convective clouds building over the north-western Sahara as seen from MTG-I2. It starts with true-colour satellite imagery, then transitions to a mix of high-resolution visible and infrared images that make it easier to s",
+      "image_url": "https://www-cdn.eumetsat.int/files/styles/16_9_large/public/2026-11/FCI_MTI2_true_color_to_ir_sandwich_west_sahara_storms000.jpg?h=d1cb525d&itok=oaz8-6ZL",
+      "credit_hint": "EUMETSAT",
+      "source_tag": "@eumetsat",
+      "page_text": "The Meteosat Third Generation Imager 2 (MTG-I2) was launched on 27 August 2026. When it is operational - expected in Q2 2027 - it will provide the rapid scan service, which is high resolution imagery of the atmosphere over Europe and North Africa, every two and a half minutes.\nThis will help meteorologists detect dangerous conditions earlier and track their development in near-real time, providing observations of thunderstorms, dense fog, dust plumes, and much more.\nThis animation (3-4 November 2026) shows deep convective clouds building over the north-western Sahara as seen from MTG-I2. It starts with true-colour satellite imagery, then transitions to a mix of high-resolution visible and infrared images that make it easier to spot and follow storms and examine their cloud-top features.\nThe infrared imagery shows cloud-top temperatures and heights, while the visible imagery reveals details of their structure and texture.\nThese features help forecasters understand how strong a storm is and what its impact might be on the ground.\nWith this level of detail and a new image every 2.5 minutes, this kind of imagery from MTG-I2 helps forecasters spot and warn of severe weather as it develops.\nThis animation (2 November 2026) shows Storm Agneta, a deep Mediterranean low, moving over southern Italy on 2 November and bringing heavy rain in its wake.\nThe combination of high spatial detail and fast imagery from MTG-I2 allows for excellent observation of such storms and their evolution.\nLearn more about Meteosat Third Generation satellites",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www-cdn.eumetsat.int/files/styles/16_9_large/public/2026-11/FCI_MTI2_true_color_to_ir_sandwich_west_sahara_storms000.jpg?h=d1cb525d&itok=oaz8-6ZL",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-07-4-image-of-the-week-imagery-every-2-5-minu.jpg",
+      "image_note": "square crop, from 1080px of source width"
+    },
+    "score": 7.0,
+    "why": "True-colour and IR imagery of Saharan storms every 2.5 minutes; vivid Earth scene.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "Animations from EUMETSAT's MTG-I2 geostationary imager, launched on 27 August 2026 and expected to be operational in Q2 2027. One sequence (3-4 November 2026) shows deep convective clouds building over the north-western Sahara, starting in true colour and then switching to a mix of high-resolution visible and infrared imagery. In that mix, infrared shows cloud-top temperatures and heights and visible shows cloud structure and texture. A second sequence (2 November 2026) shows Storm Agneta, a deep Mediterranean low, over southern Italy.",
+      "uncertainties": [
+        "The source is an animation. Confirm which frame and which sequence the square crop comes from (Sahara convection or Storm Agneta, true colour or visible/infrared). The alt text assumes the Sahara true-colour view.",
+        "The satellite is not yet operational (expected Q2 2027), so this is pre-operational imagery. The page gives no spatial resolution figure.",
+        "No image credit is given on the page, so the credit falls back to EUMETSAT. No licence is stated and the reuse policy is link_only, so check before posting the image itself.",
+        "The page does not name the instrument or the specific spectral channels used in the visible/infrared mix."
+      ],
+      "image_credit": "Image: EUMETSAT",
+      "facebook": "A new image every 2.5 minutes: that is the rapid scan cadence Meteosat Third Generation Imager 2 (MTG-I2) will bring to Europe and North Africa.\n\nThe satellite launched on 27 August 2026 and is expected to be operational in Q2 2027, but it is already returning imagery like this: deep convective clouds over the north-western Sahara on 3-4 November 2026. Infrared shows cloud-top temperatures and heights, while visible imagery picks out the texture.\n\nRead more: http://www.eumetsat.int/image-week-imagery-every-25-minutes-mtg-i2\n\nImage: EUMETSAT\n\n#Geoawesome #Meteosat #Weather #Sahara",
+      "instagram": "Storms over the Sahara, refreshed every two and a half minutes.\n\nMTG-I2 caught deep convective clouds towering over the north-western Sahara on 3-4 November 2026, months before it is due to enter service.\n\nFull story: http://www.eumetsat.int/image-week-imagery-every-25-minutes-mtg-i2\n\nImage: EUMETSAT\n\n#Geoawesome #EUMETSAT #Storms #Satellite",
+      "youtube": "Visible for texture, infrared for cloud-top temperature and height: MTG-I2 combines both to follow storms as they grow.\n\nThe 3-4 November 2026 sequence starts in true colour over the north-western Sahara, then switches to high-resolution visible and infrared. A second sequence tracks Storm Agneta, a deep Mediterranean low, over southern Italy on 2 November. Operational service, with rapid scans of Europe and North Africa every 2.5 minutes, is expected in Q2 2027.\n\nLearn more: http://www.eumetsat.int/image-week-imagery-every-25-minutes-mtg-i2\n\nImage: EUMETSAT\n\n#Geoawesome #Meteosat #Convection #Weather",
+      "x": "Deep convection over the Sahara, seen by a weather satellite that is not operational yet. MTG-I2's 2.5-minute rapid scans are expected from Q2 2027.\nhttp://www.eumetsat.int/image-week-imagery-every-25-minutes-mtg-i2\nImage: EUMETSAT\n#Geoawesome #Meteosat #Storms #Sahara",
+      "alt_text": "Satellite view of large, bright convective cloud clusters building over the desert of the north-western Sahara."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-07-4-image-of-the-week-imagery-every-2-5-minu.jpg"
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/4e7c212aeca445fd",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in McLean, Kentucky | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/4e7c212aeca445fd",
+      "published": "2026-11-06T20:32:20+00:00",
+      "summary": "GreyStarted Oct 19 · Updated 1d ago. 3000 ft. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and map settings. FiresBrowse ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in McLean, Kentucky observed by VIIRS_NOAA20 covering 174.5 acres from 2 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live wildfire tracker map for McLean, Kentucky; interactive, though no image.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The page has no image to repost, the reuse policy is link only, and the text is an auto-generated detection notice (VIIRS NOAA-20, about 174.5 acres in McLean, Kentucky), not a striking visual.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was found on the page, so there is nothing to crop to a square.",
+        "The image credit and licence are not stated, and the reuse policy is link only.",
+        "The page is an automated satellite fire detection entry (VIIRS_NOAA20, 174.5 acres from 2 merged observations) with no date of detection, no confirmation that it is a wildfire rather than another heat source, and no ground reports."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/b3370b1209cc4436",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Hill, Texas | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/b3370b1209cc4436",
+      "published": "2026-11-06T16:46:34+00:00",
+      "summary": "Sebastian 2381 acStarted Nov 5 · Updated 5h ago. 3000 ft. MapLibre . MenuOpen the menu and map settings. FiresBrowse active fires on the map. WFCA ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Hill, Texas observed by MODIS covering 496.1 acres from 2 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live fire detection map near Hill, Texas; interactive tracker, no image provided.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page and reuse is link-only; this is an auto-generated MODIS detection stub (496.1 acres, 2 merged observations) with no visual to repost.",
+      "what_it_shows": "An automated WFCA fire map entry for a satellite fire detection in Hill, Texas. It reports MODIS detections covering 496.1 acres from 2 merged observations. No image, date of observation or map view is provided in the source material.",
+      "uncertainties": [
+        "No image found on the page and no image credit or licence stated",
+        "Reuse policy is link_only, so there is nothing to crop into a square",
+        "Observation date not given (only the page publish date of 2026-11-06)",
+        "Unclear whether 'Hill' refers to Hill County, Texas, and whether the detection is a confirmed wildfire, a prescribed burn or another heat source",
+        "Acreage of 496.1 is derived from merged MODIS pixels, not a mapped fire perimeter"
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/wyoming/wildcat",
+      "source_id": "google_alerts_6",
+      "source_name": "Google Alerts #6",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Wildcat Fire in Wyoming | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/wyoming/wildcat",
+      "published": "2026-11-06T10:54:31+00:00",
+      "summary": "WildcatStarted Nov 5 · Updated 2h ago. 5 mi. MapLibre . MenuOpen the menu and map settings. FiresBrowse active fires on the map. WFCA Fire Map ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The Wildcat fire in Campbell, Wyoming is currently 0 acres.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live wildfire tracker map with fire perimeter and extent; interactive, clickable.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page and the only text is an auto-generated fire tracker entry (Wildcat fire, Campbell, Wyoming, '0 acres'), so there is no striking visual to share.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image found on the page and no image credit or licence stated.",
+        "The page is an automated WFCA fire map listing reporting the Wildcat fire in Campbell, Wyoming as 0 acres. No date, perimeter data, source or imagery is given.",
+        "Reuse policy is link_only, so the page would not support an image repost anyway."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/254c04aabe164395",
+      "source_id": "google_alerts_6",
+      "source_name": "Google Alerts #6",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Lewis, Washington | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/254c04aabe164395",
+      "published": "2026-11-06T00:25:10+00:00",
+      "summary": "Bluff Fire96 acStarted Jul 24 · Updated 3d ago. 3000 ft. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and map settings.",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Lewis, Washington observed by SOF from 2 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live fire-tracking map of Bluff Fire, Lewis County, Washington; interactive, but no image in feed.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page and only a one-line automated detection notice (two merged satellite fire detections in Lewis, Washington, sensor not named), so there is no visual to post and nothing to explain without guessing.",
+      "what_it_shows": "An automated WFCA fire map entry for a satellite fire detection in Lewis, Washington, built from 2 merged observations attributed to \"SOF\". No image, date of detection, sensor details, fire size or confirmation of an actual fire is given.",
+      "uncertainties": [
+        "No image found on the page",
+        "\"SOF\" is not explained; the satellite or sensor behind the detection is not named",
+        "Detection date and time not stated (only the page publish timestamp)",
+        "No confirmation that the detection is an actual wildfire rather than a false positive or other heat source",
+        "Reuse policy is link_only and no image credit or licence is given"
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "tag:blogger.com,1999:blog-12158290.post-8098482759464195935",
+      "source_id": "maps_mania",
+      "source_name": "Maps Mania",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "Noah's Ark found on Vintage Maps",
+      "link": "http://googlemapsmania.blogspot.com/2026/11/noahs-ark-found-on-vintage-maps.html",
+      "published": "2026-11-06T16:55:52+00:00",
+      "summary": "For thousands of years, cartographers have been mapping more than just the known world. Medieval and early modern maps often mixed observed geography with religious beliefs, folklore and mythical stories, placing legendary cities, lost kingdoms and biblical locations alongside real-world places. Mythical Tours is a fascinating narrated journey through this imaginary geography, using centuries of historical maps to track down the locations of places that many people today believe exist only in legend. Among the mythical locations you can discover are the lost city of Atlantis , Hy-Brasil (the phantom island supposedly located off the west coast of Ireland), and even the legendary city of Merlin . The tour also ventures into biblical geography, exploring where historical cartographers believed they could locate the Garden of Eden and Noah's Ark . Despite the 'Maps Mania' credit on Mythical Tours, my involvement was limited to suggesting to TripGeo that mythical geography might make an interesting theme for one of their new TripGeo Tours . These narrated guided map tours currently include, alongside Mythical Tours , two amazing journeys into outer space: Solar Tour and Cosmic Trip , a",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMd0_0OdOwvgWCxPNNhejl67wwLRkFMq3DiJ9nw_iK6xD-XZdq-9aKX8ZYhcYvonDD8MS-Tpme1HHuYQQB55iDZzAAB2zH7gkIvczhJTQ8z8_Uf_YNH7W9xCFOkrD4ArpsgWWipNd9ufmY4X02tG6QAfNnapslRT3rCNK_pr4OMqXqFre__l7KYQ/s1600/tours.tripgeo.com_mythicaltours.png",
+      "credit_hint": "via Maps Mania",
+      "source_tag": "",
+      "page_text": "For thousands of years, cartographers have been mapping more than just the known world. Medieval and early modern maps often mixed observed geography with religious beliefs, folklore and mythical stories, placing legendary cities, lost kingdoms and biblical locations alongside real-world places.\nMythical Tours is a fascinating narrated journey through this imaginary geography, using centuries of historical maps to track down the locations of places that many people today believe exist only in legend.\nAmong the mythical locations you can discover are the lost city of Atlantis , Hy-Brasil (the phantom island supposedly located off the west coast of Ireland), and even the legendary city of Merlin . The tour also ventures into biblical geography, exploring where historical cartographers believed they could locate the Garden of Eden and Noah's Ark .\nDespite the 'Maps Mania' credit on Mythical Tours, my involvement was limited to suggesting to TripGeo that mythical geography might make an interesting theme for one of their new TripGeo Tours . These narrated guided map tours currently include, alongside Mythical Tours , two amazing journeys into outer space: Solar Tour and Cosmic Trip , as well as the rather scary game Spooky Tours .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMd0_0OdOwvgWCxPNNhejl67wwLRkFMq3DiJ9nw_iK6xD-XZdq-9aKX8ZYhcYvonDD8MS-Tpme1HHuYQQB55iDZzAAB2zH7gkIvczhJTQ8z8_Uf_YNH7W9xCFOkrD4ArpsgWWipNd9ufmY4X02tG6QAfNnapslRT3rCNK_pr4OMqXqFre__l7KYQ/s1600/tours.tripgeo.com_mythicaltours.png",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMd0_0OdOwvgWCxPNNhejl67wwLRkFMq3DiJ9nw_iK6xD-XZdq-9aKX8ZYhcYvonDD8MS-Tpme1HHuYQQB55iDZzAAB2zH7gkIvczhJTQ8z8_Uf_YNH7W9xCFOkrD4ArpsgWWipNd9ufmY4X02tG6QAfNnapslRT3rCNK_pr4OMqXqFre__l7KYQ/w1200-h630-p-k-no-nu/tours.tripgeo.com_mythicaltours.png",
+          "label": ""
+        },
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMofOnJSGWGCYi7SJDgm6B1TjTv004rBA6iGHcWSpzF3Wc84nwwBE5aawjIHq7yrVu-pfkpvIHDzzJ5-mLVeF6MVSFWrzLjDPslikO_tcN7IPBlO_4a97VWwAtXhHGc-n2jCV9/s400/earth.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "https://tours.tripgeo.com/",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-07-10-noah-s-ark-found-on-vintage-maps.jpg",
+      "image_note": "square crop, from 1034px of source width"
+    },
+    "score": 6.0,
+    "why": "Historical maps with a mythical-places hook; cartography with a story, though image is a map scan.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A square crop from the Maps Mania post about Mythical Tours, a narrated guided map tour by TripGeo. The tour uses centuries of historical maps to show where cartographers placed legendary and biblical locations: Atlantis, Hy-Brasil, the city of Merlin, the Garden of Eden and Noah's Ark. The source does not say which historical map or location the image shows.",
+      "uncertainties": [
+        "The page does not say which historical map, location or date the image shows. Check the crop before posting and adjust the alt text to match what is actually visible.",
+        "No image credit or licence is stated on the page, and the reuse policy is link_only. Confirm that a square repost is acceptable.",
+        "The page names no individual historical maps, map dates or number of maps used in the tour.",
+        "Possible conflict of interest: the Maps Mania author says Mythical Tours carries a 'Maps Mania' credit, although their involvement was limited to suggesting the theme to TripGeo.",
+        "The map maker is credited as TripGeo, inferred from the tour URL (tours.tripgeo.com) and the page text."
+      ],
+      "image_credit": "Map: TripGeo via Maps Mania",
+      "facebook": "Medieval and early modern mapmakers put Atlantis, Hy-Brasil and the Garden of Eden on the same sheets as real coastlines.\n\nMythical Tours from TripGeo is a narrated map tour that uses centuries of historical maps to track where cartographers placed legendary places, from Hy-Brasil, the phantom island supposedly off the west coast of Ireland, to the city of Merlin. It also follows biblical geography, including where old maps located Noah's Ark.\n\nRead more: http://googlemapsmania.blogspot.com/2026/11/noahs-ark-found-on-vintage-maps.html\n\nMap: TripGeo via Maps Mania\n\n#Cartography #Mythology #Atlantis #Geoawesome",
+      "instagram": "Noah's Ark has a location, if you trust the right vintage map.\n\nMythical Tours is a narrated journey through centuries of historical maps, stopping at Atlantis, Hy-Brasil and the Garden of Eden.\n\nFull story: http://googlemapsmania.blogspot.com/2026/11/noahs-ark-found-on-vintage-maps.html\n\nMap: TripGeo via Maps Mania\n\n#Maps #Folklore #Cartography #Geoawesome",
+      "youtube": "Hy-Brasil, a phantom island supposedly off the west coast of Ireland, is one stop on a narrated tour of places that exist only in legend.\n\nMythical Tours is one of TripGeo's guided map tours. It steps through historical maps to show where cartographers placed Atlantis, the city of Merlin, the Garden of Eden and Noah's Ark, and you follow the narration from one location to the next. The other TripGeo tours include Solar Tour, Cosmic Trip and Spooky Tours.\n\nLearn more: http://googlemapsmania.blogspot.com/2026/11/noahs-ark-found-on-vintage-maps.html\n\nMap: TripGeo via Maps Mania\n\n#Cartography #History #Mythology #Maps #Geoawesome",
+      "x": "Atlantis, the city of Merlin and Noah's Ark, as located by centuries of mapmakers. A narrated map tour from TripGeo.\nhttp://googlemapsmania.blogspot.com/2026/11/noahs-ark-found-on-vintage-maps.html\nMap: TripGeo via Maps Mania\n#Cartography #Folklore #History #Geoawesome",
+      "alt_text": "A view from the Mythical Tours map showing an old historical map with legendary and biblical places marked alongside real geography."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-07-10-noah-s-ark-found-on-vintage-maps.jpg"
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/f189deebcb43408b",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Thurston, Washington | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/f189deebcb43408b",
+      "published": "2026-11-06T13:51:50+00:00",
+      "summary": "LandStarted Nov 4 · Updated 1d ago. 3000 ft. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and map settings. FiresBrowse ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Thurston, Washington observed by SOF from 8 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Live fire map detection page; interactive, but summary shows little visual detail.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page (link-only reuse) and the text is an automated fire-detection stub with no date, sensor detail or context to caption without guessing.",
+      "what_it_shows": "An auto-generated WFCA fire map page for a satellite fire detection in Thurston, Washington, built from 8 merged observations attributed to 'SOF'. No image, date of detection, fire size or cause is given.",
+      "uncertainties": [
+        "No image found on the page, and the reuse policy is link_only",
+        "'SOF' is not explained (sensor or product name unknown)",
+        "No detection date, fire size, location detail or confirmation that this is an actual wildfire rather than a thermal anomaly",
+        "Image credit and licence not stated"
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/oregon/wanaket_uma_004_broadcast_rx",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Wanaket Uma 004 Broadcast Rx Fire in Oregon | WFCA Fire Map",
+      "link": "https://wfca.com/fire-map/oregon/wanaket_uma_004_broadcast_rx",
+      "published": "2026-11-06T04:53:30+00:00",
+      "summary": "Tower 2Started Jul 8 · Updated 7h ago. 5 mi. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and map settings. FiresBrowse ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The Wanaket Uma 004 Broadcast Rx fire in Umatilla, Oregon is currently 0 acres.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Interactive fire map page for a named Oregon fire; no preview image.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page and the text is a one-line automated fire-tracker entry (a prescribed burn listed at 0 acres), so there is no visual to repost.",
+      "what_it_shows": "An automated WFCA Fire Map listing for the Wanaket Uma 004 Broadcast Rx fire in Umatilla, Oregon, reported as 0 acres. The page has no image, sensor, date of observation or map content in the extracted text.",
+      "uncertainties": [
+        "No image found on the page; the reuse policy is link_only.",
+        "No image credit or licence stated.",
+        "'Rx' usually denotes a prescribed burn, but the page does not say so explicitly.",
+        "The 0-acre size and the lack of detail suggest a placeholder or automated entry rather than a newsworthy event."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://x.com/nypost/status/2118806015806226844/photo/1",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Alarming satellite images show construction near Iran missile bases: report - X",
+      "link": "https://x.com/nypost/status/2118806015806226844/photo/1",
+      "published": "2026-11-06T23:45:48+00:00",
+      "summary": "Alarming satellite images show construction near Iran missile bases: report https://t.co/mmocJmY61L.",
+      "image_url": "https://pbs.twimg.com/media/HWeC1mqW8AAvo_Q?format=webp&name=large",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "See what’s happening and join the conversation",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HWeC1mqW8AAvo_Q?format=webp&name=large",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/2073490215327715328/4wOfTM9__normal.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/2113446814468771840/aXf0o6qG_normal.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1940388504946565121/VKZ70oZD_normal.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1717187687931637760/Vki9e-0u_normal.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 799px of source width"
+    },
+    "score": 5.0,
+    "why": "Satellite images of Iran missile base construction; news-led, no image in feed.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The source is an NY Post tweet with no readable content, image credit, licence, sensor, date or location, so the image cannot be explained or credited without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page text is only the X login prompt. No description of the image was captured.",
+        "No image credit or licence is given, and the satellite imagery provider (likely a commercial firm, but not stated) is unknown.",
+        "The title says 'report', so the claim is second-hand via NY Post, and the original analysis and its author are not identified.",
+        "Location, sensor, acquisition date and what the construction is are all missing.",
+        "The reuse policy is link_only, so reposting the image is not permitted from this source."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.vespernews.com/en/news/dea2b882-a5ce-47e7-b2c8-fa3be6f21b58",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Satellite images show new construction at Iran's missile bases - Vesper",
+      "link": "https://www.vespernews.com/en/news/dea2b882-a5ce-47e7-b2c8-fa3be6f21b58",
+      "published": "2026-11-06T21:04:58+00:00",
+      "summary": "Satellite images show new construction at Iran's missile bases. Satellite imagery captured in November shows evidence of digging and new building ...",
+      "image_url": "https://images.pexels.com/photos/29389505/pexels-photo-29389505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Satellite imagery captured in November shows evidence of digging and new building construction near Iranian missile bases. The findings add a fresh indicator of expanding military infrastructure at a time of continued tension between Tehran and Washington.\nSatellite imagery reviewed by analysts and taken in November shows continued digging and new building construction in areas near Iranian missile bases. The changes suggest construction activity in the area has accelerated compared with previous months. Similar imaging techniques have previously been used to track the development of military sites in the region.\nExperts say this kind of construction has previously been associated with infrastructure reinforcement or expanded storage capacity, though the images alone cannot confirm the facilities' exact purpose. The development comes amid months of continued tension between the US and Iran, with both sides' military movements under close watch.\nThe report noted that Iranian authorities had not issued an official comment on the matter. Satellite monitoring of the region appears likely to continue with further analysis in the coming weeks. Independent experts said they plan to carry out a more detailed review of the imagery.\nAbout 80% of health facilities in Taiz, in southwestern Yemen, have shut down because of a blockade enforced by the Houthi movement, local officials said on November 6. Fuel, medicine and basic equipment have been unable to reach the city for an extended period.\nQatar's prime minister said on November 6 that the United States and Iran should not wait for a 'perfect moment' to reach a deal ending their conflict. The remarks came as the prolonged standoff continues to disrupt shipping and rattle energy markets across the Gulf.\nIsrael's Arab-majority Joint List and Ra'am parties have announced their backing for Netanyahu's rival Gadi Eisenkot to form the next government. The move marks a notable development in the drawn-out, post-election coalition talks. Netanyahu's own bloc continues to dispute the official results.\nThe Democratic Party's sweeping victory in this week's US midterm elections has stirred concern in Israel over the future of the two countries' relationship. Staunch US support for Israel has been cited as one reason Republicans performed poorly. Israeli officials are watching for any shift in Washington's policy stance.\nLebanese residents who lived through two previous Israeli escalations are stockpiling supplies and packing bags in case a third one occurs. The preparations are increasing as tension along the border region rises again.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/29389505/pexels-photo-29389505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://images.pexels.com/photos/29389505/pexels-photo-29389505.jpeg?auto=compress&cs=tinysrgb&w=1920&q=65",
+          "label": ""
+        },
+        {
+          "url": "https://images.pexels.com/photos/6473188/pexels-photo-6473188.jpeg?auto=compress&cs=tinysrgb&w=1920&q=65",
+          "label": ""
+        },
+        {
+          "url": "https://images.pexels.com/photos/6658660/pexels-photo-6658660.jpeg?auto=compress&cs=tinysrgb&w=1920&q=65",
+          "label": ""
+        },
+        {
+          "url": "https://images.pexels.com/photos/32991337/pexels-photo-32991337.jpeg?auto=compress&cs=tinysrgb&w=1920&q=65",
+          "label": ""
+        },
+        {
+          "url": "https://images.pexels.com/photos/40181036/pexels-photo-40181036.jpeg?auto=compress&cs=tinysrgb&w=1920&q=65",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1253px of source width"
+    },
+    "score": 5.0,
+    "why": "Satellite imagery of new digging and buildings at Iran missile bases.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The visual cannot be explained or credited without guessing: no image credit or licence, no named site, sensor, provider or exact date, and the reuse policy is link_only.",
+      "what_it_shows": "A news brief says unnamed analysts reviewed satellite imagery taken in November showing digging and new building construction near Iranian missile bases. It does not name the bases or their location, the satellite operator, the sensor, the resolution or the exact acquisition date. Experts quoted say the images alone cannot confirm what the facilities are for.",
+      "uncertainties": [
+        "No image credit or licence on the page, and the reuse policy is link_only, so the image should not be reposted.",
+        "No imagery provider or sensor is named.",
+        "No specific base or location is named.",
+        "No acquisition date beyond 'November' and no earlier comparison image is identified, though the text claims activity accelerated compared with previous months.",
+        "The analysts are unnamed, and the purpose of the construction is unconfirmed by the source's own account.",
+        "Most of the page is unrelated regional news, which suggests a news roundup rather than an imagery-led story.",
+        "The topic is politically sensitive military content with thin sourcing."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.kwwl.com/news/u-s-geological-survey-to-conduct-earth-mapping-flights-over-ne-iowa-se-minnesota/article_d9a90d6a-d3e3-4cac-a10a-5c060c302d90.html",
+      "source_id": "google_alerts_4",
+      "source_name": "Google Alerts #4",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "U.S. Geological Survey to conduct 'Earth Mapping' flights over NE Iowa, SE Minnesota",
+      "link": "https://www.kwwl.com/news/u-s-geological-survey-to-conduct-earth-mapping-flights-over-ne-iowa-se-minnesota/article_d9a90d6a-d3e3-4cac-a10a-5c060c302d90.html",
+      "published": "2026-11-06T22:39:29+00:00",
+      "summary": "USGS flight lidar map nov_dec 2026. Map showing the location of the survey [blue polygon] over northeastern Iowa and southeastern Minnesota ...",
+      "image_url": "https://bloximages.newyork1.vip.townnews.com/kwwl.com/content/tncms/assets/v3/editorial/9/12/91215908-906f-49fd-9cfe-3afd59260bd4/6aee4b99855d7.image.jpg?crop=230%2C230%2C185%2C0&resize=200%2C200&order=crop%2Cresize",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "RESTON, Va. (KWWL) – Residents in Northeastern Iowa and Southeastern Minnesota may see low-flying airplanes in the months of November and December, and federal officials say there is nothing suspicious and that the aircraft are merely doing \"earth mapping\" flights to gather important geologic data.\nOfficials from the U.S. Geological Survey’s Earth Mapping Resources Initiative stated in a press release that the aircraft carry equipment to \"image geology\" using airborne geophysical technology.\nAccording to a press release, the flights are a collaborative effort between the U.S. Geological Survey’s Earth Mapping Resources Initiative and the Iowa and Minnesota geological surveys.\nJamey Jones, science coordinator for USGS Earth MRI, said the program is called \"Earth MRI,\" and it is the mapping program with a goal to modernize the nation’s maps of geology and mineral resources, and to identify energy and groundwater resources and natural hazards.\n“Partnership with state surveys helps accomplish national goals like mapping the critical minerals the U.S. needs. The Iowa and Minnesota geological surveys are helping with the work of the nation -- and adding to state knowledge crucial to water resources, hazards and the resource economy,” Jones stated in a press release.\nRobert Tipping, director of the Minnesota Geological Survey, stated that the program, \"gives an opportunity to improve our understanding of geologic resources in the state, including materials needed for cleaner sources of energy and national security.\n\"It accelerates our ongoing mission to provide the geologic information necessary to protect and manage mineral and water resources across the state,” Tipping added.\nRyan Clark, aassociate Iowa state geologist for energy and minerals, was also excited about the study results.\n“These new data will greatly enhance our understanding of the potential for critical minerals and geologic hydrogen in Iowa,” Clark said.\nMagnetic surveys like what will be conducted in this survery create images of the different magnetic properties carried by different types of rocks, allowing instruments to noninvasively \"see\" underground.\nThe Northeaster Iowa and Southwestern Minnesota region being mapped by this survey contains rock types that are magnetic and which may host undiscovered deposits of critical minerals such as nickel, copper, platinum group elements, and cobalt, officials explained in the press release.\nData will be collected along north-south flight lines spaced 1,310 feet (400 meters) apart at a nominal height of 330 feet (100 meters) above ground, increasing to 1,000 feet (300+ meters) above populated areas.\nThe USGS has contracted with Dewberry and Sander Geophysics Ltd. (SGL) to collect the airborne data. Their fixed-wing aircraft will be equipped with an elongated “stinger” that extends from the main cabin which houses sensors collecting data.\n• These scientific instruments are completely passive with no emissions that pose a risk to humans, animals, or plant life.\n• No photography or video data will be collected.\n• The aircraft will be flown by experienced pilots who are specially trained and approved for low-level flying.\n• These pilots work with the FAA to ensure flights are safe and in accordance with U.S. law. The surveys will be conducted during daylight hours only.\nFlights will be based out of several regional airports, including Albert Lea, Mason City, and Iowa Falls Airports and fly over parts of 40 counties: Allamakee, Black Hawk, Boone, Bremer, Butler, Cerro Gordo, Chickasaw, Clayton, Fayette, Floyd, Franklin, Greene, Grundy, Hamilton, Hancock, Hardin, Howard, Humboldt, Marshall, Mitchell, Story, Tama, Webster, Winnebago, Winneshiek, Worth, and Wright Counties in Iowa; Blue Earth, Dodge, Faribault, Fillmore, Freeborn, Houston, Mower, Olmstead, Steele, Wabasha, Waseca, and Winona Counties in Minnesota; and Buffalo County in Wisconsin.\nEarth MRI includes airborne geophysical surveys like this one, geochemical reconnaissance surveys, topographic mapping using LiDAR technology, hyperspectral surveys, and geologic mapping projects. The data collected are made freely available to the public on the USGS ScienceBase website.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kwwl.com/content/tncms/assets/v3/editorial/9/12/91215908-906f-49fd-9cfe-3afd59260bd4/6aee4b99855d7.image.jpg?crop=230%2C230%2C185%2C0&resize=200%2C200&order=crop%2Cresize",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kwwl.com/content/tncms/assets/v3/editorial/9/12/91215908-906f-49fd-9cfe-3afd59260bd4/6aee4b99855d7.image.jpg?resize=200%2C77",
+          "label": ""
+        },
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kwwl.com/content/tncms/assets/v3/editorial/c/d6/cd652dc8-67c4-42f1-985e-9b2b38a9f4ba/69f9329c79dfd.image.jpg?resize=200%2C112",
+          "label": ""
+        },
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kwwl.com/content/tncms/assets/v3/editorial/8/fb/8fbf7393-a52c-5f4e-8a72-e721bd6bff9f/6aee51cba17e6.image.jpg?resize=200%2C133",
+          "label": ""
+        },
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kwwl.com/content/tncms/assets/v3/editorial/3/3e/33efb408-91a6-5430-8491-4cf9b83ccc47/6acfb33032e72.image.jpg?resize=200%2C133",
+          "label": ""
+        },
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kwwl.com/content/tncms/assets/v3/editorial/2/5c/25c5d989-cb38-5218-9e87-f6346a8fd629/6aee2c8401201.image.jpg?resize=200%2C133",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 200px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 5.0,
+    "why": "USGS lidar survey map showing the flight polygon over Iowa and Minnesota.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Local news notice announcing upcoming USGS Earth MRI magnetic survey flights; no survey map or data image to show, and the page image is unidentified, uncredited and only 200px wide.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page names no image credit or licence, and the source image is 200px wide (upscaled), so its content and quality are unknown.",
+        "The page text says 'Southwestern Minnesota' in one place, but the headline and county list point to southeastern Minnesota.",
+        "The page text says the survey covers 40 counties, but its list names 27 in Iowa, 12 in Minnesota and 1 in Wisconsin (40 in total), so the count matches.",
+        "When USGS releases the magnetic data or maps on ScienceBase, that release would be a better candidate for a post."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/a470bd19188d45a9",
+      "source_id": "google_alerts_6",
+      "source_name": "Google Alerts #6",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Jackson, Arkansas | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/a470bd19188d45a9",
+      "published": "2026-11-06T04:20:10+00:00",
+      "summary": "Dallas 5002822 acStarted Nov 3 · Updated 2d ago. 3000 ft. MapLibre . MenuOpen the menu and map settings. FiresBrowse active fires on the map. WFCA ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Jackson, Arkansas observed by VIIRS_NOAA20 covering 106.2 acres from 2 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Interactive active-fire map for Jackson, Arkansas; useful tracker view.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Auto-generated fire detection page with no image (IMAGE NOTE: no image found) and link-only reuse, so there is no visual to post.",
+      "what_it_shows": "An automated WFCA fire map entry for satellite fire detections in Jackson, Arkansas. The page says they were observed by VIIRS on NOAA-20, covering 106.2 acres from 2 merged observations. No image or map is available to repost.",
+      "uncertainties": [
+        "No image found on the page and no image credit or licence stated.",
+        "Reuse policy is link_only, so even a screenshot of the interactive map would need permission.",
+        "No date or time for the detections is given on the page, beyond the alert's publication timestamp.",
+        "It is unclear whether 106.2 acres is a confirmed burned area or the footprint of merged VIIRS detections. It is likely the latter, which would overstate or misstate the actual fire size.",
+        "No information on what was burning (wildfire, agricultural or prescribed burn)."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/idaho/rx_north_side_powell_unit_15_pwrd",
+      "source_id": "google_alerts_6",
+      "source_name": "Google Alerts #6",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Rx North Side Powell Unit 15 Pwrd Fire in Idaho | WFCA Fire Map",
+      "link": "https://wfca.com/fire-map/idaho/rx_north_side_powell_unit_15_pwrd",
+      "published": "2026-11-06T03:36:18+00:00",
+      "summary": "Sebastian 2381 acStarted Nov 5 · Updated 5h ago. 5 mi. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and map settings. Fires ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The Rx North Side Powell Unit 15 Pwrd fire in Idaho, Idaho is currently 0 acres.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Live Idaho prescribed fire map with burn area; interactive tracker.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, and the only text is an auto-generated fire-tracker line reporting a 0-acre prescribed burn (Rx), so there is nothing striking to post.",
+      "what_it_shows": "An automated WFCA fire-map tracker entry for a prescribed burn (Rx North Side Powell Unit 15) in Idaho, listed at 0 acres. The page has no image and no other details.",
+      "uncertainties": [
+        "No image was found on the page.",
+        "No image credit or licence is stated, and the reuse policy is link_only.",
+        "The page gives no date of burn activity, location detail beyond Idaho, or data source, and the size is listed as 0 acres."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.arkansasonline.com/election/map/",
+      "source_id": "google_alerts_6",
+      "source_name": "Google Alerts #6",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "How did your neighborhood vote? | The Arkansas Democrat-Gazette",
+      "link": "https://www.arkansasonline.com/election/map/",
+      "published": "2026-11-06T14:50:43+00:00",
+      "summary": "MapLibre | OpenFreeMap © OpenMapTiles Data from OpenStreetMap. Hover over or tap a precinct to see its results. Statewide. Sarah Huckabee Sanders (R) ...",
+      "image_url": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.arkansasonline.com_default.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.arkansasonline.com_default.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 800px of source width"
+    },
+    "score": 5.0,
+    "why": "Interactive precinct-level election results map people can hover and explore.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Reuse policy is link_only with no image licence or credit, and the page text is too thin to describe the map's results without guessing.",
+      "what_it_shows": "An interactive precinct-level election results map from The Arkansas Democrat-Gazette, built with MapLibre on OpenFreeMap / OpenMapTiles base tiles using OpenStreetMap data. Readers can hover over or tap a precinct to see its results, with a statewide view that includes the race featuring Sarah Huckabee Sanders (R). No results, colour key or turnout figures are given in the source text.",
+      "uncertainties": [
+        "Reuse policy is link_only: the image should not be reposted as a square without permission",
+        "No image credit or licence stated on the page",
+        "Election date, races covered beyond the Sanders contest, and any results or margins are not given in the source text",
+        "Colour scheme and legend of the map are not described",
+        "Political results content may be off-brand for Geoawesome unless framed around the cartography (MapLibre, OpenFreeMap), which the source barely documents"
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.youtube.com/watch?v=Coeb6Es2Zfo",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Reported Fatalities in High-Speed Train Accidents in 2026 - YouTube",
+      "link": "https://www.youtube.com/watch?v=Coeb6Es2Zfo",
+      "published": "2026-11-06T19:43:12+00:00",
+      "summary": "Remembering those who lost their lives. This map shows reported fatalities aboard trains in accidents involving high-speed passenger trains during ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Global map of high-speed train fatalities; a map-driven data story, though somewhat grim.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image or credit on the page, the reuse policy is link-only, and the snippet is too thin (truncated, no data source or dates) to describe the map of train accident fatalities without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image found on the page, so there is nothing to crop to a square.",
+        "No image credit or licence stated, and the source's reuse policy is link_only.",
+        "The page text is truncated: the time period, the countries or accidents included and the data source for the fatality figures are not given.",
+        "Fatality counts are described as 'reported', and the origin of those reports is not stated.",
+        "The topic is sensitive (deaths in accidents) and the material is a YouTube video found through Google Alerts, not an Earth observation or cartography source with verifiable data."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://x.com/Mapbox/status/2118741196688474572",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Mapbox on X",
+      "link": "https://x.com/Mapbox/status/2118741196688474572",
+      "published": "2026-11-06T17:30:24+00:00",
+      "summary": "30DayMapChallenge Day 6 — Vintage 🗺️ What happens when classic cartography meets modern mapping technology? Mapboxer Arnaud de Vallois created ...",
+      "image_url": "https://pbs.twimg.com/amplify_video_thumb/2117276396850499584/img/a2iu6PqrtVdeEjaS?format=webp&name=large",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "See what’s happening and join the conversation",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2117276396850499584/img/a2iu6PqrtVdeEjaS?format=webp&name=large",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/2032504164027346944/wKcYocdf_normal.png",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2117276396850499584/img/a2iu6PqrtVdeEjaS?format=webp&name=medium",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1070px of source width"
+    },
+    "score": 5.0,
+    "why": "30DayMapChallenge vintage cartography blending classic and modern mapping; visual hook.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The page text is only X's generic login prompt, with no description of the image, no credit and a link-only reuse policy, so there is nothing to caption without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page text is only X boilerplate ('See what's happening and join the conversation'), so the post's content, subject, data and date are unknown.",
+        "No image credit or licence is stated, and the source's reuse policy is link_only.",
+        "It is unclear whether the Mapbox post contains a map at all or is a product screenshot or announcement."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  }
+]
