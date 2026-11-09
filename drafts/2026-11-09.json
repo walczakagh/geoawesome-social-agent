@@ -1,0 +1,1121 @@
+[
+  {
+    "item": {
+      "id": "https://www.youtube.com/shorts/Ln9HlQQ1y5Q",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Landsat Timelapse Shows Las Vegas Sprawling Across the Desert - YouTube",
+      "link": "https://www.youtube.com/shorts/Ln9HlQQ1y5Q",
+      "published": "2026-11-08T16:20:47+00:00",
+      "summary": "Subscribe to support this channel. Footage: NASA/Goddard Space Flight Center, \"Las Vegas, 1972-2021\" (svs.gsfc.nasa.gov/10721), Landsat images ...",
+      "image_url": "https://i.ytimg.com/vi/Ln9HlQQ1y5Q/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDhac9g_Gq0ypkktu43vij1aiOM3Q",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Ln9HlQQ1y5Q/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDhac9g_Gq0ypkktu43vij1aiOM3Q",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 405px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 8.0,
+    "why": "Landsat timelapse of Las Vegas sprawl; strong before-and-after change visual with a clear story.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Third-party YouTube Shorts reupload of NASA Goddard footage, with link-only reuse, no image credit or licence on the page, and a 405px source upscaled to 1080. Better to post from the original NASA SVS page (svs.gsfc.nasa.gov/10721).",
+      "what_it_shows": "A timelapse of Landsat images showing the growth of Las Vegas into the surrounding desert. The page credits the footage to NASA/Goddard Space Flight Center, \"Las Vegas, 1972-2021\" (svs.gsfc.nasa.gov/10721). The page states no band combination, colour meaning or growth figures.",
+      "uncertainties": [
+        "The YouTube channel is not NASA. It appears to be a reupload ('Subscribe to support this channel'), so linking to it sends readers to a third party rather than the original source.",
+        "Reuse policy is link_only, so the square image may not be cleared for reposting.",
+        "No image credit or licence stated on the page. The original NASA SVS page should be checked for its credit line and usage terms.",
+        "Source image is only 405px wide, and the upscaled square is likely too soft for a 1080x1080 post.",
+        "The page gives no colour or band information (true colour or false colour), no Landsat mission or sensor names, and no figures for how much the urban area grew.",
+        "The date range 1972-2021 comes only from the NASA video title quoted on the page and has not been verified against the original."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://science.nasa.gov/?p=1508914",
+      "source_id": "nasa_eo",
+      "source_name": "NASA Earth Observatory",
+      "source_type": "eo_imagery",
+      "licence": "reuse",
+      "title": "Ozone Hole Reaches Its 2026 Maximum",
+      "link": "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/",
+      "published": "2026-11-09T05:00:00+00:00",
+      "summary": "The ozone hole ranked seventh largest by area in 48 years of monitoring, but it was not as deep as other large holes on record.",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ozone-hole-reaches-its-2026-maximum/ozone_geos5_20260918_hires.jpg?w=1440&h=1480&fit=clip&crop=faces%2Cfocalpoint",
+      "credit_hint": "NASA Earth Observatory",
+      "source_tag": "@NASAEarth",
+      "page_text": "The ozone hole ranked seventh largest by area in 48 years of monitoring, but it was not as deep as other large holes on record.\nThis story is an update to the Antarctic ozone hole feature in our World of Change series , which documents how Earth changes over months, seasons, and years.\nThe stratospheric ozone layer protects life on Earth by absorbing ultraviolet light, which damages DNA in plants and animals (including humans) and leads to sunburns and skin cancer. Prior to 1979, scientists had not observed atmospheric ozone concentrations below 220 Dobson Units . But in 1985, British Antarctic Survey scientists using ground-based measurements at Halley Research Station reported that Earth’s natural sunscreen was thinning dramatically over Antarctica each spring. NASA satellite instruments revealed the continental scale of this Antarctic ozone thinning, and it came to be known as the ozone hole.\nThe data visualizations below shows the ozone hole each year from 1979 through 2026 (no data are available for 1995). The measurements were made from 1979-2004 by the TOMS (NASA’s Total Ozone Mapping Spectrometer) instruments on Nimbus-7 and several additional satellites; from 2005-2011 by the OMI (Ozone Monitoring Instrument) on the Aura satellite; from 2012-2025 by the OMPS (Ozone Mapping and Profiler Suite) on the Suomi NPP satellite; and in 2026 by the OMPS on the NOAA-20 satellite. Red and yellow areas indicate the ozone hole.\nAs the images show, the word hole isn’t literal; no place is empty of ozone. Scientists use the word hole as a metaphor for the area in which ozone concentrations drop below the historical threshold of 220 Dobson Units . Using this metaphor, they can describe the hole’s area and depth. These maps show the state of the ozone hole each year on the day of maximum depth—the day the lowest ozone concentrations were measured.\nThe series begins in 1979. The maximum depth of the hole that year was 194 Dobson Units (DU)—not far below the previous historical low. For several years, the maximum depth stayed in the 190s, but then rapidly grew deeper: 173 DU in 1982, 154 in 1983, 124 in 1985. By 1991, a new threshold was passed, as the ozone concentration fell below 100 DU for the first time. Since then, concentrations below 100 DU have become more common. The deepest ozone hole occurred in 1994, when concentrations fell to just 73 DU on September 30.\nRecords in depth and area have never occurred in the same year (the largest ozone hole occurred in 2006), but the long-term trend in both characteristics is consistent: from 1980 through the early 1990s, the hole rapidly grew in area and depth. In the early years of the 21st century, annual ozone holes roughly stabilized (see NASA Ozone Watch for annual averages). Year-to-year fluctuations in area and depth are caused by variations in stratospheric temperature and circulation. Colder conditions result in a larger area and lower ozone values in the core of the hole.\nThat was the case in 2026, when an unusually strong Antarctic polar vortex created ideal conditions for ozone depletion over a large area. Measured by its mean size from September 7 to October 13, which is peak ozone depletion season, the 2026 hole was the seventh largest in 48 years of monitoring . However, it was not as deep as other large holes on record. The map at the top of this page shows the hole on September 18, the day of its annual maximum area.\nThe ozone hole opened the world’s eyes to the global effects of human activity on the atmosphere. Scientists learned that chlorofluorocarbons (CFCs)—long-lived chemicals that had been used in refrigerators and aerosol sprays since the 1930s—had a dark side. In the layer of the atmosphere closest to Earth (the troposphere), CFCs circulate for decades without degrading or reacting with other chemicals. When they reach the stratosphere, however, their behavior changes. In the upper stratosphere (beyond the protection of the ozone layer), ultraviolet light causes CFCs to break apart, releasing chlorine, a very reactive atom that repeatedly catalyzes ozone destruction .\nThe global recognition of the destructive potential of CFCs led to the 1987 Montreal Protocol , a treaty phasing out the consumption and production of ozone-depleting chemicals. Scientists estimate that about 80 percent of the chlorine in the stratosphere today comes from human, not natural, sources. Human-produced bromine compounds, which are far less abundant but much more destructive to ozone, also contribute to the Antarctic ozone hole.\nModels suggest that the concentration of chlorine and other ozone-depleting substances in the stratosphere will not return to pre-1980 levels until later in the 21st century. In 2018, scientists reported the first direct satellite evidence of ozone recovery, observing a 20 percent decrease in ozone depletion during the Antarctic winter months from 2005 to 2016. In 2019, abnormal weather patterns in the upper atmosphere over Antarctica dramatically limited ozone depletion, leading to the smallest hole since 1982—illustrating the impact of year-to-year variations in the meteorology of the Antarctic stratosphere. Scientists estimate that the Antarctic ozone layer will return to 1980 levels in the 2070s.\nNASA Earth Observatory images by Lauren Dauphin, using data from NASA Ozone Watch .\nStay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.\nThe tilt in Earth's axis of rotation makes the apparent position of continents shift with the seasons in imagery from…\nWith hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest.\nThe ice reached its third-lowest maximum extent since satellite observations began.\nSubscribe to the Earth Observatory and get the Earth in your inbox.\nNASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.\nOpen access to NASA’s archive of Earth science data",
+      "image_credit": "NASA Earth Observatory images by Lauren Dauphin, using data from NASA Ozone Watch ",
+      "image_licence": "NASA imagery, generally free to reuse with credit",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ozone-hole-reaches-its-2026-maximum/ozone_geos5_20260918_hires.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ozone-hole-reaches-its-2026-maximum/ozone_geos5_20260918_hires.jpg?w=1440&h=1480&fit=clip&crop=faces%2Cfocalpoint",
+          "label": ""
+        },
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/woc/images/ozone/ozone_1979.jpg?w=720&h=510&fit=clip",
+          "label": ""
+        },
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/woc/images/ozone/ozone_1980.jpg?w=720&h=510&fit=clip",
+          "label": ""
+        },
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/woc/images/ozone/ozone_1981.jpg?w=720&h=510&fit=clip",
+          "label": ""
+        },
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/woc/images/ozone/ozone_1982.jpg?w=720&h=510&fit=clip",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-09-2-ozone-hole-reaches-its-2026-maximum.jpg",
+      "image_note": "square crop, from 1245px of source width"
+    },
+    "score": 8.0,
+    "why": "NASA Earth Observatory ozone hole map from satellite data; strong, familiar Earth-observation visual.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A NASA Earth Observatory map of the Antarctic ozone hole on 18 September 2026, the day of its annual maximum area, made with NASA Ozone Watch data from OMPS on the NOAA-20 satellite. Red and yellow areas indicate the ozone hole: concentrations below the historical threshold of 220 Dobson Units. Measured by mean size from 7 September to 13 October, the 2026 hole was the seventh largest in 48 years of monitoring, but not as deep as other large holes, after an unusually strong polar vortex.",
+      "uncertainties": [
+        "The page has a top map (18 September 2026) and a 1979 to 2026 series. The image note says only 'square crop, from 1245px of source width'. Confirm the crop is the 2026 top map and not a series panel.",
+        "The red/yellow colour key is stated for the series visualisations. It is assumed to apply to the top map as well.",
+        "The page gives no area figure (square kilometres) and no minimum Dobson Unit value for 2026, only the ranking and 'not as deep'.",
+        "'48 years of monitoring' runs 1979 to 2026, but there is no data for 1995.",
+        "The @NASAEarth handle is given in the source but was not used in the posts. Add it if wanted."
+      ],
+      "image_credit": "Image: NASA Earth Observatory images by Lauren Dauphin, using data from NASA Ozone Watch",
+      "facebook": "The 2026 Antarctic ozone hole was the seventh largest in 48 years of monitoring, yet not as deep as other big holes.\n\nShown here on 18 September, its day of maximum area, using OMPS data from NOAA-20; red and yellow mark ozone below 220 Dobson Units. An unusually strong polar vortex set up the conditions.\n\nRead more: https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/\n\nImage: NASA Earth Observatory images by Lauren Dauphin, using data from NASA Ozone Watch\n\n#Ozone #Antarctica #Stratosphere #Geoawesome",
+      "instagram": "Antarctica's 2026 ozone hole: seventh largest in 48 years.\n\nRed and yellow mark where ozone dropped below 220 Dobson Units on 18 September, the hole's peak-area day.\n\nFind out more: https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/\n\nImage: NASA Earth Observatory images by Lauren Dauphin, using data from NASA Ozone Watch\n\n#Ozone #Antarctica #NASA #Geoawesome",
+      "youtube": "Big but not deep: that sums up the 2026 Antarctic ozone hole.\n\nRanked by mean size from 7 September to 13 October, it was the seventh largest in 48 years of monitoring. This year's data come from OMPS on NOAA-20, taking over from OMPS on Suomi NPP. The 'hole' is the area below 220 Dobson Units, and an unusually strong polar vortex kept it wide.\n\nFull story: https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/\n\nImage: NASA Earth Observatory images by Lauren Dauphin, using data from NASA Ozone Watch\n\n#Ozone #OMPS #Stratosphere #Geoawesome",
+      "x": "Seventh largest in 48 years of monitoring, but not among the deepest: the 2026 Antarctic ozone hole, set up by a strong polar vortex.\nhttps://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/\nImage: NASA EO, Lauren Dauphin, NASA Ozone Watch\n#Ozone #Antarctica #Geoawesome",
+      "alt_text": "Polar map centred on Antarctica showing a large red and yellow area of low ozone over the continent on 18 September 2026."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-09-2-ozone-hole-reaches-its-2026-maximum.jpg"
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/idaho/sandman?name=SANDMAN",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Sandman Fire in Idaho | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/idaho/sandman?name=SANDMAN",
+      "published": "2026-11-08T04:04:28+00:00",
+      "summary": "Sebastian 2391 acStarted Nov 7 · Updated 7h ago. 5 mi. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and map settings. Fires ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The Sandman fire in Ada, Idaho is currently 1 acres.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Live wildfire tracker map for the Sandman Fire, Idaho; interactive and timely.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, and the only text is an auto-generated tracker line (a 1-acre fire in Ada, Idaho) with no map, sensor, date or visual to describe.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image found on the page and no image credit or licence stated.",
+        "The page text is a single automated line ('currently 1 acres') with no date of observation, data source or perimeter map.",
+        "Reuse policy is link_only, so the page content could not be reposted as an image anyway."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.ecoportal.net/en/vega-island-skull-glaciers-melting/45072/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Vega Island's skull-shaped glaciers are losing their \"face\", and scientists say a warmer ...",
+      "link": "https://www.ecoportal.net/en/vega-island-skull-glaciers-melting/45072/",
+      "published": "2026-11-08T23:01:58+00:00",
+      "summary": "NASA's Landsat 9 satellite captured the island twice in recent years. The March 2025 image shows it as it typically appears at the start of ...",
+      "image_url": "https://www.ecoportal.net/en/wp-content/uploads/2026/11/Vega-Islands-skull-shaped-glaciers-are-losing-their-_face_-and-scientists-say-a-warmer-Antarctic-winter-is-to-blame.jpeg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "From space, Vega Island looks like something staring back at you. Locked in the remote Weddell Sea east of the Antarctic Peninsula, its glaciers, rock outcrops, and moraines trace the unmistakable profile of a grinning skull — a nunatak for an eye socket, a lateral moraine curling into a mouth, the Bahía del Diablo Glacier forming a jawbone.\nSatellite images captured in October 2026 show the skull has changed. Snow that typically blankets the island is gone across large stretches, replaced by darker, bare ice. Something about the winter that just passed was different — and the glaciers are showing it.\nVega Island sits in one of the most isolated corners of the Southern Ocean, locked in the Weddell Sea east of the Antarctic Peninsula. From space, it’s hard to look away. A nunatak punches through the ice to form a hollow eye socket, and a lateral moraine curves beneath it like a grinning mouth. The Bahía del Diablo Glacier stretches below as a jawbone. Together, they form a skull profile that faces toward Devil Island, as if keeping watch across the frozen sea.\nNASA’s Landsat 9 satellite captured the island twice in recent years. The March 2025 image shows it as it typically appears at the start of austral autumn — snow coating the ice as expected during the region’s wettest month . The October 2026 image tells a different story: large stretches of bare, darker ice exposed where snow should be. The skull’s features remain, but they look rawer, more weathered.\nThe bare ice in that October 2026 image traces back to the winter that preceded it. Above-average temperatures — particularly in June — are partly responsible, according to glaciologist Mauri Pelto of Nichols College. The exposed ice reflects limited new snow accumulation over winter, a deficit made worse by sublimation and wind scouring. “The winter season was no treat for these glaciers,” Pelto said.\nIn a typical Antarctic winter, fresh snowfall builds a reflective white layer across the ice — one that insulates the surface and shields it from the solar energy arriving with spring. In 2026, that layer was largely absent, leaving bare ice that behaves very differently once the sun returns.\nSnow reflects a large proportion of incoming solar radiation back into the atmosphere. Bare, dark ice absorbs significantly more of it . As austral spring lengthens the days and the sun climbs higher, that difference in absorption accelerates surface melt through a self-reinforcing process known as the ice-albedo feedback .\nPelto noted that even modest relief could help. “Even a thin cover of new snow from a spring storm would be helpful in the short run,” he said. His description of what exposure means for the skull’s appearance is precise: “When entombed in snow and ice, the skull is preserved. But when exposed to melt, it weathers away, which will lead to a changing jawline and expanding eye socket.” One season of unusual bare-ice conditions is already a meaningful signal — particularly when placed against the longer record.\nScientists have tracked Vega Island’s ice for decades. A 1982 study provided the first comprehensive mapping of the island’s glaciers, drawing on early Landsat imagery, aerial photographs, and topographic maps to catalog 29 glaciers across four ice caps with protruding rocky cliffs and outlet glaciers .\nOf those 29, Bahía del Diablo Glacier has been the most closely watched — monitored continuously since the austral summer of 1998–1999. The data show an overall decline in mass over that period. Satellite imagery from recent decades documents ice loss across multiple other glaciers on the island, with increasing areas of exposed bedrock appearing where ice once held. The bare-ice conditions of October 2026 fit into a pattern of gradual retreat the satellite record has been quietly documenting for years.\nLong before any scientist pointed a satellite at Vega Island, it figured into one of Antarctic exploration’s more harrowing chapters. The Swedish Antarctic Expedition of 1901–1903 set out to study the geography, geology, climate, and wildlife of the eastern Antarctic Peninsula. The party eventually split into three groups, each isolated through a brutal winter, and their ship was crushed by pack ice, stranding them further .\nCape Well-met — located on what the skull’s profile would call its forehead — became the site of a joyful spring 1903 reunion between two of those groups. An Argentinean expedition later rescued the survivors. The island that once tested the limits of human endurance is now itself undergoing a slow transformation. The skull’s face, preserved in ice for well over a century, may not look the same in another hundred years.\nOur sharpest reporting on energy, climate and nature — free, once a week.\nBy subscribing you accept our privacy policy . You can unsubscribe at any time.\nOnce a week we send our best reporting on energy, climate and nature. No spam, unsubscribe anytime.\nBy subscribing you accept our privacy policy . You can unsubscribe at any time.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.ecoportal.net/en/wp-content/uploads/2026/11/Vega-Islands-skull-shaped-glaciers-are-losing-their-_face_-and-scientists-say-a-warmer-Antarctic-winter-is-to-blame.jpeg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://www.ecoportal.net/en/wp-content/uploads/2026/11/blade-chunks-soaked-hours-warm-salt-photo-768x432.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www.ecoportal.net/en/wp-content/uploads/2026/11/A-3D-printed-bottle-cap-changes-color-when-opened-or-secured-showing-its-seal-status-without-batteries-768x432.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www.ecoportal.net/en/wp-content/uploads/2026/11/INT-Vega-Islands-skull-shaped-glaciers-are-losing-their-_face_-and-scientists-say-a-warmer-Antarctic-winter-is-to-blame-300x238.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www.ecoportal.net/en/wp-content/uploads/2026/11/near-gorham-new-hampshire-wildfire-burned-photo-768x432.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www.ecoportal.net/en/wp-content/uploads/2026/11/Eighteen-years-of-underwater-recordings-reveal-when-elusive-Omuras-whales-return-to-Western-Australias-northwest-coast-1-768x432.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1013px of source width"
+    },
+    "score": 7.0,
+    "why": "Landsat 9 before-and-after pair of Vega Island glaciers losing their shape; clear ice-loss story.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Reuse policy is link_only and the page gives no image credit or licence, so the image cannot be reposted, and it is unclear which Landsat 9 date the single cropped image shows.",
+      "what_it_shows": "Vega Island in the Weddell Sea, east of the Antarctic Peninsula. Its glaciers, nunatak and moraines trace a skull profile (Bahía del Diablo Glacier as the jawbone). The article compares two NASA Landsat 9 images: March 2025, snow-covered as usual, and October 2026, with large stretches of bare, darker ice. Glaciologist Mauri Pelto (Nichols College) attributes this to above-average winter temperatures (particularly June), limited snow accumulation, sublimation and wind scouring.",
+      "uncertainties": [
+        "Reuse policy is link_only: the image should not be reposted from this page.",
+        "No image credit or licence on the page. Do not guess the originating publisher of the Landsat 9 images.",
+        "The image note says a single square crop, not a before/after pair, so it is unknown whether it shows March 2025 or October 2026.",
+        "No band combination or exact acquisition dates are given beyond the month and year.",
+        "Ecoportal is a secondary outlet. If reposting, find the primary publisher of the Landsat 9 pair and its credit and licence, and confirm the Pelto quotes there.",
+        "The page is dated 2026-11-08; check that the dates are consistent with the primary source."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://x.com/sentdefender/status/2119451340376027394",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Sentinel-2 satellite imagery shows a large, dark column of smoke rising near the location ... - X",
+      "link": "https://x.com/sentdefender/status/2119451340376027394",
+      "published": "2026-11-08T15:51:55+00:00",
+      "summary": "Sentinel-2 satellite imagery shows a large, dark column of smoke rising near the location where NASA FIRMS first detected a thermal anomaly at ...",
+      "image_url": "https://pbs.twimg.com/media/HWnMlr0WkAAhg_n?format=webp&name=large",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "See what’s happening and join the conversation",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HWnMlr0WkAAhg_n?format=webp&name=large",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1505052393750384642/XNFUztL2_normal.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1431980663096348676/x9W-hzNz_normal.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1651850433873281024/fqTldfSQ_normal.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1486396841017098241/E1dJZzd8_normal.png",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1043px of source width"
+    },
+    "score": 7.0,
+    "why": "Sentinel-2 image of a large smoke column over a NASA FIRMS thermal anomaly; vivid satellite scene.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "There is no usable source text: the title is cut off before the location, there is no date, no image credit, no licence, and the claim comes from a third-party X account and cannot be checked.",
+      "what_it_shows": "According to the truncated post title, it is Sentinel-2 imagery showing a large, dark column of smoke. The location, acquisition date and cause are not given. The page text is only the X login prompt.",
+      "uncertainties": [
+        "The location is missing because the title is truncated at 'near the location ...'.",
+        "There is no acquisition date for the Sentinel-2 image.",
+        "There is no image credit or licence, and the reuse policy is link_only, so posting the image would need permission or a credit we cannot verify.",
+        "The claim comes from a third-party OSINT account (sentdefender) and has not been checked against Copernicus data or another independent source.",
+        "The cause of the smoke is not stated, and it may be a conflict or incident where guessing would be risky.",
+        "We cannot confirm that the image is a real Sentinel-2 scene and not an annotated or edited screenshot."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.reutersconnect.com/item/satellite-images-show-torrent-of-rock-and-ice-high-in-nepalese-mountain-valley-after-nepal-china-disaster/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkM2TkFIOUpGRw?lastViewed=dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkM2TkE2TlNaQQ&position=2",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Satellite images show torrent of rock and ice high in Nepalese mountain valley after Nepal ...",
+      "link": "https://www.reutersconnect.com/item/satellite-images-show-torrent-of-rock-and-ice-high-in-nepalese-mountain-valley-after-nepal-china-disaster/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkM2TkFIOUpGRw?lastViewed=dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkM2TkE2TlNaQQ&position=2",
+      "published": "2026-11-08T14:13:58+00:00",
+      "summary": "A satellite image shows the valleys near the Nepal-China border on ... Satellite images show torrent of rock and ice high in Nepalese ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "A satellite image shows the valleys near the Nepal-China border on ... Satellite images show torrent of rock and ice high in Nepalese ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Satellite before-and-after style scene of a rock and ice torrent in a Himalayan valley.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, no image credit, link-only reuse policy and only a truncated snippet, so there is nothing to post square and no facts to caption.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was found on the page; the Reuters Connect item is licensed content and the reuse policy is link_only.",
+        "Image credit and licence not stated; likely a commercial satellite provider via Reuters, but this is unconfirmed.",
+        "Page text is truncated: no sensor, acquisition date, location or details of the Nepal-China disaster are given.",
+        "Worth revisiting if the satellite provider publishes the imagery directly under a usable licence."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.instagram.com/p/DffwVZXyjHP/",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "A fascinating global heat map reveals where humanity takes the most photographs ... - Instagram",
+      "link": "https://www.instagram.com/p/DffwVZXyjHP/",
+      "published": "2026-11-08T22:30:50+00:00",
+      "summary": "A fascinating global heat map reveals where humanity takes the most photographs, and Europe is absolutely dominating the planet.",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "A fascinating global heat map reveals where humanity takes the most photographs, and Europe is absolutely dominating the planet.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Global heat map of where photos are taken; striking Europe-dominance pattern, editor often picks Instagram.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page and no maker, data source or credit: only a one-line Instagram teaser that cannot be explained or credited without guessing.",
+      "what_it_shows": "A one-sentence Instagram post describing a global heat map of where people take the most photographs, claiming Europe dominates. No image was retrieved, and the page names no creator, data source (e.g. geotagged photo platform), date or method.",
+      "uncertainties": [
+        "No image found on the page, so there is nothing to post as a square.",
+        "Image credit and maker not stated. The Instagram account may be an aggregator reposting someone else's map.",
+        "Data source behind the heat map is unknown (which photo platform, which years, sample size).",
+        "Claim that 'Europe is absolutely dominating' is unverified and may reflect sampling bias of the underlying photo dataset rather than actual photography volume.",
+        "Reuse policy is link_only and the licence is not stated.",
+        "Worth tracing the original map and its maker. If found, it could be reconsidered with a proper credit and data description."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "tag:blogger.com,1999:blog-12158290.post-1885078829382866006",
+      "source_id": "maps_mania",
+      "source_name": "Maps Mania",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "Utopian London",
+      "link": "http://googlemapsmania.blogspot.com/2026/11/utopian-london.html",
+      "published": "2026-11-08T08:56:22+00:00",
+      "summary": "Today's #30DayMapChallenge is Utopia . There have been lots of pixel-art maps appearing online recently. I covered several of these projects in my recent Pixelate the World post. For today's challenge I thought it might be interesting to create a pixelated map of London – not as it is, but as it might look in an ideal world. Greater London covers approximately 1,591 square kilometres. If each zoomed-in map tile covers roughly 0.15 square kilometres, I would need in the region of 10,600 images to create enough tiles to cover the entire capital. That's a few too many for a simple map challenge, so I decided to create a much smaller map - using just one tile - of Trafalgar Square. My Utopian London map reimagines Trafalgar Square as a greener, more cycle-friendly urban landscape. To create the map I started by feeding an aerial image of Trafalgar Square into Gemini and asking it to transform the scene into pixel art. I also asked it to grass over the roads, plant more trees and introduce dedicated cycle lanes. The result is a more appealing alternative vision of central London. The traffic has disappeared, roads have become green spaces, and cyclists and pedestrians have been given mo",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeI0aEtYT3RdH2NCIRQ0RZL1HmIsEp1wuNOh7b5sQ4PBOrunqB_0vlSpQ8P1PWS30iB7KmbvKHxsyIhnH54Ren1YX-zuOZtc3NS2ZcAA01hTlPfO5QAmFnMpxfjsjMY3CGoFOtmnbaX_gxuCSZJ48mK_SS-lAPhWjXqS2-dIGYN1KpXnwFML_T8w/s1600/_home_chronos_u-3bddf614e22046b517e795272bb0b935c2a9a723_MyFiles_Downloads_utopia.html.png",
+      "credit_hint": "via Maps Mania",
+      "source_tag": "",
+      "page_text": "Today's #30DayMapChallenge is Utopia . There have been lots of pixel-art maps appearing online recently. I covered several of these projects in my recent Pixelate the World post. For today's challenge I thought it might be interesting to create a pixelated map of London – not as it is, but as it might look in an ideal world. Greater London covers approximately 1,591 square kilometres. If each zoomed-in map tile covers roughly 0.15 square kilometres, I would need in the region of 10,600 images to create enough tiles to cover the entire capital. That's a few too many for a simple map challenge, so I decided to create a much smaller map - using just one tile - of Trafalgar Square. My Utopian London map reimagines Trafalgar Square as a greener, more cycle-friendly urban landscape. To create the map I started by feeding an aerial image of Trafalgar Square into Gemini and asking it to transform the scene into pixel art. I also asked it to grass over the roads, plant more trees and introduce dedicated cycle lanes. The result is a more appealing alternative vision of central London. The traffic has disappeared, roads have become green spaces, and cyclists and pedestrians have been given mo",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeI0aEtYT3RdH2NCIRQ0RZL1HmIsEp1wuNOh7b5sQ4PBOrunqB_0vlSpQ8P1PWS30iB7KmbvKHxsyIhnH54Ren1YX-zuOZtc3NS2ZcAA01hTlPfO5QAmFnMpxfjsjMY3CGoFOtmnbaX_gxuCSZJ48mK_SS-lAPhWjXqS2-dIGYN1KpXnwFML_T8w/s1600/_home_chronos_u-3bddf614e22046b517e795272bb0b935c2a9a723_MyFiles_Downloads_utopia.html.png",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-09-8-utopian-london.jpg",
+      "image_note": "square crop, from 1034px of source width"
+    },
+    "score": 7.0,
+    "why": "Pixel-art map of London reimagined as a utopia; clever, striking map with a hook.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A single pixel-art map tile of Trafalgar Square in London, reimagined as a greener, more cycle-friendly place for the #30DayMapChallenge theme 'Utopia'. Maps Mania fed an aerial image of the square into Gemini and asked it to turn the scene into pixel art, grass over the roads, plant more trees and add dedicated cycle lanes. It is an AI-generated illustration, not survey data or a planning proposal.",
+      "uncertainties": [
+        "The source and date of the original aerial image are not stated.",
+        "The image is AI-generated (Gemini), so its geometry and details are the model's interpretation, not accurate mapping.",
+        "The author's name is not given. The page gives no image credit, so the credit falls back to 'via Maps Mania'.",
+        "No image licence is stated and the reuse policy is link_only. Check permission before posting the image itself.",
+        "The page text is cut off mid-sentence, so the end of the description is missing.",
+        "The tile area (about 0.15 square kilometres) and the 10,600-tile figure are the author's rough estimates."
+      ],
+      "image_credit": "Map: via Maps Mania",
+      "facebook": "Mapping all of Greater London this way would have needed roughly 10,600 tiles, so this Utopia map settles for one: Trafalgar Square.\n\nMaps Mania fed an aerial image of the square into Gemini and asked it to turn the scene into pixel art, grass over the roads, plant more trees and add dedicated cycle lanes. It is an AI illustration made for the 30DayMapChallenge, not a planning proposal, but it shows what central London could look like without traffic.\n\nRead more: http://googlemapsmania.blogspot.com/2026/11/utopian-london.html\n\nMap: via Maps Mania\n\n#Geoawesome #London #Cartography #Utopia",
+      "instagram": "Trafalgar Square with the traffic gone, in pixel art.\n\nGemini turned an aerial image into pixel art, with grass where the roads were, more trees and new cycle lanes. It is a Utopia-themed entry for the 30DayMapChallenge.\n\nFull story: http://googlemapsmania.blogspot.com/2026/11/utopian-london.html\n\nMap: via Maps Mania\n\n#Geoawesome #London #Cycling #Maps",
+      "youtube": "One zoomed-in map tile covers roughly 0.15 square kilometres of London, and this Utopia map uses exactly one.\n\nThe method: an aerial image of Trafalgar Square went into Gemini with a prompt to render it as pixel art, replace the roads with grass, add trees and draw in dedicated cycle lanes. Doing the same for all of Greater London's approximately 1,591 square kilometres would take around 10,600 images. Because this is a generative edit, the layout is the model's interpretation rather than mapped data.\n\nLearn more: http://googlemapsmania.blogspot.com/2026/11/utopian-london.html\n\nMap: via Maps Mania\n\n#Geoawesome #Gemini #Urbanism #Cartography",
+      "x": "What if Trafalgar Square's roads were grass and cycle lanes? A pixel-art Utopia map made with Gemini from an aerial image.\nhttp://googlemapsmania.blogspot.com/2026/11/utopian-london.html\nMap: via Maps Mania\n#Geoawesome #London #Utopia",
+      "alt_text": "Pixel-art aerial view of Trafalgar Square in London, with green space in place of roads, extra trees and cycle lanes."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-09-8-utopian-london.jpg"
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/653864eb186c4746",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Beltrami, Minnesota | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/653864eb186c4746",
+      "published": "2026-11-08T02:32:54+00:00",
+      "summary": "Hwy24sbcStarted Nov 6 · Updated 1d ago. 3000 ft. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and map settings. FiresBrowse ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Beltrami, Minnesota observed by LANDSAT covering 0.7 acres from 3 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live fire detection map in Beltrami, Minnesota; interactive wildfire tracker.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page: this is an auto-generated fire detection listing (a 0.7-acre Landsat detection in Beltrami, Minnesota) with no visual to repost and no credit or licence.",
+      "what_it_shows": "An automated WFCA fire map entry reporting a satellite fire detection in Beltrami, Minnesota, observed by Landsat and covering 0.7 acres from 3 merged observations. The page has no image, no date of observation beyond the publish timestamp, and no further context.",
+      "uncertainties": [
+        "No image found on the page, so there is nothing to make a square from.",
+        "Image credit and licence not stated; reuse policy is link_only.",
+        "Observation date and time are not given (only the page publish date, 2026-11-08).",
+        "No confirmation that the detection is an actual wildfire rather than a heat source or false positive.",
+        "Very small area (0.7 acres), unlikely to be newsworthy on its own."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://townhall.com/news/josephchalfant/2026/11/08/irgc-targets-three-oil-tankers-in-the-strait-of-hormuz-n2686101",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "IRGC Targets Three Oil Tankers in the Strait of Hormuz - Townhall",
+      "link": "https://townhall.com/news/josephchalfant/2026/11/08/irgc-targets-three-oil-tankers-in-the-strait-of-hormuz-n2686101",
+      "published": "2026-11-08T19:17:50+00:00",
+      "summary": "Sentinel-2 satellite imagery shows a large, dark column of smoke rising near the location where NASA FIRMS first detected a thermal anomaly at ...",
+      "image_url": "https://media.townhall.com/cdn/hodl/2018/267/fcd6bc33-fcea-4f93-abc1-42c7245d30ac-1200x630.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The Iranian Revolutionary Guard Corps claims to have destroyed three oil tankers crossing the Strait of Hormuz.\nThe Islamic Revolutionary Guard Corps Navy (IRGC-N) says three vessels that attempted an “unauthorized” transit of the Strait of Hormuz “suffered explosions and fires.” The video it released with the statement shows a column of smoke rising from an intense fire in the distance, taken from a moving vessel. The IRGC has attributed similar incidents to naval mines, a claim disputed by U.S. Central Command (CENTCOM) who says the recognized primary transit routes are clear of all mines. Nearly every incident reported an attack by unknown projectiles, likely drones and missiles. Attacks on shipping in the region continue to escalate, with the United Kingdom Maritime Trade Operations (UKMTO) Center reporting about 10 incidents since November 1st, including at least two in which a seafarer was killed.\nSentinel-2 satellite imagery shows a large, dark column of smoke rising near the location where NASA FIRMS first detected a thermal anomaly at about 6 a.m. UTC today. The imagery comes as Iran’s Islamic Revolutionary Guard Corps says three tankers exploded and caught fire this morning along an “unauthorized” route in the Strait of Hormuz.\nSatellite images depicted smoke rising from the Strait. Authorities from the United Kingdom had confirmed incidents with two tankers crossing the Strait this morning, but announced that no casualties were sustained by any of the crew.\nThe renewed action in the Strait follows a strike by U.S. forces against a tanker in the Gulf of Oman that reportedly attempted to violate the blockade against the Islamic Republic of Iran.\nCENTCOM forces disabled a commercial vessel in the Gulf of Oman, Nov. 7, after the ship’s civilian crew ignored repeated warnings and attempted to violate the naval blockade against Iran multiple times. A U.S. military aircraft fired precision munitions at the stern of St. Kitts-flagged M/V Huda, disabling the ship after CENTCOM forces directed the crew to abandon targeted spaces. The cargo vessel tried to depart regional waters after visiting an Iranian port. Read the full release online: https://t.co/5wW1LqN1oW\nU.S. Central Command has strengthened its efforts to blockade Iran as well. The group announced yesterday that a new task force had been created to limit the state’s ability to conduct trade over land routes and through the Caspian Sea.\nEditor's Note: Do you enjoy Townhall's conservative reporting exposing the radical left and woke media? Support our work so we can keep bringing you the truth.\nJoin Townhall VIP and use promo code FIGHT to receive 60% off your membership.\nVIP members get the ability to comment on articles.\nA new Platinum member perk. Upgrade to get access.\nSort 16 words into 4 hidden groups. Test your knowledge of American\n            history, politics, and culture.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://media.townhall.com/cdn/hodl/2018/267/fcd6bc33-fcea-4f93-abc1-42c7245d30ac-1200x630.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://media.townhall.com/cdn/hodl/2018/267/fcd6bc33-fcea-4f93-abc1-42c7245d30ac-1052x615.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://cdn.townhall.com/web/thm/subscriptions-badge-vip.svg",
+          "label": ""
+        },
+        {
+          "url": "https://media.townhall.com/cdn/hodl/2026/310/523261d1-6d00-41e1-9efe-c5f5c6afe72e-536x311.jpeg",
+          "label": ""
+        },
+        {
+          "url": "https://media.townhall.com/cdn/hodl/2026/309/32061831-f8dc-470a-bbf2-67bee9d056c3-536x311.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://media.townhall.com/cdn/hodl/2026/308/438b82dc-34cf-4f0a-8f8d-e7ea927c1a02-536x311.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 630px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6.0,
+    "why": "Sentinel-2 smoke imagery plus FIRMS thermal anomaly near Strait of Hormuz; dramatic satellite scene.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image credit, licence or caption: the page could be showing the Sentinel-2 scene, a still from the IRGC video or a stock photo, and the reuse policy is link-only, so there is nothing we can post or describe without guessing.",
+      "what_it_shows": "A news article on attacks on tankers in the Strait of Hormuz. The text says Sentinel-2 imagery shows a large, dark column of smoke near where NASA FIRMS first detected a thermal anomaly at about 6 a.m. UTC that day. The IRGC claims three tankers suffered explosions and fires; UK authorities confirmed incidents with two tankers and no casualties. The page does not say whether its lead image is that Sentinel-2 scene.",
+      "uncertainties": [
+        "Image identity unknown: the page gives no caption or credit, so the visual may not be the Sentinel-2 image at all (it could be a frame from the IRGC video or a stock photo).",
+        "Image credit and licence not stated on the page; reuse policy is link_only, so the image cannot be reposted from this source.",
+        "Low resolution: square crop upscaled from 630px source width, sharpness likely poor.",
+        "Core claims are contested or third-party: the IRGC claims three tankers were destroyed, UK authorities confirmed incidents with only two; the IRGC's naval-mine attribution is disputed by CENTCOM; the projectiles are described only as 'likely drones and missiles'.",
+        "Source is a partisan outlet (Townhall, with an explicit political editor's note). Active military conflict with reported fatalities (UKMTO: at least two seafarers killed since 1 November), so treat as sensitive.",
+        "No Sentinel-2 acquisition time, band combination or tile given, and no FIRMS sensor (MODIS or VIIRS) named.",
+        "If the editor wants an Earth-observation post on this event, a better source would be the original Sentinel-2 scene with a Copernicus credit, or the FIRMS detection, each checked independently."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.reutersconnect.com/item/a-satellite-image-shows-fire-and-smoke-rising-from-an-oil-depot-in-feodosia/dGFnOnJldXRlcnMuY29tLDIwMjQ6bmV3c21sX1JDMldHQUFEMzczQQ?lastViewed=dGFnOnJldXRlcnMuY29tLDIwMjQ6bmV3c21sX01SUFJDMldHQUFEMzczQQ&position=1",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "A satellite image shows fire and smoke rising from an oil depot in Feodosia",
+      "link": "https://www.reutersconnect.com/item/a-satellite-image-shows-fire-and-smoke-rising-from-an-oil-depot-in-feodosia/dGFnOnJldXRlcnMuY29tLDIwMjQ6bmV3c21sX1JDMldHQUFEMzczQQ?lastViewed=dGFnOnJldXRlcnMuY29tLDIwMjQ6bmV3c21sX01SUFJDMldHQUFEMzczQQ&position=1",
+      "published": "2026-11-08T14:31:07+00:00",
+      "summary": "A satellite image shows fire and smoke rising from an oil depot in Feodosia, Crimea, October 8, 2024. 2024 Planet Labs Inc./Handout via REUTERS ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "A satellite image shows fire and smoke rising from an oil depot in Feodosia, Crimea, October 8, 2024. 2024 Planet Labs Inc./Handout via REUTERS ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Planet Labs satellite image of fire and smoke at a Crimean oil depot; dramatic but older.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was found on the page, no credit or licence is stated, and Reuters Connect is a paid licensing marketplace (reuse policy link_only), so there is no visual we can repost.",
+      "what_it_shows": "According to the page text, a satellite image shows fire and smoke rising from an oil depot in Feodosia, Crimea, on 8 October 2024. The caption fragment credits '2024 Planet Labs Inc./Handout via REUTERS'. No sensor, resolution or band information is given.",
+      "uncertainties": [
+        "No image was retrieved from the page, so the visual cannot be checked or cropped to a square.",
+        "Reuters Connect sells licensed content. Reposting would need a Reuters licence or a Planet Labs release, not just a link.",
+        "The image is dated 8 October 2024 but the alert was published on 8 November 2026. The item is about two years old and no longer news.",
+        "The credit appears only as a truncated caption fragment ('2024 Planet Labs Inc./Handout via REUTERS'), not as a confirmed image credit field.",
+        "The page gives no satellite or sensor name, no resolution and no cause of the fire. The topic is conflict-related, so any caption would need careful, sourced framing.",
+        "If the editor wants to cover this, Planet's own channels or a licensed Reuters version would be the place to look for a reusable image."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://x.com/Mapbox/status/2119466727528452339",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Mapbox on X: \"# 30DayMapChallenge Day 8 — Utopia What if Paris became a lush, green ...",
+      "link": "https://x.com/Mapbox/status/2119466727528452339",
+      "published": "2026-11-08T20:21:46+00:00",
+      "summary": "30DayMapChallenge Day 8 — Utopia What if Paris became a lush, green utopia? We prompted Claude to transform a Mapbox Standard map of the Eiffel ...",
+      "image_url": "https://pbs.twimg.com/amplify_video_thumb/2117277105838768128/img/iQf-mjLyJfuitB-C?format=webp&name=large",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "See what’s happening and join the conversation",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2117277105838768128/img/iQf-mjLyJfuitB-C?format=webp&name=large",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/2032504164027346944/wKcYocdf_normal.png",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2117277105838768128/img/iQf-mjLyJfuitB-C?format=webp&name=medium",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1070px of source width"
+    },
+    "score": 6.0,
+    "why": "Mapbox Standard map of Eiffel area transformed into utopia; visual, playable map subject.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The source gives only a truncated tweet title (Mapbox, #30DayMapChallenge Day 8 'Utopia', Paris as 'lush, green ...') and X login boilerplate, so the map can't be described without guessing, and the reuse policy is link_only with no image credit or licence.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page text is only X boilerplate ('See what's happening and join the conversation'). The tweet text, map content, data and method are not captured.",
+        "The title is truncated after 'What if Paris became a lush, green ...', so the full concept is unknown.",
+        "No image credit or licence is stated, and the source reuse policy is link_only, so the image may not be reposted.",
+        "It is unclear whether Mapbox made the map or is resharing a community entry to #30DayMapChallenge.",
+        "The tweet date (2026-11-08) and status ID should be checked against the live post before any reuse."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://dhgeoconsultancy.com/pages/lidar-3d",
+      "source_id": "google_alerts_4",
+      "source_name": "Google Alerts #4",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Interactive 3D LiDAR Survey Demo - DH Geo Consultancy",
+      "link": "https://dhgeoconsultancy.com/pages/lidar-3d",
+      "published": "2026-11-08T10:01:12+00:00",
+      "summary": "Live 3D LiDAR Survey Demo ... A drone flies a real survey pattern over the landscape below, firing laser pulses that build a classified 3D point cloud — ...",
+      "image_url": "https://dhgeoconsultancy.com/assets/images/hero-bg.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "A drone flies a real survey pattern over the landscape below, firing laser pulses that build a classified 3D point cloud — drag to orbit, scroll to zoom, and switch to the pure point cloud to see exactly what the sensor captured.\nStylized real-time 3D simulation rendered in your browser. On real projects the same workflow produces centimetre-accurate clouds with millions of points — ask us to see samples from delivered surveys.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://dhgeoconsultancy.com/assets/images/hero-bg.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1024px of source width"
+    },
+    "score": 6.0,
+    "why": "Interactive 3D LiDAR survey demo with classified point cloud; openable and playable.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The image is a stylised in-browser simulation on a consultancy's sales page, not real survey data, and the source's link-only reuse policy and missing image credit rule out reposting it.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page calls the visual a 'stylized real-time 3D simulation', so the point cloud is not from an actual survey.",
+        "No image credit or licence is stated, and the source's reuse policy is link_only.",
+        "The claim of 'centimetre-accurate clouds with millions of points' is the vendor's own marketing claim, with no project, sensor or accuracy figures to check."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.facebook.com/groups/284561182238823/posts/1999015300793394/",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "This map shows the estimated frequency of fires across the United States before 1850. The colors",
+      "link": "https://www.facebook.com/groups/284561182238823/posts/1999015300793394/",
+      "published": "2026-11-08T16:09:43+00:00",
+      "summary": "This map shows the estimated frequency of fires across the United States before 1850. The colors represent modeled averages and do not indicate ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "This map shows the estimated frequency of fires across the United States before 1850. The colors represent modeled averages and do not indicate ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Modeled map of pre-1850 US fire frequency; historical geo hook, no image in feed.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, no credit, and only a truncated sentence from a Facebook group post, so the map's maker, data and colour scale cannot be described without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was found on the page, so there is nothing to post.",
+        "No image credit or licence is given, and the reuse policy is link_only.",
+        "The page text is cut off mid-sentence ('do not indicate ...'), so the map's caveats and colour meanings are unknown.",
+        "The source is a Facebook group repost; the original creator and underlying dataset (likely a modelled pre-1850 fire regime map) are not named. Trace the original publisher before considering a post."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.youtube.com/shorts/mTr5vmfijYQ",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Iran's Underground Military Buildup Revealed as Satellite Images Show Major Construction",
+      "link": "https://www.youtube.com/shorts/mTr5vmfijYQ",
+      "published": "2026-11-08T20:44:50+00:00",
+      "summary": "Iran's Underground Military Buildup Revealed as Satellite Images Show Major Construction New satellite images reveal extensive construction near ...",
+      "image_url": "https://i.ytimg.com/vi/mTr5vmfijYQ/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBgIlElMIH-go2i3E2hPxCr4eIDSA",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mTr5vmfijYQ/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBgIlElMIH-go2i3E2hPxCr4eIDSA",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 405px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 5.0,
+    "why": "Satellite images of underground construction; visual is relevant but depends on the clip's imagery.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Third-party YouTube Short with no image credit, licence, location, sensor or date, and an unverified military claim that cannot be captioned without guessing.",
+      "what_it_shows": "The source is a YouTube Short claiming satellite images show extensive construction linked to Iran's underground military facilities. The page text is cut off and gives no location, sensor, date, provider or explanation of what is visible.",
+      "uncertainties": [
+        "No image credit or licence on the page; the reuse policy is link only.",
+        "No satellite provider, sensor, resolution or acquisition date given.",
+        "The exact site is not stated ('near ...' is truncated).",
+        "The claim of an 'underground military buildup' is unattributed and unverified.",
+        "The source image is only 405px wide and would be upscaled, so sharpness is likely poor.",
+        "The material is a YouTube Short re-upload, probably not the original publisher of the imagery."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.reutersconnect.com/item/a-satellite-image-shows-a-closer-view-of-the-water-level-of-the-kapuas-river-in-sanggau-regency/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjk0T0FaRk9DSA?lastViewed=dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjk0T0FGNzlJUg&position=2",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "A satellite image shows a closer view of the water level of the Kapuas River in Sanggau Regency",
+      "link": "https://www.reutersconnect.com/item/a-satellite-image-shows-a-closer-view-of-the-water-level-of-the-kapuas-river-in-sanggau-regency/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjk0T0FaRk9DSA?lastViewed=dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjk0T0FGNzlJUg&position=2",
+      "published": "2026-11-08T18:59:21+00:00",
+      "summary": "A satellite image shows a closer view of the water level of the Kapuas River in Sanggau Regency, West Kalimantan Province, Indonesia, August 6, ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "A satellite image shows a closer view of the water level of the Kapuas River in Sanggau Regency, West Kalimantan Province, Indonesia, August 6, ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Satellite view of river water levels in Indonesia; a flood-style scene, though the site has a weak record.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image is available (the page has no image, no credit and no licence, and the reuse policy is link-only), and the text is cut off before it gives the sensor or what the image shows.",
+      "what_it_shows": "A Reuters Connect listing for a satellite image of the Kapuas River in Sanggau Regency, West Kalimantan Province, Indonesia, said to show the river's water level. The caption is cut off after \"August 6, ...\", so the year, sensor, provider and context (low water or flooding) are unknown.",
+      "uncertainties": [
+        "No image was found on the page, so there is nothing to crop to a square.",
+        "No image credit or licence is stated. Reuters Connect is a licensed wire service, and the reuse policy is link-only.",
+        "The caption is cut off: the year of the 6 August date, the satellite or provider, and whether the image shows low water or high water are all missing.",
+        "The page text gives no comparison image, measurement or water-level figure."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.youtube.com/watch?v=fNn7bysM7Vc",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "These countries DON'T touch... but how close do they get? - YouTube",
+      "link": "https://www.youtube.com/watch?v=fNn7bysM7Vc",
+      "published": "2026-11-08T21:25:56+00:00",
+      "summary": "... Sentinel-2 cloudless 2016 by EOX IT Services GmbH (CC BY 4.0, https://s2maps.eu), contains modified Copernicus Sentinel data 2016; locator globe ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Map of countries that nearly touch, using Sentinel-2 imagery; playful geo visual from a favourite source.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image found on the page, no image credit, link-only reuse policy, and the page text is a single attribution fragment, so the video's content could not be described without guessing.",
+      "what_it_shows": "A YouTube video titled 'These countries DON'T touch... but how close do they get?'. The only page text is an attribution line: 'Sentinel-2 cloudless 2016 by EOX IT Services GmbH (CC BY 4.0), contains modified Copernicus Sentinel data 2016'. That suggests the video uses the EOX Sentinel-2 cloudless basemap, but the source does not say which countries or distances it shows.",
+      "uncertainties": [
+        "No image was found on the page, so there is nothing to crop to a square.",
+        "Image credit: not found on the page.",
+        "Reuse policy is link_only and the image licence is not stated.",
+        "The video's creator or channel is not named in the source material.",
+        "Which countries the video covers and the distances between them are not given.",
+        "The EOX Sentinel-2 cloudless 2016 attribution covers a basemap layer used in the video, not a standalone image cleared for reposting."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/north-dakota/hwy24sbc",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Hwy24sbc Fire in North Dakota | WFCA Fire Map",
+      "link": "https://wfca.com/fire-map/north-dakota/hwy24sbc",
+      "published": "2026-11-07T23:49:19+00:00",
+      "summary": "Hwy24sbcStarted Nov 6 · Updated 8h ago. 5 mi. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and map settings. FiresBrowse ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The Hwy24sbc fire in Sioux, North Dakota is currently 0 acres.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Live fire-tracking map portal; interactive and useful, though no preview image was supplied.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, no credit, link-only reuse policy, and the only fact is an auto-generated fire listing reporting 0 acres.",
+      "what_it_shows": "An automated WFCA fire map entry for the Hwy24sbc fire in Sioux County, North Dakota. The page text says only that the fire is currently 0 acres. No image, sensor, date or map visual is given.",
+      "uncertainties": [
+        "No image found on the page, so there is nothing to post.",
+        "No image credit or licence stated, and the reuse policy is link_only.",
+        "The page reports the fire as 0 acres, which suggests a minor or placeholder incident entry.",
+        "No date, cause, containment status or data source for the fire perimeter is given."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/a779af2f27744a07",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Placer, California | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/a779af2f27744a07",
+      "published": "2026-11-08T00:11:24+00:00",
+      "summary": "Willow7,359 ac · 92% containedStarted Jun 28 · Updated 2d ago. 3000 ft. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Placer, California observed by LANDSAT, SOF covering 0.4 acres from 4 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Live wildfire map for Placer County; interactive map portal, no image supplied.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page and only an automated, single-line wildfire detection notice (0.4 acres, 4 merged observations) with link-only reuse, so there is no visual to post.",
+      "what_it_shows": "An auto-generated WFCA fire map detection page for Placer, California, reporting a satellite fire detection observed by LANDSAT and SOF covering 0.4 acres from 4 merged observations. No image, date of observation or map view is given in the source.",
+      "uncertainties": [
+        "No image found on the page and no image credit or licence stated.",
+        "Reuse policy is link_only, so the page's visuals could not be reposted anyway.",
+        "'SOF' is not explained on the page.",
+        "No observation date or time for the detection; only the page publish time (2026-11-08) is known.",
+        "Unclear whether this is a confirmed fire or an unverified automated satellite detection."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.iranintl.com/en/202610112116",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Isfahan judiciary chief says executions of protesters will continue | Iran International",
+      "link": "https://www.iranintl.com/en/202610112116",
+      "published": "2026-11-08T16:01:20+00:00",
+      "summary": "Satellite images show Iran's key ports falling quiet under US blockade. President Masoud Pezeshkian had acknowledged that Iran could not export oil ...",
+      "image_url": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Isfahan’s judiciary chief said executions of people arrested during the January 2026 protests would continue, after seven protesters were executed in the city.\nAsadollah Jafari also said authorities had identified more than 112 people, including some celebrities, over their alleged role in the protests, and had seized or confiscated their property.\nHe said courts had continued proceedings during holidays and handled some cases quickly, particularly those allegedly involving attacks on police.\nThe discussion, hosted by Fardad Farahzad, brought together Kerri Bitsoff, a former senior official at the US Treasury Department’s Office of Foreign Assets Control (OFAC); Patrick Clawson, the Morningstar senior fellow at the Washington Institute; and Mohammad Machine-Chian, a senior economist and analyst at Iran International.\n“The thing about sanctions, if they’re on the books but not enforced, they only hurt the people,” Bitsoff said, arguing that the current US campaign differed from previous rounds by focusing more heavily on enforcement and the financial intermediaries sustaining Iran’s economy.\nIran faces declining oil revenues alongside damage to its energy infrastructure following the war, raising the prospect of severe economic difficulties during the coming winter, Clawson said.\nPresident Masoud Pezeshkian had acknowledged that Iran could not export oil during the initial blockade, according to Clawson, who said the country subsequently sought alternative routes for limited shipments.\nIran had also relied on oil previously stored aboard vessels and in China, but those reserves were approaching exhaustion, he said.\nDamage to natural gas infrastructure could compound the difficulties, potentially forcing greater reliance on mazut, a heavily polluting fuel used for electricity generation.\nIran depends on natural gas for approximately 69 percent of its energy requirements, making disruptions particularly consequential for households and industry, Clawson said.\nMachine-Chian estimated that between $21 and $23 billion in export proceeds had not returned to Iran and that the blockade could cost the country another $35 billion in oil revenue.\nHitting financial networks sustaining Iran's leadership\nThe current campaign differs from previous sanctions because Washington is concentrating on enforcement and the intermediaries sustaining Iran's economy rather than simply announcing additional restrictions, Bitsoff said.\nShe pointed to restrictions imposed by the United Arab Emirates, measures against Iranian airlines and Turkish action against banks connected to Iranian transactions.\nSuch measures could influence officials and business figures whose continued support for the Islamic Republic depends on financial privileges and access to international markets.\nEarlier sanctions had often pushed legitimate commerce underground while allowing networks connected to the Revolutionary Guards to profit, Bitsoff said.\nMachine-Chian described the emergence of wealthy intermediaries, sometimes called sanctions merchants, who benefited from moving Iranian oil and money through opaque arrangements.\nThose networks subsequently became obstacles to negotiations and economic normalization because their commercial interests depended on maintaining the existing system, he said.\nMachine-Chian distinguished between sanctions that impose prolonged hardship without producing results and measures designed to achieve specific objectives within a foreseeable period.\nThe loss of the UAE, Machine-Chian added, as a major commercial and financial intermediary has further complicated Iran's position.\nDubai previously provided an important channel for Iranian transactions, but restrictions have forced businesses to seek alternatives through Turkey, Pakistan and Afghanistan, Machine-Chian said.\nThose routes, he said, have limited capacity and cannot quickly replace the financial infrastructure previously available through the Emirates.\nChina and regional allies face financial constraints\nChina remains Iran's principal oil customer, but its commercial relationship offers fewer advantages to the Islamic Republic than commonly assumed, Bitsoff said.\nIndependent Chinese refineries purchase Iranian crude at substantial discounts, while payments in yuan often remain in China and are largely available for purchasing Chinese goods.\nMajor Chinese banks generally avoid Iranian transactions, leaving smaller intermediaries to facilitate much of the remaining trade, she said.\nThe blockade also allows Washington to restrict Iranian oil exports without directly confronting major Chinese financial institutions, Clawson said.\nTargeting those institutions could provoke Chinese retaliation affecting broader US economic interests.\nThe financial pressure is also affecting Iran's regional allies.\nHezbollah has struggled to maintain basic financial obligations and social support programs since the blockade began, Bitsoff said.\nMachine-Chian argued that Iran's relationships with allied armed groups had become increasingly transactional, making continued financial assistance essential to sustaining their loyalty.\nPolitical survival and prospects for negotiations\nDespite the mounting pressure, the panelists differed over whether the Islamic Republic would ultimately accept Washington's demands.\nEconomic hardship alone was unlikely to persuade Iran's leadership to abandon its objectives, Bitsoff said.\nInstead sustained pressure could influence members of the security apparatus whose loyalty depends on salaries, privileges and expectations of continued stability.\nClawson considered negotiated concessions possible, pointing to previous occasions when Iran reversed positions it had presented as nonnegotiable.\nHe suggested Iran could accept a three-year suspension of uranium enrichment, particularly because its facilities had been damaged and were not operational.\nMachine-Chian was more skeptical, arguing that abandoning regional ambitions and nuclear objectives",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://i.iranintl.com/images/rdk9umy0/production/407eec2d71bdcb2d0c250c46b760be470435b796-1080x565.png?rect=38,0,1004,565&w=400&h=225&q=90&fit=max&auto=format",
+          "label": ""
+        },
+        {
+          "url": "https://i.iranintl.com/images/rdk9umy0/production/c9563bc050693305c03c833ead38959b0893cde7-1920x1080.png?rect=420,0,1080,1080&w=200&h=200&q=90&fit=crop&auto=format",
+          "label": ""
+        },
+        {
+          "url": "https://i.iranintl.com/images/rdk9umy0/production/b7ba372188343fc39b974df29103b8cd9156c3bb-1024x1024.jpg?rect=146,121,732,732&w=200&h=200&q=90&fit=crop&auto=format",
+          "label": ""
+        },
+        {
+          "url": "https://i.iranintl.com/images/rdk9umy0/production/9a748425ccda0417fd3c45f7504adaa5a4e39a50-1280x853.jpg?rect=357,0,749,749&w=200&h=200&q=90&fit=crop&auto=format",
+          "label": ""
+        },
+        {
+          "url": "https://i.iranintl.com/images/rdk9umy0/production/c19d43c957fd17b3fcefcf5a7d4caf7bb5c57b28-800x533.jpg?rect=126,52,481,481&w=200&h=200&q=90&fit=crop&auto=format",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 630px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 5.0,
+    "why": "Satellite images of quiet ports under blockade; the image is unclear and the summary is thin.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Political news article about executions and sanctions on Iran, with no map, satellite image or geodata visual to repost.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image credit or licence found on the page; the image is low resolution (630px, upscaled).",
+        "Source reuse policy is link_only."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  }
+]
