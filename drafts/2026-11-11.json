@@ -1,0 +1,1153 @@
+[
+  {
+    "item": {
+      "id": "https://www.facebook.com/ArabNews/videos/satellite-images-show-oil-slicks-off-oman-and-uae-coasts/1184597400559759/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Satellite images show oil in waters off the coast of Oman on November 6 and the UAE",
+      "link": "https://www.facebook.com/ArabNews/videos/satellite-images-show-oil-slicks-off-oman-and-uae-coasts/1184597400559759/",
+      "published": "2026-11-10T18:26:24+00:00",
+      "summary": "Satellite images show oil in waters off the coast of Oman on ... A second satellite image from Copernicus Sentinel-2 shows the same area ...",
+      "image_url": "https://scontent-dfw5-2.xx.fbcdn.net/v/t15.5256-10/893939629_1700733291444085_6753495504789844291_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=596eb7&_nc_ohc=d5ykOflLPa0Q7kNvwE9oFTc&_nc_oc=AdruILJ-uYswRuo71yRqedInwuEII30XSLjfHMf1IJkHADjsO1qci7-QkDaWkbNHsGw&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=jknxj_bV8Ty-xfYEG1Ncuw&_nc_ss=70100&oh=00_AQSVES6y5tQesJ4dJaWc89yVKbat4_df4NnvNY9nxvQWXQ&oe=6AF9B1FB",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://scontent-dfw5-2.xx.fbcdn.net/v/t15.5256-10/893939629_1700733291444085_6753495504789844291_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=596eb7&_nc_ohc=d5ykOflLPa0Q7kNvwE9oFTc&_nc_oc=AdruILJ-uYswRuo71yRqedInwuEII30XSLjfHMf1IJkHADjsO1qci7-QkDaWkbNHsGw&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=jknxj_bV8Ty-xfYEG1Ncuw&_nc_ss=70100&oh=00_AQSVES6y5tQesJ4dJaWc89yVKbat4_df4NnvNY9nxvQWXQ&oe=6AF9B1FB",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1080px of source width"
+    },
+    "score": 8.0,
+    "why": "Sentinel-2 satellite view of oil slicks spreading off Oman and UAE coasts; vivid environmental scene.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Link-only reuse policy with no image credit or licence, and only a fragment of text from an Arab News video, so the oil-slick image cannot be reposted or described without guessing.",
+      "what_it_shows": "An Arab News video on Facebook reportedly shows satellite images of oil in waters off the coast of Oman (dated 6 November) and the UAE. The page text says a second image, from Copernicus Sentinel-2, shows the same area. Nothing else is stated about location, extent, source of the oil or which image is which.",
+      "uncertainties": [
+        "Source type is alerts with reuse policy link_only: the image should not be reposted.",
+        "No image credit and no licence stated on the page.",
+        "The source is a Facebook video, not a still image, so it is unclear which frame would be used.",
+        "Page text is truncated ('on ...'). The date and sensor of the first image and the date of the UAE image are not given.",
+        "Only the second image is attributed to Copernicus Sentinel-2. The sensor of the first image is unknown.",
+        "No information on the cause or source of the oil, slick size, exact location or band combination.",
+        "Third-party news claim with no originating agency (for example ESA or a monitoring service) named. Worth finding the primary source, such as Copernicus or a Sentinel Hub post, for a postable, credited image."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://aroundprague.cz/en/news/world/giant-oil-slick-spreads-off-the-coast-of-oman-and-can-be-seen-from-space",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Giant oil slick off Oman's coast is visible from space now - Around Prague",
+      "link": "https://aroundprague.cz/en/news/world/giant-oil-slick-spreads-off-the-coast-of-oman-and-can-be-seen-from-space",
+      "published": "2026-11-10T20:39:45+00:00",
+      "summary": "Giant oil slick off Oman's coast is visible from space now. Giant oil slick spreads off the coast of Oman and can be seen from space . Prague. 4 ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Giant oil slick off Oman's coast is visible from space now. Giant oil slick spreads off the coast of Oman and can be seen from space . Prague. 4 ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 8.0,
+    "why": "Giant oil slick visible from space off Oman; striking satellite scene with a story.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, no image credit and only a one-line snippet, so there is no visual to post and nothing to caption without guessing (sensor, date, size, cause).",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page has no image, so there is nothing to crop to a square.",
+        "No image credit or licence is given, and the reuse policy is link_only.",
+        "The page text is only a truncated snippet: no sensor, acquisition date, slick size, exact location or cause is stated.",
+        "Around Prague is a general news aggregator, not a primary source. If the editor wants this story, find the original satellite image and its credit, for example from the agency or company that captured it, and draft from that."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wincountry.com/2026/11/10/tankers-continue-to-burn-in-the-middle-east-despite-hopes-for-de-escalation/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tankers continue to burn in the Middle East despite hopes for de-escalation - WNWN-FM",
+      "link": "https://wincountry.com/2026/11/10/tankers-continue-to-burn-in-the-middle-east-despite-hopes-for-de-escalation/",
+      "published": "2026-11-10T22:20:02+00:00",
+      "summary": "An image captured by the ⁠European Union's Copernicus Sentinel-2 satellite on Sunday showed a large cloud of black smoke at the same location. It ...",
+      "image_url": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-11/10/2026-11-10T191439Z_1_LYNXNPEMA91WP_RTROPTP_3_IRAN-CRISIS-BLOCKADE.JPG",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "(Corrects in paragraph 4 to ‘a Navig8 tanker’, removing reference to ‘Navig8 Messi’; it was not clear which Navig8 tanker was shown)\nNov 10 (Reuters) – Despite market bets on a de-escalation in the Iran war, new evidence has emerged in recent days of strikes on tankers in the Strait of ​Hormuz and on energy infrastructure in the Middle East.\nOn Tuesday, crude prices hit two-month lows ‌after US officials downplayed the need for additional military action against Iran, with analysts noting President Donald Trump’s more conciliatory tone since the Republicans’ defeat in the November 3 midterm elections.\nHowever, there is little sign of attacks abating in November, after 37 ships were attacked in October, the highest monthly total since the start of the war, according to data from the Washington Institute ‌for Near ​East Policy.\nVideos posted on social media on Sunday and verified by Reuters ⁠showed a Navig8 tanker on fire ⁠near the coast of Oman. An image captured by the European Union’s Copernicus Sentinel-2 satellite on Sunday showed a large cloud of black smoke at the same location.\nIt was one of three tankers hit on Sunday for using “unauthorised routes” through the strait, Iranian state broadcaster IRIB reported, citing the Islamic Revolutionary ​Guard Corps Navy.\nThe vessel is managed by Navig8, majority owned by ADNOC Logistics & Services. Neither replied to emailed Reuters requests for comment.\nAt the same time, US forces continued to enforce a naval blockade of Iranian ⁠ports. In the latest incident, a US military aircraft fired on ⁠and disabled a St Kitts-flagged cargo vessel that tried to depart regional waters ​after visiting an Iranian port on Saturday, US Central Command said.\nAttacks in the strait have caused environmental damage, with ​oil leaking from damaged tankers. A video shared on social media on Monday, and verified ‌by Reuters, showed oil reaching the shores of Oman, while satellite imagery showed oil spills off the coast of Oman and UAE. The Omani government did not respond to Reuters request on Tuesday for comment on the video of oil reaching Omani shores.\nElsewhere in the region, energy infrastructure and civilian facilities have also come under attack. ⁠Iran and its regional allies have struck targets including the offices of Saudi Aramco, the world’s largest oil company. Video verified by Reuters showed damage to Aramco’s office building in Riyadh, following Houthi-claimed missile strikes on November 8.\nThe ⁠Saudi Energy Ministry said that a ‌building belonging to Aramco in Riyadh had been targeted in an attempted attack, ⁠with debris causing limited damage to the building with no injuries or fatalities.\nThe ​International Maritime ‌Organization has confirmed 130 incidents, most of them attacks, in the region ​since the conflict ⁠began in late February, with at least 25 seafarers killed.\nAnother tanker was struck northeast of Oman’s Lima, the United Kingdom Maritime Trade Operations (UKMTO) agency said on Tuesday. UKMTO did not say who struck it.\nIran’s Revolutionary Guards Navy said in a separate statement that two tankers caught fire after hitting naval mines on the “unauthorized route” in the strait.\n(Reporting by Catherine Cartier in Beirut, Arthur Wei in Beijing and Edward Carron in London; Writing by Nerijus Adomaitis; Editing ​by Tomasz Janowski, Alexandra Hudson)\nNine seriously injured in South Korea bus crash involving 32 vehicles 3h ago 'The inner child in me is screaming': Jamie Campbell Bower on joining 'Lord of the Rings' series 1h ago Baby boy found alive in US after believed buried for 24 hours, police say 2h ago Analysis-Disaster warning systems race to keep pace with galloping climate risks 2h ago Bonds reel as hot inflation fuels jumbo Fed hike fears 2h ago US and China should stay clear-eyed on AI cooperation and competition, Bessent says 3h ago",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-11/10/2026-11-10T191439Z_1_LYNXNPEMA91WP_RTROPTP_3_IRAN-CRISIS-BLOCKADE.JPG",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://wincountry.com/wpBlogNewsService/logView?key=2532_962099_2532&ref=direct",
+          "label": ""
+        },
+        {
+          "url": "https://media-cdn.socastsrm.com/application/theme/images/loaders/indicator-big.gif",
+          "label": ""
+        },
+        {
+          "url": "https://media-cdn.socastsrm.com/wordpress/wp-content/plugins/socast-weather/assets/weather_icons/default/color/wsymbol_0042_cloudy_night.svg",
+          "label": ""
+        },
+        {
+          "url": "https://media-cdn.socastsrm.com/wordpress/wp-content/themes/common_images/social/facebook.png",
+          "label": ""
+        },
+        {
+          "url": "https://media-cdn.socastsrm.com/wordpress/wp-content/themes/common_images/social/twitter.png",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 450px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 8.0,
+    "why": "Sentinel-2 image of black smoke cloud from burning tankers; dramatic satellite scene.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "This is a syndicated Reuters conflict news story. We cannot tell whether the page image is the Sentinel-2 scene or a news photo, it has no credit or licence, and it is only 450 px wide.",
+      "what_it_shows": "A Reuters report, syndicated by WNWN-FM, on continued attacks on tankers in the Strait of Hormuz. It mentions a Copernicus Sentinel-2 image from Sunday that shows a large cloud of black smoke where a Navig8 tanker was filmed on fire near the coast of Oman. It also mentions satellite imagery of oil spills off Oman and the UAE. The page does not say what its own image shows.",
+      "uncertainties": [
+        "No image credit or licence on the page, and the reuse policy is link_only.",
+        "We cannot tell whether the page image is the Sentinel-2 scene, a video still or a Reuters photo. Describing it would mean guessing.",
+        "The source image is only 450 px wide, so the 1080x1080 square would be heavily upscaled.",
+        "The Sentinel-2 scene is described only in text: no acquisition time, band combination or processing is given.",
+        "The source of the oil-spill satellite imagery is not named.",
+        "Reuters corrected the story: it is not clear which Navig8 tanker was shown.",
+        "Attribution of the strikes comes from IRGC claims via IRIB. UKMTO did not say who struck the tanker near Lima.",
+        "This is an active war story with seafarer deaths. If we want to cover it, a better option would be to download the Sentinel-2 scene ourselves from the Copernicus Browser (Copernicus Sentinel data are openly licensed) and write it up as our own EO post."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://science.nasa.gov/?p=1510274",
+      "source_id": "nasa_eo",
+      "source_name": "NASA Earth Observatory",
+      "source_type": "eo_imagery",
+      "licence": "reuse",
+      "title": "Water Surges Into Navajo Reservoir",
+      "link": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
+      "published": "2026-11-11T05:01:00+00:00",
+      "summary": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/water-surges-into-navajo-reservoir/navajoreservoir_oli2_20260920.jpg",
+      "credit_hint": "NASA Earth Observatory",
+      "source_tag": "@NASAEarth",
+      "page_text": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.\nBack-to-back extreme rain events inundated the Four Corners region of the U.S. Southwest in late October and early November 2026. The storms alleviated short-term drought conditions in the Southwest but caused river levels to spike to record or near-record levels in places, triggering damaging floods.\nOne effect of the heavy rains detected by satellites was the rapid rise of water levels in Navajo Reservoir. The change is visible in the images above, acquired on September 20 (left) and November 7 (right) with the OLI (Operational Land Imager) on Landsat 9 . In that time, the lake in northern New Mexico and southern Colorado rose by nearly 60 feet (18 meters), according to data from the U.S. Army Corps of Engineers. (Note that the Bureau of Reclamation decreased releases from Navajo Dam on September 16 and 17.)\nOn November 7, the reservoir stood at its highest level since August 2019 and at 108 percent of the average capacity for that date. That contrasts with September 20, when it held just 60 percent of its average capacity. Due to snow drought across the West in winter 2025-26, the lake saw relatively little growth in the spring, when snowmelt often raises water levels.\nThe San Juan, Piedra, and other rivers swelled with runoff amid the wet weather. Pagosa Springs, Colorado, a town along the San Juan River about 40 miles (64 kilometers) northeast of the lake, was especially hard-hit by flooding. In the first round of rain, 5.05 inches (12.8 centimeters) fell in the town, and on October 23 the river reached major flood stage . After more rain, the river spiked again on November 1, this time nearly to the record level set in 1911 during a devastating flood . Officials issued evacuation orders, and responders rescued dozens of people, according to news reports , while water inundated streets and damaged property.\nHeavy rain and flooding have been widespread across southwest Colorado, southeast Utah, northern Arizona, and northwest New Mexico in recent weeks. From early September through early November, precipitation totals were 2 to 4 times the average throughout the Four Corners region—an area beset by long-term drought that was exacerbated by snow drought and high temperatures in 2026.\nThough the downpours posed hazards to communities along many rivers, they did provide drought relief throughout the region. Weekly U.S. Drought Monitor maps, derived from a suite of satellite data products and ground-based observations, have indicated improvements to drought conditions due to the fall storms. The group’s November 3 summary noted that “short-term drought has ended for the Southwest and Great Basin,” although long-term drought persists in places.\nWet weather in the Southwest is often associated with El Niño events, when the segment of the jet stream flowing eastward near the equatorial Pacific tends to strengthen. Experts noted that the low-pressure system delivering the heavy rainfall in autumn 2026 was at a low latitude for the time of year and drew energy from unusually high ocean temperatures. El Niño patterns—like the one currently underway —can increase the likelihood of moisture-laden storms being steered across the Southwest interior.\nNASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey . Story by Lindsey Doermann.\nStay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.\nSnow drought and unusually warm temperatures in the Colorado Basin in 2026 helped drive down reservoir water storage in the…\nRainfall deficits and high temperatures have created unusually dry conditions and have spurred water shortages on much of the tropical…\nDrought in the Rio Grande basin contributed to New Mexico’s largest reservoir dwindling to its lowest level in decades.\nSubscribe to the Earth Observatory and get the Earth in your inbox.\nNASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.\nOpen access to NASA’s archive of Earth science data",
+      "image_credit": "NASA Earth Observatory images by Michala Garrison, using Landsat data from the U",
+      "image_licence": "NASA imagery, generally free to reuse with credit",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/water-surges-into-navajo-reservoir/navajoreservoir_oli2_20260920.jpg",
+          "label": "September 20, 2026"
+        },
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/water-surges-into-navajo-reservoir/navajoreservoir_oli2_20261107.jpg",
+          "label": "November 7, 2026"
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-11-4-water-surges-into-navajo-reservoir.jpg",
+      "image_note": "before/after pair stacked, from 1264px of source width"
+    },
+    "score": 8.0,
+    "why": "Satellite view of flooded Navajo Reservoir surge; strong Earth-observation scene from a favourite source.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A before/after pair of Navajo Reservoir in northern New Mexico and southern Colorado, imaged by the OLI on Landsat 9. On the square, the top image is from 20 September 2026 and the bottom from 7 November 2026, after back-to-back extreme rain events hit the Four Corners region. In that time the lake rose by nearly 60 feet (18 metres), according to U.S. Army Corps of Engineers data, going from 60 percent to 108 percent of average capacity for the date.",
+      "uncertainties": [
+        "The band combination and colour rendering are not stated (probably natural colour, but the source does not say), so colours are not described in the posts.",
+        "The IMAGE CREDIT field is truncated ('from the U'). The full credit, 'NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey', is taken from the page text. Check that it matches.",
+        "The page describes the images as left/right. The square stacks them top (20 September) and bottom (7 November), so confirm the editor's layout matches.",
+        "The 18-metre rise comes from U.S. Army Corps of Engineers gauge data, not from the imagery. The Bureau of Reclamation also reduced releases from Navajo Dam on 16 and 17 September, so the rise is not purely storm runoff.",
+        "Rescue figures for Pagosa Springs are 'according to news reports' and are left out of the posts.",
+        "No image resolution or scene extent is given."
+      ],
+      "image_credit": "Image: NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey",
+      "facebook": "Between 20 September and 7 November 2026, Navajo Reservoir rose by nearly 18 metres (60 feet), according to U.S. Army Corps of Engineers data.\n\nLandsat 9 OLI views of New Mexico's second-largest reservoir before (top) and after (bottom) back-to-back storms in the Four Corners. It went from 60 to 108 percent of average capacity for the date, its highest level since August 2019.\n\nRead more: https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/\n\nImage: NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey\n\n#Landsat #Floods #Rainfall #Geoawesome",
+      "instagram": "From 60 to 108 percent of average capacity: Navajo Reservoir after a very wet autumn.\n\nTop: 20 September 2026. Bottom: 7 November 2026, the lake's highest level since August 2019 (Landsat 9).\n\nFind out more: https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/\n\nImage: NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey\n\n#Landsat9 #Drought #Reservoirs #Geoawesome",
+      "youtube": "Storms in late October and early November 2026 lifted Navajo Reservoir by nearly 60 feet, per U.S. Army Corps of Engineers data.\n\nThe pair comes from the Operational Land Imager on Landsat 9: 20 September (top) and 7 November (bottom). Precipitation ran 2 to 4 times average across the Four Corners. The Bureau of Reclamation had also cut releases from Navajo Dam on 16 and 17 September.\n\nFull story: https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/\n\nImage: NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey\n\n#Landsat #Hydrology #Drought #Geoawesome",
+      "x": "Navajo Reservoir held 60% of its average capacity on 20 Sept and 108% on 7 Nov 2026, after storms soaked the Four Corners. Landsat 9, top before, bottom after.\nhttps://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/\nImage: NASA Earth Observatory, Landsat data from USGS\n#Landsat #Floods #Reservoirs #Geoawesome",
+      "alt_text": "Two stacked satellite images of Navajo Reservoir, the top from 20 September 2026 with the lake at a lower level and the bottom from 7 November 2026 with the lake noticeably higher after heavy rain."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-11-4-water-surges-into-navajo-reservoir.jpg"
+  },
+  {
+    "item": {
+      "id": "tag:blogger.com,1999:blog-12158290.post-23499036181980642",
+      "source_id": "maps_mania",
+      "source_name": "Maps Mania",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "Has a Satellite Been Watching You?",
+      "link": "http://googlemapsmania.blogspot.com/2026/11/has-satellite-been-watching-you.html",
+      "published": "2026-11-10T08:25:58+00:00",
+      "summary": "Have you ever wondered how many satellites have passed overhead while you've been going about your daily business? Probably quite a few. But how many of them were actually looking at you? Watched is an intriguing new interactive map which attempts to answer that question by revealing which satellites have passed over any location on Earth during the last seven days, and, more interestingly, which of them actually took a photograph. Visit Watched and enter any location in the world. The map will then reconstruct the satellite activity above that spot over the previous week, identifying the satellite that passed within viewing range and searching public satellite imagery archives for photographs captured during those passes. The result is a fascinating combination of satellite tracking, Earth observation imagery and a 3D globe. You can replay the satellite passes, watch their trajectories around the Earth and browse the photographs taken during each encounter. The globe even includes the positions of thousands of other tracked objects orbiting our planet, illuminated by the real position of the Sun. Not every satellite that passes overhead is necessarily taking a photograph, however.",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0-ykzfWzeF68HCb9tKWCD_-VUfTu-UPSJJ34Q6lv881ACzt6ZqTRHctXOe2NbRXnaxa1M5H1oCN1yf4AIhIr0qyHzjbb_r0gkOZubqXiAxnp4j_Ri6cScKtXe670SLEDI8eWBDIhjyPqsuHEzeGFy-BXKtsg1u6jffPMk_Z-6xPv2mY6W6iu-bg/s1600/www.watched.earth__q=38.898%252C-77.037&n=White+House.png",
+      "credit_hint": "via Maps Mania",
+      "source_tag": "",
+      "page_text": "Have you ever wondered how many satellites have passed overhead while you've been going about your daily business? Probably quite a few. But how many of them were actually looking at you? Watched is an intriguing new interactive map which attempts to answer that question by revealing which satellites have passed over any location on Earth during the last seven days, and, more interestingly, which of them actually took a photograph. Visit Watched and enter any location in the world. The map will then reconstruct the satellite activity above that spot over the previous week, identifying the satellite that passed within viewing range and searching public satellite imagery archives for photographs captured during those passes. The result is a fascinating combination of satellite tracking, Earth observation imagery and a 3D globe. You can replay the satellite passes, watch their trajectories around the Earth and browse the photographs taken during each encounter. The globe even includes the positions of thousands of other tracked objects orbiting our planet, illuminated by the real position of the Sun. Not every satellite that passes overhead is necessarily taking a photograph, however.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0-ykzfWzeF68HCb9tKWCD_-VUfTu-UPSJJ34Q6lv881ACzt6ZqTRHctXOe2NbRXnaxa1M5H1oCN1yf4AIhIr0qyHzjbb_r0gkOZubqXiAxnp4j_Ri6cScKtXe670SLEDI8eWBDIhjyPqsuHEzeGFy-BXKtsg1u6jffPMk_Z-6xPv2mY6W6iu-bg/s1600/www.watched.earth__q=38.898%252C-77.037&n=White+House.png",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-11-5-has-a-satellite-been-watching-you.jpg",
+      "image_note": "square crop, from 1034px of source width"
+    },
+    "score": 8.0,
+    "why": "Interactive satellite-watching map showing which satellites photographed any location; playable and intriguing.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "Watched is an interactive map with a 3D globe. You enter any location and it reconstructs the satellites that passed within viewing range over the previous seven days, then searches public satellite imagery archives for photographs captured during those passes. Users can replay passes, follow trajectories and browse the images, and the globe also shows thousands of other tracked objects lit by the real position of the Sun.",
+      "uncertainties": [
+        "The maker of Watched is not named and the Maps Mania post gives no direct URL for the tool, so the credit uses the tool's name plus the blog.",
+        "No image credit or licence is stated, and the reuse policy is link_only. Check whether the screenshot can be reposted.",
+        "The post does not say which public imagery archives are searched or which satellites and sensors are covered, so no missions are named.",
+        "The source says the map 'attempts' to answer the question. The accuracy of matching passes to images is not described.",
+        "The exact content of the cropped screenshot is not described. Check the alt text against the actual image."
+      ],
+      "image_credit": "Map: Watched via Maps Mania",
+      "facebook": "Pick any spot on Earth and a new map will tell you which satellites flew over it in the past seven days, and which ones took a picture.\n\nWatched replays a week of passes on a 3D globe, then searches public imagery archives for photographs captured on each pass. What it makes visible: an overpass is not an acquisition.\n\nRead more: http://googlemapsmania.blogspot.com/2026/11/has-satellite-been-watching-you.html\n\nMap: Watched via Maps Mania\n\n#Geoawesome #Satellites #Imagery #Maps",
+      "instagram": "Seven days, one location, every satellite that passed overhead.\n\nEnter any place and Watched replays the passes on a 3D globe lit by the real position of the Sun, then searches public archives for photos taken along the way.\n\nFind out more: http://googlemapsmania.blogspot.com/2026/11/has-satellite-been-watching-you.html\n\nMap: Watched via Maps Mania\n\n#Geoawesome #Satellites #Orbit #Globe",
+      "youtube": "Not every satellite passing overhead is taking a picture of you. A new interactive map tries to show which ones did.\n\nWatched reconstructs the past week of activity above any location, identifies satellites that came within viewing range and searches public imagery archives for photographs captured during those passes. On the 3D globe you can replay passes, follow trajectories and browse the matching images, alongside thousands of other tracked objects.\n\nLearn more: http://googlemapsmania.blogspot.com/2026/11/has-satellite-been-watching-you.html\n\nMap: Watched via Maps Mania\n\n#Geoawesome #Satellites #Orbit #Tracking",
+      "x": "Which satellites photographed your street this week? Watched checks the past seven days of passes against public imagery archives.\nhttp://googlemapsmania.blogspot.com/2026/11/has-satellite-been-watching-you.html\nMap: Watched via Maps Mania\n#Geoawesome #Satellites #Space",
+      "alt_text": "Screenshot of the Watched interactive map showing satellite passes around a 3D globe of the Earth."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-11-5-has-a-satellite-been-watching-you.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.youtube.com/shorts/6qNOVFhAbcE",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Satellite images show oil slicks off Oman and UAE coasts - YouTube",
+      "link": "https://www.youtube.com/shorts/6qNOVFhAbcE",
+      "published": "2026-11-10T18:03:23+00:00",
+      "summary": "Satellite images show oil in waters off the coast of Oman on November 6 and the UAE.",
+      "image_url": "https://i.ytimg.com/vi/6qNOVFhAbcE/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAhMZJA5pluiAQdTwDcqVLyBL1XaA",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6qNOVFhAbcE/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAhMZJA5pluiAQdTwDcqVLyBL1XaA",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 405px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 7.0,
+    "why": "Short video of satellite images showing oil slicks off Oman and UAE.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "There is no image credit or licence, the source is link-only, the frame is a 405px YouTube Shorts grab, and one sentence of text gives no sensor, publisher or detail to caption it without guessing.",
+      "what_it_shows": "A YouTube Short reports that satellite images show oil in waters off the coast of Oman on 6 November and off the UAE. The page gives no satellite, sensor, imaging method, spill size, location or cause.",
+      "uncertainties": [
+        "No image credit on the page, so the satellite operator and the channel that posted the Short are unknown.",
+        "Reuse policy is link_only and no licence is stated, so reposting the frame is not cleared.",
+        "No sensor or data type is given (for example optical or radar), so it is unclear how the oil was identified.",
+        "The date (6 November) applies to the Oman images only. No date is given for the UAE images, and no year is stated.",
+        "No location beyond 'off the coast of Oman' and 'the UAE', and no slick size or extent.",
+        "No source or cause for the oil is stated. It may be third-party or unverified reporting.",
+        "Source image is only 405px wide and would be upscaled, so sharpness is likely too poor for a 1080x1080 post.",
+        "Worth checking whether an original satellite image with proper credit (for example from an agency or analysis firm) exists before reconsidering."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.facebook.com/ArabNews/posts/satellite-images-show-oil-in-waters-off-the-coast-of-oman-on-november-6-and-the-/1573963421435333/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Satellite images show oil in waters off the coast of Oman on November 6 and the UAE",
+      "link": "https://www.facebook.com/ArabNews/posts/satellite-images-show-oil-in-waters-off-the-coast-of-oman-on-november-6-and-the-/1573963421435333/",
+      "published": "2026-11-10T18:26:36+00:00",
+      "summary": "Satellite images show oil in waters off the coast of Oman on ... The Incident: Satellite imagery from Copernicus Sentinel-1 and Sentinel-2 ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Satellite images show oil in waters off the coast of Oman on ... The Incident: Satellite imagery from Copernicus Sentinel-1 and Sentinel-2 ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Copernicus Sentinel-1 and Sentinel-2 imagery of oil off Oman and UAE.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, no image credit, link-only reuse policy, and the page text is a truncated snippet, so the visual cannot be described without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "IMAGE NOTE says no image was found on the page, so there is nothing to crop to a square.",
+        "No image credit and no licence are given. The reuse policy is link_only.",
+        "The page text is a truncated Google Alerts snippet. It names Copernicus Sentinel-1 and Sentinel-2 but gives no acquisition dates per sensor, location coordinates, spill extent or source of the oil.",
+        "The title's 'November 6' applies to Oman only. No date is given for the UAE imagery.",
+        "The link is an Arab News Facebook post, not the original imagery publisher. Check whether Copernicus EMS, ESA or an analyst published the actual images with a usable credit before reconsidering."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/10/tankers-continue-to-burn-in-the-middle-east-despite-hopes-for-de-escalation",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tankers continue to burn in the Middle East despite hopes for de-escalation - Internazionale",
+      "link": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/10/tankers-continue-to-burn-in-the-middle-east-despite-hopes-for-de-escalation",
+      "published": "2026-11-10T19:30:17+00:00",
+      "summary": "An image captured by the European Union's Copernicus Sentinel-2 satellite on Sunday showed a large cloud of black smoke at the same location. It ...",
+      "image_url": "https://media.internazionale.it/images/2026/11/10/363483-hd.jpeg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Nov 10 (Reuters) - Despite market bets on a de-escalation in the Iran war, new evidence has emerged in recent days of strikes on tankers in the Strait of Hormuz and on energy infrastructure in the Middle East.\nOn Tuesday, crude prices hit two-month lows after US officials downplayed the need for additional military action against Iran, with analysts noting President Donald Trump’s more conciliatory tone since the Republicans’ defeat in the November 3 midterm elections.\nHowever, there is little sign of attacks abating in November, after 37 ships were attacked in October, the highest monthly total since the start of the war, according to data from the Washington Institute for Near East Policy.\nVideos posted on social media on Sunday and verified by Reuters showed Navig8 Messi, a Singapore-flagged, medium-sized refined products tanker, on fire near the coast of Oman. An image captured by the European Union’s Copernicus Sentinel-2 satellite on Sunday showed a large cloud of black smoke at the same location.\nIt was one of three tankers hit on Sunday for using “unauthorised routes” through the strait, Iranian state broadcaster IRIB reported, citing the Islamic Revolutionary Guard Corps Navy.\nThe vessel is managed by Navig8, majority owned by ADNOC Logistics & Services. Neither replied to emailed Reuters requests for comment.\nAt the same time, US forces continued to enforce a naval blockade of Iranian ports. In the latest incident, a US military aircraft fired on and disabled a St Kitts-flagged cargo vessel that tried to depart regional waters after visiting an Iranian port on Saturday, US Central Command said.\nAttacks in the strait have caused environmental damage, with oil leaking from damaged tankers. A video shared on social media on Monday, and verified by Reuters, showed oil reaching the shores of Oman, while satellite imagery showed oil spills off the coast of Oman and UAE. The Omani government did not respond to Reuters request on Tuesday for comment on the video of oil reaching Omani shores.\nElsewhere in the region, energy infrastructure and civilian facilities have also come under attack. Iran and its regional allies have struck targets including the offices of Saudi Aramco, the world’s largest oil company. Video verified by Reuters showed damage to Aramco’s office building in Riyadh, following Houthi-claimed missile strikes on November 8.\nThe Saudi Energy Ministry said that a building belonging to Aramco in Riyadh had been targeted in an attempted attack, with debris causing limited damage to the building with no injuries or fatalities.\nThe International Maritime Organization has confirmed 130 incidents, most of them attacks, in the region since the conflict began in late February, with at least 25 seafarers killed.\nAnother tanker was struck northeast of Oman’s Lima, the United Kingdom Maritime Trade Operations (UKMTO) agency said on Tuesday. UKMTO did not say who struck it.\nIran’s Revolutionary Guards Navy said in a separate statement that two tankers caught fire after hitting naval mines on the “unauthorized route” in the strait.\n(Reporting by Catherine Cartier in Beirut, Arthur Wei in Beijing and Edward Carron in London, writing by Nerijus Adomaitis; editing by Tomasz Janowski, Alexandra Hudson)\n10 novembre (Reuters) - Nonostante le aspettative del mercato di un allentamento delle tensioni nella crisi iraniana, negli ultimi giorni sono emerse nuove prove di attacchi contro petroliere nello Stretto di Ormuz e contro infrastrutture energetiche in Medio Oriente.\nMartedì, i prezzi del greggio hanno toccato i minimi degli ultimi due mesi dopo che funzionari statunitensi hanno minimizzato la necessità di ulteriori azioni militari contro l’Iran, mentre gli analisti hanno notato il tono più conciliante del presidente Donald Trump dopo la sconfitta dei repubblicani nelle elezioni di medio termine del 3 novembre.\nTuttavia, non vi sono segni evidenti di un calo degli attacchi a novembre, dopo che a ottobre sono state attaccate 37 navi, il totale mensile più alto dall’inizio della guerra, secondo i dati del Washington Institute for Near East Policy.\nI video pubblicati domenica sui social media e verificati da Reuters mostravano la «Navig8 Messi», una petroliera di medie dimensioni battente bandiera di Singapore e adibita al trasporto di prodotti raffinati, in fiamme al largo delle coste dell’Oman. Un’immagine catturata domenica dal satellite Copernicus Sentinel-2 dell’Unione europea mostrava una grande nuvola di fumo nero nella stessa posizione.\nSi trattava di una delle tre petroliere colpite domenica per aver utilizzato «rotte non autorizzate» attraverso lo stretto, secondo quanto riportato dall’emittente statale iraniana IRIB, citando la Marina del Corpo delle Guardie Rivoluzionarie Islamiche.\nLa nave è gestita da Navig8, controllata in maggioranza da ADNOC Logistics & Services. Nessuna delle due ha risposto alle richieste di commento inviate via e-mail da Reuters.\nAllo stesso tempo, le forze statunitensi hanno continuato a imporre un blocco navale sui porti iraniani. Nell’ultimo episodio, un velivolo militare statunitense ha aperto il fuoco e messo fuori uso una nave da carico battente bandiera di Saint Kitts che sabato aveva tentato di lasciare le acque regionali dopo aver fatto scalo in un porto iraniano, secondo quanto riferito dal Comando Centrale degli Stati Uniti.\nGli attacchi nello stretto hanno causato danni ambientali, con fuoriuscite di petrolio dalle petroliere danneggiate. Un video condiviso sui social media lunedì, e verificato da Reuters, mostrava il petrolio che raggiungeva le coste dell’Oman, mentre le immagini satellitari mostravano fuoriuscite di petrolio al largo delle coste dell’Oman e degli Emirati Arabi Uniti. Martedì il governo dell’Oman non ha risposto alla richiesta di commento da parte di Reuters in merito al video che mostrava il petrolio raggiungere le coste dell’Oman.\nAnche in altre zone della regione, le infrastrutture energetiche e le strutture civili sono st",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://media.internazionale.it/images/2026/04/17/346984-md.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://media.internazionale.it/images/2026/11/10/363483-md.jpeg",
+          "label": ""
+        },
+        {
+          "url": "https://media.internazionale.it/images/2026/11/06/363183-ld.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://media.internazionale.it/images/2026/11/10/363488-ld.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://media.internazionale.it/images/2026/11/10/363459-ld.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://media.internazionale.it/images/2026/04/17/346984-md.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 683px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 7.0,
+    "why": "Same Sentinel-2 smoke-plume story via Reuters; dramatic satellite visual.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Reuters conflict news text with an unidentified, uncredited, low-resolution (683px) image; the Sentinel-2 smoke image it mentions is not shown or credited, so we cannot caption it without guessing.",
+      "what_it_shows": "A Reuters report on continued attacks on tankers in the Strait of Hormuz. It says a Copernicus Sentinel-2 image captured on Sunday showed a large cloud of black smoke where the tanker Navig8 Messi was on fire near the coast of Oman, and that satellite imagery showed oil spills off Oman and the UAE. The page does not say what the attached image is.",
+      "uncertainties": [
+        "The page names no image credit, and the image may not be the Sentinel-2 scene the text describes.",
+        "The image is only 683px wide, so the square would be upscaled and likely soft.",
+        "The reuse policy is link_only and no licence is stated.",
+        "The article gives no exact date, coordinates or processing details for the Sentinel-2 image, and no source for the oil-spill imagery.",
+        "This is an active-conflict story with attributed claims from IRIB, IRGC Navy, UKMTO and US Central Command. If the editor wants the EO angle, a better option is to find the original Copernicus Sentinel-2 scene (for example via Copernicus Browser) with a proper credit."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.reutersconnect.com/item/a-combination-of-satellite-images-shows-thermal-activity-before-and-after-an-attack-on-didamar-island/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjdMT0FYWTJBOA",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "A combination of satellite images shows thermal activity before and after an attack on Didamar Island",
+      "link": "https://www.reutersconnect.com/item/a-combination-of-satellite-images-shows-thermal-activity-before-and-after-an-attack-on-didamar-island/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjdMT0FYWTJBOA",
+      "published": "2026-11-10T21:00:47+00:00",
+      "summary": "European Union/Copernicus Sentinel-2 /Handout via REUTERS THIS IMAGE HAS ... SAR satellite image shows an oil spill off the coast of Oman.",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "European Union/Copernicus Sentinel-2 /Handout via REUTERS THIS IMAGE HAS ... SAR satellite image shows an oil spill off the coast of Oman.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Before-and-after Sentinel-2 composite of thermal activity at Didamar Island.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was found on the page, no credit or licence is stated, and the page text is a truncated fragment, so the post could not be written without guessing.",
+      "what_it_shows": "According to the title, a Reuters Connect item combining satellite images of thermal activity before and after an attack on Didamar Island. The page text mentions 'European Union/Copernicus Sentinel-2 /Handout via REUTERS', but the snippet is cut off and also refers to a separate SAR image of an oil spill off Oman, so it is unclear which credit belongs to which image.",
+      "uncertainties": [
+        "No image was retrieved (IMAGE NOTE: no image found on the page).",
+        "Image credit was not found in the credit field. 'European Union/Copernicus Sentinel-2 /Handout via REUTERS' appears in the page text but may belong to a different item on the page.",
+        "Image licence is not stated. Reuters Connect is a licensed agency service and the reuse policy is link_only, so the image likely cannot be reposted.",
+        "No acquisition dates, band combination or explanation of how thermal activity is shown are given.",
+        "No details about the attack (who, when, what was hit) are in the source. This is sensitive conflict content and the facts would need verifying.",
+        "The page text also mentions a SAR image of an oil spill off Oman, which suggests the extracted text mixes several Reuters items."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://special.ndtv.com/fighting-our-killer-air-a-citizens-charter-51/news-detail/post-diwali-smog-trap-satellite-pictures-capture-north-india-vanishing-under-grey-haze-12309246/1",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Post-Diwali Smog Trap: Satellite Pictures Capture North India Vanishing Under Grey Haze",
+      "link": "https://special.ndtv.com/fighting-our-killer-air-a-citizens-charter-51/news-detail/post-diwali-smog-trap-satellite-pictures-capture-north-india-vanishing-under-grey-haze-12309246/1",
+      "published": "2026-11-10T18:18:56+00:00",
+      "summary": "NASA satellite images show a thick blanket of haze over large parts of India on November 10, even as Delhi's air quality improved to the 'Poor ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "NASA satellite images show a thick blanket of haze over large parts of India on November 10, even as Delhi's air quality improved to the 'Poor ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "NASA satellite pictures of haze blanketing North India; strong Earth-view scene.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, no credit, no licence and a link-only reuse policy, so there is no visual to post; the text is a one-line news snippet.",
+      "what_it_shows": "An NDTV news item reporting that NASA satellite images show a thick blanket of haze over large parts of India on November 10, as Delhi's air quality improved to the 'Poor' category. No image, sensor, product or colour scheme is given in the source material.",
+      "uncertainties": [
+        "No image was found on the page; the NASA satellite picture itself is not available to repost.",
+        "The source is NDTV citing NASA imagery; the sensor or product (for example a true-colour view) is not stated.",
+        "The page text is a truncated snippet; Delhi's full AQI figure and the area covered by the haze are not given.",
+        "Image credit and licence are not stated, and the reuse policy is link_only.",
+        "If the editor wants this story, the original NASA image (with its own credit) would need to be found directly from NASA before posting."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "tag:blogger.com,1999:blog-12158290.post-5312940359118921932",
+      "source_id": "maps_mania",
+      "source_name": "Maps Mania",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "Contoured Fuji",
+      "link": "http://googlemapsmania.blogspot.com/2026/11/contoured-fuji.html",
+      "published": "2026-11-10T15:09:09+00:00",
+      "summary": "Mount Fuji - Contours Today's 30DayMapChallenge is - Prompting Only Yesterday Andy Woodruff posted this animated contour map : I liked the animated effect and so I decided to try and create something similar for today's 30DayMapChallenge. The challenge is: 'For this map, make AI work for its money and produce something from start to finish in a chat window or on the command line.' My initial prompt for ChatGPT was 'Using only the contours in this geojson https://mapsmania.github.io/mapchallenge/contours.geojson, (downloaded from Axis Maps Contours) and three.js create a map of Mount Fuji. I want the map to be a top down view. I want the map to slowly animate into view. The highest elevation contour line should appear first, then the next highest etc. Use a color ramp for each elevation with the darkest color at the top.' The result was (to paraphrase Douglas Adams) a map almost, but not quite, entirely unlike Andy's animation . But never mind I liked the results and decided to try a few more prompts in ChatGPT to develop the map further, by adding a 3D effect, rotating from a top down map to a side on effect and then reducing the vertical exaggeration. The final result can by viewe",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi04LW4qI-72iI6TspGUlze7BoXEcp1ZpEROCNJfSetu39pHyVfemVH8Iv4d05XA8ktcopaSrsSJrLd1f5AzNgQ7YTqxvoDz79GzHwAkf5GNjvwx_F2u41c4xNBI0nzG1GwD6wNblrvJXbFA4VrZW5qUY_lLL_a9VpFzXWrIfmf5p7G3HNuo82VMQ/s1600/Screenrecording2026-11-102.43.41PM-ezgif.com-video-to-gif-converter%20%281%29.gif",
+      "credit_hint": "via Maps Mania",
+      "source_tag": "",
+      "page_text": "Mount Fuji - Contours Today's 30DayMapChallenge is - Prompting Only Yesterday Andy Woodruff posted this animated contour map : I liked the animated effect and so I decided to try and create something similar for today's 30DayMapChallenge. The challenge is: 'For this map, make AI work for its money and produce something from start to finish in a chat window or on the command line.' My initial prompt for ChatGPT was 'Using only the contours in this geojson https://mapsmania.github.io/mapchallenge/contours.geojson, (downloaded from Axis Maps Contours) and three.js create a map of Mount Fuji. I want the map to be a top down view. I want the map to slowly animate into view. The highest elevation contour line should appear first, then the next highest etc. Use a color ramp for each elevation with the darkest color at the top.' The result was (to paraphrase Douglas Adams) a map almost, but not quite, entirely unlike Andy's animation . But never mind I liked the results and decided to try a few more prompts in ChatGPT to develop the map further, by adding a 3D effect, rotating from a top down map to a side on effect and then reducing the vertical exaggeration. The final result can by viewe",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi04LW4qI-72iI6TspGUlze7BoXEcp1ZpEROCNJfSetu39pHyVfemVH8Iv4d05XA8ktcopaSrsSJrLd1f5AzNgQ7YTqxvoDz79GzHwAkf5GNjvwx_F2u41c4xNBI0nzG1GwD6wNblrvJXbFA4VrZW5qUY_lLL_a9VpFzXWrIfmf5p7G3HNuo82VMQ/s1600/Screenrecording2026-11-102.43.41PM-ezgif.com-video-to-gif-converter%20%281%29.gif",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-11-11-contoured-fuji.jpg",
+      "image_note": "square crop, from 449px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 7.0,
+    "why": "Animated contour map of Mount Fuji; clever geo visual from a favourite site.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "An animated contour map of Mount Fuji built entirely through ChatGPT prompts and three.js for the 30DayMapChallenge 'Prompting Only' theme. It uses a contours GeoJSON downloaded from Axis Maps Contours. The highest contour appears first, then each lower one, on a colour ramp that is darkest at the top. Later prompts added a 3D effect, a rotation from a top-down to a side-on view and reduced vertical exaggeration. It was inspired by an animated contour map by Andy Woodruff.",
+      "uncertainties": [
+        "Reuse policy is 'link_only' and no image licence is stated. Confirm that reposting the image is allowed before publishing.",
+        "The source image is only 449px wide and has been upscaled. Check sharpness at 1080x1080.",
+        "The page text is cut off before the link to the final map, so it is unclear whether the final version is an interactive page. The captions only describe the animation.",
+        "The page gives no contour interval, elevation units or colour ramp values.",
+        "The author is not named in the page text, so the credit is the blog, 'Maps Mania'.",
+        "The challenge day number is not stated."
+      ],
+      "image_credit": "Map: Maps Mania",
+      "facebook": "This animated Mount Fuji was built entirely through ChatGPT prompts, starting from a single contours GeoJSON.\n\nMaps Mania made it for the 30DayMapChallenge 'Prompting Only' brief. Contours from Axis Maps Contours appear highest first, on a colour ramp that darkens towards the summit.\n\nRead more: http://googlemapsmania.blogspot.com/2026/11/contoured-fuji.html\n\nMap: Maps Mania\n\n#Cartography #Fuji #AI #ChatGPT #Geoawesome",
+      "instagram": "Mount Fuji, drawn from the summit down, one contour at a time.\n\nAn animated map produced entirely in a ChatGPT chat window, with the darkest colour at the peak.\n\nFind out more: http://googlemapsmania.blogspot.com/2026/11/contoured-fuji.html\n\nMap: Maps Mania\n\n#Fuji #Contours #Japan #Geoawesome",
+      "youtube": "The brief: make AI produce a map from start to finish in a chat window. The result: Mount Fuji in animated contours.\n\nThe input is a contours GeoJSON from Axis Maps Contours, rendered top-down in three.js, with the highest elevation drawn first and a colour ramp that is darkest at the top. Follow-up prompts added a 3D effect, a rotation from top-down to side-on and lower vertical exaggeration.\n\nLearn more: http://googlemapsmania.blogspot.com/2026/11/contoured-fuji.html\n\nMap: Maps Mania\n\n#Threejs #Contours #Cartography #AI #Geoawesome",
+      "x": "No hand-written code: ChatGPT and three.js turned a contours GeoJSON into this animated Mount Fuji, peak first.\nhttp://googlemapsmania.blogspot.com/2026/11/contoured-fuji.html\nMap: Maps Mania\n#Mapping #Fuji #AI #Geoawesome",
+      "alt_text": "A top-down contour map of Mount Fuji with concentric elevation lines coloured on a ramp that grows darker towards the summit."
+    },
+    "problems": {
+      "facebook": [
+        "#ChatGPT is not a single word"
+      ]
+    },
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-11-11-contoured-fuji.jpg"
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/kentucky/rickett_hollow?name=Rickett+Hollow",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Rickett Hollow Fire in Kentucky | WFCA Fire Map",
+      "link": "https://wfca.com/fire-map/kentucky/rickett_hollow?name=Rickett+Hollow",
+      "published": "2026-11-10T19:26:48+00:00",
+      "summary": "Fighting Creek1 ac · 0% containedStarted Nov 9 · Updated 22h ago. 5 mi. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The Rickett Hollow fire in Whitley, Kentucky is currently 60 acres and 50% contained.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live interactive wildfire tracker map with perimeter; a usable map portal, though a small 1-acre fire.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page and only a one-line status update (60 acres, 50% contained), so there is no visual to repost.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image or map was found on the page.",
+        "No image credit or licence is stated, and the reuse policy is link_only.",
+        "The source gives only fire size and containment, with no date, data source or perimeter method."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.geo.tv/latest/690586-tankers-oil-facilities-remain-under-attack-despite-bets-on-iran-war-de-escalation",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Ships remain ablaze, oil supplies under threat as war turns Hormuz into maritime war zone",
+      "link": "https://www.geo.tv/latest/690586-tankers-oil-facilities-remain-under-attack-despite-bets-on-iran-war-de-escalation",
+      "published": "2026-11-11T00:20:36+00:00",
+      "summary": "An image captured by the European Union's Copernicus Sentinel-2 satellite on the same day showed a large plume of black smoke rising from the area.",
+      "image_url": "https://www.geo.tv/assets/uploads/updates/2026-11-11/690586_034514_updates.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Market hopes of an Iran war de-escalation are colliding with a fresh wave of attacks on tankers in the Strait of Hormuz and energy infrastructure across the Middle East.\nCrude prices hit two-month lows on Tuesday after US officials played down the need for further military action against Iran, with analysts pointing to President Donald Trump's more conciliatory tone since Republicans' defeat in the November 3 midterm elections.\nBut there has been little sign of attacks abating this month. A total of 37 ships were attacked in October, the highest monthly figure since the start of the war, according to data from the Washington Institute for Near East Policy.\nVideos posted on social media on Sunday and verified by Reuters showed the Navig8 Messi, a Singapore-flagged medium-sized refined products tanker, on fire off the coast of Oman. An image captured by the European Union's Copernicus Sentinel-2 satellite on the same day showed a large plume of black smoke rising from the area.\nThe vessel was among three tankers hit on Sunday for using \"unauthorised routes\" through the strait, Iranian state broadcaster IRIB reported, citing the Islamic Revolutionary Guard Corps Navy.\nNavig8, which manages the vessel and is majority-owned by ADNOC Logistics & Services, did not respond to Reuters requests for comment. ADNOC also did not reply.\nMeanwhile, US forces continued enforcing a naval blockade of Iranian ports. In the latest incident, a US military aircraft fired on and disabled a St Kitts-flagged cargo vessel that attempted to leave regional waters after visiting an Iranian port on Saturday, US Central Command said.\nThe attacks have also raised environmental concerns, with damaged vessels leaking oil into surrounding waters. A video shared on social media on Monday and verified by Reuters showed oil reaching Oman's shoreline, while satellite imagery revealed spills off the coasts of Oman and the United Arab Emirates. The Omani government did not respond to a Reuters request for comment on the footage.\nElsewhere in the region, energy infrastructure and civilian facilities have also come under attack. Iranian forces and their regional allies have struck targets including the offices of Saudi Aramco, the world's largest oil company.\nVideo verified by Reuters showed damage to an Aramco office building in Riyadh following missile strikes claimed by Yemen's Houthi movement on November 8. Saudi Arabia's Energy Ministry said the building had been targeted in an attempted attack, with falling debris causing limited damage. No injuries or fatalities were reported.\nThe maritime toll has continued to rise. The International Maritime Organisation (IMO) said it had recorded 133 confirmed incidents involving commercial vessels in the region as of November 10, with 25 seafarers killed since the conflict began. Thousands of crew members remain at risk, including those aboard ships unable to leave the Persian Gulf.\nThe IMO Council has called for stronger protection of seafarers and urged countries to avoid measures that could jeopardise the safety of international shipping.\nIn the latest reported incident, a tanker was struck by an unidentified projectile 19 nautical miles northeast of Oman's Lima on Tuesday, the United Kingdom Maritime Trade Operations (UKMTO) agency said. Its crew were safe, and no environmental impact was reported.\nIran's Revolutionary Guards Navy separately said two tankers had caught fire after striking naval mines while using what it described as an \"unauthorised route\" through the strait.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.geo.tv/assets/uploads/updates/2026-11-11/690586_034514_updates.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 400px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6.0,
+    "why": "Sentinel-2 image of a black smoke plume over Hormuz; a strong satellite scene, though no image was carried.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "This is a news article about attacks on shipping, not an Earth observation visual: the page has no image credit, the licence is not stated, the source is link-only, the image is a 400px upscale, and we cannot tell what it shows without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The article's image is not identified: it may be a news photo, a video still or the Sentinel-2 scene, and there is no credit or caption to confirm which.",
+        "Reuse policy is link_only and no licence is stated, so the image should not be reposted.",
+        "The source image is only 400px wide, so a 1080x1080 square would be badly upscaled.",
+        "The article says a Copernicus Sentinel-2 image showed a large plume of black smoke near the Navig8 Messi off Oman on the same day as the verified videos (the Sunday before 11 November 2026). It gives no exact date, coordinates, band combination or link to the scene. If the editor wants this angle, find the original scene through Copernicus or the Copernicus Browser and write a separate post from that, credited 'Image: contains modified Copernicus Sentinel-2 data'.",
+        "The article says satellite imagery showed oil spills off Oman and the UAE but names no sensor, date or source. A spill-mapping post would need that imagery found and checked first.",
+        "The story covers active conflict with casualty figures (25 seafarers killed, per the IMO) and claims from both sides (IRGC Navy, US Central Command, Houthis). A Geoawesome post would need careful framing and attribution of every claim."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.instagram.com/reel/Dfkd4GIDcXu/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Satellite images show oil in waters off the coast of Oman on November 6 and the UAE",
+      "link": "https://www.instagram.com/reel/Dfkd4GIDcXu/",
+      "published": "2026-11-10T18:45:35+00:00",
+      "summary": "Oil spill off UAE widens, satellite images show , prompting more beach closures https://www.edgenews.net/8883. October 26 ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Satellite images of oil in Oman and UAE waters; visual but reel format.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image or credit on the page, the source is a third-party Instagram reel under a link-only reuse policy, and the text is a fragment with conflicting dates and no sensor, location or extent details.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was found on the page, so there is nothing to crop to a square.",
+        "The source is an Instagram reel picked up by Google Alerts, not the original publisher of the satellite images. The reuse policy is link_only and no image licence is stated.",
+        "The image credit is missing. The satellite operator or sensor is not named.",
+        "Dates conflict: the title says November 6, while the page text mentions October 26.",
+        "The page text is a truncated snippet pointing to edgenews.net. Spill location, size, cause and source of the oil are not given.",
+        "If the editor wants to cover this, trace the original satellite imagery (for example an agency or operator release) and its credit before posting."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://ua.news/en/dovkolo-svitu/bilia-omanu-zagorivsia-tanker-navig8-messi-jerusalem-post",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tanker Navig8 Messi catches fire off Oman — Jerusalem Post - UA.NEWS",
+      "link": "https://ua.news/en/dovkolo-svitu/bilia-omanu-zagorivsia-tanker-navig8-messi-jerusalem-post",
+      "published": "2026-11-10T20:37:11+00:00",
+      "summary": "Videos of the fire published on social media and verified by Reuters, as well as a Sentinel-2 satellite image from the Copernicus program ...",
+      "image_url": "https://cdn-cabinet.ua.news/uploads/images/navig8_messi_tanker_fire_near_oman_1794342622358.webp",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The Singapore-flagged tanker Navig8 Messi caught fire off the coast of Oman. Videos of the fire published on social media and verified by Reuters, as well as a Sentinel-2 satellite image from the Copernicus program, recorded thick black smoke in the area of the vessel, reports The Jerusalem Post .\nIranian state broadcaster IRIB, citing the naval forces of the Islamic Revolutionary Guard Corps, said that three tankers allegedly using “unauthorized routes” were hit in the Strait of Hormuz on Sunday. The Navig8 Messi tanker is operated by Navig8, which is majority-owned by ADNOC Logistics & Services. The companies did not respond to Reuters requests for comment.\nSeparately, the IRGC Navy said that two tankers caught fire after hitting sea mines on an “unauthorized route” in the strait. The UK Maritime Trade Operations also reported that a tanker was struck northeast of the Omani settlement of Lima on Tuesday, without specifying who carried out the strike.\nMore current news is available on the UA.News Telegram channel Telegram .\nOil is entering the sea due to damage to the tankers. A video verified by Reuters showed oil reaching the coast of Oman, while satellite images recorded oil slicks off the coasts of Oman and the United Arab Emirates.\nSaudi Arabia’s Energy Ministry said that an attempt was made to attack a Saudi Aramco building in Riyadh: debris caused limited damage, with no deaths or injuries. According to the International Maritime Organization, 130 incidents have been confirmed in the region since the start of the conflict in late February, most of them attacks, and at least 25 seafarers have been killed.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://cdn-cabinet.ua.news/uploads/images/navig8_messi_tanker_fire_near_oman_1794342622358.webp",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://cdn-cabinet.ua.news/uploads/images/navig8_messi_tanker_fire_near_oman_1794342622358.webp?8137179",
+          "label": ""
+        },
+        {
+          "url": "https://cdn-cabinet.ua.news/assets-front/images/telegram_social_ad.svg",
+          "label": ""
+        },
+        {
+          "url": "https://cdn-cabinet.ua.news/assets-front/images/sends_social_ad.svg",
+          "label": ""
+        },
+        {
+          "url": "https://cdn-cabinet.ua.news/assets-front/images/apple-store-app.svg",
+          "label": ""
+        },
+        {
+          "url": "https://cdn-cabinet.ua.news/assets-front/images/google-store-app.svg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 600px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6.0,
+    "why": "Tanker fire off Oman with a Sentinel-2 satellite image of the scene.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The image is a reuse-restricted (link_only), uncredited, upscaled 600px picture from a news aggregator, and the page never says whether it is the Sentinel-2 image or a news photo.",
+      "what_it_shows": "A UA.News report, relaying The Jerusalem Post, on the Singapore-flagged tanker Navig8 Messi catching fire off Oman. It says a Copernicus Sentinel-2 image recorded thick black smoke near the vessel and that satellite images showed oil slicks off Oman and the UAE. It does not say whether the page image is that Sentinel-2 scene, and gives no acquisition date, band combination or image credit.",
+      "uncertainties": [
+        "Reuse policy is link_only, so the page image should not be reposted.",
+        "No image credit or licence is given on the page.",
+        "It is unclear whether the page image is the Sentinel-2 scene, a frame from social media video or a stock photo.",
+        "The source image is only 600px wide and would be upscaled for a 1080x1080 square, so it may be soft.",
+        "No Sentinel-2 acquisition date, band combination or location coordinates are given.",
+        "The attack claims are third-party and contested: IRIB citing the IRGC Navy, UKMTO not naming an attacker, and the companies not responding to Reuters.",
+        "This is second-hand reporting (UA.News relaying The Jerusalem Post relaying Reuters), not an Earth observation source.",
+        "Option for the editor: if the original Sentinel-2 smoke or oil-slick scene can be found with a clear Copernicus credit and date, it could support a separate post."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.youtube.com/watch?v=Un6ec49idnw",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "US Army's Only Base Near Hormuz Destroyed, First Video Proof Of Iran's Massive Revenge Strike?",
+      "link": "https://www.youtube.com/watch?v=Un6ec49idnw",
+      "published": "2026-11-10T22:50:59+00:00",
+      "summary": ". Sentinel-2 images dated November 8 reveal a burn scar at a site housing radar and communications infrastructure. The reported attack comes after ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Sentinel-2 burn scar images of a base near Hormuz; strong satellite change story.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image or credit on the page, link-only reuse policy, and the source is a sensationalist YouTube video making an unverified military strike claim.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was found on the page and no image credit or licence is given.",
+        "The reuse policy is link_only, so there is no image we may repost.",
+        "The source is a YouTube video with a speculative, clickbait title (ending in a question mark) about an alleged Iranian strike on a US base. The claim is unverified and third-party.",
+        "The snippet mentions Sentinel-2 images dated 8 November showing a burn scar at a site with radar and communications infrastructure. It does not say where the site is, who processed the imagery, or confirm what caused the scar.",
+        "If the editor wants to cover this, look for the original Sentinel-2 imagery from a credible OSINT or news source that gives a clear location, date and credit, rather than this video."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/fe55111daff8445c",
+      "source_id": "google_alerts_6",
+      "source_name": "Google Alerts #6",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Okanogan, Washington | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/fe55111daff8445c",
+      "published": "2026-11-10T15:54:51+00:00",
+      "summary": "Willow7,359 ac · 92% containedStarted Jun 28 · Updated 4d ago. 3000 ft. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Okanogan, Washington observed by SOF from 4 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live fire map of Okanogan, WA with 7,359-acre Willow fire; interactive and playable.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, and the source is an auto-generated detection stub with too little information (no date, sensor detail or fire size) to caption without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was found on the page, and the reuse policy is link_only, so there is nothing to post as a square.",
+        "'SOF' is not defined on the page; the sensor or detection product behind the 4 merged observations is unknown.",
+        "No observation date, fire size, location detail beyond Okanogan, Washington, or confirmation that the detections are an active wildfire.",
+        "No image credit or licence stated."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "tracking-the-ocean-s-great-forest-how-hakai-institute-s-kelp-explorer-is-helping-british",
+      "source_id": "planet",
+      "source_name": "Planet Pulse",
+      "source_type": "eo_imagery",
+      "licence": "link_only",
+      "title": "Tracking the Ocean’s Great Forest: How Hakai Institute's Kelp Explorer Is Helping British Columbia Secure Its Coastal Heritage",
+      "link": "https://www.planet.com/pulse/tracking-the-ocean-s-great-forest-how-hakai-institute-s-kelp-explorer-is-helping-british/",
+      "published": "2026-11-10T15:16:00+00:00",
+      "summary": "The Kelp Explorer platform leverages Planet satellite imagery to help communities and organizations better understand and steward kelp forests.",
+      "image_url": "https://cdn.sanity.io/images/hvd5n54p/blog/26a5976ab00e2fd64c3ed13a8b39ca4c1a43c8fc-3840x2160.jpg",
+      "credit_hint": "Planet Labs PBC",
+      "source_tag": "@planet",
+      "page_text": "Kelp forest in Broughton Archipelago. Credit: Grant Callegari, Hakai Institute\nThis article was written in collaboration with the Hakai Institute. Co-authors at Planet include Thamires de Souza Ferreira and Cassidy Rankine.\nAt low tide on the west coast of Vancouver Island, bull kelp blades float on the ocean surface in a buoyant, sun-catching canopy. They sway in the Pacific swell in a kaleidoscope of golds, blues, and browns. For the people who look after Pacific Rim National Park Reserve , these kelp forests are more than beautiful scenery; they are nurseries for fish, food for sea otters, a buffer against storm surge, and one of the best barometers of nearshore ocean health. But despite the crucial and interconnected role they play in the ecosystem, they can be a challenge to measure and manage.\n“For Parks Canada and the First Nations and local communities we work with, kelp is a key ecosystem in nearshore marine waters that supports biodiversity. Our job is to measure and monitor the health of these systems, and to understand if they’re improving, stable, or declining, and what that means for the park reserves,” says Pacific Rim National Park Reserve ecologist Jennifer Yakimishyn. “Because we can’t be underwater or everywhere at once, we’re looking for innovative methodologies to reflect those ecosystems by tracking kelp canopies.”\nThe Hakai Institute is harnessing Planet imagery to help Yakimishyn, and many others across British Columbia, solve this problem. They developed Kelp Explorer , an online platform designed to help communities and organizations better understand and steward these rich kelp forests.\nFor a seaweed that creates large canopies, kelp can be surprisingly hard to keep track of. Bull kelp is an annual macroalgae, so a kelp forest can grow, shrink, and move from one year to the next – even under healthy conditions. Tides hide and reveal the canopy several times a day. And in British Columbia, the coast is long, convoluted, and often under cloud, inhibiting a full accounting at scale.\nSeventeen First Nations communities and the B.C. government know first-hand how much work it takes to comprehensively inventory. When they began building a regional kelp monitoring program under the Marine Plan Partnership for the North Pacific Coast , a group of Coastal Guardian Watchmen went out by boat to record kelp along roughly 800 linear kilometres of coastline, logging what they saw over the course of a summer.\nMamalilakulla Guardian Watchmen surveying Kelp by Kayak for a MaPP survey. Credit: Grant Callegari, Hakai Institute.\nBut the tides, capacity and shifting kelp have made it nearly impossible to repeat extensive, comprehensive boat-based surveys in a consistent way.\n\"It's very challenging to cover all that water and census hundreds of kilometers of coastline often enough to track kelp forests at those scales; we need other methods to help inform monitoring, research and management,\" says Luba Reshitnyk, who leads marine habitat mapping at Hakai Institute.\nMarine protected areas across B.C. face this same problem. Gwaii Haanas, Pacific Rim, and Gulf Islands park reserves all have to report regularly on ecological indicators. While drone-based kelp forests surveys occur at local sites, data, methods and capacity are missing to map kelp forests across the whole managed region. Similarly, First Nations know how much kelp matters to their territories and heritage – as habitat that supports biodiversity, as a harvested and culturally important resource, and as an indicator of ecosystem health — and are looking for tools and resources to address the challenge of mapping and understanding kelp forests at large, regional scales.\nHakai Institute Research Scientist Luba Reshitnyk reviews data collected during a kelp monitoring survey on British Columbia’s Central Coast. Credit: Keith Holmes, Hakai Institute.\nThe Hakai Institute , part of the Tula Foundation , studies the B.C. coast, from its icefields to the deep ocean. Its geospatial team maps nearshore habitats using drones, aerial photography, lidar, and satellites, and creates specialized tools to help stakeholders address regional challenges and opportunities. In 2020, Hakai noted an important gap that deserved renewed attention: No one had surveyed where kelp grows along the B.C. coast, and how those forests are changing, since the mid-2000s. And no one had ever done it for the entire coast.\nThe team pulled together every dataset it could find or create. Building on drone-based, long-term monitoring site data which began in 2015, they embarked on regional scale species mapping using a fixed wing aircraft . For the deeper story, they used Landsat imagery to build a time series of the region with colleagues at the Woods Hole Oceanographic Institution and the University of Massachusetts Dartmouth . The analysis looks back decades, tracking change in expanse and location. It can identify outlier years, relating these shifts to marine heatwaves and other possible catalysts.\nThe team then used Planet imagery to provide a sharper lens. At about three-meter resolution, PlanetScope® picks up the small kelp beds that hug the shoreline, which other satellite sensors miss. It can give a fuller picture of the kelp forests that are there, and where changes affect local stakeholders. Machine learning models and pipelines built by Software Developer Taylor Denouden at Hakai classify Planet imagery at a scale beyond the scope of manual interpretation – visualizing this higher-resolution information across the region.\nVisualization of kelp forests across the region, derived from PlanetScope data, analyzed by Hakai Institute and powering Kelp Explorer.\nThe result is Kelp Explorer , a free online tool designed to answer the big questions planners and communities have about kelp forests.\nThe design was shaped by many conversations with First Nations stewards and marine planners. \"Remote sensing is pixels, and it's tricky to interpret,\" says Will Mc",
+      "image_credit": "Grant Callegari, Hakai Institute",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://cdn.sanity.io/images/hvd5n54p/blog/26a5976ab00e2fd64c3ed13a8b39ca4c1a43c8fc-3840x2160.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://www.planet.com/pulse/images/pulse_title.png",
+          "label": ""
+        },
+        {
+          "url": "https://cdn.sanity.io/images/hvd5n54p/blog/f63775da288aafb44f25adc000d1638f0147a7ef-340x340.jpg?w=2048&q=75&fit=clip&auto=format",
+          "label": ""
+        },
+        {
+          "url": "https://cdn.sanity.io/images/hvd5n54p/blog/26a5976ab00e2fd64c3ed13a8b39ca4c1a43c8fc-3840x2160.jpg?w=2048&q=75&fit=clip&auto=format",
+          "label": ""
+        },
+        {
+          "url": "https://cdn.sanity.io/images/hvd5n54p/blog/8e21ce8f7ce556c40f2c7dd5615d2267f2a0e2a2-3840x2160.jpg?w=2048&q=75&fit=clip&auto=format",
+          "label": ""
+        },
+        {
+          "url": "https://cdn.sanity.io/images/hvd5n54p/blog/6ccabe3ef972361133dba1c4ce99734aab66d997-4080x3072.jpg?w=2048&q=75&fit=clip&auto=format",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-11-18-tracking-the-ocean-s-great-forest-how-ha.jpg",
+      "image_note": "square crop, from 2160px of source width"
+    },
+    "score": 6.0,
+    "why": "Kelp Explorer portal built on Planet imagery; map tool, but no image supplied.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A photograph of a kelp forest in the Broughton Archipelago, British Columbia, by Grant Callegari of the Hakai Institute. It illustrates a Planet Pulse article on Hakai Institute's Kelp Explorer, a free online tool. The tool maps kelp forests along the BC coast using roughly 3 m PlanetScope imagery classified with machine learning, alongside a decades-long Landsat time series.",
+      "uncertainties": [
+        "The image is a photograph, not satellite imagery. The page does not say whether it was taken from a drone, an aircraft or the surface.",
+        "No capture date is given for the photo.",
+        "The image licence is not stated on the page, and the reuse policy is link_only. Check the permission to repost the image before publishing.",
+        "The PlanetScope-derived kelp visualisation mentioned in the article might be a more EO-relevant image, but its credit is not given in the source text.",
+        "The page text is truncated, so details about Kelp Explorer's features (what users can click or compare) are not available."
+      ],
+      "image_credit": "Image: Grant Callegari, Hakai Institute",
+      "facebook": "As of 2020, no one had ever mapped kelp along the entire British Columbia coast.\n\nThis kelp forest in the Broughton Archipelago is the kind of habitat Hakai Institute's free Kelp Explorer now tracks, using about 3 m PlanetScope imagery to catch small shoreline beds that other sensors miss. A decades-long Landsat time series supplies the history.\n\nRead more: https://www.planet.com/pulse/tracking-the-ocean-s-great-forest-how-hakai-institute-s-kelp-explorer-is-helping-british/\n\nImage: Grant Callegari, Hakai Institute\n\n#Kelp #Satellites #Landsat #Oceans #Geoawesome",
+      "instagram": "Bull kelp is an annual, so a forest can shift from one year to the next.\n\nThis kelp forest in the Broughton Archipelago is part of a coast Hakai Institute now maps with PlanetScope imagery.\n\nFind out more: https://www.planet.com/pulse/tracking-the-ocean-s-great-forest-how-hakai-institute-s-kelp-explorer-is-helping-british/\n\nImage: Grant Callegari, Hakai Institute\n\n#Kelp #Canada #Satellites #Geoawesome",
+      "youtube": "At about 3 m resolution, PlanetScope catches small shoreline kelp beds that other satellite sensors miss.\n\nHakai Institute classifies that imagery with machine learning and pairs it with a decades-long Landsat time series, which flags outlier years and their possible links to marine heatwaves. Both feed the free Kelp Explorer tool. Pictured: a kelp forest in the Broughton Archipelago.\n\nLearn more: https://www.planet.com/pulse/tracking-the-ocean-s-great-forest-how-hakai-institute-s-kelp-explorer-is-helping-british/\n\nImage: Grant Callegari, Hakai Institute\n\n#Kelp #Imagery #Landsat #Coasts #Geoawesome",
+      "x": "Guardian Watchmen once logged kelp by boat along about 800 km of BC coastline in one summer. Hakai's Kelp Explorer now maps it with PlanetScope.\nhttps://www.planet.com/pulse/tracking-the-ocean-s-great-forest-how-hakai-institute-s-kelp-explorer-is-helping-british/\nImage: Grant Callegari, Hakai Institute\n#Kelp #Mapping #Oceans #Geoawesome",
+      "alt_text": "A kelp forest in the waters of the Broughton Archipelago, British Columbia."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-11-18-tracking-the-ocean-s-great-forest-how-ha.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.linkedin.com/posts/evan-applegate_used-opus-55-google-3d-tiles-and-maplibre-activity-7525588435055640577-BPbP",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Used Opus 5.5, Google 3D Tiles and MapLibre Navara (an extension that offers more ... - LinkedIn",
+      "link": "https://www.linkedin.com/posts/evan-applegate_used-opus-55-google-3d-tiles-and-maplibre-activity-7525588435055640577-BPbP",
+      "published": "2026-11-10T21:37:33+00:00",
+      "summary": "Used Opus 5.5, Google 3D Tiles and MapLibre Navara (an extension that offers more 3D controls) to make a rainy Silver Lake, Los Angeles night sene ...",
+      "image_url": "https://dms.licdn.com/playlist/vid/v2/D5605AQHT5sRqnUvs0g/thumbnail-with-play-button-overlay-high/B56aG9a3qOJ0C4-/0/1794179302941?e=2147483647&v=beta&t=3u9sVAlRFnkJtpI4cVPzdetsk6eSGQsZq9f-6H0GlLg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\nUsed Opus 5.5, Google 3D Tiles and MapLibre Navara (an extension that offers more 3D controls) to make a rainy Silver Lake, Los Angeles night sene. An interactive map that has weather, good lighting and labels is the holy grail and I'm getting closer...\n\nRight now there are no technical barriers exist between you and the Map You Want. You need only ask.\n\nExplore the map, turn on the speaker to hear some rain: https://lnkd.in/gCSekTVf\nAmazing, Evan! And you’re message of anyone can do it is terrific.\nCreate your free account or sign in to continue your search\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://dms.licdn.com/playlist/vid/v2/D5605AQHT5sRqnUvs0g/thumbnail-with-play-button-overlay-high/B56aG9a3qOJ0C4-/0/1794179302941?e=2147483647&v=beta&t=3u9sVAlRFnkJtpI4cVPzdetsk6eSGQsZq9f-6H0GlLg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5616AQEQowVxKQNdQQ/profile-displaybackgroundimage-shrink_200_800/B56ZVoKzcVHQAY-/0/1741209418073?e=2147483647&v=beta&t=-6OxJqp5GomejZQGm_-JIRInh7cF94GaodiZUfgy_k8",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 720px of source width"
+    },
+    "score": 5.0,
+    "why": "Rainy Silver Lake 3D map scene from Google 3D Tiles and MapLibre; visual, but a LinkedIn post.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The source's reuse policy is link_only and the page gives no image credit or licence, so we cannot repost the image; the visual is also an individual's AI-assisted 3D demo whose components we could not describe without guessing.",
+      "what_it_shows": "A LinkedIn post by Evan Applegate (name taken from the post URL) about an interactive 3D night scene of Silver Lake, Los Angeles, with rain. He says he built it using Opus 5.5, Google 3D Tiles and MapLibre Navara, which he describes as an extension that offers more 3D controls. The page links to an interactive version with rain audio. The post gives no data date, lighting method or other technical details.",
+      "uncertainties": [
+        "Reuse policy is link_only: the image should not be reposted as a square, which rules out the standard image-repost format.",
+        "No image credit or licence appears on the page. The author's name comes only from the URL slug 'evan-applegate', not from the page text.",
+        "'MapLibre Navara' is described only as an extension with more 3D controls. It is not clear whether this is an official MapLibre project or a third-party plugin, so check before naming it.",
+        "'Opus 5.5' is named without context. Presumably it is an AI model used to write the code, but the post does not say what role it played.",
+        "The interactive map link is a shortened lnkd.in URL, and its final destination and stability are unknown.",
+        "The claim that 'no technical barriers exist' is the author's opinion, not a verifiable fact.",
+        "The page text is a LinkedIn scrape that includes a third-party comment and login boilerplate. The original post may contain more context that was not captured.",
+        "If the editor wants to cover this anyway, ask Evan Applegate for permission and a credit line, or write a link-only text post without the image."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.esri.com/arcgis-blog/products/arcgis/geoai/whats-new-in-geospatial-ai-november-2026",
+      "source_id": "google_alerts_1",
+      "source_name": "Google Alerts #1",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "What's new in geospatial AI (November 2026) - Esri",
+      "link": "https://www.esri.com/arcgis-blog/products/arcgis/geoai/whats-new-in-geospatial-ai-november-2026",
+      "published": "2026-11-10T14:42:05+00:00",
+      "summary": "The earth observation foundation model (EO-DINO), developed by Esri ... GeoAI and raster functionality across ArcGIS. Before Esri, Alexandra ...",
+      "image_url": "https://www.esri.com/arcgis-blog/app/uploads/2026/11/9311383-geospatial-ai-blog-card-826x465-1.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "New geospatial AI capabilities are ready to help boost productivity and execute advanced spatial analytical workflows. Learn how to equip AI agents, such as Anthropic’s Claude or Microsoft Copilot Studio, with geospatial context, turn data and imagery into insights faster with AI premium services and embeddings, and bring trusted assistants across ArcGIS into your workflows. Let’s dive in.\nWe’re bringing AI and geography closer together in two ways.  First, we’re connecting ArcGIS to the agentic ecosystems your teams already use through MCP (Model Context Protocol), equipping AI agents like Anthropic’s Claude and Microsoft Copilot Studio, with foundational geospatial capabilities such as finding places, planning routes, and querying spatial data so they can answer location-related questions accurately. Second, we’re helping you make maps and data conversational so people across your organization can ask questions and get answers from your GIS content.\nAny external AI agent can now be equipped with geospatial context, connecting to ArcGIS through MCP to understand where things are, search spatial data, and uncover what’s nearby or at risk. For example, in the demo below, you’ll see that you can get answers to questions like “which 5 assets within 0.25 miles should I inspect next? Prioritize them based on the last inspection date”.\nCurrently, MCP support in beta is available in ArcGIS Location Platform and ArcGIS Enterprise , with general availability coming later this year in their next respective releases. Existing ArcGIS maps, layers, and services can be leveraged by the agents that teams already use, augmenting those agents with geospatial context.\nWith or without code, your organization can now get answers from maps through conversation.\nDevelopers can now build agentic mapping applications powered by out-of-the-box geospatial agents and custom agents you can create in both ArcGIS Enterprise 12.2 and ArcGIS Online using AI components (beta) in the ArcGIS Maps SDK for JavaScript . Users across your organization can interact with these custom mapping applications to find answers backed by geospatial data, asking questions like “How many counties produced less wheat in 2022 than in 2017?”.\nIn addition, a new out-of-the-box agent called knowledge agent is available in the AI components (beta) in the ArcGIS Maps SDK for JavaScript. You can ask questions of a knowledge graph service that can span many different relationships, such as “who are our top suppliers by spend” and get summarized answers with results visualized in a link chart or map. Ask follow-up questions to expand those results, find indirect paths between entities, and update the link chart directly from the chat, all without needing to write queries.\nFor teams that don’t want to code, start by creating a map with your data, then use the ArcGIS Instant Apps Data Explorer template (beta) to enhance it with a conversational experience. Available in ArcGIS Enterprise 12.2 and ArcGIS Online, the Data Explorer gives organizations a no-code way to create agentic mapping apps that let users across your organization interact with existing maps and data through natural language. Ask questions like “Show which fuel depots have less than two weeks of supply?” and other geospatially related inquiries to get answers faster.\nYou can also create agentic mapping applications with ArcGIS Experience Builder applications. Now available in beta in ArcGIS Online, AI chat lets users interact with configured ArcGIS Experience Builder apps through natural language, without rebuilding anything. App authors can enable AI chat in the app’s settings, and customize the chat name, style, tone, layout, and instructions to fit the app’s purpose. End users within your organization can interact with the app and access data through natural language to explore maps, find locations, run spatial queries, and print maps, all by describing a task.\nAI tools and models, included with ArcGIS, accelerate how users create, extract, and analyze many types of geospatial data, including imagery, vector, text, time series, and 3D. In the release of ArcGIS Pro 3.8, we introduce a new foundation model, an embeddings dataset, and several AI tools that help users turn data into actionable insight.\nAccelerate similarity search and predictive modeling across USA communities\nThe USA geodemographic embeddings 2026 layer is now in general availability. This dataset transforms demographic, socioeconomic, environmental, and census-derived variables, including data from the U.S. Census Bureau and American Community Survey (ACS), into embedding attributes that capture geodemographic and environmental characteristics across the United States. This helps analysts build more efficient workflows for predictive modeling, clustering, and similarity search for use cases like estimating health outcomes and identifying new market opportunities.\nEarth observation foundation model turns multi-sensor imagery into insight\nThe earth observation foundation model (EO-DINO), developed by Esri, helps organizations extract information from remotely sensed imagery over a broad range of tasks with less labeled data. Trained using high-resolution RGB world imagery, multispectral satellite imagery, and SAR, EO-DINO captures fine-grained geographic details about the Earth across multiple sensors. Customers can access it as a deep learning package (.dlpk) in the ArcGIS Living Atlas and use it to identify similar features across large areas, detect changes, and differentiate Earth surface materials and land cover more accurately. This model generates geographic embeddings that work with analysis tools or works as a backbone for fine-tuning downstream models for environmental monitoring use cases and more.\nExpanding the new embeddings-based analysis toolset in ArcGIS Pro\nTurn 3D reality capture into analysis-ready GIS features\nThe new Detect Objects In 3D Space tool in ArcGIS Pro automatically identifies objects i",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.esri.com/arcgis-blog/app/uploads/2026/11/Untitled-November-09-2026-at-15.22.55.gif",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://www.esri.com/arcgis-blog/app/uploads/2026/11/Untitled-November-09-2026-at-15.22.55.gif",
+          "label": ""
+        },
+        {
+          "url": "https://www.esri.com/arcgis-blog/app/uploads/2026/11/Untitled-November-09-2026-at-15.25.05.gif",
+          "label": ""
+        },
+        {
+          "url": "https://www.esri.com/arcgis-blog/app/uploads/2026/11/Untitled-October-29-2026-at-16.03.03.gif",
+          "label": ""
+        },
+        {
+          "url": "https://www.esri.com/arcgis-blog/app/uploads/2026/11/image-16-scaled.png",
+          "label": ""
+        },
+        {
+          "url": "https://www.esri.com/arcgis-blog/app/uploads/2026/11/AI_GeodemographicEmbeddings_FindSimilar_withTools_1_extra-media.png",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 746px of source width"
+    },
+    "score": 5.0,
+    "why": "Covers Esri's EO-DINO earth observation foundation model; a possible map-driven story but no image.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Vendor product-update blog post (Esri AI features, MCP, embeddings) with no identifiable striking map or EO image, no image credit and link-only reuse policy.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page names no image credit and no image licence, and the reuse policy is link_only.",
+        "The cropped image is not described in the text and is most likely a product screenshot or demo graphic rather than a map or satellite image.",
+        "The content is a feature announcement (MCP beta, AI components, USA geodemographic embeddings 2026, EO-DINO foundation model), better suited to a news item than an image repost."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  }
+]
