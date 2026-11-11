@@ -779,5 +779,17 @@
   "instagram": "https://www.instagram.com/p/DfeUGgPlyjA/",
   "issue": 41,
   "title": "Axis Maps Contours"
+ },
+ "2026-11-09-2-ozone-hole-reaches-its-2026-maximum": {
+  "attempts": {
+   "facebook": 1,
+   "instagram": 1
+  },
+  "errors": {
+   "instagram": "OAuthException 9007: Media ID is not available"
+  },
+  "facebook": "https://www.facebook.com/302602119827463_1638570907724839",
+  "issue": 42,
+  "title": "Ozone Hole Reaches Its 2026 Maximum"
  }
 }
