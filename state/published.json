@@ -783,12 +783,14 @@
  "2026-11-09-2-ozone-hole-reaches-its-2026-maximum": {
   "attempts": {
    "facebook": 1,
-   "instagram": 1
+   "instagram": 2
   },
+  "done": "2026-11-11T11:01:20.358001+00:00",
   "errors": {
    "instagram": "OAuthException 9007: Media ID is not available"
   },
   "facebook": "https://www.facebook.com/302602119827463_1638570907724839",
+  "instagram": "https://www.instagram.com/p/DfmU3aWDvGB/",
   "issue": 42,
   "title": "Ozone Hole Reaches Its 2026 Maximum"
  }
