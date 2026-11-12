@@ -804,5 +804,17 @@
   "instagram": "https://www.instagram.com/p/DfnM5L3GmzM/",
   "issue": 42,
   "title": "Utopian London"
+ },
+ "2026-11-10-12-jos-mar-n-fari-a-linkedin": {
+  "attempts": {
+   "facebook": 1,
+   "instagram": 1
+  },
+  "errors": {
+   "instagram": "OAuthException 9007: Media ID is not available"
+  },
+  "facebook": "https://www.facebook.com/302602119827463_1639563350958928",
+  "issue": 43,
+  "title": "José Marín Fariña - LinkedIn"
  }
 }
