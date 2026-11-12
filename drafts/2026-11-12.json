@@ -1,0 +1,1214 @@
+[
+  {
+    "item": {
+      "id": "https://science.nasa.gov/?p=1510412",
+      "source_id": "nasa_eo",
+      "source_name": "NASA Earth Observatory",
+      "source_type": "eo_imagery",
+      "licence": "reuse",
+      "title": "Scotland’s Flow Country",
+      "link": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/",
+      "published": "2026-11-12T05:01:00+00:00",
+      "summary": "Blanket bogs in the Scottish Highlands store vast amounts of carbon.",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/scotland’s-flow-country-/scotland_flowcountry_oli2_20240304.jpg?w=720&h=600&fit=clip&crop=faces%2Cfocalpoint",
+      "credit_hint": "NASA Earth Observatory",
+      "source_tag": "@NASAEarth",
+      "page_text": "Blanket bogs in the Scottish Highlands store vast amounts of carbon.\nCompared to ecosystems in many other parts of the world, the blanket bogs of the Flow Country in northern Scotland are unassuming—soggy, treeless landscapes dominated by hummocky mosses, grasses, and heathers. Yet, to ecologists, the seemingly desolate areas are nothing short of extraordinary.\nThe bogs store tremendous quantities of carbon . That’s because their soils are so waterlogged that microbes cannot fully break down dead plant material, a process that would otherwise release carbon dioxide. Instead, partially decayed plant matter accumulates into thick layers of spongy, crumbly, carbon-rich material called peat .\nThe unusual ecosystems, also called blanket mires and featherbed bogs, only occur in places with abundant rainfall, poor drainage, and low levels of evapotranspiration . These types of bogs cover just 120,000 square kilometers (46,000 square miles) globally, less than one-tenth of one percent of Earth’s land surface. The image above, captured by the OLI (Operational Land Imager) on Landsat 8 , is centered on blanket bogs in the Scottish Highlands, home to the largest such ecosystem in Europe. This peatland is also the first of its type to be inscribed as a UNESCO World Heritage Site .\nThe peat bogs of northern Scotland, home to more than 30 species of sphagnum moss , are spread across some 1,900 square kilometers (730 square miles) of the country’s Highlands region. In this image, boggy areas appear dark brown and are sprinkled with lakes. The light green area on the right side around Thurso is farmland. The darker green geometric patterns in the center are conifer plantations . The image was captured in the spring, the part of the year when the land surface is most waterlogged and peat bogs begin to accumulate large amounts of new biomass.\nWhile forests store most of their carbon in living trees—which eventually release it back into the atmosphere when they burn or die—peat bogs often store carbon for many thousands of years. Some parts of the Flow Country have been accumulating peat for more than 9,000 years, building deposits exceeding eight meters thick, according to UNESCO. Overall, scientists estimate that all of the world’s peatlands cover just 3 percent of Earth’s land surface but store more than 600 gigatons of carbon—about twice as much as all the world’s forests combined.\nNASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey . Story by Adam Voiland.\nStay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.\nBrown carbon, emitted by wildland fires and tracked over the span of a week in July 2026, worsened air quality…\nFall color covers the forested slopes of Bieszczady National Park, while patches of polonina, a type of high-mountain meadow, have…\nOver the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA World…\nSubscribe to the Earth Observatory and get the Earth in your inbox.\nNASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.\nOpen access to NASA’s archive of Earth science data",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=1536&h=864&fit=clip&crop=faces%2Cfocalpoint",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/scotland’s-flow-country-/scotland_flowcountry_oli2_20240304.jpg?w=720&h=600&fit=clip&crop=faces%2Cfocalpoint",
+          "label": ""
+        },
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=1536&h=864&fit=clip&crop=faces%2Cfocalpoint",
+          "label": ""
+        },
+        {
+          "url": "https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=1536&h=1536&fit=clip&crop=faces%2Cfocalpoint",
+          "label": ""
+        },
+        {
+          "url": "https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?w=1536",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-12-1-scotland-s-flow-country.jpg",
+      "image_note": "square crop, from 864px of source width"
+    },
+    "score": 9.0,
+    "why": "Landsat satellite view of Scotland's blanket bogs; striking carbon-store landscape from NASA Earth Observatory.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A Landsat 8 OLI image centred on the blanket bogs of the Flow Country in Scotland's Highlands, Europe's largest blanket bog and the first peatland of its type inscribed as a UNESCO World Heritage Site. Boggy areas appear dark brown with scattered lakes, darker green geometric shapes in the centre are conifer plantations, and the light green area on the right around Thurso is farmland. It was captured in spring, when the land surface is most waterlogged.",
+      "uncertainties": [
+        "No exact acquisition date or year is given, only 'spring'.",
+        "The band combination is not stated, so the posts do not call it natural colour.",
+        "The image credit field was not found. The page text says 'NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey'. The editor may want to extend the credit line if space allows.",
+        "Image licence is not stated on the page. NASA imagery is generally reusable, but check before posting.",
+        "The square crop is taken from 864px of the source width. Check that the Thurso farmland on the right side is still in frame, since the alt text mentions it.",
+        "The 9,000 years and 8 metres figures are attributed to UNESCO, and the 600 gigatons figure is a scientists' estimate. The posts keep both hedges."
+      ],
+      "image_credit": "Image: NASA Earth Observatory",
+      "facebook": "Europe's largest blanket bog sits in this Landsat 8 view of northern Scotland, a habitat that covers less than 0.1 percent of Earth's land.\n\nThe Flow Country's peat (dark brown, sprinkled with lakes) spans some 1,900 square kilometres of the Highlands. In places it has been building for more than 9,000 years, according to UNESCO. The darker green geometric patches in the centre are conifer plantations.\n\nFull story: https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/\n\nImage: NASA Earth Observatory\n\n#Landsat #Peatlands #Scotland #Geoawesome",
+      "instagram": "Every dark brown patch here is waterlogged peat, in places more than eight metres thick, according to UNESCO.\n\nScotland's Flow Country, seen by Landsat 8 in spring, when the bogs are at their wettest. Those neat green blocks are conifer plantations.\n\nLearn more: https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/\n\nImage: NASA Earth Observatory\n\n#Peat #Scotland #Landsat #Geoawesome",
+      "youtube": "Scientists estimate that the world's peatlands cover about 3 percent of the land but hold more than 600 gigatons of carbon, roughly twice as much as all forests combined.\n\nThis Landsat 8 OLI scene centres on Scotland's Flow Country, the first blanket bog of its type on the UNESCO World Heritage list. Bogs show dark brown with scattered lakes, and conifer plantations appear as darker green geometric blocks. The image was captured in spring, when the surface is wettest.\n\nRead more: https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/\n\nImage: NASA Earth Observatory\n\n#Bogs #Carbon #Landsat #Geoawesome",
+      "x": "More than 30 species of sphagnum moss grow in the Flow Country, the northern Scottish peatland seen here by Landsat 8.\nhttps://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/\nImage: NASA Earth Observatory\n#Landsat #Peat #Geoawesome",
+      "alt_text": "Satellite view of the northern Scottish Highlands showing dark brown bogland dotted with lakes, darker green rectangular plantation blocks in the centre and lighter green farmland towards the right."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-12-1-scotland-s-flow-country.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.youtube.com/shorts/fypLrJ9HSMM",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "NASA Landsat Shows an Iraqi Lake Losing Its Water and Turning Red - YouTube",
+      "link": "https://www.youtube.com/shorts/fypLrJ9HSMM",
+      "published": "2026-11-11T20:18:51+00:00",
+      "summary": "A NASA Landsat series follows an Iraqi lake from 1988. NASA ties its severe water loss to droughts, dam management and conflict.",
+      "image_url": "https://i.ytimg.com/vi/fypLrJ9HSMM/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDjiXykreFyw6KMbjmXvqbIEdQpOA",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fypLrJ9HSMM/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDjiXykreFyw6KMbjmXvqbIEdQpOA",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 405px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 8.0,
+    "why": "NASA Landsat time series of an Iraqi lake drying and turning red; strong before-after visual.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Reuse policy is link_only with no image credit or licence, the 405px frame is from an unidentified YouTube Short, and the lake, end date and red colour cannot be explained without guessing.",
+      "what_it_shows": "A YouTube Short described as a NASA Landsat series following an unnamed Iraqi lake from 1988. According to the page, NASA ties the lake's severe water loss to droughts, dam management and conflict. The title says the lake is turning red, but the source does not explain the colour.",
+      "uncertainties": [
+        "The source's reuse policy is link_only, so the image should not be reposted as a square.",
+        "No image credit or licence is stated, and the uploader of the Short is not identified (it may be a third-party channel repackaging NASA material).",
+        "The lake is not named.",
+        "Only the start year (1988) is given. The end date and the number of images in the series are not stated.",
+        "The source does not say which Landsat satellites or band combination were used, or whether the images are natural or false colour.",
+        "The source does not say whether 'turning red' means a real change in water colour (for example salinity or algae) or a false-colour rendering.",
+        "No figures are given for the amount of water lost.",
+        "The source is only 405px wide and would need heavy upscaling, so sharpness is likely poor.",
+        "Better option: find the original NASA Earth Observatory or Landsat feature and use that, with its own credit and text."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "5292 at http://www.eumetsat.int",
+      "source_id": "eumetsat",
+      "source_name": "EUMETSAT",
+      "source_type": "eo_imagery",
+      "licence": "link_only",
+      "title": "Image of the week: Storm Charles hits Spain and Portugal",
+      "link": "http://www.eumetsat.int/image-week-storm-charles-hits-spain-and-portugal",
+      "published": "2026-11-11T14:03:53+00:00",
+      "summary": "Image of the week: Storm Charles hits Spain and Portugal Craig MacDonald Wed, 11/11/2026 - 15:03 Image of the week: Storm Charles hits Spain and Portugal Watching our Earth from space This week’s image shows Storm Charles over the Iberian Peninsula at 11:00 UTC on 11 November 2026. The image was captured by the Meteosat-12 geostationary weather satellite, 36,000 km above the Earth. Last Updated Published on Charles is the second Atlantic storm to reach Europe in just a few days. After bringing more than 200 mm of rain to Madeira and wind gusts of over 120 km/h to the Canary Islands, the storm reached the Iberian Peninsula on 11 November. Severe weather is expected across Spain and Portugal throughout Wednesday and into Thursday, with red weather warnings in place in both countries. The latest imagery from Meteosat-12 can be accessed on our online viewing platform, EUMETView . Image and text submitted by EUMETview user Antonio Vecoli. Storm Charles image This image was captured by the FCI instrument onboard Meteosat-12 on 11 November 2026. The Meteosat weather satellites provide imagery for the early detection of fast-developing severe weather, weather forecasting and climate monito",
+      "image_url": "https://www-cdn.eumetsat.int/files/styles/16_9_large/public/2026-11/EUM_IOW_20261111-optimised.jpg?h=d1cb525d&itok=y2iWhwDI",
+      "credit_hint": "EUMETSAT",
+      "source_tag": "@eumetsat",
+      "page_text": "Charles is the second Atlantic storm to reach Europe in just a few days. After bringing more than 200 mm of rain to Madeira and wind gusts of over 120 km/h to the Canary Islands, the storm reached the Iberian Peninsula on 11 November. Severe weather is expected across Spain and Portugal throughout Wednesday and into Thursday, with red weather warnings in place in both countries.\nThe latest imagery from Meteosat-12 can be accessed on our online viewing platform, EUMETView .\nImage and text submitted by EUMETview user Antonio Vecoli.\nThis image was captured by the FCI instrument onboard Meteosat-12 on 11 November 2026.\nThe Meteosat weather satellites provide imagery for the early detection of fast-developing severe weather, weather forecasting and climate monitoring.\nLearn more about Meteosat Third Generation satellites\nSee our livestream of imagery from Meteosat-12",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www-cdn.eumetsat.int/files/styles/16_9_large/public/2026-11/EUM_IOW_20261111-optimised.jpg?h=d1cb525d&itok=y2iWhwDI",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://www-cdn.eumetsat.int/files/2026-11/EUM_IOW_20261111-optimised.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www-cdn.eumetsat.int/files/styles/3_4_large/public/2026-11/EUM_IOW_20261111-optimised.jpg?h=d1cb525d&itok=mGEj00Bz",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-12-3-image-of-the-week-storm-charles-hits-spa.jpg",
+      "image_note": "square crop, from 1080px of source width"
+    },
+    "score": 8.0,
+    "why": "Meteosat-12 full-disc view of Storm Charles over Iberia; vivid, timely Earth-from-space scene.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A Meteosat-12 image of Storm Charles reaching Spain and Portugal, captured by the FCI instrument on 11 November 2026. Charles is the second Atlantic storm to reach Europe in a few days. It brought more than 200 mm of rain to Madeira and gusts of over 120 km/h to the Canary Islands, and red weather warnings are in place in both Spain and Portugal. The image was submitted by EUMETView user Antonio Vecoli.",
+      "uncertainties": [
+        "The page does not state which FCI channel or RGB composite is shown, so the colours are not explained.",
+        "No capture time is given beyond the date of 11 November 2026.",
+        "No image credit was found on the page. EUMETSAT is used as the publisher, although the image was submitted by EUMETView user Antonio Vecoli. Consider crediting him too.",
+        "The image licence is not stated and the reuse policy is link_only. Check whether a square crop may be posted.",
+        "Alt text is based on the title and page text. Check it against the actual crop before posting.",
+        "The rainfall and gust figures come from EUMETSAT's text, but the page does not name the stations or measurement source."
+      ],
+      "image_credit": "Image: EUMETSAT",
+      "facebook": "Charles is the second Atlantic storm to reach Europe in just a few days, and Meteosat-12 caught it arriving over Spain and Portugal.\n\nThis view comes from the FCI instrument on Meteosat-12 on 11 November 2026. Before reaching Iberia, the storm dropped more than 200 mm of rain on Madeira and brought gusts of over 120 km/h to the Canary Islands. Both countries now have red weather warnings in place.\n\nRead more: http://www.eumetsat.int/image-week-storm-charles-hits-spain-and-portugal\n\nImage: EUMETSAT\n\n#Geoawesome #Meteosat #Storm #Spain #Portugal",
+      "instagram": "More than 200 mm of rain on Madeira, then on to Iberia.\n\nStorm Charles seen by Meteosat-12 as it reached Spain and Portugal on 11 November, with red warnings in both countries.\n\nFind out more: http://www.eumetsat.int/image-week-storm-charles-hits-spain-and-portugal\n\nImage: EUMETSAT\n\n#Geoawesome #Meteosat #Weather #Iberia",
+      "youtube": "Red weather warnings are in place in both Spain and Portugal as Storm Charles moves in from the Atlantic.\n\nThe FCI instrument aboard Meteosat-12, one of EUMETSAT's Meteosat Third Generation satellites, captured this scene on 11 November 2026. Charles is the second Atlantic storm to hit Europe in a few days, after more than 200 mm of rain on Madeira and gusts over 120 km/h on the Canary Islands. EUMETView user Antonio Vecoli submitted the image and text.\n\nLearn more: http://www.eumetsat.int/image-week-storm-charles-hits-spain-and-portugal\n\nImage: EUMETSAT\n\n#Geoawesome #EUMETSAT #Meteosat #Storm #Portugal",
+      "x": "Gusts over 120 km/h on the Canary Islands, now red warnings across Spain and Portugal: Storm Charles seen by Meteosat-12 on 11 Nov.\nhttp://www.eumetsat.int/image-week-storm-charles-hits-spain-and-portugal\nImage: EUMETSAT\n#Geoawesome #Meteosat #Storm #Spain",
+      "alt_text": "Satellite view of the cloud system of Storm Charles over the Atlantic as it reaches Spain and Portugal."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-12-3-image-of-the-week-storm-charles-hits-spa.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Oil slicks seen from space : the devastating impact of boat strikes on fragile Gulf ecosystems",
+      "link": "https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
+      "published": "2026-11-12T03:04:44+00:00",
+      "summary": "Oil slicks seen from space : the devastating impact of boat strikes on fragile Gulf ecosystems. Oil washes up on a beach in Sharjah, United Arab ...",
+      "image_url": "https://i.guim.co.uk/img/media/edaf20607ad86d1eaeb652f3e3941f4f2ea5bc51/193_0_5785_4627/master/5785.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8cc56c0609deb57c6327866ee38e4f36",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Since the US war on Iran began in February, there have been hundreds of oil spills, posing a ‘generational’ threat to wildlife\nT he vast, dark slicks in the strait of Hormuz are visible from space. Throughout October, oil tankers were struck by missiles or sea mines in the waterway and spilled crude into the sea. The pollution has spread across the Gulf, contaminating coastlines and threatening to cause lasting damage to marine ecosystems that are home to dolphins, sea turtles and countless species of fish.\nEight months into the war between the US and Iran, one of the world’s busiest oil shipping routes has become a battlefield and the centre of a growing environmental disaster .\nThe naval blockade of the strait has made documenting the pollution from on the ground almost impossible. But analysis of satellite images, combined with the testimony of environmental experts and marine biologists, can help build up a picture.\nThe strait of Hormuz, the only maritime passage between the Gulf and the Arabian Sea, is home to a rich but fragile marine environment including coral reefs, mangrove forests and seagrass meadows that support a wealth of marine life.\nIt plays a vital role in the circulation of water and nutrients and serves as a migration route for marine mammals. Even in peacetime, its ecosystems have faced mounting pressure from shipping, oil extraction and coastal development.\nOil can coat birds’ feathers, making it difficult for them to float and find food. It can cover mangrove roots, preventing the trees from absorbing oxygen and potentially killing them.\nBernhard Riegl, a marine biologist at Nova Southeastern University in Florida, who has studied the Gulf for more than 30 years, warned that the war could cause lasting damage to its confined waters, already under severe pressure from the climate crisis.\n“Since the Gulf is shallow, and summer is the least windy period of the year, atmospheric heat is rapidly translated into ocean heat. That heat kills corals, algae, fishes. There is no cold, deep water that could mix and buffer this heat,” Riegl said.\n“Everybody knows that oil in water is not good. The potential for additional damage is significant. There is no such thing as a ‘clean war’. Not for the unlucky humans that are drawn into it, nor for the unlucky environment in which the conflict takes place.”\nSince the war began on 28 February, Greenpeace has identified more than 500 instances of oil spills through satellite monitoring across the Gulf, the strait of Hormuz and the Arabian Sea. The findings include major spills linked to attacks on vessels, as well as others detected around the time of strikes but whose origins could not be confirmed.\n“Adding together the daily mapped footprints [of the spills] gives a cumulative total of approximately 20,000 square kilometres – almost the size of Wales,” said Nina Noelle, a Greenpeace expert on environmental disaster relief.\nMore than 133 attacks on oil tankers have taken place since the beginning of the conflict, according to Greenpeace. October was the worst month, with more than 30 confirmed or reported attacks in the strait of Hormuz and surrounding waters, according to the Washington Institute for Near East Policy. The attacks have continued into November.\nAmong the most polluting of the October attacks was a strike on the supertanker Gem No 2 off the coast of the United Arab Emirates, which left a slick stretching more than 21 miles (35km). A satellite image dated 19 October shows a huge patch of black moving into the clear waters off the coast of Umm Al Quwain.\nGreenpeace estimates that an attack on a tanker in early June resulted in a slick off the coast of Oman that covered more than 600 sq km (230 sq miles) at its peak. Two Iranian naval vessels hit in March continued leaking oil for months, said Wim Zwijnenburg, an environmental researcher with the Dutch peace organisation Pax.\nAn attack on the Liberian-flagged Minoan Pioneer on 3 August has also been linked to a major slick.\nOil pollution has reached several coastlines since the war began. In March, a slick from the Shahid Bagheri was detected near the Hara mangroves. In April, pollution threatened the protected Shidvar Island, home to coral reefs, seabirds and turtles. Oil was also reported washing ashore at Qeshm Island in August, near important fishing grounds and turtle nesting sites.\nThe planet's most important stories. Get all the week's environment news - the good, the bad and the essential\nSatellite imagery also shows slicks near Oman’s Musandam national park and Iran’s Minab River delta , two areas rich in wildlife. Musandam is home to coral reefs and seabird breeding grounds, while the Minab delta has protected mudflats and forests of mangroves.\nEnvironmental organisations are continuing to analyse satellite imagery but warn that the full extent of the damage cannot be established without investigations on the ground, which remain extremely difficult. Some of the researchers and environmentalists contacted for comment in Iran and Gulf states said they had been instructed by domestic authorities not to speak publicly about the environmental damage caused by the war.\nEstablishing responsibility is not straightforward, but Iran’s Islamic Revolutionary Guard Corps (IRGC) has been blamed for most of the attacks. US forces have also targeted tankers, disabling Iranian vessels attempting to cross a US naval blockade and striking others in response to Iranian missile attacks on US warships.\nAccording to a Wall Street Journal report , the largest oil spill was caused by a strike carried out by the UAE’s air force on oil storage tanks on Lavan Island. The strikes resulted in crude oil flushing into the Gulf and affecting coastal areas, including the nearby nature reserves of Shidvar Island.\nIn some instances, countries bordering the strait have responded to spills. After the attack on the Gem No 2, for instance, the UAE closed beaches, launched a major cleanup and monitored",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/edaf20607ad86d1eaeb652f3e3941f4f2ea5bc51/193_0_5785_4627/master/5785.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8cc56c0609deb57c6327866ee38e4f36",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/edaf20607ad86d1eaeb652f3e3941f4f2ea5bc51/2539_0_3080_3851/master/3080.jpg?width=480&dpr=1&s=none&crop=none",
+          "label": ""
+        },
+        {
+          "url": "https://i.guim.co.uk/img/uploads/2026/11/05/UAE_shore_on_19_October_and_after_widened_oil_spill_from_a_damaged_tanker_vessel_on_24_October_2026--96eea513-8351-409d-aa50-10aa593b1003-1.0.0000000.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+          "label": ""
+        },
+        {
+          "url": "https://i.guim.co.uk/img/media/000587aa39b8bf496273c8df36c2442b50a1446a/0_0_6000_4000/master/6000.jpg?width=445&dpr=1&s=none&crop=none",
+          "label": ""
+        },
+        {
+          "url": "https://i.guim.co.uk/img/uploads/2026/11/05/Footage_shows_oil_tanker_ablaze_at_sea--e32bb804-7143-4bee-be17-f82bb94e8f97-1.0.0000000.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+          "label": ""
+        },
+        {
+          "url": "https://i.guim.co.uk/img/media/fbe2c505ff02149ce953574ad4ce93d5822eeb11/0_63_1968_1371/master/1968.jpg?width=445&dpr=1&s=none&crop=none",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 630px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 7.0,
+    "why": "Satellite view of oil slicks on Gulf waters with a clear environmental story; strong visual hook.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The page gives no image credit or licence, the reuse policy is link_only, and the source does not say which satellite image the 630px crop shows, so we cannot credit or explain it without guessing.",
+      "what_it_shows": "A Guardian article on oil spills in the Gulf and the strait of Hormuz since the US-Iran war began on 28 February. It cites Greenpeace satellite monitoring of more than 500 spills, with a cumulative mapped footprint of about 20,000 square kilometres. It also mentions a satellite image dated 19 October showing a slick from the Gem No 2 off Umm Al Quwain, but names no sensor or provider for any image.",
+      "uncertainties": [
+        "No image credit on the page, so a credit line cannot be written without guessing.",
+        "Image licence not stated, and the source reuse policy is link_only, so the image should not be reposted.",
+        "It is unclear which image the crop shows. It may be the 19 October Gem No 2 image, but the source does not confirm this.",
+        "No satellite, sensor, band combination or resolution is given for any image.",
+        "The source image is low resolution: only 630px wide and upscaled for the square.",
+        "Several figures are third-party: the 500 spills and 20,000 sq km come from Greenpeace, the October attack count from the Washington Institute, and the Lavan Island largest-spill claim from a Wall Street Journal report.",
+        "The topic is an active armed conflict with contested responsibility, so any caption needs careful attribution.",
+        "If the editor wants to cover this, contact the Guardian or Greenpeace for a credited, licensed satellite image with sensor and date."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://lufkindailynews.com/news_reuters/top_news/satellite-image-shows-an-oil-spill-off-the-coast-of-uae/image_49f88f7a-6fa3-58d3-96ac-dffd078b95c7.html",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Satellite image shows an oil spill off the coast of UAE | Top News | lufkindailynews.com",
+      "link": "https://lufkindailynews.com/news_reuters/top_news/satellite-image-shows-an-oil-spill-off-the-coast-of-uae/image_49f88f7a-6fa3-58d3-96ac-dffd078b95c7.html",
+      "published": "2026-11-11T20:40:15+00:00",
+      "summary": "A satellite image shows a close up of an oil spill off the coast of UAE, November 8, 2026. EUROPEAN UNION/COPERNICUS SENTINEL-2 /Handout via REUTERS.",
+      "image_url": "https://bloximages.chicago2.vip.townnews.com/lufkindailynews.com/content/tncms/assets/v3/editorial/4/9f/49f88f7a-6fa3-58d3-96ac-dffd078b95c7/6af4d138e39c7.image.jpg?crop=800%2C420%2C0%2C80",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "A satellite image shows a close up of an oil spill off the coast of UAE, November 8, 2026. EUROPEAN UNION/COPERNICUS SENTINEL-2/Handout via REUTERS\nSorry, there are no recent results for popular images.\nSorry, there are no recent results for popular videos.\nSorry, there are no recent results for popular commented articles.\nAccount processing issue - the email address may already exist\nMust be at least 8 characters, not contain repeating characters (e.g., 111), and not contain sequential numbers (e.g., 123).\nGet a link to the latest e-Edition delivered to your inbox on our publication days. Sign up today!\nStart your morning with the top headlines each day. Sign up today!\nGet the latest breaking news from The Lufkin News newsroom. Sign up today!\nGet the latest local, college and national sports headlines delivered to your inbox every morning.\nGet the latest local and national police reports every day in your inbox.\nReceive the daily weather forecast and the weekly outlook in your inbox each morning.\nReceive the most recent obituaries every afternoon.\nReceive monthly updates on the latest issues of Charm East Texas magazine.\nSign up to receive emails about our exciting Deals, Contests, & Special Offers!\nYour account has been registered, and you are now logged in.\nInvalid password or account does not exist\nSubmitting this form below will send a message to your email with a link to change your password.\nAn email message containing instructions on how to reset your password has been sent to the email address listed on your account.\nMust be at least 8 characters, not contain repeating characters (e.g., 111), and not contain sequential numbers (e.g., 123).\nSecure transaction. Secure transaction. Cancel anytime.\nYour gift purchase was successful! Your purchase was successful, and you are now logged in.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/lufkindailynews.com/content/tncms/assets/v3/editorial/4/9f/49f88f7a-6fa3-58d3-96ac-dffd078b95c7/6af4d138e39c7.image.jpg?crop=800%2C420%2C0%2C80",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-12-5-satellite-image-shows-an-oil-spill-off-t.jpg",
+      "image_note": "square crop, from 420px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 7.0,
+    "why": "Sentinel-2 close-up of an oil spill off UAE; vivid satellite scene with a story.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A close-up satellite image of an oil spill off the coast of the United Arab Emirates, dated 8 November 2026. The image is from Copernicus Sentinel-2, released by the European Union as a handout and distributed by Reuters. The source gives no exact location, spill extent, cause or band combination.",
+      "uncertainties": [
+        "Source image is only 420px wide and upscaled to 1080px. Check sharpness. A full-resolution version from Copernicus Browser for 8 November 2026 may be better if the location can be pinned down.",
+        "Reuse policy is link_only and no image licence is stated. The picture is a Reuters-distributed EU handout, so confirm rights before posting the image itself.",
+        "The IMAGE CREDIT field was empty. The credit used comes verbatim from the photo caption on the page.",
+        "Exact location off the UAE coast is not given (Gulf or Gulf of Oman side unknown).",
+        "No size, extent or volume of the spill is given.",
+        "The cause or source of the spill is not stated.",
+        "Band combination and whether the image is true colour are not stated.",
+        "The page is a syndicated local-newspaper copy of a Reuters photo with no accompanying story. Consider linking the Reuters original if one exists."
+      ],
+      "image_credit": "Image: EUROPEAN UNION/COPERNICUS SENTINEL-2/Handout via REUTERS",
+      "facebook": "Copernicus Sentinel-2 caught this oil spill off the coast of the United Arab Emirates on 8 November 2026.\n\nThe close-up was released by the European Union and distributed by Reuters as a handout. The caption gives no exact location, extent or cause for the spill, so treat any figures circulating elsewhere with care until official estimates appear.\n\nRead more: https://lufkindailynews.com/news_reuters/top_news/satellite-image-shows-an-oil-spill-off-the-coast-of-uae/image_49f88f7a-6fa3-58d3-96ac-dffd078b95c7.html\n\nImage: EUROPEAN UNION/COPERNICUS SENTINEL-2/Handout via REUTERS\n\n#Sentinel2 #Copernicus #Pollution #UAE #Geoawesome",
+      "instagram": "Oil on the water off the UAE, seen from orbit on 8 November 2026.\n\nA Sentinel-2 close-up of the spill. Its location, size and cause have not been published with the image.\n\nFind out more: https://lufkindailynews.com/news_reuters/top_news/satellite-image-shows-an-oil-spill-off-the-coast-of-uae/image_49f88f7a-6fa3-58d3-96ac-dffd078b95c7.html\n\nImage: EUROPEAN UNION/COPERNICUS SENTINEL-2/Handout via REUTERS\n\n#Sentinel2 #Oil #Sea #Geoawesome",
+      "youtube": "Three days after acquisition, a European Union handout put this view of a spill off the Emirati coast into the news cycle.\n\nThe Sentinel-2 scene is dated 8 November 2026 and shows the spill in close-up. The handout caption does not state the band combination, the area affected or what caused the release, so for now this is a first look rather than a measurement.\n\nLearn more: https://lufkindailynews.com/news_reuters/top_news/satellite-image-shows-an-oil-spill-off-the-coast-of-uae/image_49f88f7a-6fa3-58d3-96ac-dffd078b95c7.html\n\nImage: EUROPEAN UNION/COPERNICUS SENTINEL-2/Handout via REUTERS\n\n#Copernicus #Oil #Gulf #Satellite #Geoawesome",
+      "x": "The EU has released a Sentinel-2 close-up of an oil spill off the UAE coast, dated 8 November 2026. No extent or cause given yet.\nhttps://lufkindailynews.com/news_reuters/top_news/satellite-image-shows-an-oil-spill-off-the-coast-of-uae/image_49f88f7a-6fa3-58d3-96ac-dffd078b95c7.html\nImage: EU/Copernicus Sentinel-2/Handout via Reuters\n#Sentinel2 #Pollution #UAE #Geoawesome",
+      "alt_text": "Close-up satellite image of an oil spill on the sea off the coast of the United Arab Emirates."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-12-5-satellite-image-shows-an-oil-spill-off-t.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.facebook.com/outsidemagazine/posts/a-new-interactive-map-reveals-dozens-of-massive-ai-data-center-proposals-closing/1501640768496410/",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "A new interactive map reveals dozens of massive AI data center proposals closing in on ...",
+      "link": "https://www.facebook.com/outsidemagazine/posts/a-new-interactive-map-reveals-dozens-of-massive-ai-data-center-proposals-closing/1501640768496410/",
+      "published": "2026-11-12T00:37:06+00:00",
+      "summary": "A new interactive map reveals dozens of massive AI data center proposals closing in on America's public lands, from Horseshoe Bend to the Grand Canyon ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "A new interactive map reveals dozens of massive AI data center proposals closing in on America's public lands, from Horseshoe Bend to the Grand Canyon ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Interactive map of data center proposals near Grand Canyon and public lands; strong geo story, clickable.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, no credit or licence, and only a truncated teaser from a Facebook post (link-only reuse); the map's maker, data and coverage cannot be described without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was found on the page, so there is nothing to crop to a 1080x1080 square.",
+        "The source is an Outside magazine Facebook post surfaced via Google Alerts, and its text is truncated. The original article and the interactive map itself are not linked or described.",
+        "The map's maker, data sources and the number of proposals (only 'dozens') are not stated, and neither is how 'closing in on' public lands is defined (distance or method).",
+        "Reuse policy is link_only and no image licence is stated. Before reconsidering, find the original Outside article and the map publisher's page, and check whether the map can be credited and shown."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.outsideonline.com/outdoor-adventure/environment/ai-data-centers-national-parks-map/",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "This Map Shows Proposed AI Data Centers Near National Parks",
+      "link": "https://www.outsideonline.com/outdoor-adventure/environment/ai-data-centers-national-parks-map/",
+      "published": "2026-11-11T23:09:09+00:00",
+      "summary": "This New Map Shows Where. A new interactive map reveals dozens of massive AI data center proposals closing in on America's public lands, from ...",
+      "image_url": "https://cdn.outsideonline.com/wp-content/uploads/2026/11/B-Layers-Proposed-Building-Running.gif",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "(Photo: Courtesy of More Than Just Parks)\nAs America grapples with the rapid proliferation of artificial intelligence data centers, two brothers have set out to map infrastructure project proposals nationwide—including those near public lands and national parks.\nWill Pattiz is the cofounder of More Than Just Parks , an independent public lands publication that tracks AI data centers. According to his research, at least 14 proposed data center projects are within ten miles of a national park boundary. His data also shows that 38 sites are planned within 25 miles of a national park, and 131 are within 50 miles.\n“The basic idea is that a lot of these [projects] are being done under the cloak of darkness or secrecy, and we want folks to know where they’re coming in and who’s building them,” Pattiz, a resident of Portland, Oregon, told Outside . “The stance that we take is that we don’t want them on public lands.”\n“Places like Utah, for example, have a huge amount of data center projects and some of the biggest ones that are being proposed,” Pattiz said. “Just depending on the size and scale, they take up a massive amount of resources and will have impacts on public lands one way or the other, whether it’s taking water or the land itself.”\nData centers are rapidly popping up across the United States, fueled by the computing needs of artificial intelligence and cloud-based software. These centers house massive servers, data storage systems, and networking equipment, and they require sizable amounts of electricity and water to run and maintain the hardware.\n“The question that we want to see asked is: ‘What is the public benefit from this?’” Pattiz said. “So far, the ones that have been proposed on public lands, there’s no public benefit that’s been outlined.”\nTo use Pattiz’s map, a user inputs their zip code, and the site shows the closest data center or proposed facility. The site then suggests how the center will affect utility costs, as well as the groups that support the center.\n“You can go through that discovery process yourself to decide whether you support [the center] or not, because these are things that are going to impact all of us, and you can decide where you land on that,” Pattiz said.\nThe map auto-populates as more information becomes available. As of this writing, the tool reflects 2,086 data centers, 741 of which are still in the proposal phase. Of those, 77 are located within ten miles of protected land like national parks, wildlife refuges, and wilderness or conservation areas. Roughly half are in the American West.\nIn Virginia, 97 data centers are proposed, and 12 are within 25 miles of Shenandoah National Park.\nAt least 25 data centers are proposed in Indiana, according to the map, and eight are located within 25 miles of Indiana Dunes National Park.\nThe map also includes several construction proposals that are extremely close to iconic National Park Service sites.\nArizona alone has 26 active proposals, with three within 25 miles of a national park. In January, the City of Page sold roughly 500 acres to developers planning to build a $10 billion data center next to Horseshoe Bend, an iconic viewpoint along the Colorado River. The 500-acre parcel was previously protected for outdoor recreation. According to the City of Page, the proposal is undergoing public review and has not yet been formally adopted, but a planning and zoning meeting is scheduled for November 17 .\nAccording to Pattiz’s map, the center is also located about five miles from the northeastern edge of Grand Canyon National Park near Lees Ferry.\nJust outside of Price, Utah, Pattiz found that a company called Valar Atomics applied for more than 9,000 acres of Bureau of Land Management land for data center buildouts, including permits for hundreds of small nuclear reactors, a fuel plant, and nuclear waste storage.\nAccording to a report published by NPR , the so-called Project Beehive would produce about 9.6 gigawatts of power for data centers. Currently, the entire state of Utah produces less than half of that on average, NPR reports.\nThe land is about two hours from both Arches and Canyonlands National Parks .\nLocated about 40 miles from Zion National Park , Antelope Data Center is slated for development as part of a 640-acre, 1.5-gigawatt project that will include an on-site natural gas power plant, according to The Salt Lake Tribune . The Iron County Commission approved a conditional use permit in June 2026.\nLarge-scale data center rollouts represent an inflection point in American history, Pattiz said. As construction crews have erected these centers, they have become political lightning rods in American towns and cities.\nPattiz believes that giving Americans transparent, readily available information about where big tech is breaking ground will help them track what developers are building in their backyards.\n“At the end of the day, data is data,” he added. “Whether or not there’s a need for these things is a totally separate question from where they’re being built and what impact they’re going to have on you and the places that you love.”",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://cdn.outsideonline.com/wp-content/uploads/2026/11/B-Layers-Proposed-Building-Running.gif",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-12-7-this-map-shows-proposed-ai-data-centers.jpg",
+      "image_note": "square crop, from 676px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 7.0,
+    "why": "Interactive map of AI data center proposals near public lands; strong geo story.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A map by More Than Just Parks, an independent public lands publication, that tracks AI and other data centres across the United States, including proposed sites near national parks and other protected land. The tool currently lists 2,086 data centres, 741 of them in the proposal phase, and 77 of those are within ten miles of protected land. Users enter a zip code to see the nearest facility, its suggested effect on utility costs and the groups supporting it. No data date, base map or symbol key is given beyond 'as of this writing' in an article published 11 November 2026.",
+      "uncertainties": [
+        "Reuse policy is marked link_only and no image licence is stated. Confirm we may repost the image at all before publishing.",
+        "The only credit on the page is 'Photo: Courtesy of More Than Just Parks'. The page does not confirm whether the image is a map screenshot or a photo, so check what the image actually shows before using the 'Map:' credit and the alt text.",
+        "The source image is only 676px wide and was upscaled to 1080. Check sharpness.",
+        "More Than Just Parks is an advocacy outlet that states it opposes data centres on public lands. The data methodology and sources behind the counts are not described.",
+        "Two sets of proximity figures appear: 14/38/131 proposed sites within 10/25/50 miles of a national park, and 77 proposals within ten miles of 'protected land' (a broader category). Do not mix them up.",
+        "The counts change as the map auto-populates. The figures are 'as of this writing', not dated.",
+        "The Horseshoe Bend proposal has not been formally adopted (per the City of Page). The five-mile distance to Grand Canyon NP is according to Pattiz's map.",
+        "'Roughly half are in the American West' has an unclear referent in the source, so it was left out."
+      ],
+      "image_credit": "Map: More Than Just Parks via Outside",
+      "facebook": "At least 14 proposed data centre projects sit within ten miles of a US national park boundary, according to a map by More Than Just Parks.\n\nThe tool lists 2,086 data centres, 741 still at proposal stage, with 38 planned sites within 25 miles of a national park and 131 within 50. Enter a zip code and it returns the nearest facility, its likely effect on utility costs and who backs it. Note that its makers openly oppose data centres on public lands.\n\nRead more: https://www.outsideonline.com/outdoor-adventure/environment/ai-data-centers-national-parks-map/\n\nMap: More Than Just Parks via Outside\n\n#Geoawesome #Maps #AI #Infrastructure",
+      "instagram": "About five miles: that is the gap between a proposed $10 billion data centre near Horseshoe Bend and Grand Canyon National Park, by this map's reckoning.\n\nMore Than Just Parks tracks 741 proposed US data centres, 77 of them within ten miles of protected land.\n\nFind out more: https://www.outsideonline.com/outdoor-adventure/environment/ai-data-centers-national-parks-map/\n\nMap: More Than Just Parks via Outside\n\n#Geoawesome #Maps #Arizona #AI",
+      "youtube": "Of 741 proposed US data centres on one tracker, 77 lie within ten miles of protected land such as national parks, wildlife refuges and wilderness areas.\n\nThe More Than Just Parks map auto-populates as new information appears and lists 2,086 facilities in total. At its core it is a proximity analysis, with counts of proposed sites at 10, 25 and 50 miles from park boundaries (14, 38 and 131). In Virginia, 12 of 97 proposals fall within 25 miles of Shenandoah National Park.\n\nLearn more: https://www.outsideonline.com/outdoor-adventure/environment/ai-data-centers-national-parks-map/\n\nMap: More Than Just Parks via Outside\n\n#Geoawesome #GIS #Infrastructure #Parks",
+      "x": "Type a US zip code into this map and it returns the nearest data centre, built or proposed. 131 proposals sit within 50 miles of a national park.\nhttps://www.outsideonline.com/outdoor-adventure/environment/ai-data-centers-national-parks-map/\nMap: More Than Just Parks via Outside\n#Geoawesome #Maps #GIS #AI",
+      "alt_text": "A map by More Than Just Parks marking data centre locations across the United States in relation to national parks and other protected land."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-12-7-this-map-shows-proposed-ai-data-centers.jpg"
+  },
+  {
+    "item": {
+      "id": "https://x.com/geoawesome_dgtl/status/2120581836044661091/photo/1",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Geoawesome on X: \" 30DayMapChallenge , Day 2 'Lines': the Mount Hood recreation areas ...",
+      "link": "https://x.com/geoawesome_dgtl/status/2120581836044661091/photo/1",
+      "published": "2026-11-11T19:25:40+00:00",
+      "summary": "30DayMapChallenge , Day 2 'Lines': the Mount Hood recreation areas as contours, built from USGS 3DEP data in Python. https://t.co/3aBMm2PHvG Map: ...",
+      "image_url": "https://pbs.twimg.com/media/HW3R8VYWUAAKvLp?format=webp&name=large",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "See what’s happening and join the conversation",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HW3R8VYWUAAKvLp?format=webp&name=large",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1516895890581110786/IeOMZhsG_normal.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1080px of source width"
+    },
+    "score": 7.0,
+    "why": "Mount Hood recreation contours from USGS 3DEP; striking own-made terrain map.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "This is Geoawesome's own X post, the page text is only the X login wall, there is no image credit, and the map can't be described beyond a truncated title without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The source is Geoawesome's own X post (geoawesome_dgtl), so reposting it would recirculate our own content, not credit an outside maker.",
+        "Page text is only the X login wall ('See what's happening and join the conversation'). There is no description of the map.",
+        "The title is truncated: '30DayMapChallenge, Day 2 Lines: the Mount Hood recreation areas ...'. The map's maker, data source, date and what the lines represent are all unknown.",
+        "No image credit or licence is stated, and the reuse policy is link_only.",
+        "If the editor wants this map, find the original #30DayMapChallenge entry and its creator, and use that as the source."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.linkedin.com/posts/karim-douieb_30daymapchallenge-activity-7526251328248135681-9pq0",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "# 30daymapchallenge | Karim Douieb - LinkedIn",
+      "link": "https://www.linkedin.com/posts/karim-douieb_30daymapchallenge-activity-7526251328248135681-9pq0",
+      "published": "2026-11-11T16:02:57+00:00",
+      "summary": "Sound on] Earth's Breath: the average color of the land, seen from space by NASA MODIS every 8 days for two years. # 30DayMapChallenge Day 11: ...",
+      "image_url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGQMO3nYU3Jhw/thumbnail-with-play-button-overlay-high/B4EaHKdqtyG8DE-/0/1794398140568?e=2147483647&v=beta&t=w1oT-DBTwWnHXDcCYp1kK_FL99P3oegmjwxTdCQuIJA",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\n[🔊 Sound on] Earth's Breath: the average color of the land, seen from space by NASA MODIS every 8 days for two years. #30DayMapChallenge Day 11: Sound\nCreate your free account or sign in to continue your search\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGQMO3nYU3Jhw/thumbnail-with-play-button-overlay-high/B4EaHKdqtyG8DE-/0/1794398140568?e=2147483647&v=beta&t=w1oT-DBTwWnHXDcCYp1kK_FL99P3oegmjwxTdCQuIJA",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4D16AQG_Nzvsf9cLvQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1556543514931?e=2147483647&v=beta&t=REJB5nrGEnaAO4Y81_2p5xRG4FBkR95luryZdgByqkg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-12-9-30daymapchallenge-karim-douieb-linkedin.jpg",
+      "image_note": "square crop, from 720px of source width"
+    },
+    "score": 7.0,
+    "why": "NASA MODIS average land colour animation from space; Earth-from-orbit visual.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "\"Earth's Breath\" by Karim Douieb, his Day 11 entry (theme: Sound) for the 30 Day Map Challenge. It shows the average colour of the land as seen from space by NASA MODIS, sampled every 8 days over two years. The original is meant to be watched with sound on.",
+      "uncertainties": [
+        "No image credit or licence is given on the page, and the reuse policy is link_only. Confirm permission with Karim Douieb before posting the image itself.",
+        "The post does not say which two years are covered.",
+        "The MODIS product and platform (Terra or Aqua) are not named, and neither is how the 'average colour' was calculated.",
+        "The post does not explain how the sound was made or whether it is driven by the data. The captions avoid calling it sonification.",
+        "The geographic extent is not stated. Check whether it is global or regional.",
+        "The original appears to be an animation with sound, so a still square crop loses both. Check that the chosen frame reads well on its own.",
+        "The alt text was written without seeing the image. Check it against the actual frame."
+      ],
+      "image_credit": "Map: Karim Douieb",
+      "facebook": "Two years of land colour, sampled by NASA MODIS every 8 days and paired with sound.\n\nKarim Douieb's \"Earth's Breath\" is his entry for Day 11 of the 30 Day Map Challenge, where the theme was Sound. It maps the average colour of the land as seen from space, and he recommends playing it with the volume on. The post does not say which MODIS product or which two years were used.\n\nFull story: https://www.linkedin.com/posts/karim-douieb_30daymapchallenge-activity-7526251328248135681-9pq0\n\nMap: Karim Douieb\n\n#Geoawesome #MODIS #Mapping #Dataviz",
+      "instagram": "The land, breathing in colour every 8 days.\n\n\"Earth's Breath\" by Karim Douieb shows the average colour of the land seen by NASA MODIS over two years. Watch the original with sound on.\n\nLearn more: https://www.linkedin.com/posts/karim-douieb_30daymapchallenge-activity-7526251328248135681-9pq0\n\nMap: Karim Douieb\n\n#Geoawesome #NASA #Dataviz #Maps",
+      "youtube": "An 8-day cadence held for two full years: that is the rhythm behind Karim Douieb's \"Earth's Breath\".\n\nThe map shows the average colour of the land as seen from space by NASA's MODIS. He made it for Day 11 of the 30 Day Map Challenge, whose theme was Sound, so the original plays with audio. The post does not name the MODIS product, the years covered or how the sound was made.\n\nFind out more: https://www.linkedin.com/posts/karim-douieb_30daymapchallenge-activity-7526251328248135681-9pq0\n\nMap: Karim Douieb\n\n#Geoawesome #MODIS #NASA #Cartography",
+      "x": "Earth's Breath: the average colour of the land from NASA MODIS, every 8 days for two years. Sound on.\nhttps://www.linkedin.com/posts/karim-douieb_30daymapchallenge-activity-7526251328248135681-9pq0\nMap: Karim Douieb\n#Geoawesome #MODIS #Maps",
+      "alt_text": "A map showing the land coloured by its average colour as seen from space by NASA's MODIS sensor."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-12-9-30daymapchallenge-karim-douieb-linkedin.jpg"
+  },
+  {
+    "item": {
+      "id": "tag:blogger.com,1999:blog-12158290.post-496445030999199",
+      "source_id": "maps_mania",
+      "source_name": "Maps Mania",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "The Hills are Alive with the Sound of Music",
+      "link": "http://googlemapsmania.blogspot.com/2026/11/the-hills-are-alive-with-sound-of-music.html",
+      "published": "2026-11-11T09:29:25+00:00",
+      "summary": "Inspired by The Pudding's lo-pi radio , which turns the digits of pi into an endless stream of lo-fi music, I decided to see if I could create something similar for landscapes. The result is The Sound of Music : an experimental map that turns the shape of the land into a musical composition, where the hills really are alive with the sound of music. The map lets you explore locations around the world and listen to the music generated by their terrain. As the landscape is drawn, notes are played to create a musical interpretation of the contours. You can watch the terrain take shape while listening to the melody it produces. And because the music is generated from the elevation data, different landscapes produce different compositions. The project began as an adaptation of yesterday's 30DayMapChallenge map. I wanted to take that original contour-map experiment a little further, so I switched the elevation data over to Mapterhorn . This means the map is no longer limited to the particular location and elevation data used in the original version. Mapterhorn makes it possible to generate terrain for locations anywhere in the world (just add a lat,lng to the end of the URL). I also decid",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtvPaR-fDKwX-U4UiYnYH0dRfGqnOCdY5DNyvm-R8yNpKod-n2xCmEioliI-LT_CwyQ2Da10jZddaZE3acPXU9QqRf7pyNNR1r2xbr3q4Gnl4bzxnkKptGv6tzVoeIR87h70KGIsogXw4QzqPfz0qyLpjuer2d0o1NWVyXcL7hkopvSNqasnQ5Zw/s1600/mapsmania.github.io_mapchallenge_contours.html.png",
+      "credit_hint": "via Maps Mania",
+      "source_tag": "",
+      "page_text": "Inspired by The Pudding's lo-pi radio , which turns the digits of pi into an endless stream of lo-fi music, I decided to see if I could create something similar for landscapes. The result is The Sound of Music : an experimental map that turns the shape of the land into a musical composition, where the hills really are alive with the sound of music.\nThe map lets you explore locations around the world and listen to the music generated by their terrain. As the landscape is drawn, notes are played to create a musical interpretation of the contours. You can watch the terrain take shape while listening to the melody it produces. And because the music is generated from the elevation data, different landscapes produce different compositions.\nThe project began as an adaptation of yesterday's 30DayMapChallenge map. I wanted to take that original contour-map experiment a little further, so I switched the elevation data over to Mapterhorn . This means the map is no longer limited to the particular location and elevation data used in the original version. Mapterhorn makes it possible to generate terrain for locations anywhere in the world (just add a lat,lng to the end of the URL). I also decided to add another dimension to the experiment: sound.\nSo how does a landscape write its own tune? The map translates different characteristics of the terrain into musical instructions. Elevation helps determine the pitch of the notes, with higher ground generally producing higher sounds. The length and complexity of the contours influence the duration and intensity of the notes, while their position across the landscape can influence where the sound sits in the stereo field. The contours are effectively providing the musical score.\nThere is a little more to it than simply assigning a note to each contour. The geometry of the landscape is also used to determine the musical character of the composition, including its scale, chord progression and tempo. This gives each location its own musical fingerprint, with the aim of making a rugged mountain range sound quite different from a gentler landscape.\nThe result is a map that lets you listen to the landscape. Pick a mountain, explore its contours and hear the music that it makes.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtvPaR-fDKwX-U4UiYnYH0dRfGqnOCdY5DNyvm-R8yNpKod-n2xCmEioliI-LT_CwyQ2Da10jZddaZE3acPXU9QqRf7pyNNR1r2xbr3q4Gnl4bzxnkKptGv6tzVoeIR87h70KGIsogXw4QzqPfz0qyLpjuer2d0o1NWVyXcL7hkopvSNqasnQ5Zw/s1600/mapsmania.github.io_mapchallenge_contours.html.png",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtvPaR-fDKwX-U4UiYnYH0dRfGqnOCdY5DNyvm-R8yNpKod-n2xCmEioliI-LT_CwyQ2Da10jZddaZE3acPXU9QqRf7pyNNR1r2xbr3q4Gnl4bzxnkKptGv6tzVoeIR87h70KGIsogXw4QzqPfz0qyLpjuer2d0o1NWVyXcL7hkopvSNqasnQ5Zw/w1200-h630-p-k-no-nu/mapsmania.github.io_mapchallenge_contours.html.png",
+          "label": ""
+        },
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMofOnJSGWGCYi7SJDgm6B1TjTv004rBA6iGHcWSpzF3Wc84nwwBE5aawjIHq7yrVu-pfkpvIHDzzJ5-mLVeF6MVSFWrzLjDPslikO_tcN7IPBlO_4a97VWwAtXhHGc-n2jCV9/s400/earth.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "https://mapsmania.github.io/mapchallenge/contours.html",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-12-10-the-hills-are-alive-with-the-sound-of-mu.jpg",
+      "image_note": "square crop, from 1034px of source width"
+    },
+    "score": 7.0,
+    "why": "Interactive terrain-to-music map from Maps Mania; playful, novel way of showing landscapes.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A screenshot of The Sound of Music, an experimental interactive map by Maps Mania. It draws contour lines from Mapterhorn elevation data and plays a note as each contour is drawn. Elevation sets pitch, contour length and complexity set duration and intensity, position sets stereo placement, and the terrain's geometry sets scale, chord progression and tempo.",
+      "uncertainties": [
+        "Reuse policy is link_only and no image licence is stated. Check whether the screenshot may be reposted before using it.",
+        "The source does not say which location the screenshot shows.",
+        "The source does not say what the colours on the map mean.",
+        "No resolution is given for the Mapterhorn elevation data.",
+        "No image credit appears on the page. The credit uses the map's site plus the blog."
+      ],
+      "image_credit": "Map: mapsmania.github.io via Maps Mania",
+      "facebook": "Higher ground, higher notes: this map turns contour lines into a musical score.\n\nAn experimental map that draws contours from Mapterhorn elevation data and plays them as music. Contour length and complexity set note duration and intensity, while the terrain's geometry picks the scale, chord progression and tempo. Add a lat,lng to the URL to hear anywhere on Earth.\n\nRead more: http://googlemapsmania.blogspot.com/2026/11/the-hills-are-alive-with-sound-of-music.html\n\nMap: mapsmania.github.io via Maps Mania\n\n#Cartography #Sonification #Terrain #Elevation #Geoawesome",
+      "instagram": "What does a mountain range sound like next to a gentle plain?\n\nWatch the contours draw themselves while each one plays a note, pitched by elevation.\n\nFind out more: http://googlemapsmania.blogspot.com/2026/11/the-hills-are-alive-with-sound-of-music.html\n\nMap: mapsmania.github.io via Maps Mania\n\n#Contours #Maps #Sonification #Geoawesome",
+      "youtube": "Every contour on this map is a note, and the whole landscape is the score.\n\nMapterhorn elevation sets the pitch. Contour length and complexity control duration and intensity, and position across the landscape places each note in the stereo field. The terrain's geometry also chooses the scale, chord progression and tempo, giving every location its own musical fingerprint.\n\nLearn more: http://googlemapsmania.blogspot.com/2026/11/the-hills-are-alive-with-sound-of-music.html\n\nMap: mapsmania.github.io via Maps Mania\n\n#Elevation #Contours #Terrain #Cartography #Geoawesome",
+      "x": "Can a map make a rugged mountain range sound different from a gentle hill? This one tries, turning contours into melody.\nhttp://googlemapsmania.blogspot.com/2026/11/the-hills-are-alive-with-sound-of-music.html\nMap: mapsmania.github.io via Maps Mania\n#Contours #Sonification #Cartography #Geoawesome",
+      "alt_text": "A map of terrain drawn as contour lines, from an interactive map that turns elevation into music."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-12-10-the-hills-are-alive-with-the-sound-of-mu.jpg"
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/oregon/bridge_creek?name=Bridge+Creek",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Bridge Creek Fire in Oregon | WFCA Fire Map",
+      "link": "https://wfca.com/fire-map/oregon/bridge_creek?name=Bridge+Creek",
+      "published": "2026-11-11T23:19:01+00:00",
+      "summary": "Union 3431 acStarted Nov 8 · Updated 3d ago. 5 mi. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and map settings. Fires ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The Bridge Creek fire in Umatilla, Oregon is currently 157 acres.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Interactive wildfire tracker map with perimeter and status; readers can explore it.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, no credit or licence, and only one line of text (fire size), so there is no visual to repost and nothing to describe without guessing.",
+      "what_it_shows": "A WFCA fire-map page for the Bridge Creek fire in Umatilla, Oregon. The only text says the fire is currently 157 acres. No image, sensor, date or map layer is described.",
+      "uncertainties": [
+        "No image was found on the page, so there is nothing to crop to a square.",
+        "No image credit or licence is stated, and the source's reuse policy is link_only.",
+        "The page gives no date for the 157-acre figure, no containment status and no data source for the fire perimeter.",
+        "The published date (2026-11-11) comes from the alert, not from the page, so how current the figure is cannot be checked."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.linkedin.com/posts/alexa-a-cristina_30daymapchallenge-3dmaps-maplibre-activity-7526307335988723712-k1NY",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "#30daymapchallenge #3dmaps # maplibre #threejs | Alexa Cristina - LinkedIn",
+      "link": "https://www.linkedin.com/posts/alexa-a-cristina_30daymapchallenge-3dmaps-maplibre-activity-7526307335988723712-k1NY",
+      "published": "2026-11-11T16:33:59+00:00",
+      "summary": "Open City · Day 11/30 · Senses: Sound Where does Cluj-Napoca roar, and where does it go quiet? Over Piața Unirii, where three main roads meet, ...",
+      "image_url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGrm0axxnzKXQ/thumbnail-with-play-button-overlay-high/B4DaHLQkwXK4C0-/0/1794411488477?e=2147483647&v=beta&t=6HRU0VizphBR1Jp9TZhYdaMsn8aWCTBv0RPUkq3BxwM",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\nGeospatial Developer | Real-time 3D Maps, from Raw Data to Browser | React, Three.js, MapLibre\nOpen City · Day 11/30 · Senses: Sound 🎧\n\nWhere does Cluj-Napoca roar, and where does it go quiet?\n\nOver Piața Unirii, where three main roads meet, the window roars; in Gheorgheni, between the blocks, the model goes lower. In this 3D map of the city's sound, built in MapLibre and Three.js , 48 km of streets are loud, 84.6 km of railway run beside them, and 83.1 of the 722.1 km mapped are quiet in the estimate.\n\nThe challenge: how do you map a sound you cannot measure? I set our road-class estimate next to the city's official noise map, itself a model. In Grigorescu I put the two side by side. They agree on 39 % of residential streets; on 50.2 %, only the official map calls them quiet.\nInspired by Patricio Gonzalez Vivo : the sound haze moves with the noise functions of The Book of Shaders.\n\nWhat do you hear from your window?\n\nData: OpenStreetMap contributors (ODbL) · official map: Cluj-Napoca noise action plan 2026 · noise estimated, not measured #30DayMapChallenge Day 11/30 #3DMaps #MapLibre #ThreeJS\nGeospatial Developer | Real-time 3D Maps, from Raw Data to Browser | React, Three.js, MapLibre\nAbout the data and how this map was built:\n🧭 Method: every OpenStreetMap street and railway gets a typical level for its class, lower in 30 km/h zones.\nSound falls 3 dB with each doubling of distance, on a 25 m grid. The streets add up as energy.\nThe \"sea of sound\" raises the same estimate: 24 m for each dB above 50, a visual convention.\nThe haze moves with The Book of Shaders' noise; its shapes are decorative, its color and height are the estimate.\n📚 Data: OpenStreetMap roads, railways and runways (ODbL); buildings from Overture Maps Foundation (ODbL).\nOfficial map: Cluj-Napoca noise action plan 2026, strategic map 2021, a model, not measurements.\n⚖️ Limits: no traffic counts and no screening by buildings; the 03:00 to 06:30 change is an illustrative profile.\nThe two maps use different indicators (official: night and 24-hour levels on facades), so I compare categories, not decibels.\n📊 Numbers: about 32,700 people above 60 dB at night (action plan, 2021 data). Quoted, not recalculated.\n💡 Inspired by Patricio Gonzalez Vivo and The Book of Shaders: https://thebookofshaders.com /\n🎧 Music: Mykola Osennykh (Pixabay)\nCreate your free account or sign in to continue your search\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGrm0axxnzKXQ/thumbnail-with-play-button-overlay-high/B4DaHLQkwXK4C0-/0/1794411488477?e=2147483647&v=beta&t=6HRU0VizphBR1Jp9TZhYdaMsn8aWCTBv0RPUkq3BxwM",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D16AQE6M8A8Bg9Reg/profile-displaybackgroundimage-shrink_200_800/B4DZ5eejDsJoAQ-/0/1779701527100?e=2147483647&v=beta&t=3YxU3Eanp4eDcn59jpT5Cr3Gtixg3Bg_qbLdc2eukes",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-12-12-30daymapchallenge-3dmaps-maplibre-three.jpg",
+      "image_note": "square crop, from 720px of source width"
+    },
+    "score": 6.0,
+    "why": "3D city map of Cluj-Napoca from a 30-day map challenge; a clever sound-based visualisation.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A 3D map of estimated sound levels across Cluj-Napoca, built by Alexa Cristina in MapLibre and Three.js for Day 11 of the #30DayMapChallenge. Each OpenStreetMap street and railway gets a typical level for its road class (lower in 30 km/h zones). Sound falls 3 dB per doubling of distance on a 25 m grid, streets add up as energy, and a 'sea of sound' haze rises 24 m for each dB above 50: its colour and height are the estimate, its moving shapes are decorative. The estimate is compared with the city's official noise map (noise action plan 2026, strategic map 2021, itself a model); they agree on 39% of residential streets, and on 50.2% only the official map calls them quiet.",
+      "uncertainties": [
+        "Reuse policy is link_only and no image licence is stated: get permission from Alexa Cristina before posting the image.",
+        "No image credit on the page; credited to the author of the post.",
+        "The page does not say which part of the city the shared image shows (Piața Unirii, Gheorgheni or the Grigorescu comparison).",
+        "The colour scale and the dB thresholds for 'loud' and 'quiet' are not defined in the text.",
+        "All noise values are estimated, not measured: no traffic counts and no screening by buildings.",
+        "The 03:00 to 06:30 change is an illustrative profile, not data.",
+        "The figure of about 32,700 people above 60 dB at night is quoted from the action plan (2021 data), not recalculated. It is left out of the posts.",
+        "The source image is only 720px wide, so the 1080 square may look soft."
+      ],
+      "image_credit": "Map: Alexa Cristina",
+      "facebook": "Only 83.1 of 722.1 km mapped in Cluj-Napoca come out quiet in this 3D sound estimate.\n\nAlexa Cristina built it in MapLibre and Three.js for the 30DayMapChallenge, giving each OpenStreetMap street a typical level for its class. Set beside the city's official noise map (also a model), the two agree on only 39% of residential streets.\n\nFull story: https://www.linkedin.com/posts/alexa-a-cristina_30daymapchallenge-3dmaps-maplibre-activity-7526307335988723712-k1NY\n\nMap: Alexa Cristina\n\n#Geoawesome #Cartography #Cluj #Maps",
+      "instagram": "Cluj-Napoca, drawn as a sea of sound.\n\nEvery estimated decibel above 50 lifts the haze 24 m. Piața Unirii, where three main roads meet, roars, while Gheorgheni goes lower.\n\nFind out more: https://www.linkedin.com/posts/alexa-a-cristina_30daymapchallenge-3dmaps-maplibre-activity-7526307335988723712-k1NY\n\nMap: Alexa Cristina\n\n#Geoawesome #Noise #Soundscape #Cluj",
+      "youtube": "On 50.2% of Cluj-Napoca's residential streets, only the official noise map calls them quiet.\n\nThe alternative is an OpenStreetMap estimate: typical levels per road class (lower in 30 km/h zones), a 3 dB drop per doubling of distance on a 25 m grid, and streets summed as energy. With no traffic counts or building screening, it compares categories, not decibels.\n\nLearn more: https://www.linkedin.com/posts/alexa-a-cristina_30daymapchallenge-3dmaps-maplibre-activity-7526307335988723712-k1NY\n\nMap: Alexa Cristina\n\n#Geoawesome #Acoustics #Cartography #Noise",
+      "x": "Cluj-Napoca's streets as a 3D sea of sound: 48 km loud and 83.1 km quiet, all estimated from OpenStreetMap road classes.\nhttps://www.linkedin.com/posts/alexa-a-cristina_30daymapchallenge-3dmaps-maplibre-activity-7526307335988723712-k1NY\nMap: Alexa Cristina\n#Geoawesome #Noise #Cartography",
+      "alt_text": "A 3D map of Cluj-Napoca with a coloured haze of estimated street noise rising above the streets and buildings, higher where the city is louder."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-12-12-30daymapchallenge-3dmaps-maplibre-three.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.centraloregondaily.com/news/nation-world/tankers-burn-in-the-middle-east-despite-hopes-for-de-escalation/article_01a97f61-950c-578f-b4a5-ea695160c7c6.html",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tankers burn in the Middle East despite hopes for de-escalation | National/World",
+      "link": "https://www.centraloregondaily.com/news/nation-world/tankers-burn-in-the-middle-east-despite-hopes-for-de-escalation/article_01a97f61-950c-578f-b4a5-ea695160c7c6.html",
+      "published": "2026-11-11T20:51:02+00:00",
+      "summary": "Satellite image shows an oil spill off the coast of UAE. A satellite image ... An image captured by the European Union's Copernicus Sentinel-2 ...",
+      "image_url": "https://bloximages.chicago2.vip.townnews.com/centraloregondaily.com/content/tncms/assets/v3/editorial/5/59/559c044e-ee79-551d-958b-8edd44a0fe6a/6af4d1c683c5b.image.jpg?crop=800%2C420%2C0%2C28",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Nov 11 (Reuters) - In the Strait of Hormuz, tankers are still ablaze, oil spills are washing ashore and drones and missiles strike infrastructure across the region, despite expectations of a de-escalation reflected in falling oil prices.\nThe United Kingdom Maritime Trade Operations agency reported on Wednesday another incident involving a tanker in the Strait of Hormuz, while Iran said an oil tanker caught fire after hitting a naval mine.\nReuters was unable to independently verify the reports.\nAt least 10 ships were hit in the first 10 days of November, after 37 attacks in October, the highest monthly tally since the conflict began, according to data from the Washington Institute for Near East Policy.\nVideos posted on social media on Sunday and verified by Reuters showed a Navig8 tanker on fire near the coast of Oman. Iran claimed responsibility for hitting three tankers the same day for using \"unauthorised routes\" through the Strait of Hormuz.\nAn image captured by the European Union's Copernicus Sentinel-2 satellite on Sunday showed a large cloud of black smoke at the same location. Navig8, majority owned by ADNOC Logistics & Services, did not reply to emailed Reuters requests for comment.\nUS forces have also continued to enforce a naval blockade of Iranian ports. A US military aircraft fired on and disabled a St Kitts-flagged cargo vessel that tried to depart regional waters after visiting an Iranian port on Saturday, US Central Command said.\nAttacks in the strait have caused environmental damage, with oil leaking from damaged tankers. A video shared on social media on Monday, and verified by Reuters, showed oil reaching the shores of Oman, while satellite imagery showed oil spills off the coast of Oman and UAE. The Omani government did not respond to Reuters request on Tuesday for comment on the video of oil reaching Omani shores.\nElsewhere in the region, energy infrastructure and civilian facilities have also come under attack. The Iran-backed Houthis have struck targets including the offices of Saudi Aramco, the world's largest oil company. Video verified by Reuters showed damage to Aramco's office building in Riyadh, following Houthi-claimed missile strikes on November 8.\nThe Saudi Energy Ministry said that a building belonging to Aramco in Riyadh had been targeted in an attempted attack, with debris causing limited damage to the building with no injuries or fatalities.\nThe International Maritime Organization has confirmed 133 incidents, most of them attacks, in the region since the conflict began in late February, with at least 25 seafarers killed.\n(Reporting by Catherine Cartier in Beirut, Arthur Wei in Beijing and Edward Carron in London; Writing by Nerijus Adomaitis; Editing by Tomasz Janowski, Alexandra Hudson)",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/centraloregondaily.com/content/tncms/assets/v3/editorial/5/59/559c044e-ee79-551d-958b-8edd44a0fe6a/6af4d1c683c5b.image.jpg?crop=800%2C420%2C0%2C28",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/centraloregondaily.com/content/tncms/assets/v3/editorial/c/6a/c6afef94-87c0-5ffe-825e-2836c325963a/6af3e06b993ea.image.jpg?resize=200%2C113",
+          "label": ""
+        },
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/centraloregondaily.com/content/tncms/assets/v3/editorial/8/35/835dd832-bce7-51aa-84fa-71a2214bb03e/6af3e2fd9aae7.image.jpg?resize=200%2C113",
+          "label": ""
+        },
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/centraloregondaily.com/content/tncms/assets/v3/editorial/6/74/6745f333-5d6d-50a1-aa3e-e84dc8e8252a/6af26fb6cc3b8.image.jpg?resize=200%2C113",
+          "label": ""
+        },
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/centraloregondaily.com/content/tncms/assets/v3/editorial/d/c4/dc4ca9ec-85dc-5114-92db-def7581d5c81/6af4df0deb6ad.image.jpg?resize=200%2C113",
+          "label": ""
+        },
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/centraloregondaily.com/content/tncms/assets/v3/editorial/b/d4/bd4ddbd8-e5b2-55aa-9ae6-d849996af4fc/6af3cf7560c49.preview.png?resize=200%2C113",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 420px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6.0,
+    "why": "Copernicus Sentinel-2 smoke plume over tankers; dramatic satellite imagery, though a news story.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The page does not say what the image shows or who made it (no credit, no licence, link-only reuse), it is only 420px wide, and this is a conflict news story rather than an Earth observation visual.",
+      "what_it_shows": "This is a Reuters news report on tanker attacks and oil spills in the Strait of Hormuz. The text mentions a Copernicus Sentinel-2 image from Sunday showing a large cloud of black smoke at the site of a burning Navig8 tanker near Oman, and says other satellite imagery showed oil spills off Oman and the UAE. The page does not say which image is attached to the article.",
+      "uncertainties": [
+        "The page does not say whether the attached image is the Sentinel-2 smoke image, a Reuters photo or a video still.",
+        "No image credit or licence is given, and the reuse policy is link_only.",
+        "The source image is only 420px wide, so the square crop would be upscaled and soft.",
+        "The Sentinel-2 acquisition is dated only as 'Sunday'. No exact date, band combination or processing is given.",
+        "Reuters was unable to independently verify some of the reports (the UKMTO incident and Iran's naval mine claim).",
+        "The attack counts come from the Washington Institute for Near East Policy and the IMO, not from satellite analysis.",
+        "This is an active conflict with seafarer deaths, so it needs editorial judgement on tone even if a verified Sentinel-2 image is found.",
+        "If the editor wants to post this, find the original Copernicus Sentinel-2 image of the smoke plume or oil slicks, for example from Copernicus or ESA channels, with a proper credit and date."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://x.com/jembobineuse/status/2120535834864582702",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "jembob on X: \"Today's Sentinel-2 images from Ust-Luga show still two fires remaining ...",
+      "link": "https://x.com/jembobineuse/status/2120535834864582702",
+      "published": "2026-11-11T17:11:21+00:00",
+      "summary": "Today's Sentinel-2 images from Ust-Luga show still two fires remaining around noon (local time) despite the clouds (IR). It is unclear, if there ...",
+      "image_url": "https://pbs.twimg.com/media/HW2nvhEXMAA35Lk?format=webp&name=large",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "See what’s happening and join the conversation",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HW2nvhEXMAA35Lk?format=webp&name=large",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1497677080632434700/_ujyWxR3_normal.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HW2nxLsXcAACHDJ?format=webp&name=large",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HW2n8uXXcAABhaF?format=webp&name=large",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HW2n-YaWgAARUUy?format=webp&name=large",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 911px of source width"
+    },
+    "score": 6.0,
+    "why": "Sentinel-2 images of fires at Ust-Luga; a satellite change scene, thin on caption.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The source gives too little to caption without guessing: a truncated X post title, no image credit, no licence, link-only reuse, and an unverified third-party claim about fires.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page text is only X boilerplate ('See what's happening and join the conversation'). The only content is a truncated post title saying Sentinel-2 images of Ust-Luga show two fires still remaining.",
+        "No image credit appears on the page and no licence is stated. The reuse policy is link_only, so the image should not be reposted.",
+        "The acquisition date of the Sentinel-2 images is not given; 'today's' would refer to the post date (2026-11-11), but this is unconfirmed.",
+        "The band combination and the meaning of the colours are not stated. Neither is the cause of the fires, which the source does not give.",
+        "The claim comes from an individual X account (jembobineuse), is unverified, and would need independent confirmation before publishing."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.youtube.com/shorts/1r9mGRBsWAU",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Watch this Landsat 3D Visualizations & Asset Library (SVS14858 closely #shorts - YouTube",
+      "link": "https://www.youtube.com/shorts/1r9mGRBsWAU",
+      "published": "2026-11-11T20:45:29+00:00",
+      "summary": "Most people never read what they sign. That single habit can protect your rights. General info, not legal advice. Footage: \" Landsat 9 3D ...",
+      "image_url": "https://i.ytimg.com/vi/1r9mGRBsWAU/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDcPdXn4TIp6LfxYWRRce8m9V02Eg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1r9mGRBsWAU/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDcPdXn4TIp6LfxYWRRce8m9V02Eg",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 405px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6.0,
+    "why": "Landsat 3D visualisation of Earth terrain; a striking geo visual, though title is muddled.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The video is about reading contracts and only reuses NASA's Landsat 9 3D asset footage as background, with no credit, no licence and a low-resolution 405px frame.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page text is about legal advice ('Most people never read what they sign'), not Earth observation.",
+        "The footage appears to come from NASA SVS asset library SVS14858 (Landsat 9 3D visualisation), but the short is a third-party reupload.",
+        "No image credit or licence is stated, and the reuse policy is link_only.",
+        "The frame is only 405px wide and would need upscaling."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.newsweek.com/water-levels-at-new-mexicos-navajo-reservoir-surge-to-seven-year-high-12700849",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Water Levels at New Mexico's Navajo Reservoir Surge to Seven-Year High - Newsweek",
+      "link": "https://www.newsweek.com/water-levels-at-new-mexicos-navajo-reservoir-surge-to-seven-year-high-12700849",
+      "published": "2026-11-11T16:50:29+00:00",
+      "summary": "Newly released satellite images show New Mexico's second-largest reservoir swelling to a seven year high following heavy rains in the Southwest.",
+      "image_url": "https://assets.newsweek.com/wp-content/uploads/2026/11/Untitled-Design-2026-11-11T161640-346.jpg?w=1200&crop=1",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Newly released satellite images show New Mexico’s second-largest reservoir swelling to a seven year high following heavy rains in the Southwest.\nThey contrast Navajo Reservoir on September 20 and November 7, after what NASA, who published the images, described as “back-to-back extreme rain events” that lashed the Four Corners region. The reservoir straddles the border of northwestern New Mexico and southwestern Colorado.\nThe downpours led to a “rapid” rise in the lake’s water levels, culminating in the reservoir hitting its highest level since August 2019, the agency explained. It said Navajo Reservoir stood at 108 percent of average capacity for the date, compared with September 20, when it stood much lower, at 60 percent of average capacity.\nThe 60-foot water level rise was captured aboard Landsat 9, a joint NASA and U.S. Geological Survey (USGS) Earth-observation satellite.\nSouthwest Colorado, southeast Utah, northern Arizona, and northwest New Mexico have been hit with widespread heavy rain in recent weeks, NASA noted, adding that the Four Corners saw precipitation totals between two and four times the average from early September through early November. The downpours also led to damaging floods and forced evacuations in portions of the Southwest.\n“Rainfall [in northern New Mexico and southwestern Colorado] has been well above average, at times exceptional, during the approximately 3-month period ending this week,” AccuWeather senior meteorologist Alex Sosnowski told Newsweek .\nHe said weather stations at Durango in Colorado and Farmington, New Mexico recorded more than triple their normal rainfall since September 1.\n“Some places in the mountains of northern New Mexico and southern Colorado have picked up three to six times the average over the prior months,” he added.\nLakes Mead and Powell, the first- and second-largest reservoirs in the U.S., have also seen their levels rise amid recent storms .\nAs Newsweek previously reported, provisional data from USGS showed Powell’s levels rose from a mid-September low of about 3,519 feet to nearly 3,540 feet as of November 9. Lake Mead also climbed slightly during that period, with its levels rising from 1,038.44 feet on September 17 to 1,039.66 feet by the weekend, according to Reclamation data.\nSosnowski said AccuWeather expects above- to well-above average precipitation throughout the winter season in the Southwest. “That includes the all-important above-average snowfall for the mountains,” the meteorologist said. “That then becomes the big runoff in the spring to early summer.”\nHe predicted that reservoir levels at Lakes Navajo, Powell, and Mead would “ratchet up” over winter, though dips would still be possible as “the winter season can bring stingy periods of precipitation.\n“Then, from Feb to May, we should see big surges in lake levels as melting snow and spring storms kick in,” Sosnowski said.\nHe added that El Niño—a climate pattern that can shift temperature and rainfall patterns—should play a large role during the winter season, with storms likely to pass through portions of the Southern U.S.\n“The biggest and earliest bumps in reservoir levels will be closest to the Rockies and will tail off downstream along the Colorado. This is because that water is ‘grabbed up’ upstream. They will release some, of course, but it is a cascading effect,\" Sosnowski concluded.\nAs of November 8, Lakes Mead and Powell were 27 percent and 26 percent full, respectively, according to data from the Bureau of Reclamation .\nContact Newsweek editors on this story: Rebecca Flood and Cristina Diciu.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://assets.newsweek.com/wp-content/uploads/2026/11/Untitled-Design-2026-11-11T161640-346.jpg?w=1200&crop=1",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://assets.newsweek.com/wp-content/uploads/2026/07/Joe-Edwards-1a42b4.png?w=256&quality=80&webp=1",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-12-16-water-levels-at-new-mexico-s-navajo-rese.jpg",
+      "image_note": "square crop, from 800px of source width"
+    },
+    "score": 6.0,
+    "why": "Newly released satellite images of a reservoir swelling to a seven-year high.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "NASA published a pair of Landsat 9 images of Navajo Reservoir, which straddles the border of northwestern New Mexico and southwestern Colorado, taken on 20 September and 7 November. After back-to-back extreme rain events in the Four Corners region, the water level rose 60 feet. The reservoir went from 60 percent to 108 percent of average capacity for the date, its highest level since August 2019. The page does not say how the images were processed or what the colours represent.",
+      "uncertainties": [
+        "No image credit is given on the page. The credit 'NASA, Landsat 9, via Newsweek' is inferred from the article text, which says NASA published the images and Landsat 9 captured them. Check the original NASA release for the exact credit line.",
+        "The reuse policy is link_only and no licence is stated. Consider using the original NASA image instead of the Newsweek copy.",
+        "The IMAGE NOTE says 'square crop, from 800px of source width', not a before/after stacked pair. The square may show only one of the two dates, or a cropped side-by-side. Check which date is visible before posting. The captions refer to the pair, so they may need adjusting if only one date shows.",
+        "The band combination, colour rendering and resolution of the images are not stated.",
+        "The 60-foot rise is given in feet only. No metric figure is provided by the source.",
+        "The rainfall figures for Durango and Farmington and the winter outlook come from an AccuWeather meteorologist quoted by Newsweek, not from NASA. They are left out of most captions."
+      ],
+      "image_credit": "Image: NASA, Landsat 9, via Newsweek",
+      "facebook": "Navajo Reservoir rose about 60 feet in seven weeks, reaching its highest level since August 2019.\n\nNASA's Landsat 9 images from 20 September and 7 November show New Mexico's second-largest reservoir going from 60% to 108% of average capacity for the date. Back-to-back extreme rain events hit the Four Corners, which saw two to four times average precipitation from early September to early November.\n\nRead more: https://www.newsweek.com/water-levels-at-new-mexicos-navajo-reservoir-surge-to-seven-year-high-12700849\n\nImage: NASA, Landsat 9, via Newsweek\n\n#Landsat #Reservoirs #Hydrology #Geoawesome",
+      "instagram": "From 60% to 108% of average capacity, between one Landsat pass and another.\n\nNavajo Reservoir, on the New Mexico/Colorado border, swelled after back-to-back extreme rain in the Four Corners. It is now at its highest level since August 2019.\n\nFind out more: https://www.newsweek.com/water-levels-at-new-mexicos-navajo-reservoir-surge-to-seven-year-high-12700849\n\nImage: NASA, Landsat 9, via Newsweek\n\n#Landsat9 #Reservoirs #Water #Geoawesome",
+      "youtube": "The Four Corners got two to four times its average precipitation from early September to early November, and one reservoir shows it clearly.\n\nNASA compared Landsat 9 scenes of Navajo Reservoir from 20 September and 7 November. Over that period the water level rose 60 feet, taking the reservoir from 60% to 108% of average capacity for the date. The source does not give the band combination or processing details.\n\nLearn more: https://www.newsweek.com/water-levels-at-new-mexicos-navajo-reservoir-surge-to-seven-year-high-12700849\n\nImage: NASA, Landsat 9, via Newsweek\n\n#Landsat #Rainfall #Hydrology #Geoawesome",
+      "x": "Navajo Reservoir seen by Landsat 9: up 60 feet between 20 September and 7 November, its highest level since August 2019.\n\nhttps://www.newsweek.com/water-levels-at-new-mexicos-navajo-reservoir-surge-to-seven-year-high-12700849\n\nImage: NASA, Landsat 9, via Newsweek\n\n#Landsat #Reservoirs #Geoawesome",
+      "alt_text": "Satellite view of Navajo Reservoir, a narrow, branching lake winding through dry, brown terrain."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-12-16-water-levels-at-new-mexico-s-navajo-rese.jpg"
+  },
+  {
+    "item": {
+      "id": "https://x.com/EGYOSINT/status/2120680177365667928/video/1",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "New Sentinel-2 satellite imagery shows the U.S. Army's Logistics Support Area in Yanbu,… / X",
+      "link": "https://x.com/EGYOSINT/status/2120680177365667928/video/1",
+      "published": "2026-11-12T01:44:53+00:00",
+      "summary": "New Sentinel-2 satellite imagery shows the U.S. Army's Logistics Support Area in Yanbu, Saudi Arabia, known as LSA Jenkins, has expanded since ...",
+      "image_url": "https://pbs.twimg.com/media/HW4rVGTXkAA3HwG?format=webp&name=large",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "See what’s happening and join the conversation",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HW4rVGTXkAA3HwG?format=webp&name=large",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/2097900262794862593/1_3W9yGW_normal.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/tweet_video_thumb/HW4rRiZWQAAlpVW?format=webp&name=large",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HW4rWdCXEAADlSH?format=webp&name=large",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HW4rX6GXwAAWltW?format=webp&name=large",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1861846984744697856/3k3zIQzD_normal.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1289px of source width"
+    },
+    "score": 6.0,
+    "why": "Sentinel-2 imagery of a US Army logistics area expanding; a clear satellite change scene.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "There is nothing to verify: the title is truncated, the page text is only X's login prompt, no image credit or licence is given, the reuse policy is link_only, and the claim (a U.S. Army logistics site in Yanbu) comes from an unverified third-party OSINT account.",
+      "what_it_shows": "The truncated title says new Sentinel-2 imagery shows a U.S. Army Logistics Support Area in Yanbu, posted as a video by the X account EGYOSINT. The page text is only X's generic login prompt, so there is no date of acquisition, band combination, description of what is visible, or confirmation of the site's identity.",
+      "uncertainties": [
+        "Title is cut off after 'Yanbu,', so the full claim is unknown.",
+        "Page text is X's login prompt only; the post's content and video were not captured.",
+        "No image credit found. Sentinel-2 data would normally be credited as Copernicus Sentinel data, but the poster's processing and any annotations are unknown.",
+        "Reuse policy is link_only and no licence is stated, so the image should not be reposted as a square anyway.",
+        "The identification of a U.S. Army Logistics Support Area is a third-party OSINT claim with no corroboration in the source.",
+        "Acquisition date, band combination and what the colours show are all missing.",
+        "Military and geopolitical subject from a single anonymous account carries a risk of misinformation."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.wpr.org/news/wisconsin-monarchs-mexico-after-being-tagged",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Some Wisconsin monarchs have made it to Mexico months after being tagged - WPR",
+      "link": "https://www.wpr.org/news/wisconsin-monarchs-mexico-after-being-tagged",
+      "published": "2026-11-11T15:15:20+00:00",
+      "summary": "A map showing a route path with circular markers extending from Minnesota through the central United This map shows Snickers the monarch ...",
+      "image_url": "https://www.wpr.org/wp-content/uploads/2024/12/GMitchell-UNADJUSTEDNONRAW_thumb_8756-Copy.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "After a nearly 1,400 mile flight, Snickers has made it.\nAnd so have David, Nancy, Otto and Bug — just to name a few.\nThey’re the monarch butterflies who have been tracked by the Southern Wisconsin Bird Alliance since September when they were tagged in Wisconsin. Their migration journey ends in Mexico and new technology shows many of the butterflies have crossed the finish line.\nWPR’s “Wisconsin Today” newsletter keeps you connected to the state you love without feeling overwhelmed. No paywall. No agenda. No corporate filter.\nSouthern Wisconsin Bird Alliance glued 30 solar-powered radio tags onto the backs of monarch butterflies at Goose Pond Sanctuary near Madison. Since then, their migration patterns have been tracked by researchers with the app Project Monarch.\nThe app detects monarchs in real time. Snickers was detected 944 times in seven  states before crossing the Mexico border.\n“There was never really a way to track an individual and see what the migration path is like on an individual basis, so being able to do that on that scale with a whole collection of monarchs is really, really powerful,” Brenna Marsicek, the director of outreach at Southern Wisconsin Bird Alliance, said.\nShe said monarch migration will continue into December, but 10 of the organization’s tagged butterflies have already made it to Mexico. “This is an astounding distance for a tiny insect to fly. So we have 10 that are in Mexico that have flown that incredible journey,” Marsicek said.\nOne of the butterflies has made it all the way to her destination. “So Nancy, one of the butterflies, flew over 1,770 miles between Goose Pond and where it is now in Mexico, where it’ll overwinter,” she said.\nBut 14 of the monarchs haven’t been spotted by the app in over a month.\n“They might resurface, they might just be in a really remote part of the country and not pinging against phones, or it could be that they’re dead,” Marsicek said. “Either way, it’s interesting data to know approximately how many butterflies actually make it into Mexico.”\nOne of the objectives of tagging the monarchs is to improve conservation efforts by increasing understanding of migration patterns. Marsicek said some butterflies flew north to Minneapolis before continuing their journey south. The theory is that this happened due to eastern wind patterns.\n“It was just a really interesting revelation that a butterfly would go that far in sort of the wrong direction before continuing their migration,” she said. “It’s been a really powerful tool for us to learn about this species that’s in major decline and needs some really significant help from us to be able to persist into the future.”\nOnce monarchs make it to Mexico, they rest in the oyamel fir forests, which are nearly 2 miles above sea level and an ideal microclimate for butterflies. Eventually they lay eggs for the next generation to travel north.\nThe first generation are the offspring of monarchs who overwintered in Mexico. It takes three to four generations, each traveling further north, to reach the northern United States and Canada. The last generation will be the ones who take the long journey south. Monarchs that migrate south live significantly longer than their ancestors who typically only live two to six weeks.\nMarsicek said after this year’s migration period ends, researchers will analyze the data to come up with conservation strategies for 2027. She said Southern Wisconsin Bird Alliance is coming up with plans to tag butterflies again next summer.\n“It’ll really inform a lot of conservation work that’s done in Wisconsin and throughout the country, as we learn more about what their migration is like and the habitats they rely on,” she said. “It’ll teach us a lot and empower us to help them in the future.”\nWisconsin Public Radio, © Copyright 2026, Board of Regents of the University of Wisconsin System and Wisconsin Educational Communications Board.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.wpr.org/wp-content/uploads/2024/12/GMitchell-UNADJUSTEDNONRAW_thumb_8756-Copy.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://www.wpr.org/wp-content/uploads/2026/11/IMG_6319.png",
+          "label": ""
+        },
+        {
+          "url": "https://www.wpr.org/wp-content/uploads/2026/09/TaggedMonarch_20260906_BrennaMarsicek-SoWBA-2-scaled.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www.wpr.org/wp-content/uploads/2026/11/2610bEndBlock5.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www.wpr.org/wp-content/uploads/2026/09/RGCIMonarch1.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 721px of source width"
+    },
+    "score": 6.0,
+    "why": "Monarch migration route map from Minnesota to Mexico; animal tracking geo story.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The page gives no description, credit or licence for its image (reuse policy is link_only), and the article text describes no map or satellite visual, so the image could not be captioned without guessing.",
+      "what_it_shows": "A WPR news story on 30 monarch butterflies fitted with solar-powered radio tags by the Southern Wisconsin Bird Alliance at Goose Pond Sanctuary near Madison in September and tracked with the Project Monarch app. Ten have reached Mexico. The article does not describe its image, so it is unknown whether it is a map, a track visual or a photo of a butterfly.",
+      "uncertainties": [
+        "No image credit or licence on the page, and the source reuse policy is link_only, so the image should not be reposted.",
+        "The image content is not described. It may be a butterfly photo rather than a map, which would not suit Geoawesome.",
+        "The tracking method is only partly explained: the article says tags are detected by 'pinging against phones' through the Project Monarch app but gives no technical detail.",
+        "Distances are in miles (about 1,400 for the migration and 1,770 for Nancy) and would need converting to kilometres.",
+        "If Project Monarch or the Southern Wisconsin Bird Alliance publishes a migration track map with a clear credit, that would be a stronger candidate for a post."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://reliefweb.int/report/somalia/somalia-weekly-weather-forecast-valid-11-17-nov-2026",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Somalia Weekly Weather Forecast - Valid From 11 - 17 Nov 2026 - ReliefWeb",
+      "link": "https://reliefweb.int/report/somalia/somalia-weekly-weather-forecast-valid-11-17-nov-2026",
+      "published": "2026-11-12T02:46:25+00:00",
+      "summary": "Flooding continues in some parts of Jowhar district and was reported in Bay. Satellite images show about 87 km² of flood water in Jowhar district and ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Flood-extent satellite images in Jowhar district; useful, though the item is a weather bulletin.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page and only a truncated text snippet (link-only alert), so there is no visual to post and the flood map details cannot be described without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was found on the page, so there is nothing to crop to a square.",
+        "The reuse policy is link_only, and no image credit or licence is stated.",
+        "The page text is a truncated snippet. It mentions satellite images showing about 87 km² of flood water in Jowhar district but gives no sensor, acquisition date, method or map.",
+        "If the full ReliefWeb report contains a credited flood extent map (for example from SWALIM or UNOSAT), it could be reconsidered with the actual image, credit and licence."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/arkansas/clark_289?name=Clark+289",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Clark 289 Fire in Arkansas | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/arkansas/clark_289?name=Clark+289",
+      "published": "2026-11-11T19:18:41+00:00",
+      "summary": "Clark 2861 acStarted Nov 8 · Updated 3d ago. 5 mi. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and map settings. Fires ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The Clark 289 fire in Clark, Arkansas is currently 100 acres.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Interactive wildfire map page, but a smaller fire with less visual pull.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, reuse is link-only, and the only fact is a single line (fire size 100 acres), so there is no visual to post and nothing to caption without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image found on the page and no image credit or licence stated.",
+        "Source reuse policy is link_only, so the page's visuals could not be reposted anyway.",
+        "Page text gives only the fire size (100 acres). No date of the perimeter, containment, cause or data source for the map."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  }
+]
