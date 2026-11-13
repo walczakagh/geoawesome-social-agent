@@ -40,5 +40,12 @@
   "post_id": "2026-11-12-10-the-hills-are-alive-with-the-sound-of-mu",
   "queued_at": "2026-11-13T08:41:13.847855+00:00",
   "slot": "2026-11-15T06:12:00+00:00"
+ },
+ {
+  "base": "2026-11-15T10:00:00+00:00",
+  "issue": 45,
+  "post_id": "2026-11-12-12-30daymapchallenge-3dmaps-maplibre-three",
+  "queued_at": "2026-11-13T08:41:29.856481+00:00",
+  "slot": "2026-11-15T11:50:00+00:00"
  }
 ]
