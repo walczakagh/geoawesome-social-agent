@@ -1,0 +1,900 @@
+[
+  {
+    "item": {
+      "id": "https://science.nasa.gov/?p=1510820",
+      "source_id": "nasa_eo",
+      "source_name": "NASA Earth Observatory",
+      "source_type": "eo_imagery",
+      "licence": "reuse",
+      "title": "A Global Rebound for Mangroves",
+      "link": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
+      "published": "2026-11-13T05:01:00+00:00",
+      "summary": "After decades of decline, this ecologically significant type of forest is making a comeback.",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-global-rebound-for-mangroves/burmamangroves_tm5_20100214.jpg",
+      "credit_hint": "NASA Earth Observatory",
+      "source_tag": "@NASAEarth",
+      "page_text": "After decades of decline, this ecologically significant type of forest is making a comeback.\nScientists began using satellites to map mangrove forests in the 1970s after the launch of the first Landsat satellite. For decades, the story they told about mangroves was dominated by loss and decline. Research published in Science suggests that the tide has turned.\nA global rebound began around 2010, the scientists found, led by the expansion of mangrove forests in Asia, Australia, and South America. The researchers analyzed Landsat imagery collected between 1984 and 2023, looking for signs of changes in the extent and density of mangrove canopy.\nThey tallied losses of nearly 3,000 square kilometers (1,200 square miles) between 1984 and 2010, followed by an unexpected increase of nearly 2,000 square kilometers (770 square miles) of mangroves after 2010. They also found that many of today's mangrove forests have denser, more closed canopies than they did in 2010, a sign of healthier, less degraded forests, particularly in South America.\n\"Other research groups have mapped and analyzed long-term changes in select regions, but these are the first global mangrove maps that cover such a long period,\" said Zhen Zhang, an environmental scientist at Tulane University. \"About two-thirds of the expansion was due to mangroves colonizing new areas and the other third due to restoration and regrowth in degraded areas,\" he added.\nOne of the most notable reversals occurred in Southeast Asia—especially Burma (Myanmar). The country lost mangroves rapidly in the 1980s and 1990s due to the expansion of agriculture, aquaculture, and firewood harvesting in coastal areas, but the trend reversed around 2010, when mangrove area began expanding in many places. The authors attribute the turnaround to increased awareness and restoration efforts after the devastating Indian Ocean tsunami in 2004 , strengthened legal protections for forests, and high rates of sedimentation that opened up new mudflats for colonization.\nThe pair of Landsat images above shows expansion of mangrove forests in Palaw Township in Burma's Myeik District—an area that has seen both significant regeneration of degraded mangrove forests and the spread of trees into new areas since 2010. In this region, much of the regeneration appears to be occurring in abandoned rice fields (brown) south of the village of Kyauktaung. People on nearby Pyin Bukyi Island, meanwhile, have experimented with conservation projects and tree planting efforts to support mangroves. Despite the gains, deforestation remains a common challenge in Burma, which lost 28.6 percent of its mangrove area between the 1980s and 2010. Since then, the country's mangrove area has grown about 10 percent.\nMangrove trees are relatively small—averaging about 13 meters (43 feet)—but mighty from an ecological perspective, with mangrove ecosystems storing up to four times as much carbon as taller inland tropical forests. The trees play an important role in protecting coastal communities from erosion and storm surges, and their distinctive stilt-like roots provide habitat and vital nursery grounds for fish, shrimp, crabs, and other marine life.\nIn several areas, such as around the mouth of the Amazon River and in northern Australia, extensive deposition of sediment has created new mudflats that mangroves have successfully colonized, contributing to steady increases in each of these regions since the 1990s. At the northern and southern edges of their range, including the southeastern U.S., warming temperatures and fewer freezes have also allowed mangroves to push into areas that were previously too cold, Zhang explained.\nThere are some areas, however, where losses have outweighed gains. Substantial mangrove losses in the Niger Delta, for instance, have reduced the total mangrove area in West and Central Africa since 2010. North America and southern Africa, meanwhile, have seen widespread degradation after tropical cyclones devastated broad swaths of mangroves. \"The global successes we've seen with mangroves during the past decade should not be seen as grounds for complacency,\" cautioned Zhang. \"This underscores that conservation and slowing deforestation can lead to huge positive impacts when coupled with natural expansion and regeneration.\"\nNASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey . Story by Adam Voiland.\nStay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.\nFall color covers the forested slopes of Bieszczady National Park, while patches of polonina, a type of high-mountain meadow, have…\nTidal and seasonal shifts leave their mark on this crescent-shaped, productive bay in Western Australia's Kimberley region.\nThe expansive mudflats, sandy beaches, and mangrove forests of the Bijagós archipelago support an array of migratory shorebirds and large…\nSubscribe to the Earth Observatory and get the Earth in your inbox.\nNASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.\nOpen access to NASA’s archive of Earth science data",
+      "image_credit": "NASA Earth Observatory images by Michala Garrison, using Landsat data from the U",
+      "image_licence": "NASA imagery, generally free to reuse with credit",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-global-rebound-for-mangroves/burmamangroves_tm5_20100214.jpg",
+          "label": "2010"
+        },
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-global-rebound-for-mangroves/burmamangroves_oli2_20260202.jpg",
+          "label": "2026"
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-13-1-a-global-rebound-for-mangroves.jpg",
+      "image_note": "before/after pair stacked, from 800px of source width"
+    },
+    "score": 8.0,
+    "why": "Landsat imagery of mangrove recovery; vivid satellite scene, strong editor history from NASA EO.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A stacked pair of Landsat images of Palaw Township in Burma's Myeik District: top 2010, bottom 2026. They show mangroves regenerating in degraded areas and spreading into new ground, much of it in abandoned rice fields (brown) south of the village of Kyauktaung. The images illustrate a global study in Science, based on Landsat imagery from 1984 to 2023. It found nearly 3,000 km² of mangrove loss between 1984 and 2010, then a gain of nearly 2,000 km² after 2010.",
+      "uncertainties": [
+        "The source does not say which Landsat satellites or sensors were used, or the exact acquisition dates; only the years 2010 and 2026 are given.",
+        "The band combination is not stated. The only colour explained is brown, for abandoned rice fields.",
+        "The bottom image (2026) falls after the study period (1984 to 2023). It illustrates the trend and is not part of the study data.",
+        "The image credit field in the source was cut off at 'from the U'. The full credit here is taken from the page text: 'NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey'.",
+        "The causes of the turnaround in Burma (post-tsunami awareness and restoration, legal protections, sedimentation) are the study authors' attribution."
+      ],
+      "image_credit": "Image: NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey",
+      "facebook": "The world lost nearly 3,000 km² of mangroves between 1984 and 2010, then gained back nearly 2,000 km² after.\n\nA global Landsat study in Science (1984 to 2023) found the turnaround. Here, Palaw Township in Burma's Myeik District, top 2010, bottom 2026: mangroves are moving into abandoned rice fields (brown) south of Kyauktaung.\n\nRead more: https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/\n\nImage: NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey\n\n#Mangroves #Landsat #Myanmar #Geoawesome",
+      "instagram": "Abandoned rice fields in Burma are turning back into mangrove forest.\n\nTop: 2010, bottom: 2026, Palaw Township, Myeik District. The brown patches are old paddies south of Kyauktaung.\n\nFind out more: https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/\n\nImage: NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey\n\n#Mangroves #Coasts #Burma #Geoawesome",
+      "youtube": "About two-thirds of the mangrove gain since 2010 came from trees colonising new ground, a third from regrowth.\n\nThe study in Science tracked mangrove extent and canopy density in Landsat imagery from 1984 to 2023. This pair shows Palaw Township, Burma (top 2010, bottom 2026), where both regrowth and spread into new areas have happened.\n\nLearn more: https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/\n\nImage: NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey\n\n#Landsat #Forests #Mangroves #Geoawesome",
+      "x": "Burma lost 28.6% of its mangroves between the 1980s and 2010. Since then its mangrove area has grown about 10%.\nhttps://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/\nImage: NASA Earth Observatory, Landsat/USGS\n#Mangroves #Landsat #Burma #Geoawesome",
+      "alt_text": "Two stacked satellite images of a coastal area in Burma, the top from 2010 and the bottom from 2026, showing forest cover spreading into brown patches of former rice fields."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-13-1-a-global-rebound-for-mangroves.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/12/uae-s-ras-al-khaimah-sharjah-reopen-several-beaches-after-tanker-oil-spill",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "UAE's Ras Al Khaimah, Sharjah reopen several beaches after tanker oil spill",
+      "link": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/12/uae-s-ras-al-khaimah-sharjah-reopen-several-beaches-after-tanker-oil-spill",
+      "published": "2026-11-12T23:05:10+00:00",
+      "summary": "A satellite image shows an oil spill off the coast of UAE, November 8, 2026. EUROPEAN UNION/COPERNICUS SENTINEL-2 ... satellite images show ...",
+      "image_url": "https://media.internazionale.it/images/2026/11/12/363683-hd.jpeg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "DUBAI, Nov 12 (Reuters) - Authorities in the United Arab Emirates’ Ras Al Khaimah and Sharjah emirates said they had reopened several beaches following closures prompted by an oil spill from a tanker damaged in a suspected attack in the Gulf last month.\nSharjah’s media office said the beaches had reopened after authorities brought pollution caused by the spill under control.\n“The relevant authorities confirm that the emirate’s beaches and marine environment are safe, allowing the public to visit and enjoy various marine activities safely,” it said.\nThe spill, which spread along parts of the UAE’s northern coastline, had prompted authorities to close beaches in Ras Al Khaimah, Sharjah and Umm Al Quwain amid concerns over environmental contamination.\nThe spill has underscored the environmental risks from attacks on commercial shipping in the Gulf since the U.S.-Israeli war on Iran began in February.\nOctober saw the highest number of attacks on commercial vessels in the Strait of Hormuz and surrounding waters since the conflict began, according to data compiled by the Washington Institute for Near East Policy.\nIn a separate incident, British maritime security firm Ambrey said on Thursday that a merchant vessel had been struck by an unknown projectile about 14 nautical miles northwest of Ras Al Khaimah the previous day.\nThe strike caused a fire in the vessel’s engine room, but no injuries or pollution were reported at the time, Ambrey said.\nShipping through the strait, a vital route for global oil and gas supplies, remains disrupted as uncertainty persists over efforts to reach a US-Iran agreement to end the war and restore maritime traffic.\nThe spill has also raised concerns about the potential impact on desalination facilities, a crucial source of drinking water in the Gulf, although no shutdowns have been reported.\n(Reporting by Jana Choukeir; Editing by Christopher Cushing and Louise Heavens)\nDUBAI, 12 novembre (Reuters) - Le autorità degli emirati di Ras Al Khaimah e Sharjah, negli Emirati Arabi Uniti, hanno dichiarato di aver riaperto diverse spiagge dopo le chiusure causate da una fuoriuscita di petrolio da una petroliera danneggiata in un presunto attacco avvenuto nel Golfo il mese scorso.\nL’ufficio stampa di Sharjah ha dichiarato che le spiagge sono state riaperte dopo che le autorità hanno riportato sotto controllo l’inquinamento causato dalla fuoriuscita.\n“Le autorità competenti confermano che le spiagge e l’ambiente marino dell’emirato sono sicuri, consentendo al pubblico di visitarle e di praticare varie attività marine in tutta sicurezza”, ha affermato.\nLa fuoriuscita, che si è estesa lungo alcuni tratti della costa settentrionale degli Emirati Arabi Uniti, aveva indotto le autorità a chiudere le spiagge di Ras Al Khaimah, Sharjah e Umm Al Quwain a causa dei timori di contaminazione ambientale.\nLa fuoriuscita ha messo in evidenza i rischi ambientali derivanti dagli attacchi alla navigazione commerciale nel Golfo da quando, a febbraio, è iniziata la guerra di Stati Uniti e Israele contro l’Iran.\nSecondo i dati raccolti dal Washington Institute for Near East Policy, il mese di ottobre ha registrato il numero più elevato di attacchi contro navi mercantili nello Stretto di Hormuz e nelle acque circostanti dall’inizio del conflitto.\nIn un altro episodio, la società britannica di sicurezza marittima Ambrey ha dichiarato giovedì che il giorno precedente una nave mercantile era stata colpita da un proiettile non identificato a circa 14 miglia nautiche a nord-ovest di Ras Al Khaimah.\nL’impatto ha provocato un incendio nella sala macchine della nave, ma al momento non sono stati segnalati feriti né casi di inquinamento, ha precisato Ambrey.\nIl traffico marittimo attraverso lo stretto, una rotta vitale per le forniture globali di petrolio e gas, rimane interrotto poiché persiste l’incertezza sugli sforzi per raggiungere un accordo tra Stati Uniti e Iran volto a porre fine alla guerra e ripristinare il traffico marittimo.\nLa fuoriuscita ha inoltre sollevato preoccupazioni riguardo al potenziale impatto sugli impianti di desalinizzazione, una fonte cruciale di acqua potabile nel Golfo, sebbene non siano state segnalate interruzioni dell’attività.\n(Reporter Jana Choukeir; editor Christopher Cushing e Louise Heavens)\nScrivici per correzioni o suggerimenti: posta@internazionale.it\nInserisci email e password per entrare nella tua area riservata.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://media.internazionale.it/images/2026/04/17/346984-md.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://media.internazionale.it/images/2026/11/12/363683-md.jpeg",
+          "label": ""
+        },
+        {
+          "url": "https://media.internazionale.it/images/2023/05/02/181371-ld.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://media.internazionale.it/images/2026/11/11/363534-ld.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://media.internazionale.it/images/2026/11/11/363604-ld.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://media.internazionale.it/images/2026/04/17/346984-md.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 683px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 7.0,
+    "why": "Sentinel-2 image of an oil spill off UAE coast; vivid satellite scene with real impact.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Reuters text-only news report with no described map or satellite image and no image credit; the 683px page image is unidentified and reuse is link_only, so we cannot say what it shows without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page text describes no image, sensor, date or map, so the low-resolution page image could be anything (stock photo, beach photo, file picture).",
+        "No image credit or licence is given, and the reuse policy is link_only.",
+        "If a satellite or SAR image of the spill off the UAE's northern coast (Ras Al Khaimah, Sharjah, Umm Al Quwain) turns up from a credited source (for example Copernicus Sentinel-1 or Sentinel-2 imagery), that would be the post to make. This article could serve as background for its caption.",
+        "The tanker attack is 'suspected' per Reuters; any future post should keep that hedge."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.facebook.com/milanjanosovscience/posts/downtown-toronto-as-an-airborne-lidar-survey-measured-itthis-is-the-1-m-surface-/976918338825888/",
+      "source_id": "google_alerts_4",
+      "source_name": "Google Alerts #4",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Downtown Toronto as an airborne lidar survey measured it. This is the 1 m surface model of ...",
+      "link": "https://www.facebook.com/milanjanosovscience/posts/downtown-toronto-as-an-airborne-lidar-survey-measured-itthis-is-the-1-m-surface-/976918338825888/",
+      "published": "2026-11-12T22:21:39+00:00",
+      "summary": "Downtown Toronto as an airborne lidar survey measured it. This is the 1 m surface model of the city centre from the 2023 Greater Toronto lidar ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Downtown Toronto as an airborne lidar survey measured it. This is the 1 m surface model of the city centre from the 2023 Greater Toronto lidar ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Lidar 1 m surface model of downtown Toronto; striking terrain visual of a real city.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was found on the page, the reuse policy is link_only, there is no image credit or licence, and the page text is truncated, so there is nothing to repost square without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "IMAGE NOTE says no image was found on the page, so there is no visual to crop to 1080x1080.",
+        "Reuse policy is link_only, so the image cannot be reposted even if found.",
+        "Image credit and licence are not stated on the page.",
+        "Page text is truncated after 'from the 2023 Greater Toronto lidar ...': the full survey name, the data provider and what the colours represent are unknown.",
+        "The source is a personal Facebook post (Milan Janosov) found via Google Alerts. If the editor wants to use it, trace the original 2023 Greater Toronto lidar dataset and its publisher for a reusable image and a proper credit."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/california/whitesbridge?name=Whitesbridge",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Whitesbridge Fire in California | WFCA Fire Map",
+      "link": "https://wfca.com/fire-map/california/whitesbridge?name=Whitesbridge",
+      "published": "2026-11-13T00:39:11+00:00",
+      "summary": "Wildfire TrainingStarted Jan 7 · Updated 23h ago. 5 mi. MapLibre . MenuOpen the menu and map settings. FiresBrowse active fires on the map. WFCA ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The Whitesbridge fire in Fresno, California is currently 97 acres and 96% contained.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Interactive live wildfire map portal; a tracker people can open and explore.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, no image credit, link-only reuse policy, and the only content is one line of incident status (97 acres, 96% contained), not a striking visual.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "IMAGE NOTE says no image was found on the page, so there is nothing to crop to a square.",
+        "No image credit or licence is stated, and the reuse policy is link_only.",
+        "The page text gives only size and containment (97 acres, 96% contained in Fresno, California), with no date of the figures, cause, data source or description of the map's layers.",
+        "It is not clear whether the WFCA fire map is an interactive map with perimeter data or only a status page."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.facebook.com/TheFlowCountry/posts/-the-flow-country-is-nasa-national-aeronautics-and-space-administrations-image-o/1461431542779667/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Flow Country satellite image shows blanket bog carbon storage - Facebook",
+      "link": "https://www.facebook.com/TheFlowCountry/posts/-the-flow-country-is-nasa-national-aeronautics-and-space-administrations-image-o/1461431542779667/",
+      "published": "2026-11-12T22:37:31+00:00",
+      "summary": "Flow Country satellite image shows blanket bog carbon storage. Summarized by AI from the post below.",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Flow Country satellite image shows blanket bog carbon storage. Summarized by AI from the post below.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Same NASA Flow Country satellite image via Facebook; good visual, sparse caption.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was found on the page, there is no image credit or licence, the reuse policy is link_only, and the only text is a one-line AI summary, so the caption would rest on guesses.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was retrieved from the page (IMAGE NOTE: no image found), so there is nothing to crop to a square.",
+        "No image credit or licence is stated. The Facebook post URL hints that the image may be a NASA image, but the page text does not confirm this, and that must not be assumed.",
+        "The page text is a one-line AI-generated summary ('Summarized by AI from the post below'). It gives no sensor, date, band combination, colour key or carbon figures.",
+        "The source is a Google Alert pointing to a third-party Facebook post (The Flow Country page), not the original publisher of the image.",
+        "Reuse policy is link_only. If this is the NASA Earth Observatory image the URL suggests, the editor could find the original page and its stated credit and facts, then resubmit that page as the source."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.reddit.com/r/Environmentalism/comments/1xupnao/oil_slicks_seen_from_space_the_devastating_impact/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Oil slicks seen from space : the devastating impact of boat strikes on fragile Gulf ecosystems",
+      "link": "https://www.reddit.com/r/Environmentalism/comments/1xupnao/oil_slicks_seen_from_space_the_devastating_impact/",
+      "published": "2026-11-12T22:00:41+00:00",
+      "summary": "Oil slicks seen from space : the devastating impact of boat strikes on fragile Gulf ecosystems. r/Environmentalism - Oil slicks seen from space : the ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Oil slicks seen from space : the devastating impact of boat strikes on fragile Gulf ecosystems. r/Environmentalism - Oil slicks seen from space : the ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Oil slicks from space in Gulf; striking subject, but no image in feed.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, no credit or licence, and only a Reddit title with no sensor, date, location or source data, so the post could not be written without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page has no image, so there is nothing to crop to a square.",
+        "No image credit or creator username is given, and the reuse policy is link only.",
+        "The Reddit post title is the only text: there is no sensor, acquisition date, exact location or explanation of how the slicks were identified.",
+        "The claim that the slicks come from 'boat strikes' is unverified and has no source attached. It may refer to a contested news event, so the topic could be politically charged.",
+        "This came through Google Alerts rather than directly from Reddit, so the original poster and the image source are unknown."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://x.com/granttosterudwx/status/2120918991103570070/photo/1",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Grant Tosterud - X",
+      "link": "https://x.com/granttosterudwx/status/2120918991103570070/photo/1",
+      "published": "2026-11-12T16:43:10+00:00",
+      "summary": "NASA satellite images show the dramatic rise at Navajo Lake following recent rain. The lake rose nearly 60' between Sept. 20 and Nov.",
+      "image_url": "https://pbs.twimg.com/media/HW8DkzNaQAA18sk?format=webp&name=large",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "See what’s happening and join the conversation",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HW8DkzNaQAA18sk?format=webp&name=large",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1677437356457213952/lKiBoHG7_normal.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1996087477921333248/lhs7w7j2_normal.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1736479750753812480/uvBZlvR0_normal.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/2116293569283813376/xh6dY6cs_normal.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1080px of source width"
+    },
+    "score": 6.0,
+    "why": "NASA satellite images of Navajo Lake rising nearly 60 feet; before/after change.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No usable source material: the page text is only X's login boilerplate, with no description of the image, no data, date or sensor, and no image credit, so any caption would be guesswork.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "Page text contains only X's generic sign-in prompt, so there is no information about what the image shows.",
+        "No image credit found on the page.",
+        "Image licence not stated, and the reuse policy for this alert source is link_only.",
+        "Possible weather or meteorology post (the handle ends in 'wx'), but this is an inference from the username, not a sourced fact."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.gamma.earth/demo-datasets/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Sentinel-2 Super-Resolution Demo Datasets - GammaEarth",
+      "link": "https://www.gamma.earth/demo-datasets/",
+      "published": "2026-11-12T19:14:53+00:00",
+      "summary": "Open GammaEarth demo datasets in a comparison viewer: Sentinel-2 at 10 m beside S2DR3 and S2DR4 at 1 m, and before/after pairs, by industry.",
+      "image_url": "https://www.gamma.earth/assets/og-default.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "See what super-resolved, cloud-mitigated S2DR outputs look like compared with the original Sentinel-2 imagery, and how they capture change in before/after comparisons. Open the interactive viewer, or download the full 10-band, 16-bit GeoTIFF for deeper analysis.\n21 datasets · catalogue updated 12 November 2026\nThe original 10 m Sentinel-2 image beside the same scene super-resolved to 1 m by S2DR3. The viewer switches between true colour, NDVI and infra-red pseudo-colour.\nSentinel-2 beside S2DR4, which adds cloud, haze and shadow removal to the S2DR3 reconstruction. These open in the earlier S2DR4 viewer, in true colour only, and have no GeoTIFF download.\nTwo S2DR3 acquisitions of the same area at 1 m, one before an event and one after it. Drag the slider to see what changed.\nEach GeoTIFF is the full S2DR3 output for one date: 10 bands (B02–B08, B8A, B11, B12), 16-bit, 1 m pixels.\nContains modified Copernicus Sentinel data (2018–2026), processed by GammaEarth.\nSign up free: the Base Plan includes 75 credits every month to process your own area of interest through Google Colab or the QGIS plugin.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.gamma.earth/assets/demo-datasets/venice.webp?dpl=dpl_6LGPp2Qf4edRMW3Ln7TE9uiPQvH5",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://www.gamma.earth/assets/demo-datasets/venice.webp?dpl=dpl_6LGPp2Qf4edRMW3Ln7TE9uiPQvH5",
+          "label": ""
+        },
+        {
+          "url": "https://www.gamma.earth/assets/demo-datasets/rotterdam-port.webp?dpl=dpl_6LGPp2Qf4edRMW3Ln7TE9uiPQvH5",
+          "label": ""
+        },
+        {
+          "url": "https://www.gamma.earth/assets/demo-datasets/imperial-valley.webp?dpl=dpl_6LGPp2Qf4edRMW3Ln7TE9uiPQvH5",
+          "label": ""
+        },
+        {
+          "url": "https://www.gamma.earth/assets/demo-datasets/almeria-greenhouses.webp?dpl=dpl_6LGPp2Qf4edRMW3Ln7TE9uiPQvH5",
+          "label": ""
+        },
+        {
+          "url": "https://www.gamma.earth/assets/demo-datasets/bihar-smallholder-farms.webp?dpl=dpl_6LGPp2Qf4edRMW3Ln7TE9uiPQvH5",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 750px of source width"
+    },
+    "score": 6.0,
+    "why": "Interactive before/after comparison viewer of Sentinel-2 super-resolution; playable map tool.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Vendor product and sign-up page: the cropped image cannot be identified (no place, date or scene named), no image credit or licence is given, and the reuse policy is link only.",
+      "what_it_shows": "GammaEarth's demo catalogue (21 datasets, updated 12 November 2026). It compares original 10 m Sentinel-2 imagery with S2DR3 outputs super-resolved to 1 m, S2DR4 outputs that add cloud, haze and shadow removal, and before/after S2DR3 pairs viewed with a slider. The page does not say which scene the 750px source image used for the square crop shows.",
+      "uncertainties": [
+        "The page does not name the location, acquisition date or display mode (true colour, NDVI or infra-red pseudo-colour) of the image used for the crop.",
+        "No image credit was found. The only attribution is 'Contains modified Copernicus Sentinel data (2018–2026), processed by GammaEarth'.",
+        "The image licence is not stated, and the source reuse policy is link only.",
+        "The 1 m output is a model reconstruction from 10 m Sentinel-2 data, not a 1 m observation. The page gives no accuracy or validation figures, so a post would need that caveat.",
+        "The page is commercial and promotional (free Base Plan with 75 credits per month), so it reads more as a product page than a story."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://soaratlas.com/maps/false-color-sentinel-2-imagery-of-catalonia-spain-november-2025-142090",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "False Color Sentinel-2 Imagery of Catalonia, Spain - November 2025 - Soar Atlas",
+      "link": "https://soaratlas.com/maps/false-color-sentinel-2-imagery-of-catalonia-spain-november-2025-142090",
+      "published": "2026-11-12T18:49:29+00:00",
+      "summary": "This map shows false color Sentinel-2 satellite imagery of the Catalonia region of Spain from November 2025. Pixel resolution: 10m.",
+      "image_url": "https://pda.soaratlas.com/assets/sharing-default.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://pda.soaratlas.com/assets/sharing-default.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 630px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6.0,
+    "why": "False-colour Sentinel-2 map of Catalonia; striking colour and clear subject.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The source names no band combination, so the colours cannot be explained without guessing; there is also no image credit, no licence, a link-only reuse policy and a low-resolution (630px) source image.",
+      "what_it_shows": "A false colour Sentinel-2 image of the Catalonia region of Spain from November 2025, published on Soar Atlas. The page gives a pixel resolution of 10 m. It does not say which bands are used, so it is unclear what the colours represent.",
+      "uncertainties": [
+        "The band combination for the false colour composite is not stated, so the colours cannot be described.",
+        "No exact acquisition date is given beyond November 2025.",
+        "No image credit is given on the page, and the map's author on Soar Atlas is not identified.",
+        "No image licence is stated, and the reuse policy is link_only, so reposting the image may not be permitted.",
+        "The source image is only 630 px wide and would need upscaling to 1080x1080, so sharpness is likely to be poor.",
+        "The source gives no detail that makes this scene notable (no event, change or feature is mentioned)."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.linkedin.com/posts/alvinfsc_the-same-globe-two-nights-lights-as-seen-activity-7526765810275487745-_Rle",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "The same globe, two nights: lights as seen from space , in 1992 and 2024. | Alvin Foo",
+      "link": "https://www.linkedin.com/posts/alvinfsc_the-same-globe-two-nights-lights-as-seen-activity-7526765810275487745-_Rle",
+      "published": "2026-11-12T22:06:22+00:00",
+      "summary": "The same globe, two nights: lights as seen from space , in 1992 and 2024.",
+      "image_url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQEsca0PnEf9sw/thumbnail-with-play-button-overlay-high/B4EaHNKd0XIYC8-/0/1794443438196?e=2147483647&v=beta&t=5NkDhBSqs_kn-lXjeLk9jybTzJi-sgNnHoAd-D-EIuo",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\nThe same globe, two nights: lights as seen from space, in 1992 and 2024.\nCreate your free account or sign in to continue your search\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQEsca0PnEf9sw/thumbnail-with-play-button-overlay-high/B4EaHNKd0XIYC8-/0/1794443438196?e=2147483647&v=beta&t=5NkDhBSqs_kn-lXjeLk9jybTzJi-sgNnHoAd-D-EIuo",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5616AQG4FNgrtOj-JA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1719543854301?e=2147483647&v=beta&t=XdNYYIbvLZUpDphQGWNhMOweNCIPU5xbWintR_OjOTw",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 720px of source width"
+    },
+    "score": 6.0,
+    "why": "Night lights of Earth compared 1992 vs 2024; classic change visual, though image missing.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "LinkedIn repost with no image credit, licence or data source and a link-only reuse policy, so the image cannot be credited or explained without guessing.",
+      "what_it_shows": "A LinkedIn post by Alvin Foo that compares night-time lights on the globe as seen from space in 1992 and 2024. The page text gives only the title and no other details.",
+      "uncertainties": [
+        "No image credit on the page. Alvin Foo appears to be sharing the image, not making it, so the original maker is unknown.",
+        "Image licence not stated, and the reuse policy is link_only.",
+        "No sensor or dataset is named for either year. A 1992 vs 2024 pair may combine different instruments, which would make a direct visual comparison misleading. This needs checking against the original source.",
+        "It is unclear whether each globe is a single night ('two nights') or a composite.",
+        "The PUBLISHED date (2026-11-12) looks wrong and should be checked.",
+        "The page text is mostly the LinkedIn login wall, so the post's full content could not be read."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.youtube.com/shorts/IujGLvjhyz0",
+      "source_id": "google_alerts_4",
+      "source_name": "Google Alerts #4",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "What Does an Open-Pit Mine Look Like as a 3D Point Cloud ? 🗺️ DJI Matrice 400 Drone - YouTube",
+      "link": "https://www.youtube.com/shorts/IujGLvjhyz0",
+      "published": "2026-11-13T01:13:21+00:00",
+      "summary": "Open-pit mine 3D point cloud captured by drone: the DJI Matrice 400 with Zenmuse L3 LiDAR, from flight planning to aerial data capture and terrain ...",
+      "image_url": "https://i.ytimg.com/vi/IujGLvjhyz0/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDa_sVRwvHEvH7yE4ew9q0uQbuZlw",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IujGLvjhyz0/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDa_sVRwvHEvH7yE4ew9q0uQbuZlw",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 405px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6.0,
+    "why": "Open-pit mine drone lidar point cloud; visually striking, but no image in feed.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "This is a YouTube Short demoing a drone/LiDAR product. The reuse policy is link-only, it has no creator or image credit, the mine's location and date are not given, and the only image is a 405px upscaled frame.",
+      "what_it_shows": "A YouTube Short showing a 3D point cloud of an open-pit mine captured by a DJI Matrice 400 drone carrying a Zenmuse L3 LiDAR, covering flight planning, aerial data capture and terrain (the page text is cut off at that point). The source gives no location, capture date, point density or creator.",
+      "uncertainties": [
+        "The reuse policy is link_only, so the image should not be reposted as a square.",
+        "No image or video credit was found, and the YouTube channel or creator is not named in the source material.",
+        "The mine's name and location are not stated.",
+        "The capture date, point density, accuracy and colour scheme of the point cloud are not stated.",
+        "The page text is truncated after 'terrain ...', so the rest of the workflow is unknown.",
+        "The source image is only 405px wide and upscaled, so sharpness at 1080x1080 is likely poor.",
+        "The video may be vendor or reseller marketing for DJI hardware rather than independent work."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/5b4866bd50144112",
+      "source_id": "google_alerts_6",
+      "source_name": "Google Alerts #6",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Clay, Arkansas | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/5b4866bd50144112",
+      "published": "2026-11-12T10:07:18+00:00",
+      "summary": "Titus 98961 ac · 0% containedStarted Nov 10 · Updated 1d ago. 3000 ft. MapLibre . MenuOpen the menu and map settings. FiresBrowse active fires on the ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Clay, Arkansas observed by LANDSAT covering 9.3 acres from 42 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live wildfire map of Clay, Arkansas, ~98,000 acres, 0% contained; a map people can open.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "There is no image on the page and the content is a single auto-generated fire detection entry (9.3 acres in Clay, Arkansas), so there is no striking visual to post.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was found on the page, and the image credit and licence are not stated.",
+        "The reuse policy is link_only, so no visual from this page could be reposted anyway.",
+        "The page is an automated detection listing ('LANDSAT', 42 merged observations, 9.3 acres) with no date of observation, no confirmation that it is an actual wildfire and no context."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/pennsylvania/macks_curve?name=Mack%27s+Curve",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Macks Curve Fire in Pennsylvania | WFCA Fire Map",
+      "link": "https://wfca.com/fire-map/pennsylvania/macks_curve?name=Mack%27s+Curve",
+      "published": "2026-11-12T15:24:12+00:00",
+      "summary": "Foot Creek683 ac · 36% containedStarted Nov 5 · Updated 3d ago. 100 mi. MapLibre | © OpenStreetMap contributors · Protomaps. macks_curve incident no ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Live fire tracker page with containment data; interactive but no preview image.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page and only a garbled text fragment (which names a different fire, Foot Creek), so there is no visual to post and nothing about the Macks Curve Fire that can be stated without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "IMAGE NOTE says no image was found on the page, so there is nothing to crop to a square.",
+        "The page text names 'Foot Creek, 683 ac, 36% contained, started Nov 5', not the Macks Curve Fire, so it is unclear which incident these figures refer to.",
+        "There are no facts about the Macks Curve Fire itself: no size, location within Pennsylvania, containment, date or data source.",
+        "No image credit or licence is stated, and the reuse policy is link_only.",
+        "The publisher is a Google Alerts feed pointing to a WFCA fire map page, which is likely an auto-generated tracker rather than an editorial source."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/mississippi/red_hill?name=Red+Hill",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Red Hill Fire in Mississippi | WFCA Fire Map",
+      "link": "https://wfca.com/fire-map/mississippi/red_hill?name=Red+Hill",
+      "published": "2026-11-12T12:48:49+00:00",
+      "summary": "Titus 98961 ac · 0% containedStarted Nov 10 · Updated 2d ago. 5 mi. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and map ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The Red Hill fire in Perry, Mississippi is currently 519 acres.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Large 98,961-acre fire map portal, 0% contained; interactive tracker.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page and only a one-line fire size update (519 acres, Perry, Mississippi), so there is no visual to post and too little to explain without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was found on the page.",
+        "The reuse policy is link_only and no image credit or licence is stated.",
+        "The page gives only a size of 519 acres and the location (Perry, Mississippi). It gives no date of the measurement, no data source and no containment status."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.thebeiruter.com/article/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems/3074",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Oil slicks seen from space : the devastating impact of boat strikes on fragile Gulf ecosystems",
+      "link": "https://www.thebeiruter.com/article/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems/3074",
+      "published": "2026-11-12T20:13:21+00:00",
+      "summary": "The Gulf war is leaving scars so vast they can be seen from space . Satellite images reveal oil slicks spreading across the Strait of Hormuz and ...",
+      "image_url": "https://www.thebeiruter.com/content/uploads/newsCommunications/Oil-Slicks-500x500.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Since the US war on Iran began in February, there have been hundreds of oil spills, posing a ‘generational’ threat to wildlife\nThe vast, dark slicks in the strait of Hormuz are visible from space. Throughout October, oil tankers were struck by missiles or sea mines in the waterway and spilled crude into the sea. The pollution has spread across the Gulf, contaminating coastlines and threatening to cause lasting damage to marine ecosystems that are home to dolphins, sea turtles and countless species of fish. Eight months into the war between the US and Iran, one of the world’s busiest oil shipping routes has become a battlefield and the centre of a growing environmental disaster. The naval blockade of the strait has made documenting the pollution from on the ground almost impossible. But analysis of satellite images, combined with the testimony of environmental experts and marine biologists, can help build up a picture. Ecosystem at risk The strait of Hormuz, the only maritime passage between the Gulf and the Arabian Sea, is home to a rich but fragile marine environment including coral reefs, mangrove forests and seagrass meadows that support a wealth of marine life. It plays a vital role in the circulation of water and nutrients and serves as a migration route for marine mammals. Even in peacetime, its ecosystems have faced mounting pressure from shipping, oil extraction and coastal development. Oil can coat birds’ feathers, making it difficult for them to float and find food. It can cover mangrove roots, preventing the trees from absorbing oxygen and potentially killing them. Bernhard Riegl, a marine biologist at Nova Southeastern University in Florida, who has studied the Gulf for more than 30 years, warned that the war could cause lasting damage to its confined waters, already under severe pressure from the climate crisis. “Since the Gulf is shallow, and summer is the least windy period of the year, atmospheric heat is rapidly translated into ocean heat. That heat kills corals, algae, fishes. There is no cold, deep water that could mix and buffer this heat,” Riegl said. “Everybody knows that oil in water is not good. The potential for additional damage is significant. There is no such thing as a ‘clean war’. Not for the unlucky humans that are drawn into it, nor for the unlucky environment in which the conflict takes place.” Strikes and spills Since the war began on 28 February, Greenpeace has identified more than 500 instances of oil spills through satellite monitoring across the Gulf, the strait of Hormuz and the Arabian Sea. The findings include major spills linked to attacks on vessels, as well as others detected around the time of strikes but whose origins could not be confirmed. “Adding together the daily mapped footprints [of the spills] gives a cumulative total of approximately 20,000 square kilometres – almost the size of Wales,” said Nina Noelle, a Greenpeace expert on environmental disaster relief. More than 133 attacks on oil tankers have taken place since the beginning of the conflict, according to Greenpeace. October was the worst month, with more than 30 confirmed or reported attacks in the strait of Hormuz and surrounding waters, according to the Washington Institute for Near East Policy. The attacks have continued into November. Among the most polluting of the October attacks was a strike on the supertanker Gem No 2 off the coast of the United Arab Emirates, which left a slick stretching more than 21 miles (35km). A satellite image dated 19 October shows a huge patch of black moving into the clear waters off the coast of Umm Al Quwain. Greenpeace estimates that an attack on a tanker in early June resulted in a slick off the coast of Oman that covered more than 600 sq km (230 sq miles) at its peak. Two Iranian naval vessels hit in March continued leaking oil for months, said Wim Zwijnenburg, an environmental researcher with the Dutch peace organisation Pax. An attack on the Liberian-flagged Minoan Pioneer on 3 August has also been linked to a major slick. Oil pollution has reached several coastlines since the war began. In March, a slick from the Shahid Bagheri was detected near the Hara mangroves. In April, pollution threatened the protected Shidvar Island, home to coral reefs, seabirds and turtles. Oil was also reported washing ashore at Qeshm Island in August, near important fishing grounds and turtle nesting sites. Satellite imagery also shows slicks near Oman’s Musandam national park and Iran’s Minab River delta, two areas rich in wildlife. Musandam is home to coral reefs and seabird breeding grounds, while the Minab delta has protected mudflats and forests of mangroves. Environmental organisations are continuing to analyse satellite imagery but warn that the full extent of the damage cannot be established without investigations on the ground, which remain extremely difficult. Some of the researchers and environmentalists contacted for comment in Iran and Gulf states said they had been instructed by domestic authorities not to speak publicly about the environmental damage caused by the war. Establishing responsibility is not straightforward, but Iran’s Islamic Revolutionary Guard Corps (IRGC) has been blamed for most of the attacks. US forces have also targeted tankers, disabling Iranian vessels attempting to cross a US naval blockade and striking others in response to Iranian missile attacks on US warships. According to a Wall Street Journal report, the largest oil spill was caused by a strike carried out by the UAE’s air force on oil storage tanks on Lavan Island. The strikes resulted in crude oil flushing into the Gulf and affecting coastal areas, including the nearby nature reserves of Shidvar Island. The damage ahead In some instances, countries bordering the strait have responded to spills. After the attack on the Gem No 2, for instance, the UAE closed beaches, launched a major cleanup and monitored its desalination plants. Authorities said on 30 October that",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.thebeiruter.com/content/uploads/newsCommunications/Oil-Slicks-500x500.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 500px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 5.0,
+    "why": "Satellite oil slick story from Hormuz; visual implied but no image supplied.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The page gives no credit, licence, sensor or date for the image we would crop, the reuse policy is link_only, and the source image is only 500px wide, so we cannot post or caption it without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "Image credit not found on the page and licence not stated. With a link_only reuse policy, reposting the image itself is not cleared.",
+        "We cannot tell which image the crop comes from. The text mentions 'a satellite image dated 19 October' showing the Gem No 2 slick off Umm Al Quwain, but gives no sensor, provider or confirmation that this is the pictured image.",
+        "No sensor, resolution, band combination or processing (for example SAR versus optical) is given for any of the imagery.",
+        "Source image is 500px wide and was upscaled to 1080px, so it will likely look soft on Instagram and Facebook.",
+        "Key figures are third-party or hedged: Greenpeace's 500+ spills and roughly 20,000 sq km cumulative footprint (a sum of daily mapped footprints, not a single extent), 133+ tanker attacks per Greenpeace, 30+ October attacks per the Washington Institute, and the Lavan Island attribution per a Wall Street Journal report.",
+        "Responsibility for the strikes is contested and politically sensitive. A caption would need careful attribution.",
+        "Page text is cut off mid-sentence ('Authorities said on 30 October that'), so the article was captured incomplete.",
+        "Possible better route: find the original satellite imagery from its provider (for example a Greenpeace or Pax analysis with a stated sensor, date and credit) and build the post from that source instead."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://spidolas.com/data/burn-areas/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Wildfire burn area labeling for insurance - IKT Spīdolas",
+      "link": "https://spidolas.com/data/burn-areas/",
+      "published": "2026-11-12T17:08:42+00:00",
+      "summary": "Wildfire burn area labels from Sentinel-2 and Landsat : the fire footprint and the buildings and settlements it reached, for wildfire risk and ...",
+      "image_url": "https://spidolas.com/assets/og/burn-areas.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Burned land is clear in the shortwave infrared bands of Sentinel-2 and Landsat, even through smoke. We trace the fire perimeter and the unburned islands inside it, then add the exposure layer that matters to an insurer: built-up areas and buildings at the edge or inside the burn. The example is the 2013 Balmoral fire south-west of Sydney.\nFootprints are labeled on post-fire imagery compared to a pre-fire scene, so cleared land and shadows are not mistaken for burn. Burn severity classes are available when the model needs more than burned / unburned.\nIdentify which policies sit inside or next to a burn before inspection.\nHistoric footprints at the edge of towns, where losses happen, to train and test risk scores.\nPast fire activity around a location as an input to pricing.\nSum insured inside a footprint within days of a fire.\nFour steps, each ending in something you can check before the next one starts. The satellite image annotation covers formats, quality checks and cost in more detail.\nArea, dates and class list agreed in writing, with example images for every class and its edge cases.\nYour satellite or drone imagery, or satellite scenes sourced for you: free Sentinel and Landsat, or commercial high-resolution.\nYou get Scene list with dates and resolution\nAnnotators work to the guideline. Anything the imagery cannot settle is flagged, not guessed.\nYou get Labels plus a log of flagged cases\nEvery class is reviewed against a sample before the data leaves us.\nYou get Data and per-class accuracy, in your format and CRS\nThe same fire, a different question. Burn areas for insurance focus on the footprint against buildings; burn scars for forestry focus on the forest that burned and how it recovers.\nAs soon as there is a clear post-fire image. Sentinel-2 revisits every few days.\nThat needs high-resolution imagery. See building damage labeling.\nFurther reading How SAR labeling differs from optical How to scope a data labeling pilot\nTell us your area, your imagery and what your model has to learn. We reply with a proposed class list and a quote.\nTell us about the project. We reply with questions or a proposed class list and a quote.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://spidolas.com/assets/eo/data/burn-areas-1100.webp",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://spidolas.com/assets/eo/data/burn-areas-1100.webp",
+          "label": ""
+        },
+        {
+          "url": "https://spidolas.com/assets/eo/data/burn-scars-1100.webp",
+          "label": ""
+        },
+        {
+          "url": "https://spidolas.com/assets/eo/data/building-damage-1100.webp",
+          "label": ""
+        },
+        {
+          "url": "https://spidolas.com/assets/eo/data/flood-extent-1100.webp",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 733px of source width"
+    },
+    "score": 5.0,
+    "why": "Wildfire burn area footprints mapped from Sentinel-2 and Landsat; a data product with map potential.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Vendor sales page for a labelling service: the image is an unexplained product example with no credit, licence, sensor or date, so it cannot be captioned without guessing.",
+      "what_it_shows": "A commercial page from IKT Spīdolas advertising wildfire burn-area labelling for insurers, using the 2013 Balmoral fire south-west of Sydney as its example. The text says burns are traced in shortwave infrared bands of Sentinel-2 and Landsat against a pre-fire scene, with built-up areas and buildings added as an exposure layer. The page does not say which sensor, scene date or colour scheme the example image uses.",
+      "uncertainties": [
+        "No image credit on the page and no licence stated. The reuse policy is link_only.",
+        "The example image's sensor (Sentinel-2 or Landsat), acquisition date, band combination and colour meaning are not given.",
+        "It is unclear whether the image is a satellite scene, a labelled overlay or a product screenshot.",
+        "The source image is low resolution (733px wide), which is weak for a 1080x1080 square.",
+        "The page is promotional (quotes, pilots), not editorial, and the visual was surfaced by a Google Alert."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  }
+]
