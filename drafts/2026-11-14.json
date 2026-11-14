@@ -1,0 +1,1003 @@
+[
+  {
+    "item": {
+      "id": "https://www.facebook.com/CopernicusEU/posts/%EF%B8%8F-the-barnes-ice-cap-located-on-baffin-island-in-the-canadian-arctic-is-the-last/1588129033356069/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "The Barnes Ice Cap, located on Baffin Island in the Canadian Arctic, is the last remaining fragment ...",
+      "link": "https://www.facebook.com/CopernicusEU/posts/%EF%B8%8F-the-barnes-ice-cap-located-on-baffin-island-in-the-canadian-arctic-is-the-last/1588129033356069/",
+      "published": "2026-11-13T23:50:31+00:00",
+      "summary": "... Sentinel-2 satellites on 28 August 2026, shows the Barnes Ice Cap surrounded by exposed brown soil, with turquoise lakes along parts of its edge ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "... Sentinel-2 satellites on 28 August 2026, shows the Barnes Ice Cap surrounded by exposed brown soil, with turquoise lakes along parts of its edge ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 8.0,
+    "why": "Sentinel-2 scene of a shrinking ice cap with exposed soil and meltwater lakes; strong change story.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was found on the page, there is no image credit or licence, the reuse policy is link_only, and the source text is only a truncated fragment of a Copernicus Facebook post.",
+      "what_it_shows": "According to the page text, a Sentinel-2 image from 28 August 2026 shows the Barnes Ice Cap on Baffin Island in the Canadian Arctic. The ice cap is surrounded by exposed brown soil, with turquoise lakes along parts of its edge. The source title calls it 'the last remaining fragment ...', but the sentence is cut off.",
+      "uncertainties": [
+        "No image was found on the page, so there is nothing to crop into a 1080x1080 square.",
+        "There is no image credit on the page. It is presumably a Copernicus Sentinel-2 image posted by CopernicusEU, but this is not confirmed.",
+        "No image licence is stated, and the reuse policy is link_only.",
+        "The title is truncated ('the last remaining fragment ...'), so the full claim is not given. Do not complete it from memory.",
+        "The page text is a fragment. The band combination, resolution and full caption context are missing.",
+        "The link points to a Facebook post found through Google Alerts. It is better to locate the original Copernicus post or image page directly, with its credit, before reconsidering."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.youtube.com/shorts/usltHpAT8EI",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Las Vegas grew, Lake Mead shrank: real satellite pictures, 1984 to 2025 #Shorts - YouTube",
+      "link": "https://www.youtube.com/shorts/usltHpAT8EI",
+      "published": "2026-11-13T22:04:02+00:00",
+      "summary": "Las Vegas grew, Lake Mead shrank. One real Landsat satellite picture for every year from 1984 to 2025, same place, same grid, same colours, ...",
+      "image_url": "https://i.ytimg.com/vi/usltHpAT8EI/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLA6cKmLUQx_hkt2t8YsgPMWUBLi0A",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/usltHpAT8EI/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLA6cKmLUQx_hkt2t8YsgPMWUBLi0A",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 405px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 8.0,
+    "why": "Landsat time-lapse 1984-2025 of Las Vegas growth and Lake Mead shrinkage; classic before-and-after.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Reuse policy is link_only, no creator or image credit can be found, and the only image is a low-resolution (405px, upscaled) frame from a vertical YouTube Short, so there is no image we can properly post or credit.",
+      "what_it_shows": "A YouTube Short that shows one Landsat image per year from 1984 to 2025 over the same area. The video shows Las Vegas growing while Lake Mead shrinks. The page says the frames use the same grid and the same colours throughout, but it does not say which colours or bands.",
+      "uncertainties": [
+        "Reuse policy is link_only: the image may only be linked, not reposted as a square.",
+        "No image credit or channel name is given, so the creator cannot be credited.",
+        "The licence is not stated. The Landsat data is public, but the video edit belongs to its maker.",
+        "The source frame is 405px wide and was upscaled, so it is likely too soft for a 1080x1080 post.",
+        "The band combination is not stated ('same colours'), and neither are the Landsat missions used, the acquisition months or any figures for urban growth or water-level change.",
+        "The published date (2026-11-13) and the 1984 to 2025 range should be checked against the actual video.",
+        "Alternative: find the original Landsat imagery or a credited NASA Earth Observatory or USGS Las Vegas and Lake Mead comparison and post that instead."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.cbsnews.com/projects/2026/nationwide-groundstop-timelapse/",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "See airline traffic during the nationwide ground stop",
+      "link": "https://www.cbsnews.com/projects/2026/nationwide-groundstop-timelapse/",
+      "published": "2026-11-14T02:35:33+00:00",
+      "summary": "This map shows airline traffic during the nationwide ground stop on Nov. 13, 2026. The stop began around 3:54 p.m. ET when there was about 2,500 ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 8.0,
+    "why": "Airline traffic timelapse map of nationwide ground stop; interactive, visually striking flow of flights.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was found on the page, the reuse policy is link_only and the page text is truncated, so there is no visual to post and too little sourced detail to caption it without guessing.",
+      "what_it_shows": "A CBS News map (apparently a timelapse, judging by the URL) of airline traffic during a nationwide ground stop on 13 November 2026. The stop began around 3:54 p.m. ET, when there were about 2,500 (the rest of the sentence is cut off). The excerpt names no data source, time span or colour key.",
+      "uncertainties": [
+        "No image was found on the page (IMAGE NOTE), so there is nothing to crop to a 1080x1080 square.",
+        "The reuse policy is link_only and no image licence is stated, so reposting a still from the timelapse is probably not allowed.",
+        "No image credit appears on the page. If it were ever used, credit would default to the publisher (Map: CBS News).",
+        "The page text is truncated mid-sentence, and the figure 'about 2,500' has no unit (presumably aircraft in the air, but this is not confirmed).",
+        "The excerpt does not give the cause of the ground stop, its duration or the flight-tracking data provider.",
+        "The excerpt does not confirm whether it is an interactive map or a video timelapse."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.earthdata.nasa.gov/news/worldview-image-archive/atmospheric-river-season-pacific-northwest",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Atmospheric River Season for the Pacific Northwest | NASA Earthdata",
+      "link": "https://www.earthdata.nasa.gov/news/worldview-image-archive/atmospheric-river-season-pacific-northwest",
+      "published": "2026-11-13T22:48:01+00:00",
+      "summary": "Atmospheric rivers periodically bring heavy surf, rain, strong winds, and flooding potential to the Pacific Northwest coast of the United States ...",
+      "image_url": "https://earthdata.nasa.gov/s3fs-public/2026-11/AtmosphericRiver_PNW_12Nov2026_VIIRS_NOAA20_wiotw_th.jpeg?VersionId=_f1dRRk3EqlJq.iNfkdVEjpSOflazva0",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Atmospheric rivers periodically bring heavy surf, rain, strong winds, and flooding potential to the Pacific Northwest coast of the United States and western Canada. These long columns of warm, moisture-laden air originate over the ocean in subtropical regions. Because the atmospheric rivers that hit North America tend to originate near Hawaii, they are colloquially called a \"pineapple express.\" When these rivers of wet air reach the West Coast, they often drop substantial amounts of rain and snow.\nThe true-color corrected reflectance image above from the VIIRS instrument aboard the NOAA-20 platform shows a swirling, comma-shaped band of clouds approaching the coast on November 12, 2026.\nPress play in the lower left corner of this animation to see back-to-back atmospheric rivers approaching the U.S. and Canadian coasts. Rain and snow estimates come from the Integrated Multi-satellitE Retrievals for Global Precipitation Measurement (GPM) (IMERG) algorithm, which combines passive-microwave observations from the Global Precipitation Measurement (GPM) constellation of satellites, infrared observations from geosynchronous satellites, and calibration data derived from rain gauges. The data show the IMERG precipitation rate at 30-minute intervals from 00:00 UTC on November 11 to 15:00 UTC on November 13.\nVisit Worldview to visualize near real-time imagery and historical imagery from NASA's Earth Science Data and Information System ( ESDIS ); find more imagery in our Worldview weekly image archive .\nExplore data collected by platforms in space, air, water, and land.\nBrowse by topic to find relevant data, tools, learning resources, news, and more.\nDive into one of the planet’s largest repositories of Earth science data.\nAccess a range of tools that enable data discovery, analysis, and visualization.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Worldview satellite image archive of atmospheric river flooding over the Pacific Northwest.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was extracted from the page, there is no image credit or licence, and the source's reuse policy is link_only, so there is nothing we can post as a square.",
+      "what_it_shows": "According to the page, a NASA Earthdata Worldview image archive post shows a true-colour corrected reflectance image from VIIRS on NOAA-20. It shows a swirling, comma-shaped band of clouds approaching the Pacific Northwest coast on 12 November 2026. The page also has an animation of back-to-back atmospheric rivers reaching the US and Canadian coasts, showing the IMERG precipitation rate at 30-minute intervals from 00:00 UTC on 11 November to 15:00 UTC on 13 November.",
+      "uncertainties": [
+        "IMAGE NOTE says no image was found on the page, so there is no source image to crop to 1080x1080.",
+        "No image credit appears on the page. NASA Worldview imagery is often credited to NASA Worldview or NASA Earthdata, but the source does not say so here and we should not guess.",
+        "Image licence is not stated, and the source's reuse policy is link_only.",
+        "The main visual on the page is an animation (IMERG precipitation) plus a still VIIRS image. Neither is available to us, and the animation would not work as a still square anyway.",
+        "If the editor pulls the VIIRS true-colour still directly from Worldview with a confirmed credit, this would be a strong post: a sourced hook is the comma-shaped 'pineapple express' cloud band, with IMERG precipitation at 30-minute intervals over 11 to 13 November 2026."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/quebec/641?name=641&id=CA-2026_QC_641",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the 641 Fire in Quebec | WFCA Fire Map",
+      "link": "https://wfca.com/fire-map/quebec/641?name=641&id=CA-2026_QC_641",
+      "published": "2026-11-14T01:41:11+00:00",
+      "summary": "6412,545 acUpdated 101d ago. 3 mi. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and map settings. FiresBrowse active fires ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The 641 fire in Quebec is currently 2545 acres.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live interactive fire map of a 2,545-acre Quebec fire; playable, but no image.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, no credit or licence, and only one line of text (fire size), so there is no visual to repost and nothing to describe without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was found on the page, so there is nothing to crop into a square.",
+        "No image credit or licence is stated, and the source's reuse policy is link_only.",
+        "The page gives only one fact: the 641 fire in Quebec is currently 2545 acres. There is no location detail, start date, cause, containment status or data source.",
+        "The figure is in acres. Any conversion to hectares or square kilometres would be our own calculation, not the source's.",
+        "The page is a live tracker, so the 2545-acre figure may change after the 2026-11-14 alert.",
+        "The source is a Google Alert pointing to a WFCA fire-map page. It is not an original Earth observation or mapping product."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.facebook.com/united24.media/posts/satellite-images-show-an-old-russian-garrison-coming-back-to-life-and-new-radar-/1115190834615550/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Satellite images show an old Russian garrison coming back to life and new radar ... - Facebook",
+      "link": "https://www.facebook.com/united24.media/posts/satellite-images-show-an-old-russian-garrison-coming-back-to-life-and-new-radar-/1115190834615550/",
+      "published": "2026-11-13T21:18:03+00:00",
+      "summary": "Satellite images show an old Russian garrison coming back to life and new radar infrastructure taking shape in Kaliningrad.",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Satellite images show an old Russian garrison coming back to life and new radar infrastructure taking shape in Kaliningrad.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Satellite imagery of Kaliningrad garrison revival; visual and geo-focused, though less scenic.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image or image credit was found on the page, and the one-line text gives no location detail, sensor, date or source, so it cannot be posted without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was found on the page and no image credit or licence is stated.",
+        "The source is a single sentence from a third-party Facebook post (United24 Media) with a link-only reuse policy.",
+        "The satellite provider, image dates and exact locations of the garrison and radar sites are not given.",
+        "The claims about the garrison and radar infrastructure in Kaliningrad are not verified in the source material."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://cocreative.it/templates/lidar-stream",
+      "source_id": "google_alerts_4",
+      "source_name": "Google Alerts #4",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "LiDAR Point-Cloud Viewer - cocreative",
+      "link": "https://cocreative.it/templates/lidar-stream",
+      "published": "2026-11-13T04:16:30+00:00",
+      "summary": "GEO-SPATIAL // REAL DATA. LiDAR Point-Cloud Viewer. Classified airborne LiDAR, streamed compressed. A real 500 m × 500 m airborne LiDAR subset in ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Classified airborne LiDAR, streamed compressed\nA real 500 m × 500 m airborne LiDAR subset in the browser: 2.1 million points as Draco-compressed 3D Tiles. Colour by RGB, intensity, elevation, return number or flight line, and filter our seven-class classification.\nReal airborne LiDAR: a 500 m × 500 m subset of a City of Vancouver tile, 2.1 million points streamed as Draco-compressed 3D Tiles. Colour by any field of the scan, or by our seven-class classification (rule-based first pass, not yet checked against ground truth).",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Interactive classified LiDAR point-cloud viewer on real 500 m terrain; playable, though no image.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, no image credit or licence, link-only reuse policy, and the page is a vendor template demo rather than a published map or image.",
+      "what_it_shows": "A browser-based viewer template from cocreative showing a 500 m × 500 m subset of a City of Vancouver airborne LiDAR tile: 2.1 million points streamed as Draco-compressed 3D Tiles. Points can be coloured by RGB, intensity, elevation, return number or flight line, or by the vendor's own seven-class classification.",
+      "uncertainties": [
+        "No image found on the page, so there is nothing to crop to a 1080x1080 square.",
+        "No image credit and no licence stated. The reuse policy is link_only.",
+        "The seven-class classification is described by the vendor as a rule-based first pass not yet checked against ground truth.",
+        "The capture date, sensor and point density of the original City of Vancouver tile are not stated.",
+        "The page is a product template (commercial demo), not editorial content."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.instagram.com/reel/DftNjJJRV5j/",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "This map shows airline traffic during the FAA's nationwide ground stop on Nov. 13 ... - Instagram",
+      "link": "https://www.instagram.com/reel/DftNjJJRV5j/",
+      "published": "2026-11-14T03:48:07+00:00",
+      "summary": "This map shows airline traffic during the FAA's nationwide ground stop on Nov. 13, 2026, only including aircraft types that were built for passenger ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Airline traffic map video of the FAA ground stop; strong visual, but a reel with no image.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "There is no image to post: the page has no image, the credit is unknown, the description is truncated and the reuse policy is link-only.",
+      "what_it_shows": "According to the truncated page text, a map of airline traffic during the FAA's nationwide ground stop on 13 November 2026, limited to aircraft types built for passenger use. The source does not give the data source, the time window or the map's maker.",
+      "uncertainties": [
+        "No image was found on the page, so there is nothing to make a square from.",
+        "The image credit and the creator of the map are not stated, and the Instagram account behind the reel is unknown.",
+        "The page text is cut off, so the full description of what was filtered or shown is missing.",
+        "The flight-tracking data source is not stated.",
+        "The source is a Google Alert pointing to an Instagram reel with a link-only reuse policy, so we have no permission to repost the visual.",
+        "The ground stop itself is not described or confirmed by any other source in the material.",
+        "If the editor wants this story, find the original creator and the data source (for example the flight-tracking service) and ask for permission before reconsidering."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://x.com/Mapbox/status/2121293766153662909",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Mapbox on X: \"# 30DayMapChallenge Day 13 — Interactions 🏎️ Ready, set, race! Earth Racer",
+      "link": "https://x.com/Mapbox/status/2121293766153662909",
+      "published": "2026-11-13T18:32:40+00:00",
+      "summary": "30DayMapChallenge Day 13 — Interactions 🏎️ Ready, set, race! Earth Racer: City Circuit built by Moritz Förster turns an interactive map into a ...",
+      "image_url": "https://pbs.twimg.com/amplify_video_thumb/2120251476941361153/img/Amq_xIxHZQOXcFXa?format=webp&name=large",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "See what’s happening and join the conversation",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2120251476941361153/img/Amq_xIxHZQOXcFXa?format=webp&name=large",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/2032504164027346944/wKcYocdf_normal.png",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2120251476941361153/img/Amq_xIxHZQOXcFXa?format=webp&name=medium",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/2104184336153210880/5sfhrn4Q_normal.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/2104277465673986048/axhOt6hD_normal.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1070px of source width"
+    },
+    "score": 6.0,
+    "why": "Earth Racer interactive map game from Mapbox 30DayMapChallenge; playful, clever map interaction.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The source gives only a tweet title ('Earth Racer', a #30DayMapChallenge Day 13 interactions entry) with no page text, image credit or licence, and the reuse policy is link_only, so we cannot describe or repost the visual without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "Page text is only the X login placeholder, so there is no description of what 'Earth Racer' is or what the image shows.",
+        "No image credit or licence is stated on the page.",
+        "The reuse policy is link_only, so reposting the image as a square may not be permitted.",
+        "It is unclear whether the visual is a map, a game screenshot or a product demo, and there is no data source, imagery source or date.",
+        "It could be worth revisiting if Mapbox publishes a blog post or demo page explaining Earth Racer, its data and the image rights."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.linkedin.com/posts/amir-zelman_30daymapchallenge-activity-7527060693687304192-MYD-",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "# 30daymapchallenge | Amir Zelman - LinkedIn",
+      "link": "https://www.linkedin.com/posts/amir-zelman_30daymapchallenge-activity-7527060693687304192-MYD-",
+      "published": "2026-11-13T23:03:22+00:00",
+      "summary": "30DayMapChallenge Day 13, Interactions. Six months of the North Atlantic, from May to this week. The warm Gulf Stream runs up the coast at up to 8 ...",
+      "image_url": "https://dms.licdn.com/playlist/vid/v2/D5605AQFiM1dwhrBBow/thumbnail-with-play-button-overlay-high/B56aHV9w29HsC0-/0/1794591104237?e=2147483647&v=beta&t=smIS2eCN1ByljFr_iwc-ysyDjrz6ZFzD52Z0WynT1dI",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\n#30DayMapChallenge Day 13, Interactions.\n\nSix months of the North Atlantic, from May to this week. The warm Gulf Stream runs up the coast at up to 8 km/h and crashes into the cold water coming down from Labrador. Where they meet, the sea can drop 16°C in 100 km.\n\nCurrents and sea temperature from Copernicus Marine and NOAA: National Oceanic & Atmospheric Administration , served through Geodesic by SeerAI, Inc.\nWay cool Amir Zelman ! I wonder, can you see any changes in the AMOC over time with this perspective?\nCreate your free account or sign in to continue your search\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://dms.licdn.com/playlist/vid/v2/D5605AQFiM1dwhrBBow/thumbnail-with-play-button-overlay-high/B56aHV9w29HsC0-/0/1794591104237?e=2147483647&v=beta&t=smIS2eCN1ByljFr_iwc-ysyDjrz6ZFzD52Z0WynT1dI",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E16AQGsJYIDj-3mkQ/profile-displaybackgroundimage-shrink_200_800/B4EZXY6OVLHcAY-/0/1743100899342?e=2147483647&v=beta&t=cKkX7QpPftjBH38wQcmWFwjtm1365iuGFMHBECt7j34",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-14-11-30daymapchallenge-amir-zelman-linkedin.jpg",
+      "image_note": "square crop, from 720px of source width"
+    },
+    "score": 6.0,
+    "why": "Gulf Stream six-month North Atlantic map from 30DayMapChallenge; oceanographic visual with a hook.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "Amir Zelman's map for Day 13 (Interactions) of the 30DayMapChallenge shows six months of North Atlantic currents and sea temperature, from May to the week of posting. The warm Gulf Stream runs up the coast at up to 8 km/h and meets cold water flowing down from Labrador, where the sea can drop 16°C in 100 km. The data comes from Copernicus Marine and NOAA, served through Geodesic by SeerAI.",
+      "uncertainties": [
+        "Reuse policy is link_only and no image licence is stated. Check whether reposting the image is allowed or ask Amir Zelman for permission.",
+        "No image credit was found on the page. The credit used here is the post author plus the data providers named in the post.",
+        "The post does not explain the colour scale or whether the visual is an animation or a still.",
+        "Exact dates are not given. 'May to this week' implies roughly May to mid-November 2026.",
+        "The figures of 8 km/h and 16°C in 100 km are the author's own statements, with no specific source cited.",
+        "Which coast is meant is not stated explicitly, so the posts do not name it.",
+        "A commenter's question about AMOC changes is not addressed in the post and is left out."
+      ],
+      "image_credit": "Map: Amir Zelman, data: Copernicus Marine and NOAA",
+      "facebook": "Where the Gulf Stream meets cold water from Labrador, the sea can drop 16°C in just 100 km.\n\nAmir Zelman's map for Day 13 (Interactions) of the 30DayMapChallenge covers six months, from May to this week. The warm current moves up the coast at up to 8 km/h before colliding with the flow coming south.\n\nRead more: https://www.linkedin.com/posts/amir-zelman_30daymapchallenge-activity-7527060693687304192-MYD-\n\nMap: Amir Zelman, data: Copernicus Marine and NOAA\n\n#Geoawesome #Oceanography #Cartography #Copernicus",
+      "instagram": "The Gulf Stream crashing into cold Labrador water, mapped from May to this week.\n\nAmir Zelman's 30DayMapChallenge entry, built on currents and sea temperature from Copernicus Marine and NOAA.\n\nFind out more: https://www.linkedin.com/posts/amir-zelman_30daymapchallenge-activity-7527060693687304192-MYD-\n\nMap: Amir Zelman, data: Copernicus Marine and NOAA\n\n#Geoawesome #Oceans #Cartography #Maps",
+      "youtube": "Six months of North Atlantic currents in one map, from May to this week.\n\nFor Day 13 (Interactions) of the 30DayMapChallenge, Amir Zelman combined current and sea temperature data from Copernicus Marine and NOAA, served through Geodesic by SeerAI. The focus is the front where the warm Gulf Stream meets cold Labrador water. The post puts the temperature drop there at up to 16°C over 100 km.\n\nLearn more: https://www.linkedin.com/posts/amir-zelman_30daymapchallenge-activity-7527060693687304192-MYD-\n\nMap: Amir Zelman, data: Copernicus Marine and NOAA\n\n#Geoawesome #Oceanography #NOAA #Copernicus",
+      "x": "Warm water heading north at up to 8 km/h, straight into the cold flow from Labrador. Six months of the North Atlantic, May to now.\nhttps://www.linkedin.com/posts/amir-zelman_30daymapchallenge-activity-7527060693687304192-MYD-\nMap: Amir Zelman, data: Copernicus Marine, NOAA\n#Geoawesome #Oceans #Cartography",
+      "alt_text": "Map of the North Atlantic showing ocean currents and sea temperature, with the warm Gulf Stream meeting colder water flowing down from Labrador."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-14-11-30daymapchallenge-amir-zelman-linkedin.jpg"
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/california/lac_370863",
+      "source_id": "google_alerts_6",
+      "source_name": "Google Alerts #6",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Lac 370863 Fire in California | WFCA Fire Map",
+      "link": "https://wfca.com/fire-map/california/lac_370863",
+      "published": "2026-11-13T18:00:18+00:00",
+      "summary": "Anderson 993115 ac · 0% containedStarted Nov 12 · Updated 4h ago. 100 mi. MapLibre | © OpenStreetMap contributors · Protomaps. lac_370863 incident no ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live wildfire tracker map for the Lac 370863 Fire; 993,115 acres, 0% contained, interactive.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, no credit or licence, and the page text is a garbled fire-tracker stub (an unclear 'Anderson 993115 ac' figure for incident lac_370863), so it cannot be described without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was found on the page, so there is nothing to crop to a square.",
+        "No image credit or licence is stated. The reuse policy is link_only.",
+        "The page text is fragmentary. 'Anderson 993115 ac · 0% contained' is unclear: it may be a different fire's name or a parsing artefact. An acreage near one million acres for a fire started Nov 12 needs checking against an official source (CAL FIRE or the county fire department).",
+        "Incident ID lac_370863 suggests Los Angeles County, but the page does not confirm the location, cause or perimeter source.",
+        "The basemap credit (MapLibre, OpenStreetMap contributors, Protomaps) covers the base layers only, not the fire data."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/29eccb8349674853",
+      "source_id": "google_alerts_6",
+      "source_name": "Google Alerts #6",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Jefferson, Washington | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/29eccb8349674853",
+      "published": "2026-11-13T15:13:09+00:00",
+      "summary": "Foot Creek683 ac · 90% containedStarted Nov 5 · Updated 1d ago. 3000 ft. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Jefferson, Washington observed by SOF from 14 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live interactive fire map of Jefferson, Washington; geo visual, though no image in feed.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Auto-generated fire detection page with no image, no date for the detection, no credit and a one-line description, so there is nothing to show and too little to caption without guessing.",
+      "what_it_shows": "An automated WFCA fire map entry for satellite fire detections in Jefferson, Washington, described as 'observed by SOF from 14 merged observations'. No image was found on the page, and it gives no detection date, no fire size and no sensor detail beyond 'SOF'.",
+      "uncertainties": [
+        "No image on the page, so there is nothing to crop to a square.",
+        "'SOF' is not explained on the page, and the sensor or satellite behind the detections is not stated.",
+        "The detection date, fire size and whether this is a confirmed fire or only a satellite hotspot are not given.",
+        "The reuse policy is link_only, and no image credit or licence is stated.",
+        "Jefferson could refer to Jefferson County, Washington, but the page does not say so."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/2b1791710c8c412b",
+      "source_id": "google_alerts_6",
+      "source_name": "Google Alerts #6",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Nueces, Texas | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/2b1791710c8c412b",
+      "published": "2026-11-13T15:11:49+00:00",
+      "summary": "Anderson 993115 ac · 0% containedStarted Nov 12 · Updated 4h ago. 3000 ft. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Nueces, Texas observed by VIIRS_NOAA20 covering 79.1 acres from 3 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live fire tracker map for Nueces, Texas with 993,115-acre Anderson fire.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Auto-generated fire detection listing with no image on the page and a link-only reuse policy, so there is no visual to post.",
+      "what_it_shows": "An automated WFCA fire map page listing satellite fire detections in Nueces, Texas, observed by VIIRS on NOAA-20 and covering 79.1 acres from 3 merged observations. The page has no image.",
+      "uncertainties": [
+        "No image found on the page and no image credit or licence stated",
+        "Reuse policy is link_only",
+        "No detection date or time is given beyond the page publication timestamp",
+        "Detections are unverified satellite hotspots, not confirmed fire perimeters"
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/arkansas/logan_240",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Logan 240 Fire in Arkansas | WFCA Fire Map",
+      "link": "https://wfca.com/fire-map/arkansas/logan_240",
+      "published": "2026-11-14T00:13:42+00:00",
+      "summary": "Anderson 993115 ac · 0% containedStarted Nov 12 · Updated 1d ago. 100 mi. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The Logan 240 fire in Logan, Arkansas is currently 1 acres.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Interactive fire tracker showing a 993,115-acre Arkansas fire; map-based but generic.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, and the source is a one-line automated fire-tracker entry (a 1-acre fire) with nothing striking to show or explain.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was found on the page and no image credit or licence is given.",
+        "The reuse policy is link_only, so there is no visual we could repost even if one existed.",
+        "The page text is a single automated line ('currently 1 acres') with no date of observation, data source, perimeter method or containment status."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/826aca5c3f0c40db",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Coffee, Tennessee | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/826aca5c3f0c40db",
+      "published": "2026-11-13T18:11:05+00:00",
+      "summary": "Tracking satellite fire detections in Coffee, Tennessee observed by LANDSAT covering 0.9 acres from 4 merged observations ... Sentinel-2 cloudless by ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Coffee, Tennessee observed by LANDSAT covering 0.9 acres from 4 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Fire detection map from Landsat and Sentinel-2 for a small Tennessee fire; modest visual.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Auto-generated fire detection listing with no image on the page: one small (0.9 acre) Landsat detection, link-only reuse and no credit, so there is no striking visual to post.",
+      "what_it_shows": "An automated WFCA fire map page for a satellite fire detection in Coffee, Tennessee. It was observed by Landsat and covers 0.9 acres from 4 merged observations. The page has no image.",
+      "uncertainties": [
+        "No image on the page and no image credit or licence",
+        "Reuse policy is link_only",
+        "No detection date given (only the page publish date of 2026-11-13)",
+        "Not stated whether the detection is a confirmed wildfire, a prescribed burn or another heat source"
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.modernghana.com/videonews/cnn/1/753572",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "A glowing Hawaii, as seen from space - Modern Ghana",
+      "link": "https://www.modernghana.com/videonews/cnn/1/753572",
+      "published": "2026-11-13T20:15:22+00:00",
+      "summary": "A glowing Hawaii, as seen from space . BBC CNN DW CGTN NBC ABC ALJazeera. France24 JoyNews CitiTV Net2TV. TV3 UTV DelayTV KofiTV MagrahebTV. MGTV",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "4 hours ago Two Aduman SHS teachers remanded over alleged sodomy case involving two minors\nTwo Aduman SHS teachers remanded over alleged sodomy case involving two minors\nTwo Aduman SHS teachers remanded over alleged sodomy case involving two minors\n4 hours ago 'What are the technical reasons for the new cedi notes?’ – Oppong Nkrumah questi...\n'What are the technical reasons for the new cedi notes?’ – Oppong Nkrumah questi...\n'What are the technical reasons for the new cedi notes?’ – Oppong Nkrumah questi...\n4 hours ago GES forwards 347 salary arrears cases of 2024 teacher recruits for payment\nGES forwards 347 salary arrears cases of 2024 teacher recruits for payment\nGES forwards 347 salary arrears cases of 2024 teacher recruits for payment\n4 hours ago No basis for rent increases in Ghana today – Kwakye Ofosu cites reduced building...\nNo basis for rent increases in Ghana today – Kwakye Ofosu cites reduced building...\nNo basis for rent increases in Ghana today – Kwakye Ofosu cites reduced building...\n4 hours ago 2027 Budget: New Economy is ‘copy and paste’ of 24-hour policy – Amin Adam\n2027 Budget: New Economy is ‘copy and paste’ of 24-hour policy – Amin Adam\n2027 Budget: New Economy is ‘copy and paste’ of 24-hour policy – Amin Adam\n4 hours ago 2027 Budget: Ato Forson contradicted himself on borrowing – Amin Adam\n2027 Budget: Ato Forson contradicted himself on borrowing – Amin Adam\n2027 Budget: Ato Forson contradicted himself on borrowing – Amin Adam\n10 hours ago Microsoft says it is 'deeply sorry' after widespread outages cause global chaos\nMicrosoft says it is 'deeply sorry' after widespread outages cause global chaos\nMicrosoft says it is 'deeply sorry' after widespread outages cause global chaos\n10 hours ago Microsoft outage causes global chaos\n10 hours ago The Nvidia affair: Are markets about to fall out of love with AI?\nThe Nvidia affair: Are markets about to fall out of love with AI?\nThe Nvidia affair: Are markets about to fall out of love with AI?\n15 hours ago 'Too early to discuss presidential bid’ – Dr. Ato Forson\n'Too early to discuss presidential bid’ – Dr. Ato Forson\n'Too early to discuss presidential bid’ – Dr. Ato Forson\nTrust in Ghana’s Judiciary: Which recent case most influenced your view?",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://cdn.modernghana.com/banners/80/50/Poster 15.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://www.modernghana.com/img/img.png",
+          "label": ""
+        },
+        {
+          "url": "https://cdn.modernghana.com/banners/80/50/Poster 15.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www.modernghana.com/img/blank.png",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 50px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 5.0,
+    "why": "Glowing Hawaii seen from space; striking night-light Earth image, but text gives little detail.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The page has only a title: nothing on the image's sensor, date, location detail or what is glowing, no image credit, a 50px source image, and a CNN video relayed by an aggregator.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page text is unrelated Ghanaian news headlines. Nothing describes the Hawaii image.",
+        "The title does not say what is glowing (city lights, lava, aurora or something else), when it was taken, or from which satellite, astronaut photo or sensor.",
+        "No image credit is given. The URL suggests a CNN video re-hosted by Modern Ghana, so the original rights holder is unclear.",
+        "No licence is stated, and the reuse policy is link_only.",
+        "The source image is only 50px wide, so a 1080x1080 upscale would be unusable.",
+        "If the story is worth chasing, find the original source (CNN or the agency that released the image) with sensor, date and credit before considering a repost."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.youtube.com/watch?v=EOms6kHB1Z8",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "A glowing Hawaii, as seen from space - YouTube",
+      "link": "https://www.youtube.com/watch?v=EOms6kHB1Z8",
+      "published": "2026-11-13T19:49:46+00:00",
+      "summary": "A glowing Hawaii, as seen from space . @CNN No ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Video of glowing Hawaii from space; Earth-from-orbit visual, though no map shown in the feed.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image or credit on the page, and the text is only a title fragment pointing to a CNN YouTube video, so a caption would be guesswork.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was found on the page (IMAGE NOTE: no image found).",
+        "No image credit or licence is stated; the reuse policy is link_only.",
+        "The page text is only a title fragment ('A glowing Hawaii, as seen from space . @CNN'), with no sensor, date, location detail or explanation of the glow (e.g. lava, city lights).",
+        "The original source appears to be a CNN video; the original imagery provider is unknown."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://archiscans.com/en/projects/",
+      "source_id": "google_alerts_4",
+      "source_name": "Google Alerts #4",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Projects – archiscans.com",
+      "link": "https://archiscans.com/en/projects/",
+      "published": "2026-11-13T11:38:07+00:00",
+      "summary": "Open a project to navigate its point cloud (Potree) and its IFC model, right in the browser. Project type. All 17. Commercial 3. Infrastructure 1",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Open a project to navigate its point cloud (Potree) and its IFC model, right in the browser.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://archiscans.com/wp-content/uploads/2026/10/ln100-nuage-de-points-900x640.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://archiscans.com/wp-content/uploads/2026/10/rotor-nuage-de-points-900x640.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://archiscans.com/wp-content/uploads/2026/10/emp11-nuage-de-points-900x640.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://archiscans.com/wp-content/uploads/2026/10/rondpoint-nuage-de-points-900x640.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://archiscans.com/wp-content/uploads/2026/10/rda69-nuage-de-points-900x640.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://archiscans.com/wp-content/uploads/2026/10/ms14-nuage-de-points-900x640.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 640px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 5.0,
+    "why": "Browser-based Potree point-cloud and IFC project viewer; interactive, but generic and no visual.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Company portfolio page for a point cloud and IFC viewer: no named project, place, date or data to describe, no image credit or licence, link-only reuse policy and a low-resolution image.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page names no specific project, location, scan date or scanning method; the only text is that projects open as a Potree point cloud and an IFC model in the browser.",
+        "No image credit and no licence are stated, and the reuse policy is link_only, so the image should not be reposted.",
+        "The source image is only 640px wide and would need upscaling to 1080x1080, so sharpness is likely poor.",
+        "It is unclear whether the image shows a point cloud, a BIM model or a marketing graphic. A caption would require guessing."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.facebook.com/DJIEnterpriseOfficial/videos/what-does-an-open-pit-mine-look-like-as-a-3d-point-clouda-dji-matrice-400-drone-/4589813534624014/",
+      "source_id": "google_alerts_4",
+      "source_name": "Google Alerts #4",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Matrice 400 + Zenmuse L3: Open-Pit Mine 3D Point Cloud From Flight Plan | DJI Enterprise",
+      "link": "https://www.facebook.com/DJIEnterpriseOfficial/videos/what-does-an-open-pit-mine-look-like-as-a-3d-point-clouda-dji-matrice-400-drone-/4589813534624014/",
+      "published": "2026-11-13T10:16:33+00:00",
+      "summary": "Simultaneously, the LiDAR Survey uses its point cloud processing ... drone mapping certification. The program combines online self-study ...",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/900568890_1120805874157262_4898054902942482396_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=596eb7&_nc_ohc=99iJlbsShsIQ7kNvwGhqppt&_nc_oc=Adru6zwFPKelWObH_MJY46F3uz2o6CL6k4zeXQWSKQqIQrah9ZvzCTNK0uLPOwesd4g&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Fw8zcJ1xKG92Cbr9LTpTkw&_nc_ss=70100&oh=00_AQR-rAQnSgfz9eN9fYBpS5B740g0i_asR64x0OUMBS97lg&oe=6AFDBC51",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/900568890_1120805874157262_4898054902942482396_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=596eb7&_nc_ohc=99iJlbsShsIQ7kNvwGhqppt&_nc_oc=Adru6zwFPKelWObH_MJY46F3uz2o6CL6k4zeXQWSKQqIQrah9ZvzCTNK0uLPOwesd4g&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Fw8zcJ1xKG92Cbr9LTpTkw&_nc_ss=70100&oh=00_AQR-rAQnSgfz9eN9fYBpS5B740g0i_asR64x0OUMBS97lg&oe=6AFDBC51",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1080px of source width"
+    },
+    "score": 5.0,
+    "why": "Open-pit mine 3D point cloud from drone LiDAR; striking subject, but a video post with no image.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Vendor promo video (DJI Matrice 400 + Zenmuse L3) on a link-only, uncredited source; the page text is unrelated certification copy, so mine, date and specs cannot be stated without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "Source is a DJI Enterprise Facebook product video, not an independent dataset or image; it is promotional.",
+        "Reuse policy is link_only and no image credit or licence is given, so the visual cannot be reposted as a square image.",
+        "The page text is a fragment about LiDAR point cloud processing and a drone mapping certification programme. It does not describe the point cloud shown.",
+        "No mine name, location, survey date, point density, accuracy or flight parameters are given.",
+        "Publisher is a Google Alerts feed, not the original source."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  }
+]
