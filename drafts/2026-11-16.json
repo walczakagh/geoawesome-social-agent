@@ -1,0 +1,977 @@
+[
+  {
+    "item": {
+      "id": "https://www.youtube.com/shorts/LlbQ3rPboGs?vl=es",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Shanghai Expands in Landsat Images, 1984-2025 - YouTube",
+      "link": "https://www.youtube.com/shorts/LlbQ3rPboGs?vl=es",
+      "published": "2026-11-15T21:14:31+00:00",
+      "summary": "Shanghai expands across the landscape in Landsat images from 1984 to 2025. Gray and white areas show development, while green areas show farmland ...",
+      "image_url": "https://i.ytimg.com/vi/LlbQ3rPboGs/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBxxPI0RUifYHgp27nl_dhsczGW1A",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LlbQ3rPboGs/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBxxPI0RUifYHgp27nl_dhsczGW1A",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 405px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 8.0,
+    "why": "Landsat time-lapse of Shanghai's expansion 1984-2025; strong change story.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Reuse policy is link_only, the page names no image credit or uploader to attribute, and the only frame available is 405px wide and would need upscaling. Repost if the original creator and a full-resolution image can be found.",
+      "what_it_shows": "A YouTube Short showing Shanghai spreading across the surrounding landscape in Landsat images from 1984 to 2025. Grey and white areas are development and green areas are farmland.",
+      "uncertainties": [
+        "Source type is alerts with reuse policy link_only, so reposting the image as a square is likely not permitted.",
+        "No image credit or channel name is given on the page. The creator of the Short is unknown and must not be guessed.",
+        "Image licence is not stated.",
+        "The source frame is only 405px wide. The 1080x1080 square would be heavily upscaled and probably soft.",
+        "The page does not say which Landsat missions or sensors were used, which band combination produced the colours, or how many dates are in the sequence.",
+        "The page text is truncated ('...'), so the full description of the colours or the method may be missing.",
+        "Worth checking whether this Short reuses an existing agency timelapse (for example from NASA or USGS) that could be credited and sourced at full resolution instead. Confirm this from the original page before using it."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://x.com/CopernicusEU/status/2121963872772907050",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Copernicus EU on X: \" Born from fire! 🛰️ #CopernicusEU Sentinel-2 captures Surtsey, the ...",
+      "link": "https://x.com/CopernicusEU/status/2121963872772907050",
+      "published": "2026-11-15T16:53:01+00:00",
+      "summary": "Born from fire! 🛰️ #CopernicusEU Sentinel-2 captures Surtsey, the island that emerged from the Atlantic after a volcanic eruption.",
+      "image_url": "https://pbs.twimg.com/media/HXK648aXEAApxGJ?format=webp&name=large",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "See what’s happening and join the conversation",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HXK648aXEAApxGJ?format=webp&name=large",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/2088196415730126848/V1AYI5t6_normal.png",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1448px of source width"
+    },
+    "score": 8.0,
+    "why": "Sentinel-2 image of Surtsey, a new island born from eruption; vivid satellite scene with story.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The source is only a truncated X post title (the page text is a login wall), with no image credit, date or detail, and the reuse policy is link_only, so the image cannot be checked, credited or reposted.",
+      "what_it_shows": "According to the truncated title, this is a Copernicus EU post on X saying that Sentinel-2 captured Surtsey, framed as 'Born from fire'. The source gives no acquisition date, no band combination or colour explanation and no rest of the caption.",
+      "uncertainties": [
+        "The page text did not load (X login wall), so the post's full caption is unknown.",
+        "The title is truncated after 'Surtsey, the ...', so the post's actual claim is incomplete.",
+        "No image credit was found on the page, and none can be guessed.",
+        "The image licence is not stated, and the source's reuse policy is link_only, so reposting the image as a square is not allowed.",
+        "The Sentinel-2 acquisition date, the band combination (true or false colour) and the resolution are not given.",
+        "The source gives no facts about Surtsey itself (its location, its eruption history, why it is notable). Any caption would rely on outside knowledge, which the grounding rules forbid.",
+        "The 2026 publication date and the status ID should be checked against the live post before revisiting."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://science.nasa.gov/?p=1511430",
+      "source_id": "nasa_eo",
+      "source_name": "NASA Earth Observatory",
+      "source_type": "eo_imagery",
+      "licence": "reuse",
+      "title": "The Last Ice on Puncak Jaya",
+      "link": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/",
+      "published": "2026-11-16T05:00:00+00:00",
+      "summary": "Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too small to flow like glaciers.",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-last-ice-on-puncak-jaya/puncakjaya_tm5_1988308.jpg",
+      "credit_hint": "NASA Earth Observatory",
+      "source_tag": "@NASAEarth",
+      "page_text": "Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too small to flow like glaciers.\nOn the island of New Guinea, Indonesia’s Sudirman Range is one of the few places near the equator that have long held ice year-round. But near the summit of Puncak Jaya, the ice has dwindled to patches too small to flow like glaciers.\nPositioned in the tropics beside the largest expanse of warm ocean water on Earth, the range’s glaciers lie near the warmest conditions in which ice can survive year-round. Scientists have described these glaciers as high-altitude “ canaries in the coal mine ,” alongside other tropical ice such as the remnants of Humboldt Glacier in Venezuela, Quelccaya Ice Cap in Peru, and the ice fields of Kilimanjaro in Tanzania.\nThe change on Puncak Jaya is visible in this image pair, acquired in 1988 by the TM (Thematic Mapper) on Landsat 5 (left) and in 2026 by the OLI (Operational Land Imager) on Landsat 9 (right). The false-color images help distinguish areas of ice (light blue) from exposed bedrock (brown). Clouds appear white and vegetation green.\nIn 1988, the glaciers covered about 4.31 square kilometers (1.66 square miles), according to Donaldi Permana, a climate scientist at the Indonesian Agency for Meteorology, Climatology, and Geophysics (BMKG). By September 2025, satellite and aerial data showed that only about 0.09 square kilometers (0.03 square miles) remained—an area equivalent to about a dozen soccer fields. That’s roughly 2 percent of the 1988 extent. An aerial survey planned for December should yield an estimate of how much ice remains in 2026, Permana said.\nThe glaciers have thinned, too. Measurements at the primary monitoring site on the East Northwall Firn showed a drop from 32 meters (105 feet) thick in 2010 to 4 meters (13 feet) in 2023, Permana said. By November 2024, the ice at this site was gone.\nAs the glaciers thin, they also break apart, and each new fragment adds exposed edges where ice can melt, compounding the losses. In the 2026 Landsat image, freshly uncovered bedrock appears between the remnants. Snow still falls in the area, but it doesn’t last long enough on the bare rock to build up into new ice.\n“It’s a house of cards problem,” said Chris Shuman, a retired University of Maryland glaciologist who has tracked Puncak Jaya’s glaciers in satellite imagery. “Once this process gets going, there’s really no turning back.”\nTo qualify as a glacier, a body of ice generally has to be thick enough to flow downhill under its own weight, and it needs an area where snow builds up faster than it melts. Puncak Jaya’s remaining ice has thinned so much and broken into such small, stagnant patches that it no longer flows.\n“While small ice remnants persist in high-altitude crevices around Puncak Jaya, their functional life as active glaciers is effectively over,” Permana said.\nAs for the remaining patches of ice, time will tell how long they last. Recent satellite studies suggest complete disappearance of the main glacial ice areas could occur around 2030. Permana noted that BMKG estimates suggest they could be gone much sooner, hastened by the current El Niño .\nPast El Niño years have hit these glaciers especially hard. As the air warms, the freezing level rises above the summit, so precipitation falls as rain instead of snow. That means less fresh white snow that normally reflects sunlight and shields the ice, leaving darker surfaces that absorb more heat and melt faster. During the 2015-2016 El Niño, the ice thinned about five times faster than usual , losing roughly 5.3 meters (17 feet) of thickness in a single year. The 2023-2024 El Niño brought another bout of rapid thinning, about 2 to 4 meters (7 to 13 feet) per year.\nNASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey . Story by Kathryn Hansen.\nStay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.\nThe expanse of glacial ice on Canada’s Baffin Island lost its snow cover quickly and early in summer 2026, revealing…\nThe sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.\nOne narrowing icefall remains the linchpin for the Alpine glacier—and it may not be long for this world.\nSubscribe to the Earth Observatory and get the Earth in your inbox.\nNASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.\nOpen access to NASA’s archive of Earth science data",
+      "image_credit": "NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U",
+      "image_licence": "NASA imagery, generally free to reuse with credit",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-last-ice-on-puncak-jaya/puncakjaya_tm5_1988308.jpg",
+          "label": "1988"
+        },
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-last-ice-on-puncak-jaya/puncakjaya_oli2_20261019.jpg",
+          "label": "2026"
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-16-3-the-last-ice-on-puncak-jaya.jpg",
+      "image_note": "before/after pair stacked, from 1280px of source width"
+    },
+    "score": 8.0,
+    "why": "Landsat image of Puncak Jaya's shrinking ice; strong before-after glacier loss story from orbit.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A false-colour Landsat pair of the ice near the summit of Puncak Jaya in Indonesia's Sudirman Range on New Guinea. The top image is from 1988 (Landsat 5 TM) and the bottom from 2026 (Landsat 9 OLI). Ice appears light blue, exposed bedrock brown, clouds white and vegetation green. Glacier area fell from about 4.31 km² in 1988 to about 0.09 km² by September 2025 (roughly 2 percent), and the remaining patches no longer flow like glaciers.",
+      "uncertainties": [
+        "The verbatim credit field is truncated ('from the U'). The full credit in the page text reads 'using Landsat data from the U.S. Geological Survey', and that version is used in the posts.",
+        "The page describes the pair as left/right. The square stacks them as top (1988) and bottom (2026).",
+        "Exact acquisition dates within 1988 and 2026 are not given, and neither is the band combination used for the false colour.",
+        "The latest area figure (0.09 km²) is for September 2025, not the 2026 image date. No 2026 estimate exists yet: an aerial survey is planned for December.",
+        "Area and thickness figures are attributed to Donaldi Permana (BMKG).",
+        "The 'around 2030' disappearance date comes from unnamed 'recent satellite studies'. BMKG suggests it could be sooner because of the 'current' El Niño (current as of November 2026)."
+      ],
+      "image_credit": "Image: NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey",
+      "facebook": "Puncak Jaya's ice shrank from about 4.31 km² in 1988 to roughly 0.09 km² by September 2025.\n\nIn this Landsat false-colour pair (top 1988, bottom 2026), ice shows light blue and bare bedrock brown. What remains is too thin and fragmented to flow, so it no longer works as a glacier.\n\nRead more: https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/\n\nImage: NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey\n\n#Landsat #Glaciers #Indonesia #Tropics #Geoawesome",
+      "instagram": "One of the last tropical ice fields is down to about 2 percent of its 1988 area.\n\nLight blue is ice, brown is bare rock: Puncak Jaya, Indonesia, in 1988 (top) and 2026 (bottom).\n\nFind out more: https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/\n\nImage: NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey\n\n#Glaciers #Cryosphere #Landsat #Geoawesome",
+      "youtube": "At Puncak Jaya's main monitoring site, the ice went from 32 m thick in 2010 to gone by November 2024.\n\nThe pair combines Landsat 5 TM (top, 1988) and Landsat 9 OLI (bottom, 2026) in false colour: ice light blue, bedrock brown, clouds white, vegetation green. Recent satellite studies suggest the main ice areas could disappear around 2030.\n\nLearn more: https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/\n\nImage: NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey\n\n#Landsat #Glaciers #Climate #Indonesia #Geoawesome",
+      "x": "The ice near Puncak Jaya's summit is down to about 2% of its 1988 extent and no longer flows like a glacier. Landsat, 1988 vs 2026.\nhttps://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/\nImage: NASA Earth Observatory, Landsat/USGS\n#Landsat #Glaciers #Tropics #Geoawesome",
+      "alt_text": "Two stacked false-colour satellite images of the Puncak Jaya summit area: the top one, from 1988, shows broad light-blue ice, and the bottom one, from 2026, shows only small scattered ice patches among brown bedrock."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-16-3-the-last-ice-on-puncak-jaya.jpg"
+  },
+  {
+    "item": {
+      "id": "https://unn.ua/en/news/satellite-images-showing-the-aftermath-of-the-attack-on-the-russian-port-of-ust-luga-have-appeared-online",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Satellite images showing the aftermath of the attack on the Russian port of Ust-Luga have ...",
+      "link": "https://unn.ua/en/news/satellite-images-showing-the-aftermath-of-the-attack-on-the-russian-port-of-ust-luga-have-appeared-online",
+      "published": "2026-11-15T23:19:57+00:00",
+      "summary": "This was reported by \"Radio Free Europe/Radio Liberty,\" UNN writes. Details. The released satellite images show 5 storage tanks for petroleum products ...",
+      "image_url": "https://unn.ua/img/2026/11/15/1794780864-1756-large.webp",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Following the Ukrainian attack on the port of Ust-Luga, at least five tanks containing petroleum products were completely\ndestroyed by fire. Russia reported three people injured.\nAs a result of a Ukrainian attack on the Russian port of Ust-Luga in the Leningrad region on November 11, at least 5 tanks containing petroleum products burned out completely. The extent of the damage became known after new satellite images emerged. This was reported by \"Radio Free Europe/Radio Liberty,\" UNN writes.\nThe released satellite images show 5 storage tanks for petroleum products completely destroyed by fire. Traces of foam used by firefighters to extinguish the blaze are visible near several other tanks.\nThe images made it possible to assess the consequences of the strike, as Russian authorities had previously reported only a fire in the port area.\nDuring the night of November 11, a massive fire broke out in the port following the attack. The first footage of the fire appeared during the night, and at around 6:00 a.m., the governor of the Leningrad region confirmed the fire.\nLater, Russian authorities reported 3 people injured. NASA satellites also recorded a large fire at the port.\nThe fire was so large that its glow could reportedly be seen even by residents of neighboring Estonia.\n\"The Night the Baltic Caught Fire\": General Staff Shows Strike on Ust-Luga Port in Russia 12.11.26, 04:53 • 24805 views",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://unn.ua/img/2026/11/15/1794780864-1756-large.webp",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://unn.ua/_next/image?url=https%3A%2F%2Fimg.unn.ua%2Fimg%2F2026%2F11%2F15%2F1794780864-1756-large.webp&w=720&q=75",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 769px of source width"
+    },
+    "score": 7.0,
+    "why": "Satellite before-and-after of burned petroleum storage tanks at Ust-Luga port.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "There is no image credit or licence, the reuse policy is link_only, and the satellite provider, sensor and acquisition date are not given, so the image cannot be posted or explained without guessing.",
+      "what_it_shows": "UNN, citing Radio Free Europe/Radio Liberty, reports satellite images of the port of Ust-Luga (Leningrad region) after a Ukrainian attack on 11 November. The images reportedly show at least five petroleum product storage tanks completely destroyed by fire, with traces of firefighting foam near several other tanks. NASA satellites also reportedly recorded a large fire at the port.",
+      "uncertainties": [
+        "Image credit not found on the page, so the satellite imagery provider (commercial or otherwise) is unknown.",
+        "Image licence is not stated, and the source reuse policy is link_only, so the image should not be reposted.",
+        "The sensor, resolution and acquisition date of the satellite images are not given.",
+        "UNN is relaying a Radio Free Europe/Radio Liberty report; the original analysis and imagery should be checked at RFE/RL.",
+        "It is unclear whether the image on the UNN page (769px wide) is the satellite image or another photo of the fire.",
+        "The NASA fire detection is mentioned without naming the instrument or product.",
+        "Statements about the Estonian glow ('reportedly') and the casualty figure (from Russian authorities) are second-hand.",
+        "This is active conflict content; editorial sensitivity should be weighed before posting even if a credited image is found."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.facebook.com/milanjanosovscience/videos/downtown-montreal-and-mont-royal-as-an-airborne-lidar-survey-measured-themthis-i/3750740401731181/",
+      "source_id": "google_alerts_4",
+      "source_name": "Google Alerts #4",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Downtown Montreal and Mont Royal as an airborne lidar survey measured them. This is the ...",
+      "link": "https://www.facebook.com/milanjanosovscience/videos/downtown-montreal-and-mont-royal-as-an-airborne-lidar-survey-measured-themthis-i/3750740401731181/",
+      "published": "2026-11-15T21:25:45+00:00",
+      "summary": "This is the 1 m surface model of the city centre from the 2023 Montreal lidar survey , rendered as a relief with a lamp swept across it. The mountain ...",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/895005297_4593785470930856_1257166620535947966_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=a27664&_nc_ohc=b69wIVFhZH4Q7kNvwEDEghl&_nc_oc=Adplt_x7ODRhXiRIndKPRIb9dhVNmQ0W_vikImaoJ-mN5wpZFnJJmlKtVGF_Ztv59lQ&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=wPZt7huZMsOdbH7UUbfsVQ&_nc_ss=70100&oh=00_AQTmB1bv_lrcmWTLLo5tYjOgDzFTgrlN2Ir0a_5M5Rl4Xg&oe=6B0045B1",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/895005297_4593785470930856_1257166620535947966_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=a27664&_nc_ohc=b69wIVFhZH4Q7kNvwEDEghl&_nc_oc=Adplt_x7ODRhXiRIndKPRIb9dhVNmQ0W_vikImaoJ-mN5wpZFnJJmlKtVGF_Ztv59lQ&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=wPZt7huZMsOdbH7UUbfsVQ&_nc_ss=70100&oh=00_AQTmB1bv_lrcmWTLLo5tYjOgDzFTgrlN2Ir0a_5M5Rl4Xg&oe=6B0045B1",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1080px of source width"
+    },
+    "score": 7.0,
+    "why": "Lidar 1 m surface model of Montreal rendered as relief; visually striking geo visual, though no image.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The reuse policy is link_only, and the page gives no image credit or licence, so the frame cannot be reposted as a square image. Ask the creator for permission first.",
+      "what_it_shows": "A 1 m surface model of central Montreal and Mont Royal from the 2023 Montreal lidar survey. It is rendered as a shaded relief with a light source swept across it, posted as a video on the Facebook page milanjanosovscience. The page text is cut off after 'The mountain ...', so anything else the creator says about Mont Royal is unknown.",
+      "uncertainties": [
+        "Reuse policy is link_only: the image should not be reposted without permission from the creator.",
+        "No image credit or licence on the page. The page appears to belong to Milan Janosov (from the URL 'milanjanosovscience'), but this is not confirmed as the credit.",
+        "The source is a video (an animated light sweep), not a still image. A square crop would show a single frame only.",
+        "The page text is truncated, so the full description and any further details about Mont Royal are missing.",
+        "No information on who flew or published the 2023 Montreal lidar survey, its point density, or whether 'surface model' means a DSM including buildings and trees (likely, but not stated).",
+        "The vertical exaggeration and colour scheme of the rendering are not stated."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://conklingeospatial.com/projects/yosemite-valley-lidar/",
+      "source_id": "google_alerts_4",
+      "source_name": "Google Alerts #4",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Yosemite Valley LiDAR Map - Stephen Conklin",
+      "link": "https://conklingeospatial.com/projects/yosemite-valley-lidar/",
+      "published": "2026-11-15T00:02:28+00:00",
+      "summary": "Yosemite Valley LiDAR Map . A 243-million-point airborne LiDAR survey turned into a detail map, a 3D view, and a layer-by-layer processing stack ...",
+      "image_url": "https://conklingeospatial.com/_astro/view-3d.Z1kjnHYf.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "An airborne LiDAR survey of Yosemite Valley, flown by the National Center for Airborne Laser Mapping (NCALM), holds about 243 million laser returns, classified into two classes: ground and unclassified. This map turns those points into three views on one sheet: a 3D view up the valley, a detail map of the valley floor, and an exploded stack that shows how each layer was made.\nAll layers are in UTM Zone 11N (EPSG:26911).\nThe eight steps above, stacked from the point cloud at the bottom to the finished map at the top, for an area around Yosemite Village. Rendered in Blender from layers exported out of QGIS.\nThe 2D maps from the same layout: a detail map of the valley floor and an overview of the full survey.\nLiDAR processing, terrain analysis, and cartography\nLiDAR: National Center for Airborne Laser Mapping (NCALM), distributed by OpenTopography (doi:10.5069/G9GQ6VP3). NCALM funding from NSF's Division of Earth Sciences, Instrumentation and Facilities Program (EAR-1043051); OpenTopography services supported by NSF awards 2410799, 2410800, and 2410801. Roads, trails, and buildings © OpenStreetMap contributors. California outline: U.S. Census.\nA low 3D view across the valley floor. Every tree is drawn from the LiDAR points themselves rather than from a symbol.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://conklingeospatial.com/_astro/view-3d.Z1kjnHYf.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://conklingeospatial.com/_astro/view-3d.Z1kjnHYf_86lfT.webp",
+          "label": ""
+        },
+        {
+          "url": "https://conklingeospatial.com/_astro/processing-stack.13GYiMCE_2rXLRh.webp",
+          "label": ""
+        },
+        {
+          "url": "https://conklingeospatial.com/_astro/detail-map.BCV9u_EA_Z1zQ95P.webp",
+          "label": ""
+        },
+        {
+          "url": "https://conklingeospatial.com/_astro/overview-map.DTR3PEjx_ZRijPa.webp",
+          "label": ""
+        },
+        {
+          "url": "https://conklingeospatial.com/_astro/canopy-3d.B7qfEdWs_ZNAcqb.webp",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-16-7-yosemite-valley-lidar-map-stephen-conkli.jpg",
+      "image_note": "square crop, from 1069px of source width"
+    },
+    "score": 7.0,
+    "why": "243-million-point lidar survey turned into detail map and 3D view; strong terrain visual.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A cartographic sheet by Stephen Conklin built from an airborne LiDAR survey of Yosemite Valley flown by NCALM and distributed by OpenTopography (about 243 million laser returns, classified as ground and unclassified). The sheet combines a 3D view up the valley, a detail map of the valley floor, an overview of the full survey and an exploded stack of the eight processing steps around Yosemite Village, rendered in Blender from layers exported out of QGIS (UTM Zone 11N, EPSG:26911). In the 3D views, trees are drawn from the LiDAR points themselves rather than from symbols; roads, trails and buildings come from OpenStreetMap.",
+      "uncertainties": [
+        "No image credit or licence on the page, and the reuse policy is link_only: confirm permission from Stephen Conklin before posting the image.",
+        "The page has several views (3D valley view, valley floor detail, exploded stack, low 3D view). It is not clear which one the 1069px-wide square crop shows, so check the alt text against the actual crop.",
+        "Survey date, point density and DEM resolution are not stated.",
+        "The page does not say how the trees were extracted from points classified only as ground and unclassified."
+      ],
+      "image_credit": "Map: Stephen Conklin, LiDAR: NCALM via OpenTopography",
+      "facebook": "About 243 million laser returns sit behind this map of Yosemite Valley.\n\nStephen Conklin built one sheet from an NCALM airborne LiDAR survey: a 3D view up the valley, a detail map of the valley floor and an exploded stack showing all eight processing steps. In the 3D views, each tree is drawn from the points, not a symbol.\n\nRead more: https://conklingeospatial.com/projects/yosemite-valley-lidar/\n\nMap: Stephen Conklin, LiDAR: NCALM via OpenTopography\n\n#Lidar #Yosemite #Cartography #Terrain #Geoawesome",
+      "instagram": "No tree symbols here: the forest on this Yosemite map comes straight from laser returns.\n\nAn airborne survey of the valley, rendered as 3D and 2D views on a single sheet.\n\nFind out more: https://conklingeospatial.com/projects/yosemite-valley-lidar/\n\nMap: Stephen Conklin, LiDAR: NCALM via OpenTopography\n\n#Lidar #Yosemite #Trees #Geoawesome",
+      "youtube": "Eight processing steps, from raw point cloud to finished map, stacked in one exploded view.\n\nStephen Conklin worked from an NCALM survey of Yosemite Valley with roughly 243 million returns, classified only as ground and unclassified. Layers were exported from QGIS in UTM Zone 11N (EPSG:26911), rendered in Blender and topped with OpenStreetMap roads, trails and buildings.\n\nLearn more: https://conklingeospatial.com/projects/yosemite-valley-lidar/\n\nMap: Stephen Conklin, LiDAR: NCALM via OpenTopography\n\n#Lidar #QGIS #Blender #Cartography #Geoawesome",
+      "x": "Yosemite Valley as one LiDAR map sheet: 3D view, valley floor detail and the full processing stack, all from a single NCALM survey.\nhttps://conklingeospatial.com/projects/yosemite-valley-lidar/\nMap: Stephen Conklin; data NCALM/OpenTopography\n#Lidar #Yosemite #QGIS #Geoawesome",
+      "alt_text": "A LiDAR-derived map of Yosemite Valley in California, showing the valley floor and surrounding terrain with trees rendered from individual laser points."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-16-7-yosemite-valley-lidar-map-stephen-conkli.jpg"
+  },
+  {
+    "item": {
+      "id": "tag:blogger.com,1999:blog-12158290.post-5624514596909069790",
+      "source_id": "maps_mania",
+      "source_name": "Maps Mania",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "An Inverted Earth You Can Explore",
+      "link": "http://googlemapsmania.blogspot.com/2026/11/an-inverted-earth-you-can-explore.html",
+      "published": "2026-11-15T09:11:07+00:00",
+      "summary": "In honor of the #30DayMapChallenge's Inverted theme, Tripgeo has released Atlantis - the Inverted Earth . I've seen a few maps that swap the Earth's land and oceans around, turning familiar continents into vast underwater worlds and ocean basins into towering mountain ranges. But this is the first I've encountered that lets you actually explore the resulting world from the cockpit of your own submarine. In Atlantis: The World Turned Over , the oceans have drained onto the continents, leaving the former seabed exposed as enormous mountain ranges. Meanwhile, every city on Earth has been submerged beneath the newly formed oceans. Your vehicle for exploring this topsy-turvy planet is the Nereid, a fully navigable submarine that you can pilot directly in your browser. You can dive through the drowned streets of familiar cities, explore submerged urban landscapes and venture into the newly flooded continental interiors. You can even use sonar to sound the depths of the inverted world's ocean trenches. One of the most intriguing aspects is seeing familiar places transformed by this geographical reversal. Imagine navigating the streets of Paris, except instead of walking along the Seine, y",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMkTI5N4mW_YrttM82ZQbl-J4fPKkQFnQITZl-MP82plITKCRMHSybmdU5ap_mmxYcdlYQBOQd0-_Q8sPRaRPY_PGnayCzLiETfqPC_XWDBKdoMqslUp0prlmHt_V_cZkSQ-82wM-htJEOXtMo-QUaTrC-ymk1br4T1P83EiDudOvRELtolvQecQ/s1600/atlantis-trailer-web-ezgif.com-optimize%20%281%29.gif",
+      "credit_hint": "via Maps Mania",
+      "source_tag": "",
+      "page_text": "In honor of the #30DayMapChallenge's Inverted theme, Tripgeo has released Atlantis - the Inverted Earth . I've seen a few maps that swap the Earth's land and oceans around, turning familiar continents into vast underwater worlds and ocean basins into towering mountain ranges. But this is the first I've encountered that lets you actually explore the resulting world from the cockpit of your own submarine. In Atlantis: The World Turned Over , the oceans have drained onto the continents, leaving the former seabed exposed as enormous mountain ranges. Meanwhile, every city on Earth has been submerged beneath the newly formed oceans. Your vehicle for exploring this topsy-turvy planet is the Nereid, a fully navigable submarine that you can pilot directly in your browser. You can dive through the drowned streets of familiar cities, explore submerged urban landscapes and venture into the newly flooded continental interiors. You can even use sonar to sound the depths of the inverted world's ocean trenches. One of the most intriguing aspects is seeing familiar places transformed by this geographical reversal. Imagine navigating the streets of Paris, except instead of walking along the Seine, y",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMkTI5N4mW_YrttM82ZQbl-J4fPKkQFnQITZl-MP82plITKCRMHSybmdU5ap_mmxYcdlYQBOQd0-_Q8sPRaRPY_PGnayCzLiETfqPC_XWDBKdoMqslUp0prlmHt_V_cZkSQ-82wM-htJEOXtMo-QUaTrC-ymk1br4T1P83EiDudOvRELtolvQecQ/s1600/atlantis-trailer-web-ezgif.com-optimize%20%281%29.gif",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-16-8-an-inverted-earth-you-can-explore.jpg",
+      "image_note": "square crop, from 298px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 7.0,
+    "why": "Explorable inverted Earth map with a submarine viewpoint; a clever, playful geo visual.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "Atlantis (also called Atlantis: The World Turned Over) is an interactive browser map by Tripgeo, made for the Inverted theme of the #30DayMapChallenge and featured on Maps Mania. It swaps Earth's land and oceans: the oceans have drained onto the continents, the former seabed stands as huge mountain ranges and every city is submerged. Users pilot a submarine called the Nereid through drowned city streets and flooded continental interiors, and can use sonar to sound the depths of the inverted world's ocean trenches.",
+      "uncertainties": [
+        "The source image is only 298px wide and has been upscaled for the square. Check sharpness before posting, or take a fresh screenshot from Tripgeo's map.",
+        "The write-up does not describe the source image, so the alt text is kept general. Check it against the actual image.",
+        "No image credit or licence is stated on the page, and the reuse policy is link_only. The credit 'Map: Tripgeo via Maps Mania' is based on the page naming Tripgeo as the maker.",
+        "The source does not say which elevation or bathymetry data the map uses, or how the inversion was calculated.",
+        "The page text is cut off mid-sentence (the Paris example), so any further details are missing.",
+        "Tripgeo's own URL for the map is not given. The post links to the Maps Mania article.",
+        "'First I've encountered' that lets you navigate by submarine is the Maps Mania author's view, not a verified first."
+      ],
+      "image_credit": "Map: Tripgeo via Maps Mania",
+      "facebook": "Swap Earth's land and oceans, and every city on the planet ends up underwater.\n\nTripgeo's Atlantis, made for the Inverted theme of the 30DayMapChallenge, turns the former seabed into enormous mountain ranges. You pilot a submarine, the Nereid, through drowned streets and newly flooded continental interiors, right in the browser.\n\nFull story: http://googlemapsmania.blogspot.com/2026/11/an-inverted-earth-you-can-explore.html\n\nMap: Tripgeo via Maps Mania\n\n#Geoawesome #Cartography #Maps #Seabed",
+      "instagram": "The oceans have drained onto the continents, and the cities went under.\n\nIn Tripgeo's Atlantis you steer a browser submarine along the drowned streets of familiar places such as Paris.\n\nLearn more: http://googlemapsmania.blogspot.com/2026/11/an-inverted-earth-you-can-explore.html\n\nMap: Tripgeo via Maps Mania\n\n#Geoawesome #Maps #Oceans #Submarine",
+      "youtube": "This inverted Earth comes with a submarine that has working sonar.\n\nAtlantis: The World Turned Over, by Tripgeo for the 30DayMapChallenge Inverted theme, swaps land and sea. The old seabed stands exposed as mountain ranges while the continents fill with water. The Nereid is fully navigable in the browser, and its sonar sounds the depths of the inverted world's ocean trenches.\n\nRead more: http://googlemapsmania.blogspot.com/2026/11/an-inverted-earth-you-can-explore.html\n\nMap: Tripgeo via Maps Mania\n\n#Geoawesome #Topography #Cartography #Oceans",
+      "x": "Every city on Earth lies underwater in Tripgeo's Atlantis, an inverted planet you navigate by submarine in your browser.\nhttp://googlemapsmania.blogspot.com/2026/11/an-inverted-earth-you-can-explore.html\nMap: Tripgeo via Maps Mania\n#Geoawesome #Maps #Cartography",
+      "alt_text": "A view from Tripgeo's Atlantis web map, an inverted Earth where land and oceans have swapped places."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-16-8-an-inverted-earth-you-can-explore.jpg"
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/d4bf875da3874d05",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Henry, Alabama | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/d4bf875da3874d05",
+      "published": "2026-11-15T20:28:29+00:00",
+      "summary": "Van Buren 2301 acStarted Nov 14 · Updated 1d ago. 3000 ft. MapLibre . MenuOpen the menu and map settings. FiresBrowse active fires on the map. WFCA ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Henry, Alabama observed by GOES_ABI covering 1351.4 acres from 2 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live interactive fire map of Henry, Alabama; a usable, playable map portal.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page and the reuse policy is link-only; this is an auto-generated satellite detection stub with no visual to repost.",
+      "what_it_shows": "An automated WFCA fire map entry for a satellite fire detection in Henry, Alabama, observed by GOES ABI, covering 1351.4 acres from 2 merged observations. No image, date of observation or map visual is provided.",
+      "uncertainties": [
+        "No image found on the page and no image credit or licence stated.",
+        "Reuse policy is link_only, so the page imagery could not be reposted even if present.",
+        "The 1351.4 acres likely reflects the footprint of coarse GOES ABI detection pixels, not a mapped burned area; the page does not say.",
+        "Observation date and time not given (only the alert publication time).",
+        "'Henry, Alabama' is ambiguous (likely Henry County); the page does not clarify.",
+        "No confirmation from fire agencies or news reports that this is an actual wildfire rather than a prescribed burn or false detection."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/22affd8fd59b4115",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Grayson, Texas | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/22affd8fd59b4115",
+      "published": "2026-11-15T15:02:54+00:00",
+      "summary": "San Augustine 99662 ac · 75% containedStarted Nov 14 · Updated 1h ago. 3000 ft. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Grayson, Texas observed by LANDSAT covering 0.4 acres from 2 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live fire-map tracker for Grayson, Texas; interactive, but no image shown.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page: this is an auto-generated fire-detection listing (0.4 acres from 2 merged Landsat observations in Grayson, Texas) with nothing striking to post.",
+      "what_it_shows": "An automated WFCA fire map entry for a satellite fire detection in Grayson, Texas. The page says it was observed by Landsat, covers 0.4 acres and comes from 2 merged observations. No image, date of observation or map visual is provided.",
+      "uncertainties": [
+        "No image found on the page, so there is nothing to crop into a square.",
+        "No image credit or licence stated, and the reuse policy is link_only.",
+        "The observation date and time are not given; only the page publish date (2026-11-15) is known.",
+        "Unclear whether 'Grayson' means Grayson County or a locality, and whether the detection is a wildfire, a controlled burn or an industrial heat source.",
+        "A 0.4 acre detection is very small and is unlikely to be newsworthy on its own."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/mississippi/range_43__range_45?name=Range+43+%26+Range+45",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Range 43 Range 45 Fire in Mississippi | WFCA Fire Map",
+      "link": "https://wfca.com/fire-map/mississippi/range_43__range_45?name=Range+43+%26+Range+45",
+      "published": "2026-11-15T14:01:41+00:00",
+      "summary": "Range 472,378 ac · 60% containedStarted Nov 13 · Updated 1d ago. 5 mi. MapLibre . MenuOpen the menu and map settings. FiresBrowse active fires on the ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The Range 43 Range 45 fire in Forrest, Mississippi is currently 0 acres.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live wildfire map of a large 72,000-acre Mississippi fire; interactive tracker.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page and only one line of auto-generated tracker text (a fire listed at 0 acres), so there is no visual to post.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was found on the page, so there is nothing to crop to a 1080x1080 square.",
+        "The only text is an auto-generated WFCA fire-map entry stating the Range 43 Range 45 fire in Forrest, Mississippi is 0 acres. It gives no date of detection, perimeter data source or map visual to describe.",
+        "Image credit and licence are not stated, and the reuse policy is link_only."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://unn.ua/en/amp/satellite-images-showing-the-aftermath-of-the-attack-on-the-russian-port-of-ust-luga-have-appeared-online",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Satellite images showing the aftermath of the attack on the Russian port of Ust-Luga have ... - УНН",
+      "link": "https://unn.ua/en/amp/satellite-images-showing-the-aftermath-of-the-attack-on-the-russian-port-of-ust-luga-have-appeared-online",
+      "published": "2026-11-15T23:19:59+00:00",
+      "summary": "Details. The released satellite images show 5 storage tanks for petroleum products completely destroyed by fire. Traces of foam used by firefighters ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "November 15, 2026 at 11:16 PM • 13165 переглядiв\nAs a result of a Ukrainian attack on the Russian port of Ust-Luga in the Leningrad region on November 11, at least 5 tanks containing petroleum products burned out completely. The extent of the damage became known after new satellite images emerged. This was reported by \"Radio Free Europe/Radio Liberty,\" UNN writes.\nThe released satellite images show 5 storage tanks for petroleum products completely destroyed by fire. Traces of foam used by firefighters to extinguish the blaze are visible near several other tanks.\nThe images made it possible to assess the consequences of the strike, as Russian authorities had previously reported only a fire in the port area.\nDuring the night of November 11, a massive fire broke out in the port following the attack. The first footage of the fire appeared during the night, and at around 6:00 a.m., the governor of the Leningrad region confirmed the fire.\nLater, Russian authorities reported 3 people injured. NASA satellites also recorded a large fire at the port.\nThe fire was so large that its glow could reportedly be seen even by residents of neighboring Estonia.\n\"The Night the Baltic Caught Fire\": General Staff Shows Strike on Ust-Luga Port in Russia 12.11.26, 04:53\nMonday, November 16, 2026 • 6924 переглядiв\nSunday, November 15, 2026 • 6672 переглядiв\nSunday, November 15, 2026 • 8226 переглядiв\nSunday, November 15, 2026 • 12850 переглядiв\nSunday, November 15, 2026 • 9184 переглядiв\nSunday, November 15, 2026 • 13165 переглядiв\nSunday, November 15, 2026 • 6744 переглядiв\nSunday, November 15, 2026 • 2168 переглядiв\nSunday, November 15, 2026 • 12889 переглядiв\nSunday, November 15, 2026 • 2752 переглядiв\nSunday, November 15, 2026 • 8322 переглядiв\nSunday, November 15, 2026 • 12467 переглядiв\nSunday, November 15, 2026 • 12877 переглядiв\nSunday, November 15, 2026 • 2172 переглядiв\nSunday, November 15, 2026 • 13437 переглядiв",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Same Ust-Luga satellite fire story; duplicate of the other article.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page and no image credit, so there is no visual to repost; the satellite images are second-hand (UNN citing Radio Free Europe/Radio Liberty) with no provider, sensor or acquisition date given.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was found on the UNN page (IMAGE NOTE: no image found), and the reuse policy is link_only.",
+        "The satellite images are attributed only indirectly: UNN reports what Radio Free Europe/Radio Liberty published. The imagery provider, sensor, resolution and acquisition date are not stated.",
+        "The claim of 5 destroyed storage tanks and foam traces comes from that third-party report and is not independently verified in the source.",
+        "'NASA satellites also recorded a large fire' gives no instrument or product (for example, which fire detection system).",
+        "The glow being visible from Estonia is hedged ('reportedly').",
+        "Conflict-related strike damage with only a single-outlet, second-hand sourcing chain. If the original RFE/RL imagery with a named provider can be found, it could be reconsidered."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://x.com/biteme_suckas/status/2122041485302677693/video/1",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Satellite images show a large fire at an Aramco pumping station, reportedly caused by a ...",
+      "link": "https://x.com/biteme_suckas/status/2122041485302677693/video/1",
+      "published": "2026-11-15T20:35:56+00:00",
+      "summary": "Satellite images show a large fire at an Aramco pumping station, reportedly caused by a Yemeni attack. ☺️. 6:58 PM · Nov 15, 2026·.",
+      "image_url": "https://pbs.twimg.com/amplify_video_thumb/2122041477819985920/img/YB9mbyM0HePqGct8?format=webp&name=large",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "See what’s happening and join the conversation",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2122041477819985920/img/YB9mbyM0HePqGct8?format=webp&name=large",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1823590771473440773/9K_W68ow_normal.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2122041477819985920/img/YB9mbyM0HePqGct8?format=webp&name=medium",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 512px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6.0,
+    "why": "Satellite images of a large fire at an Aramco pumping station; vivid but unverified.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Unverified video from an anonymous X account with no image credit, licence, sensor, date or location detail, a truncated and hedged cause, and a link-only reuse policy.",
+      "what_it_shows": "According to the truncated title, satellite images show a large fire at an Aramco pumping station, with a cause that is only 'reportedly' given and cut off in the title. The page text contains no further information: no sensor, acquisition date, location or image provider.",
+      "uncertainties": [
+        "The source is an X post (video) from an anonymous account, not the image provider or a news outlet. Provenance is unknown.",
+        "There is no image credit and no licence, and the reuse policy is link_only, so we cannot repost the image.",
+        "The title is truncated, so the reported cause is unknown and explicitly hedged ('reportedly').",
+        "Location: the source does not say which Aramco pumping station or where it is.",
+        "Sensor/provider: the source does not say which satellite or company captured the images.",
+        "Acquisition date: the source gives no capture date.",
+        "This is potentially a conflict or attack claim. It is sensitive and unverified, and would need confirmation from a reliable outlet or the imagery provider.",
+        "The source image is only 512 px wide and would need upscaling, so it would likely be poor quality as a 1080x1080 square.",
+        "Better route: find the original imagery provider (for example a commercial satellite firm's own release) and use that as the source if the story is confirmed."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.instagram.com/p/DfxTCe1iSHe/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "A decade of progress seen from space Since 2012, electricity access in India has ... - Instagram",
+      "link": "https://www.instagram.com/p/DfxTCe1iSHe/",
+      "published": "2026-11-15T18:18:23+00:00",
+      "summary": "A decade of progress seen from space Since 2012, electricity access in India has expanded significantly, reaching an estimated 99.6% of ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Electricity access in India seen from space; night-light data story, low editor prior.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was found on the page, there is no image credit or licence, the reuse policy is link_only, and the truncated text gives no sensor, date or map details to describe.",
+      "what_it_shows": "An Instagram post, found via Google Alerts, about electricity access in India since 2012, described as 'a decade of progress seen from space'. The visible text says access has expanded significantly and reached an estimated 99.6% (the sentence is cut off). No image, sensor, dataset or date range for the imagery is given.",
+      "uncertainties": [
+        "No image was found on the page, so there is nothing to crop to a square.",
+        "No image credit or licence is stated, and the reuse policy is link_only.",
+        "The page text is truncated. The 99.6% figure is labelled 'estimated' and its source (who estimated it, and for what year) is not given.",
+        "It is not stated what 'seen from space' means: likely night-time lights imagery, but no sensor (e.g. VIIRS, DMSP) or dataset is named.",
+        "The Instagram account and the original maker of any visual are unknown."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.slobodenpecat.mk/en/se-gleda-od-vselenata-plastikata-mozhebi-ja-menuva-bojata-na-tihiot-okean/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Seen from space — plastic may be changing the color of the Pacific Ocean - Free Press",
+      "link": "https://www.slobodenpecat.mk/en/se-gleda-od-vselenata-plastikata-mozhebi-ja-menuva-bojata-na-tihiot-okean/",
+      "published": "2026-11-15T17:10:40+00:00",
+      "summary": "Seen from space — plastic may be changing the color of the Pacific Ocean. J.S.. Prev 4 minute. In the central part of the North Pacific Ocean lies a ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Seen from space — plastic may be changing the color of the Pacific Ocean. J.S.. Prev 4 minute. In the central part of the North Pacific Ocean lies a ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Seen-from-space story on plastic changing Pacific colour; strong hook, but no image supplied.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page and only a truncated text snippet, so there is nothing to post and no sourced facts to caption.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page has no image (IMAGE NOTE: no image found), and the reuse policy is link_only.",
+        "No image credit or licence is stated.",
+        "The page text cuts off after one sentence. There is no sensor, date, study, authors or method behind the claim that plastic 'may be changing the color' of the North Pacific.",
+        "The claim is hedged ('may be') and reported second-hand by a general news site. It should be traced to the original study or agency release before any post.",
+        "Worth checking whether the underlying research has its own satellite imagery or ocean-colour map with a clear credit that could be used instead."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.linkedin.com/posts/chris-whong-798b587_30daymapchallenge-activity-7527459355500339200-VVj3",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "# 30daymapchallenge | Chris Whong - LinkedIn",
+      "link": "https://www.linkedin.com/posts/chris-whong-798b587_30daymapchallenge-activity-7527459355500339200-VVj3",
+      "published": "2026-11-15T21:12:53+00:00",
+      "summary": "30DayMapChallenge Day 14: Borgesian Map A map of New York as if New York were itself a map. In Borges's On Exactitude in Science, ...",
+      "image_url": "https://media.licdn.com/dms/image/v2/D4E22AQFI9K88mzk2hg/feedshare-shrink_800/B4EaHboY.cHwAo-/0/1794686162205?e=2147483647&v=beta&t=LMzbfILYzY6wdrT1PhYZgT2HhdZvDTZlrKCWIKoj1LE",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads ) on and off LinkedIn. Learn more in our Cookie Policy .\nSelect Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings .\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\n#30DayMapChallenge Day 14: Borgesian Map\n\nA map of New York as if New York were itself a map.\n\nIn Borges's On Exactitude in Science, cartographers make a map the size of the empire it depicts. Here it goes the other way: the city gets the furniture of a GIS 101 map, built at full size so it can be seen from the air.\n\nMade with Squidmaps https://lnkd.in/eV_MCBqE\nCreate your free account or sign in to continue your search\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQFI9K88mzk2hg/feedshare-shrink_800/B4EaHboY.cHwAo-/0/1794686162205?e=2147483647&v=beta&t=LMzbfILYzY6wdrT1PhYZgT2HhdZvDTZlrKCWIKoj1LE",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4E16AQF_xUzane2eeA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1552439083794?e=2147483647&v=beta&t=tGSVfWVkT6GrudFUm2cbmhWxaIUweae4PpxuJZ0cA7M",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-16-16-30daymapchallenge-chris-whong-linkedin.jpg",
+      "image_note": "square crop, from 437px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6.0,
+    "why": "Borgesian map of New York as a map; clever concept for 30DayMapChallenge.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "Chris Whong's Day 14 entry for the 30DayMapChallenge (theme: Borgesian Map). It shows New York as if the city were itself a map, with the furniture of a GIS 101 map built at full size so it can be seen from the air. Made with Squidmaps. No data source, date of imagery or colour scheme is described.",
+      "uncertainties": [
+        "Source reuse policy is link_only and no image licence is stated. Check whether Chris Whong allows the image to be reposted before using it, or post as a link only.",
+        "No image credit on the page. The credit used is the post's author (Chris Whong) via LinkedIn.",
+        "Source image is only 437px wide and was upscaled for the square. Check sharpness before posting.",
+        "The post does not say which map elements (scale bar, north arrow, legend, etc.) appear, so the captions describe them only as 'GIS 101 map furniture'.",
+        "Not stated whether the base view is satellite or aerial imagery, a 3D render or something else, or which data Squidmaps used.",
+        "Hashtag #30DayMapChallenge left out because the brief allows single-word hashtags only. The challenge is named in the text instead."
+      ],
+      "image_credit": "Map: Chris Whong via LinkedIn",
+      "facebook": "Borges imagined a map as large as the empire it described. Chris Whong flipped the idea and turned New York into its own map.\n\nHis entry for Day 14 of the 30DayMapChallenge, themed 'Borgesian Map', gives the city the furniture of a GIS 101 map, built at full size so it reads from the air. It was made with Squidmaps.\n\nFull story: https://www.linkedin.com/posts/chris-whong-798b587_30daymapchallenge-activity-7527459355500339200-VVj3\n\nMap: Chris Whong via LinkedIn\n\n#Cartography #Borges #NYC #Geoawesome",
+      "instagram": "What if New York were its own map?\n\nChris Whong dressed the city in textbook GIS map elements at full size, readable from above. Day 14 of the 30DayMapChallenge.\n\nRead more: https://www.linkedin.com/posts/chris-whong-798b587_30daymapchallenge-activity-7527459355500339200-VVj3\n\nMap: Chris Whong via LinkedIn\n\n#Maps #NYC #Cartography #Geoawesome",
+      "youtube": "The 30DayMapChallenge theme for Day 14 was 'Borgesian Map', and Chris Whong answered it by running the original story backwards.\n\nIn Borges's On Exactitude in Science, cartographers produce a map the size of the empire. Here the territory becomes the map: New York carries the standard elements of an introductory GIS layout, scaled up to full size so they can be seen from the air. The piece was built with Squidmaps.\n\nLearn more: https://www.linkedin.com/posts/chris-whong-798b587_30daymapchallenge-activity-7527459355500339200-VVj3\n\nMap: Chris Whong via LinkedIn\n\n#GIS #Borges #Cartography #Geoawesome",
+      "x": "Borges in reverse: New York wearing GIS 101 map furniture at full size, visible from the air.\nhttps://www.linkedin.com/posts/chris-whong-798b587_30daymapchallenge-activity-7527459355500339200-VVj3\nMap: Chris Whong via LinkedIn\n#Cartography #NYC #Borges #Geoawesome",
+      "alt_text": "An overhead view of New York with oversized elements of a basic GIS map placed on the city, as though the city itself were a map."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-16-16-30daymapchallenge-chris-whong-linkedin.jpg"
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/09f84cc1d9564a3d",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in San Joaquin, California | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/09f84cc1d9564a3d",
+      "published": "2026-11-15T20:16:27+00:00",
+      "summary": "186 TrailStarted Nov 14 · Updated 1d ago. 3000 ft. MapLibre . MenuOpen the menu and map settings. FiresBrowse active fires on the map. WFCA Fire ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in San Joaquin, California observed by LANDSAT, SOF covering 0.7 acres from 12 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Interactive active-fire map for San Joaquin; playable, but no striking visual in the summary.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page and only an auto-generated detection stub (0.7 acres, 12 merged observations), with no visual to post square and no licence.",
+      "what_it_shows": "An automated WFCA fire map entry for a satellite fire detection in San Joaquin, California. The page says it was observed by LANDSAT, covers 0.7 acres and is merged from 12 observations. No image, date of observation or map visual is provided.",
+      "uncertainties": [
+        "No image found on the page, so there is nothing to crop to 1080x1080.",
+        "Reuse policy is link_only and no image licence or credit is stated.",
+        "Observation date is not given; only the alert's publication timestamp (2026-11-15) is known.",
+        "\"SOF\" is not explained on the page.",
+        "Unclear whether San Joaquin refers to the city or the county, and whether the detection is a confirmed fire or an unverified hotspot.",
+        "A 0.7-acre automated detection is a routine data point, not a story with a striking visual."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/dfcd4bb93c58449b",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Tuolumne, California | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/dfcd4bb93c58449b",
+      "published": "2026-11-15T20:16:28+00:00",
+      "summary": "TollesStarted Nov 12 · Updated 3d ago. 3000 ft. MapLibre . MenuOpen the menu and map settings. FiresBrowse active fires on the map. WFCA Fire Map ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Tuolumne, California observed by SOF from 3 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Interactive fire tracker for Tuolumne; playable map portal with fire perimeters.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, and the source is an auto-generated fire-detection listing with no date, size, sensor detail or credit to build a post from.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was found on the page, so there is nothing to square-crop and post.",
+        "'SOF' is not explained; the satellite or sensor behind the detections is not named.",
+        "No observation date or time, fire size, location detail beyond Tuolumne, California, or confirmation that this is an actual fire rather than a thermal anomaly.",
+        "No image credit or licence stated; reuse policy is link_only.",
+        "Page is a templated real-time map entry with almost no text, so most of a caption would be guesswork."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/a49edfbeb57245d0",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Coffee, Georgia | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/a49edfbeb57245d0",
+      "published": "2026-11-15T20:16:28+00:00",
+      "summary": "Anderson 993115 ac · 0% containedStarted Nov 12 · Updated 3d ago. 3000 ft. MapLibre . MenuOpen the menu and map settings. FiresBrowse active fires on ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Coffee, Georgia observed by LANDSAT covering 0.9 acres from 4 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Large 993,115-acre fire map in Georgia; a dramatic fire scene in an interactive portal.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page (link-only reuse) and the content is an auto-generated detection entry for a single 0.9-acre Landsat fire detection in Coffee, Georgia, with no striking visual to share.",
+      "what_it_shows": "An automated WFCA fire map page listing a satellite fire detection in Coffee, Georgia, attributed to Landsat, covering 0.9 acres from 4 merged observations. No image, date of observation or further context is given.",
+      "uncertainties": [
+        "No image found on the page, and the reuse policy is link_only.",
+        "No image credit or licence stated.",
+        "The detection date is not given (only the page publish date).",
+        "Which Landsat satellite or product produced the detection is not stated.",
+        "It is unclear whether the detection is a confirmed fire or a possible false positive.",
+        "Coffee is presumably Coffee County, Georgia, but the page does not say so."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  }
+]
