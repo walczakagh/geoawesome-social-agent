@@ -258,3 +258,79 @@ def test_older_issue_with_one_shared_box_still_works():
            "**X**\n\n```text\nX text.\n```\n")
     t = publish.parse_issue(old)["2026-10-17-1-old"]["texts"]
     assert t["facebook"] == t["instagram"] == t["youtube"] == "Shared caption." and t["x"] == "X text."
+
+
+# ---------------------------------------------------------------- replacement images
+
+REPLACED = """## 3. An Inverted Earth You Can Explore
+
+<!-- post:2026-11-16-8-inverted -->
+- [x] **Publish on Facebook + Instagram**
+
+<img width="1318" height="1320" alt="Screenshot" src="https://github.com/user-attachments/assets/2f67a2cd" />
+
+[Download replacement image](https://github.com/user-attachments/assets/2f67a2cd)
+
+**Facebook**
+
+```text
+Swap Earth's land and oceans.
+```
+
+**Alt text:** A view from Atlantis.
+
+---
+"""
+
+
+def test_replacement_image_is_found_and_converted():
+    p = publish.parse_issue(REPLACED)["2026-11-16-8-inverted"]
+    assert p["image_url"] == "https://github.com/user-attachments/assets/2f67a2cd"
+    assert publish.needs_conversion(p["image_url"])
+    assert not publish.needs_conversion("https://raw.githubusercontent.com/a/b/main/drafts/images/x.jpg")
+    calls = []
+    fake = lambda pid, url: calls.append(url) or f"https://raw/{pid}-r1.jpg"
+    queue, now = [], datetime(2026, 11, 17, 9, 0, tzinfo=timezone.utc)
+    queued, _ = publish.enqueue(49, REPLACED, now, CFG, queue, {}, localise=fake)
+    assert "⚠️" not in queued[0] and calls == [p["image_url"]]
+    assert queue[0]["image_url"] == "https://raw/2026-11-16-8-inverted-r1.jpg"
+    # a second edit with the same image does not convert again
+    publish.enqueue(49, REPLACED, now, CFG, queue, {}, localise=fake)
+    assert len(calls) == 1
+
+
+def test_image_swapped_after_queueing():
+    queue, now = [], datetime(2026, 11, 17, 9, 0, tzinfo=timezone.utc)
+    body = REPLACED.replace("2f67a2cd", "first")
+    publish.enqueue(49, body, now, CFG, queue, {}, localise=lambda pid, u: "https://raw/1.jpg")
+    lines, _ = publish.enqueue(49, REPLACED, now, CFG, queue, {},
+                               localise=lambda pid, u: "https://raw/2.jpg")
+    assert queue[0]["image_url"] == "https://raw/2.jpg" and "new image" in lines[0]
+
+
+def test_problem_reported_on_edit_only():
+    body = REPLACED.replace("<img", "<span").replace("[Download replacement image]", "[nothing]")
+    now = datetime(2026, 11, 17, 9, 0, tzinfo=timezone.utc)
+    lines, _ = publish.enqueue(49, body, now, CFG, [], {})
+    assert "no image found" in lines[0]
+    assert publish.enqueue(49, body, now, CFG, [], {}, warn=False) == ([], [])
+
+
+def test_localise_image_makes_square_jpeg(tmp_path, monkeypatch):
+    import io
+    from PIL import Image
+    buf = io.BytesIO()
+    Image.new("RGBA", (1318, 1320), (10, 20, 30, 255)).save(buf, "PNG")
+
+    class R:
+        status_code, content = 200, buf.getvalue()
+        def raise_for_status(self): pass
+
+    class H:
+        def get(self, *a, **k): return R()
+
+    monkeypatch.setattr(publish, "ROOT", tmp_path)
+    url = publish.localise_image("2026-11-16-8-inverted", "https://github.com/user-attachments/assets/x", http=H())
+    assert url.startswith("drafts/images/2026-11-16-8-inverted-r") and url.endswith(".jpg")
+    im = Image.open(tmp_path / url)
+    assert im.format == "JPEG" and im.size == (1080, 1080)

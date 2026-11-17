@@ -13,9 +13,15 @@ How it works
 - At publish time the issue is read again, so caption edits made in the issue
   up to then are what gets posted, and a box unticked in the meantime stops it.
 - state/queue.json holds queued posts, state/published.json what went out.
+- An image dropped into the issue by hand (GitHub's user-attachments link)
+  replaces the agent's square. Meta cannot use those links directly (PNG,
+  redirects, odd sizes), so the run downloads it, makes a 1080x1080 JPEG in
+  drafts/images/ and posts that.
 """
 from __future__ import annotations
 
+import hashlib
+import io
 import json
 import os
 import random
@@ -42,7 +48,12 @@ _CAPTION = re.compile(r"```text\n(.*?)\n?```", re.S)
 # (issues before 17 Oct 2026 had one box "**Facebook · Instagram · YouTube Community**")
 _BLOCK = re.compile(r"\*\*(Facebook|Instagram|YouTube Community|X)\b[^*\n]*\*\*\s*\n\s*```text\n(.*?)\n?```", re.S)
 _KEYS = {"Facebook": "facebook", "Instagram": "instagram", "YouTube Community": "youtube", "X": "x"}
-_IMAGE = re.compile(r"\[Download square image\]\((\S+?)\)")
+# "[Download square image](...)" from the agent; any "[Download ... image](...)"
+# wording is accepted so a renamed link still works.
+_IMAGE = re.compile(r"\[Download [^\]\n]*?image\]\((\S+?)\)", re.I)
+# images pasted into the issue by hand: <img src="..."> or ![...](...)
+_EMBED = re.compile(r'<img\b[^>]*?\bsrc="([^"]+)"|!\[[^\]\n]*\]\((\S+?)\)')
+_ATTACHMENT = re.compile(r"github\.com/user-attachments/|user-images\.githubusercontent\.com/")
 _ALT = re.compile(r"\*\*Alt text:\*\*\s*(.+)")
 _TITLE = re.compile(r"^## \d+\. (.+)$", re.M)
 
@@ -70,17 +81,70 @@ def parse_issue(body: str) -> dict[str, dict]:
         for k in ("facebook", "instagram", "youtube"):
             texts.setdefault(k, shared)  # one shared box in older issues
         texts.setdefault("x", "")
-        img = _IMAGE.search(chunk)
         alt = _ALT.search(chunk)
         posts[m.group(1)] = {
             "checked": bool(box and box.group(1).lower() == "x"),
             "title": titles[-1].strip() if titles else m.group(1),
             "texts": texts,
             "caption": texts["facebook"],
-            "image_url": img.group(1) if img else "",
+            "image_url": pick_image(chunk),
             "alt_text": alt.group(1).strip() if alt else "",
         }
     return posts
+
+
+def pick_image(chunk: str) -> str:
+    """The image to post for one section: an image uploaded into the issue by
+    hand wins (that is how a replacement is made), then the download link,
+    then any other embedded image."""
+    embeds = [a or b for a, b in _EMBED.findall(chunk)]
+    for u in embeds:
+        if _ATTACHMENT.search(u):
+            return u
+    link = _IMAGE.search(chunk)
+    if link:
+        return link.group(1)
+    return embeds[0] if embeds else ""
+
+
+def needs_conversion(url: str) -> bool:
+    """True for images Meta should not be handed as they are: GitHub
+    attachments and anything that is not a JPEG."""
+    path = url.split("?", 1)[0].lower()
+    return bool(_ATTACHMENT.search(url)) or not path.endswith((".jpg", ".jpeg"))
+
+
+def localise_image(post_id: str, url: str, http=None) -> str:
+    """Download `url`, write a 1080x1080 JPEG to drafts/images/ and return the
+    public raw URL of that file. The name carries a hash of the source so a
+    second replacement gets a new URL (raw.githubusercontent caches for minutes)."""
+    from PIL import Image, ImageOps
+    from .images import make_square
+    from .review import image_urls
+
+    http = http or requests
+    headers = {"User-Agent": "geoawesome-social-agent"}
+    r = http.get(url, headers=headers, timeout=60, allow_redirects=True)
+    if r.status_code in (401, 403, 404) and os.environ.get("GITHUB_TOKEN"):
+        r = http.get(url, timeout=60, allow_redirects=True,
+                     headers={**headers, "Authorization": f"Bearer {os.environ['GITHUB_TOKEN']}"})
+    r.raise_for_status()
+    pic = ImageOps.exif_transpose(Image.open(io.BytesIO(r.content)))
+    if pic.mode != "RGB":
+        bg = Image.new("RGB", pic.size, "white")
+        pic = pic.convert("RGBA")
+        bg.paste(pic, mask=pic.split()[-1])
+        pic = bg
+    square, _ = make_square([pic], [""])
+    rel = f"drafts/images/{post_id}-r{hashlib.sha1(url.encode()).hexdigest()[:8]}.jpg"
+    out = ROOT / rel
+    out.parent.mkdir(parents=True, exist_ok=True)
+    square.save(out, "JPEG", quality=90, optimize=True, progressive=True)
+    return image_urls(rel)[1]
+
+
+def _image_for(pid: str, src: str, localise) -> str:
+    return localise(pid, src) if needs_conversion(src) else src
 
 
 # ---------------------------------------------------------------- state and slots
@@ -160,22 +224,51 @@ def local_label(t: datetime | str, cfg: dict) -> str:
 
 
 def enqueue(issue: int, body: str, now: datetime, cfg: dict,
-            queue: list[dict], published: dict, rng=random) -> tuple[list[str], list[str]]:
+            queue: list[dict], published: dict, rng=random,
+            warn: bool = True, localise=None) -> tuple[list[str], list[str]]:
     """Queue newly ticked posts, drop unticked ones. Mutates queue.
-    Returns (queued lines, cancelled lines) for the issue comment."""
+    Returns (queued lines, cancelled lines) for the issue comment.
+    `warn` False (the 10-minute sweep) keeps problems out of the comment, so a
+    post that cannot be queued is reported once, on the issue edit, not every run."""
+    localise = localise or localise_image
     posts = parse_issue(body)
     queued, cancelled = [], []
-    in_queue = {q["post_id"] for q in queue}
+    in_queue = {q["post_id"]: q for q in queue}
     for pid, p in posts.items():
         tried = pid in published  # published, or failed after all retries: never re-queue
-        if p["checked"] and pid not in in_queue and not tried:
-            if not p["image_url"] or not p["caption"]:
-                queued.append(f"- ⚠️ **{p['title']}**: no image or caption found, not queued")
+        if p["checked"] and pid in in_queue and not tried:
+            q = in_queue[pid]  # image swapped in the issue after queueing
+            if p["image_url"] and p["image_url"] != q.get("image_src", p["image_url"]):
+                try:
+                    q["image_url"] = _image_for(pid, p["image_url"], localise)
+                    q["image_src"] = p["image_url"]
+                    queued.append(f"- **{p['title']}**: new image picked up, "
+                                  f"still {local_label(q['slot'], cfg)}")
+                except Exception as exc:
+                    if warn:
+                        queued.append(f"- ⚠️ **{p['title']}**: new image could not be "
+                                      f"used ({str(exc)[:200]}), keeping the old one")
+        elif p["checked"] and pid not in in_queue and not tried:
+            missing = [w for w, ok in (("image", p["image_url"]), ("caption", p["caption"])) if not ok]
+            if missing:
+                if warn:
+                    queued.append(f"- ⚠️ **{p['title']}**: no {' or '.join(missing)} found, not queued")
+                continue
+            try:
+                image = _image_for(pid, p["image_url"], localise)
+            except Exception as exc:
+                if warn:
+                    queued.append(f"- ⚠️ **{p['title']}**: image could not be downloaded or "
+                                  f"converted ({str(exc)[:200]}), not queued")
                 continue
             base = next_slot(now, {q.get("base", q["slot"]) for q in queue}, cfg)
             slot = jittered(base, now, cfg, rng)
-            queue.append({"post_id": pid, "issue": issue, "base": base.isoformat(),
-                          "slot": slot.isoformat(), "queued_at": now.isoformat()})
+            entry = {"post_id": pid, "issue": issue, "base": base.isoformat(),
+                     "slot": slot.isoformat(), "queued_at": now.isoformat(),
+                     "image_src": p["image_url"]}
+            if image != p["image_url"]:
+                entry["image_url"] = image
+            queue.append(entry)
             queued.append(f"- **{p['title']}**: {local_label(slot, cfg)}")
         elif not p["checked"] and pid in in_queue:
             queue[:] = [q for q in queue if q["post_id"] != pid]
@@ -299,6 +392,14 @@ def run_due(now: datetime, cfg: dict, queue: list[dict], published: dict,
         if not post or not post["checked"]:
             queue.remove(q)
             continue
+        # the converted JPEG made at queue time, unless the issue now points elsewhere
+        if q.get("image_url") and post["image_url"] == q.get("image_src"):
+            post["image_url"] = q["image_url"]
+        elif post["image_url"] and needs_conversion(post["image_url"]):
+            try:
+                post["image_url"] = localise_image(pid, post["image_url"])
+            except Exception as exc:
+                print(f"[publish] {pid}: image conversion failed: {exc}")
         rec = published.setdefault(pid, {"issue": issue, "title": post["title"], "attempts": {}})
         lines = []
         for net in cfg.get("networks", ["facebook", "instagram"]):
@@ -355,8 +456,8 @@ def main() -> None:
 
     gh = GitHub(os.environ.get("GITHUB_REPOSITORY", ""), os.environ.get("GITHUB_TOKEN", ""))
 
-    def sync(issue: int, body: str) -> None:
-        queued, cancelled = enqueue(issue, body, now, cfg, queue, published)
+    def sync(issue: int, body: str, warn: bool = True) -> None:
+        queued, cancelled = enqueue(issue, body, now, cfg, queue, published, warn=warn)
         if queued or cancelled:
             text = ""
             if queued:
@@ -379,7 +480,7 @@ def main() -> None:
         # catch ticks whose issue-edit run was skipped (GitHub keeps only one
         # waiting run per concurrency group, so a quick series of edits can drop one)
         for i in gh.open_issues():
-            sync(i["number"], i.get("body") or "")
+            sync(i["number"], i.get("body") or "", warn=False)
         _save(QUEUE, queue)
 
     if not token:

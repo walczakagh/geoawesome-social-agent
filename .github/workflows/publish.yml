@@ -50,7 +50,7 @@ jobs:
           python-version: "3.12"
           cache: pip
 
-      - run: pip install requests pyyaml
+      - run: pip install requests pyyaml pillow numpy feedparser beautifulsoup4
 
       - name: Queue or publish
         env:
@@ -59,10 +59,10 @@ jobs:
           MODE: ${{ github.event_name == 'issues' && 'enqueue' || inputs.mode || 'run' }}
         run: python -m agent.publish "$MODE"
 
-      - name: Save queue and published log
+      - name: Save queue, published log and converted images
         if: always()
         run: |
           set -euo pipefail
           git config user.name "geoawesome-social-agent"
           git config user.email "actions@users.noreply.github.com"
-          python tools/save_state.py "Publish state $(date -u +%FT%H%M)" state
+          python tools/save_state.py "Publish state $(date -u +%FT%H%M)" state drafts/images
