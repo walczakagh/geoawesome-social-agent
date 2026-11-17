@@ -1,0 +1,1075 @@
+[
+  {
+    "item": {
+      "id": "https://www.youtube.com/shorts/XqqaFKc0FXI",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Mumbai from space, 1988 to 2025: real satellite pictures #Shorts - YouTube",
+      "link": "https://www.youtube.com/shorts/XqqaFKc0FXI",
+      "published": "2026-11-16T18:11:01+00:00",
+      "summary": "... Sentinel-2 pictures: the old town and its harbour, the Bandra-Worli Sea Link and the new airport. Nothing painted, nothing added. Asked for in the ...",
+      "image_url": "https://i.ytimg.com/vi/XqqaFKc0FXI/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCm_uzG0KyzZpjryictxZvzcPhpnw",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XqqaFKc0FXI/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCm_uzG0KyzZpjryictxZvzcPhpnw",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 405px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 8.0,
+    "why": "Mumbai 1988 to 2025 Sentinel-2 before-and-after satellite change story; strong visual.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The image cannot be credited (no creator or licence on the page, reuse policy is link_only), it is a 405px frame from a YouTube Short, and the page text is too fragmentary to caption without guessing.",
+      "what_it_shows": "A YouTube Short titled 'Mumbai from space, 1988 to 2025: real satellite pictures'. The page fragment mentions Sentinel-2 pictures showing the old town and its harbour, the Bandra-Worli Sea Link and the new airport, and says 'Nothing painted, nothing added.' The source does not name the creator, the sensor for the earlier years, dates or band combinations.",
+      "uncertainties": [
+        "No image credit or channel name found, so the post cannot be credited.",
+        "Image licence not stated, and the reuse policy is link_only, so the frame should not be reposted as a Geoawesome image.",
+        "The source image is only 405px wide and would be upscaled to 1080x1080, so it will likely look soft.",
+        "The page text is a cut-off fragment ('Asked for in the ...').",
+        "The page names only Sentinel-2. It gives no sensor for the earlier years in the 1988 to 2025 span. Sentinel-2 imagery cannot cover 1988, so another source (possibly Landsat) is likely but not stated.",
+        "No acquisition dates, band combination or explanation of colours given.",
+        "A 2026 publication date with a 2025 end year is plausible but unverified.",
+        "A possible alternative would be to find the original creator and an attributable Sentinel-2 or Landsat time series of Mumbai, then post that instead."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "tag:blogger.com,1999:blog-12158290.post-2383070108352447776",
+      "source_id": "maps_mania",
+      "source_name": "Maps Mania",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "Map or Simulation? - Turning Maps into Games",
+      "link": "http://googlemapsmania.blogspot.com/2026/11/map-or-simulation-turning-maps-into.html",
+      "published": "2026-11-16T08:47:38+00:00",
+      "summary": "Some of the most imaginative maps appearing on the web right now are doing much more than showing us where things are. They're turning real cities into miniature virtual worlds, complete with changing weather, animated traffic, shifting daylight and streets we can actually explore. Three particularly impressive examples demonstrate just how far this new breed of interactive cartography is going: Isometric Bielsko-Biała – A gorgeous SimCity -style pixel-art rendering of a Polish city, complete with changing seasons, weather and animated buses. Atlas Above – Beautifully stylised renderings of Kiev, Amsterdam, Berlin, Hamburg, Munich and Vienna, offering a striking alternative to conventional 3D mapping. Warsaw in Voxels – A Minecraft -inspired diorama of central Warsaw where you can change the weather, explore the streets and even click on pedestrians to \"possess\" them and walk around the city. What makes these projects particularly interesting is that they are built using real geographic data, including OpenStreetMap building footprints, LiDAR elevation models and municipal datasets. Yet spend a few minutes exploring them and you realise something: these aren't really maps. They're ",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf3zyqnKAvnKzKHuhCVRDXXQi03VphUH58zuUnZv3pVT8qjdNpaUfmWgb3WOzb_-rZR42dlLS2j9MXT8AFVRRinCXH4071bSv_dmyzAYAmzcDvP1HcCFvtuatci38SLFQJIMvY_7CLV4h841QpdyRQflPAS9xr6aM8TX2w9Dq7KSjqTZXGGeCilw/s1600/Screenrecording2026-11-168.40.45AM-ezgif.com-video-to-gif-converter.gif",
+      "credit_hint": "via Maps Mania",
+      "source_tag": "",
+      "page_text": "Some of the most imaginative maps appearing on the web right now are doing much more than showing us where things are. They're turning real cities into miniature virtual worlds, complete with changing weather, animated traffic, shifting daylight and streets we can actually explore. Three particularly impressive examples demonstrate just how far this new breed of interactive cartography is going: Isometric Bielsko-Biała – A gorgeous SimCity -style pixel-art rendering of a Polish city, complete with changing seasons, weather and animated buses. Atlas Above – Beautifully stylised renderings of Kiev, Amsterdam, Berlin, Hamburg, Munich and Vienna, offering a striking alternative to conventional 3D mapping. Warsaw in Voxels – A Minecraft -inspired diorama of central Warsaw where you can change the weather, explore the streets and even click on pedestrians to \"possess\" them and walk around the city. What makes these projects particularly interesting is that they are built using real geographic data, including OpenStreetMap building footprints, LiDAR elevation models and municipal datasets. Yet spend a few minutes exploring them and you realise something: these aren't really maps. They're ",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf3zyqnKAvnKzKHuhCVRDXXQi03VphUH58zuUnZv3pVT8qjdNpaUfmWgb3WOzb_-rZR42dlLS2j9MXT8AFVRRinCXH4071bSv_dmyzAYAmzcDvP1HcCFvtuatci38SLFQJIMvY_7CLV4h841QpdyRQflPAS9xr6aM8TX2w9Dq7KSjqTZXGGeCilw/s1600/Screenrecording2026-11-168.40.45AM-ezgif.com-video-to-gif-converter.gif",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 337px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 8.0,
+    "why": "Interactive city maps as pixel-art and animated virtual worlds; strong visual hook for map readers.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "We can't tell which of the three projects the 337px image shows, so we can't credit its maker or describe it without guessing, and the upscaled crop is likely too soft for a 1080 square.",
+      "what_it_shows": "A Maps Mania roundup of three interactive, game-like city maps: Isometric Bielsko-Biała (SimCity-style pixel art with seasons, weather and animated buses), Atlas Above (stylised renderings of Kiev, Amsterdam, Berlin, Hamburg, Munich and Vienna) and Warsaw in Voxels (a Minecraft-inspired diorama of central Warsaw where you can change the weather and click on pedestrians to walk around as them). According to the post, they are built from real geographic data, including OpenStreetMap building footprints, LiDAR elevation models and municipal datasets.",
+      "uncertainties": [
+        "The source image is not identified: it could come from any of the three projects, or be a Maps Mania composite.",
+        "There is no image credit on the page and no maker named for any of the three projects, so a 'Map: <maker> via Maps Mania' credit can't be written.",
+        "The image is cropped from only 337px of source width and upscaled to 1080px, so sharpness is likely poor.",
+        "No image licence is stated, and the reuse policy is link_only.",
+        "The page text is cut off mid-sentence ('They're...'), so the article's closing argument is missing.",
+        "Possible alternative: run separate posts on one project at a time (Warsaw in Voxels looks the strongest), using a full-resolution screenshot from that project's own site, credited to its maker, with permission checked."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/8a4374cf2aff44ac",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in San Joaquin, California | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/8a4374cf2aff44ac",
+      "published": "2026-11-16T20:27:52+00:00",
+      "summary": "Wb Hwy 152 Pacheco_passWb Hwy 152 Pacheco_passStarted Nov 14 · Updated 1d ago. 7474Started Oct 18 · Updated 1d ago. 3000 ft. MapLibre .",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in San Joaquin, California observed by LANDSAT, SOF covering 0.2 acres from 4 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Live interactive fire map tracking San Joaquin fires; playable map portal with detections.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Auto-generated detection page for a 0.2-acre Landsat hotspot with no image on the page, so there is no visual to repost.",
+      "what_it_shows": "An automated WFCA fire-map entry for a single satellite fire detection in San Joaquin, California. The page says Landsat observed it and that it covers 0.2 acres from 4 merged observations. No image, date of observation or map visual is provided.",
+      "uncertainties": [
+        "No image found on the page.",
+        "No image credit or licence stated.",
+        "Observation date not given; the publish date may not match the detection date.",
+        "'SOF' is not explained on the page.",
+        "Unclear whether the detection is a confirmed fire or an unverified hotspot.",
+        "Reuse policy is link_only."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://warhistory.org/maps/ukraine/2026-11-16/satellite-image-shows-2-oil-depots-burning-in-azov-rostov-oblast-after-strike-ukrainian-channel-reports",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Satellite image shows 2 oil depots burning in Azov, Rostov oblast, after strike, Ukrainian ...",
+      "link": "https://warhistory.org/maps/ukraine/2026-11-16/satellite-image-shows-2-oil-depots-burning-in-azov-rostov-oblast-after-strike-ukrainian-channel-reports",
+      "published": "2026-11-17T00:31:31+00:00",
+      "summary": "Satellite image shows 2 oil depots burning in Azov, Rostov oblast, after strike, Ukrainian channel reports. 16 November 2026, 20:46 UTC (hour) Azov ...",
+      "image_url": "https://warhistory.org/maps/media/ukraine/2026/11/ukraines-general-staff-says-forces-hit-flash-energy-oil-depot-in-azov-rostov-oblast-causing-explosions-and-fire.webp",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The General Staff says Ukrainian forces struck the Flash Energy oil depot in Azov overnight on Nov 16; explosions and a fire followed, damage being assessed. It also reports hits on command posts near Novoselivka Persha, Osykove and Rozdol, a supply depot near Rivnopil and a vehicle concentration in Berdiansk.\nGeneral Staff of the Armed Forces of Ukraine telegram · T1 16 Nov 10:50 Key source\nOperativno ZSU telegram · T2 16 Nov 11:08\nOperativno ZSU telegram · T2 16 Nov 04:09\nThe Kyiv Independent telegram · T1 16 Nov 04:51\nOperativno ZSU telegram · T2 16 Nov 07:44\nOperativno ZSU telegram · T2 16 Nov 09:13\nOperativno ZSU telegram · T2 16 Nov 20:46",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://warhistory.org/maps/media/ukraine/2026/11/ukraines-general-staff-says-forces-hit-flash-energy-oil-depot-in-azov-rostov-oblast-causing-explosions-and-fire.webp",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://warhistory.org/maps/media/ukraine/2026/11/ukraines-general-staff-says-neptune-missiles-hit-drone-production-and-storage-complex-in-rostov-on-don-isw-reports.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://warhistory.org/maps/media/ukraine/2026/11/drone-attack-on-taganrog-kills-1-injures-4-and-damages-2-substations-rostov-governor-says.webp",
+          "label": ""
+        },
+        {
+          "url": "https://warhistory.org/maps/media/ukraine/2026/11/bridge-over-mius-river-near-nikolaevka-in-rostov-oblast-hit-overnight-ukrainian-channel-reports.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://warhistory.org/maps/media/ukraine/2026/11/crimean-bridge-attacked-again-in-the-evening-and-closed-to-traffic-russian-installed-crimea-head-aksyonov-says-f378146e.webp",
+          "label": ""
+        },
+        {
+          "url": "https://warhistory.org/maps/media/ukraine/2026/11/zelensky-warns-in-kyiv-of-imminent-russian-attacks-and-says-north-korea-supplies-moscow-dozens-of-ballistic-missiles-monthly.webp",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1080px of source width"
+    },
+    "score": 7.0,
+    "why": "Satellite image of burning oil depots in Azov; vivid scene with a clear story.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The image has no credit, no licence and no sensor or date, and the burning-depot claim comes only from a Ukrainian Telegram channel; we could not caption or credit it without guessing.",
+      "what_it_shows": "The headline says a satellite image shows two oil depots burning in Azov, Rostov oblast, after a strike, citing a Ukrainian channel. The page text does not describe the image. It only relays the General Staff of the Armed Forces of Ukraine saying the Flash Energy oil depot in Azov was struck overnight on 16 November, with explosions and a fire, and damage still being assessed.",
+      "uncertainties": [
+        "No image credit on the page, so the satellite provider or operator is unknown.",
+        "No image licence stated, and the source reuse policy is link_only, so the image should not be reposted.",
+        "No sensor, acquisition date or time, resolution or band combination is given for the satellite image.",
+        "The headline says two depots are burning, but the page text names only one (Flash Energy). The discrepancy is unresolved.",
+        "The claim rests on Telegram channel reports (General Staff, Operativno ZSU, The Kyiv Independent), and the satellite image itself is attributed only to an unnamed Ukrainian channel. No independent verification.",
+        "The page is a war-event aggregator, not the original image publisher. The original source of the image is not identified."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.facebook.com/detroitfreepress/posts/nasa-photos-of-michigan-great-lakes-from-space-since-2020-see-link-below-%EF%B8%8F-provi/1618794653626014/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "NASA photos of Michigan, Great Lakes from space since 2020. See link below ... - Facebook",
+      "link": "https://www.facebook.com/detroitfreepress/posts/nasa-photos-of-michigan-great-lakes-from-space-since-2020-see-link-below-%EF%B8%8F-provi/1618794653626014/",
+      "published": "2026-11-16T18:18:05+00:00",
+      "summary": "Officials just released this breathtaking new view of Michigan as seen from space in this photo enhancement. Home to more than 11,000 inland lakes and ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Officials just released this breathtaking new view of Michigan as seen from space in this photo enhancement. Home to more than 11,000 inland lakes and ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "New NASA view of Michigan and Great Lakes from space; Earth imagery with appeal.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, no image credit and no sensor or date: only a truncated Facebook teaser from a newspaper about NASA photos, which cannot be described without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was found on the page (IMAGE NOTE: no image found), so there is nothing to crop to a square.",
+        "The image credit and licence are not stated. The reuse policy is link_only.",
+        "The page text is a truncated snippet of a Detroit Free Press Facebook post. It names no sensor, mission, acquisition date or processing, and calls the view a 'photo enhancement' without saying what was done.",
+        "The post refers to 'NASA photos ... since 2020' and 'Officials just released', but it does not say which NASA source or image this is. The original NASA release would need to be found and checked before any repost.",
+        "The '11,000 inland lakes' figure comes from a third-party teaser, not from the image source."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.ecoticias.com/en/a-light-aircraft-scanning-scotlands-cairngorms-with-lasers-counted-more-than-6-million-trees-and-the-young-ones-are-moving-into-land-left-treeless-for-centuries-because-of-what-happened-to-the-deer/54183/",
+      "source_id": "google_alerts_4",
+      "source_name": "Google Alerts #4",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "A light aircraft scanning Scotland's Cairngorms with lasers counted more than 6 million trees ...",
+      "link": "https://www.ecoticias.com/en/a-light-aircraft-scanning-scotlands-cairngorms-with-lasers-counted-more-than-6-million-trees-and-the-young-ones-are-moving-into-land-left-treeless-for-centuries-because-of-what-happened-to-the-deer/54183/",
+      "published": "2026-11-17T00:09:30+00:00",
+      "summary": "LiDAR map of trees in Scotland's Cairngorms, with each treetop colored by height ... The Scottish Government is now funding a nationwide LiDAR survey , ...",
+      "image_url": "https://www.ecoticias.com/en/wp-content/uploads/2026/11/lidar-map-trees-feshiebridge.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Cambridge researchers have mapped more than 6 million trees in Scotland’s Cairngorms from the air. Their survey covers 220 square miles (569 square kilometers) of the national park. About 2.65 million of those trees stand under 16 feet (5 meters) tall.\nThe University of Cambridge says the young trees are reaching places where woodland has been missing for centuries. The land belongs to Cairngorms Connect, a partnership of four land managers. The study’s authors credit the change to sustained deer culling.\nYoung woodland now covers over 12,900 acres (5,235 hectares) of previously open ground. That label requires more than 100 trees per hectare, or roughly 40 per acre. Planting played only a small part, in spots with no natural seed source.\nA Pilatus Porter PC-6 carried the scanner about 1,970 feet (600 meters) above the ground. The instrument uses LiDAR, which fires laser pulses downward and times each return. From those echoes, the team built a three-dimensional model of the land.\nAn AI-supported routine then picked out single crowns and measured their height. To check it, field crews located saplings with differential GPS. Height estimates matched those measurements closely, with an R-squared of 0.94, where 1 would be a perfect fit.\nPartners had already walked selected sites and estimated their woodland area. The LiDAR totals came out 5 to 23 percent lower. The authors point to their stricter definition of a regenerating tree.\n“To our knowledge, this represents the first study to use LiDAR to map regenerating trees at this scale,” the authors write in their accepted manuscript. That scale is more than 500 square kilometers.\nDistance from existing woodland had the strongest effect among the continuous variables tested. Sapling numbers dropped quickly away from the forest edge. Even so, the maps picked up some young trees more than 1,600 feet (500 meters) out in the open.\nScots pine seeds typically travel up to about 575 feet (175 meters), the paper notes. Animals and snowstorms can carry a few seeds several kilometers. Those remote pioneers matter for long-term expansion, yet field surveys rarely record them because of the cost.\nAbove roughly 1,300 feet (400 meters), elevation began to thin out the saplings. Boggy ground also held fewer young trees than dry heathland. High water tables have long been known to suppress tree growth there.\nCenturies of clearance for farming and hunting estates left only 4 percent of Scotland’s native forest. Heath, bog and grassland now dominate the landscape. Capercaillie and red squirrels are restricted to the remaining fragments.\nCairngorms Connect wants to double the existing forest under a 200-year vision. Most of that growth is meant to come from natural regeneration. The Scottish Government, for its part, wants 3,000 to 5,000 hectares of new native woodland each year.\nGovernment thresholds for natural woodland also depend on density. In the survey, 1,984 hectares carried more than 400 young trees per hectare.\nDeer browsing and the cost of fenced planting long held back Scottish woodland, the university explains. Densities across the study area now average below 4 deer per square kilometer. The partnership describes its deer managers as acting in the role of a natural predator.\nCulling also avoids fences, which the paper names as a major killer of capercaillie and other grouse. Near Aviemore, a repeat survey commissioned by NatureScot found tree density up about 25 percent in six years. That reserve has no planting and no deer fences.\nOther restoration efforts have leaned on what was already in the ground, including the living stumps on farmland in Niger . Browsers can also push the other way, as moose introduced to Newfoundland have shown.\nAn odd result came from the browsing records. Plots rated “very high” for browsing in a 2006 to 2013 national survey now hold 108 saplings per hectare, while “high” plots hold 78.\nThe authors suggest heavy browsing may have opened the vegetation and exposed mineral soil. Seedlings could then take hold once deer numbers fell. The RSPB is now trialling cattle and artificial cutting to imitate that effect.\nSmall trees are the method’s weak point. Detection reached 83 percent for clusters 1.4 to 1.6 meters tall and passed 95 percent above 1.8 meters. Anything below about 1.4 meters (4.6 feet) generally went unseen, because heather and bracken hide it.\nThe 2.65 million figure therefore leaves out many of the youngest seedlings. Turning tree clusters into stem counts still needs a correction factor. Accuracy at lower point densities or other flight heights has not been established, and the authors expect field checks to continue.\nAland Chan of Cambridge’s Centre for Landscape Regeneration, who co-led the work, called the mapping “a breakthrough for monitoring nature restoration at a landscape scale.” Pip Gullett of Cairngorms Connect, a co-author, said it is “going to be a great way to monitor large-scale woodland expansion going forward.”\nThe full study was published in the Journal of Applied Ecology, and its accepted manuscript is open at the University of Cambridge repository.\nThe Scottish Government is now funding a nationwide LiDAR survey, and the team hopes its method will be used there. Only later scans can show how many of these saplings become forest, the same wait facing Ethiopia’s mass seedling campaign .\nECOnews is the English-language edition of ECOticias.com, focused on environmental and sustainability news for a global audience: mobility, energy, economy, technology, science, environment and trending stories.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.ecoticias.com/en/wp-content/uploads/2026/11/lidar-map-trees-feshiebridge.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://www.ecoticias.com/en/wp-content/uploads/2026/11/young-pines-heather.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www.ecoticias.com/en/wp-content/uploads/2026/11/glen-river-young-woodland.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www.ecoticias.com/en/wp-content/uploads/2026/11/lobo-arandanos-minnesota.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www.ecoticias.com/en/wp-content/uploads/2026/11/young-macaque-reconstruction.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www.ecoticias.com/en/wp-content/uploads/2026/11/fathead-minnows-nest.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1013px of source width"
+    },
+    "score": 7.0,
+    "why": "LiDAR tree-height map of Cairngorms with a rewilding story; striking visual.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The page does not describe or credit its image, and the reuse policy is link-only, so the visual cannot be identified or posted without guessing.",
+      "what_it_shows": "Unknown. The page text reports a University of Cambridge airborne LiDAR survey of 569 square kilometres of the Cairngorms that mapped more than 6 million trees, about 2.65 million of them under 5 metres tall, and found natural regeneration on 5,235 hectares of previously open ground that the authors credit to sustained deer culling. Nothing on the page says whether the image is a LiDAR map, a figure from the study or a stock landscape photo.",
+      "uncertainties": [
+        "The image content is not described anywhere on the page. It may be a generic header or stock photo rather than LiDAR output.",
+        "There is no image credit or licence on the page, and the reuse policy is link_only.",
+        "The study is a strong story for this audience. The accepted manuscript is open in the University of Cambridge repository and the paper is in the Journal of Applied Ecology. A credited LiDAR map or figure from Cambridge, the paper or Cairngorms Connect would make a postable visual.",
+        "Method limitations to keep if this is reposted from a better source: trees below about 1.4 m are generally not detected because heather and bracken hide them; detection is 83% at 1.4 to 1.6 m and above 95% over 1.8 m; turning clusters into stem counts needs a correction factor; accuracy at other point densities or flight heights is not established.",
+        "Attribution to deer culling is the authors' interpretation.",
+        "The page gives the publication date as 2026-11-17. Check this against the paper's actual publication date."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/california/clarks",
+      "source_id": "google_alerts_6",
+      "source_name": "Google Alerts #6",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Clarks Fire in California | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/california/clarks",
+      "published": "2026-11-16T06:16:31+00:00",
+      "summary": "Van Buren 2301 acStarted Nov 14 · Updated 1d ago. 100 mi. MapLibre . clarks incident no longer active. This incident may no longer be active. MenuOpen ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Live interactive fire tracker for the Clarks Fire; a map people can open and explore.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page and almost no usable text: a generic WFCA incident-map listing for a fire marked 'no longer active', with no visual to repost and no credit.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "IMAGE NOTE says no image was found on the page, so there is nothing to crop to a square.",
+        "Page text is fragmentary ('Van Buren 2301 ac', 'Started Nov 14', '100 mi', 'MapLibre'). It is unclear whether 2,301 acres refers to the Clarks Fire or to a different incident listed nearby on the map.",
+        "The page states 'This incident may no longer be active', so any post would be out of date.",
+        "No image credit or licence is stated, and the reuse policy is link_only.",
+        "No sensor, data source or method for the fire perimeter is given."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://x.com/CatImperator/status/2122329700110328051",
+      "source_id": "google_alerts_7",
+      "source_name": "Google Alerts #7",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Imperator Cat on X: \" 3D terrain map made by me (there could be mistakes tho). Zoom in on ...",
+      "link": "https://x.com/CatImperator/status/2122329700110328051",
+      "published": "2026-11-16T20:51:57+00:00",
+      "summary": "3D terrain map made by me (there could be mistakes tho). Zoom in on M. Matajur (taken Oct 26, 11:40).That's where a young Württemberg lieutenant ...",
+      "image_url": "https://pbs.twimg.com/profile_images/1571902847104557061/kROQ4z6N_400x400.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "See what’s happening and join the conversation",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HXPqrBcWAAAHolF?format=webp&name=large",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1571902847104557061/kROQ4z6N_normal.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HXPqrBcWAAAHolF?format=webp&name=large",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1149921822168768514/GiqZ1a02_normal.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 800px of source width"
+    },
+    "score": 7.0,
+    "why": "Shareable 3D terrain map of a real WWI battlefield; geo visual with a historical hook.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Cannot be explained without guessing: the truncated tweet names no place, data source or method, there is no image credit, and the reuse policy is link only, so the image should not be reposted.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The tweet text is cut off after 'Zoom in on ...', so the area shown is unknown.",
+        "No elevation data source (DEM), resolution, software or vertical exaggeration is stated.",
+        "The creator says the map 'could' contain mistakes, and nothing verifies its accuracy.",
+        "No image credit appears on the page; the only identity available is the X handle @CatImperator.",
+        "The image licence is not stated and the reuse policy is link only, so permission to repost would be needed.",
+        "The page text is only the X login wall ('See what's happening and join the conversation'), so the image itself has not been seen or checked."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.ptinews.com/press-release/ctruh-launches-verse-engine-and-streams-an-entire-10-3-billion-triangle-city-into-a-web-browser-from-a-single-link/4264684",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Ctruh Launches Verse Engine and Streams an Entire 10.3-Billion-Triangle City Into a Web ...",
+      "link": "https://www.ptinews.com/press-release/ctruh-launches-verse-engine-and-streams-an-entire-10-3-billion-triangle-city-into-a-web-browser-from-a-single-link/4264684",
+      "published": "2026-11-16T12:26:31+00:00",
+      "summary": "Ctruh benchmarked the Lyon scene against CesiumJS and Google 3D Tiles, two of the most widely used city-scale 3D platforms, on the same laptop (Apple ...",
+      "image_url": "https://www.ptinews.com/assets/images/logo.jpeg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Streaming a 10.3-billion-triangle Lyon 3D city in a browser; striking city visual.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Press release with no image on the page (link-only reuse) and only a truncated benchmark claim, so there is no visual to post.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image was found on the page, and no image credit or licence is stated.",
+        "The page text is a truncated press-release snippet. Benchmark details (hardware, metrics, results against CesiumJS and Google 3D Tiles) are incomplete and come from the vendor only.",
+        "The 10.3-billion-triangle Lyon scene claim is unverified and self-reported by Ctruh."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/88166cffdc8b44a2",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Shelby, Alabama | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/88166cffdc8b44a2",
+      "published": "2026-11-16T07:11:32+00:00",
+      "summary": "BravoStarted Nov 11 · Updated 3d ago. 3000 ft. MapLibre . MenuOpen the menu and map settings. FiresBrowse active fires on the map. WFCA Fire Map ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Shelby, Alabama observed by VIIRS_NOAA20 covering 147.4 acres from 2 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live fire-map tracker for Shelby, Alabama; interactive and useful, though no image.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Auto-generated fire detection page with no image on the page (link-only source), so there is no visual to post.",
+      "what_it_shows": "An automated WFCA fire map entry for a satellite fire detection in Shelby, Alabama, observed by VIIRS on NOAA-20 and covering 147.4 acres from 2 merged observations. No image was found on the page.",
+      "uncertainties": [
+        "No image on the page and no image credit or licence stated.",
+        "Reuse policy is link_only, so no visual from this source can be reposted.",
+        "No detection date or time given beyond the alert timestamp (2026-11-16).",
+        "The 147.4 acres comes from merged satellite detections, not a confirmed burn perimeter, and the page does not say whether this is a wildfire, prescribed burn or other heat source.",
+        "Source is a Google Alerts hit, not an editorial story."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://maritime-executive.com/article/two-tankers-hit-near-strait-of-hormuz-one-disabled",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Two Tankers Hit Near Strait of Hormuz, One Disabled - The Maritime Executive",
+      "link": "https://maritime-executive.com/article/two-tankers-hit-near-strait-of-hormuz-one-disabled",
+      "published": "2026-11-17T00:05:41+00:00",
+      "summary": "No injuries were reported and damage assessments are under way. The Sentinel-2 satellite system has picked up imaging of what appears to be the ON ...",
+      "image_url": "https://maritime-executive.com/media/images/article/1794872706_6afb9582c9d23.jfif",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "By The Maritime Executive 2026-11-16 18:39:00\nAt least two tankers have been hit near the Strait of Hormuz over the past two days, including one that was listed on Iran's \"non-compliance\" list.\nOn Sunday, the Adnoc-linked crude oil tanker Al Dhannah (IMO 9783734) was hit by a projectile, damaging its steering gear compartment. The ship was on an eastbound transit in the Arabian Gulf, not yet in the strait, and reversed course to head back to Dubai. No injuries were reported and damage assessments are under way.\nThe Sentinel-2 satellite system has picked up imaging of what appears to be the ON Phoenix under tow, assisted by two tugs, according to LIVE-AIS and Sentinel-2 imaging.\nYet another ADNOC VLCC has taken a hit. The crude tanker AL DHANNAH which we'd identified yesterday as the UKMTO report #205 has been confirmed. Can be seen on Sentinel being towed to port. #Hormuz #IranWar #OOTT https://t.co/2pRMo86Oja\nAl Dhannah is associated with Adnoc, the UAE state oil company, according to industry reports. The vessel has been off of AIS for the past three weeks, consistent with involvement in the Hormuz \"shuttle tanker\" trade.\nGet the latest maritime news delivered to your inbox daily.\nOn Monday, the tanker ON Phoenix (IMO 9893228) was hit by a projectile at a position about three nautical miles off Oman, according to Vanguard Tech. The ship's engine room was hit, and a fire broke out on board, but the crew were uninjured. Damage assessments are under way. Like Al Dhannah, ON Phoenix has spent weeks off of commercial AIS in recent months. She was last seen transmitting on October 25, under way westbound and headed for Fujairah.\nDozens of ships have been hit in and around the Strait of Hormuz in recent weeks as Iran maintains its attempt to pressure GCC-linked oil exports and drive up global crude prices. Despite the attacks, tanker day rates have fallen sharply in the past week, and crude oil prices have been falling ever since the U.S. midterm election on November 3.\nIf you're new, check your inbox to confirm your subscription.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://maritime-executive.com/media/images/article/1794872706_6afb9582c9d23.jfif",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://maritime-executive.com/cdn-cgi/image/width=1024,format=auto,quality=80,fit=scale-down,onerror=redirect,trim.left=0,trim.top=37,trim.width=768,trim.height=431/media/images/article/1794872706_6afb9582c9d23.jfif",
+          "label": ""
+        },
+        {
+          "url": "https://maritime-executive.com/cdn-cgi/image/width=768,format=auto,quality=80,fit=scale-down,onerror=redirect/images/quick-sub-header.png",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 512px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6.0,
+    "why": "Sentinel-2 imaging of a disabled tanker near Hormuz; satellite-based story.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Conflict news item, not a visual story: the page does not identify its image or give a credit, the reuse policy is link_only, the image is 512px wide and upscaled, and the Sentinel-2 claim is unverified and contradictory.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "It is unclear what the image is: a Sentinel-2 scene, the embedded tweet's image or an unrelated stock or file photo. The page gives no caption or credit.",
+        "The page says Sentinel-2 imaging shows 'what appears to be' ON Phoenix under tow with two tugs. The quoted third-party tweet says the Sentinel image shows Al Dhannah being towed. Which vessel the imagery shows is unresolved.",
+        "The Sentinel-2 identification rests on third-party sources: LIVE-AIS, an unattributed tweet and Vanguard Tech. No acquisition date, band combination or scene ID is given.",
+        "The reuse policy is link_only and no image licence is stated, so even a usable Sentinel-2 crop would need to be sourced separately from Copernicus.",
+        "The source image is only 512px wide and was upscaled to a 1080 square, so sharpness is likely poor.",
+        "This is an active conflict story, with ships hit by projectiles and a fire on board. A repost on an Earth observation channel would need careful verification and framing beyond what this source supports."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://do-me.github.io/deckgl-label-collision/sdg/",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Deck.gl Scatterplot with Colliding Labels - SDG Example",
+      "link": "https://do-me.github.io/deckgl-label-collision/sdg/",
+      "published": "2026-11-16T11:20:30+00:00",
+      "summary": "Sustainable Development Goals - Visualizing 169 Targets. jinai/jina-embeddings-v2-base-en reduced with tSNE, plotted with deck.gl | GitHub | Data ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Interactive deck.gl plot of 169 SDG targets with label collision; playable visual.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, and the visual is a t-SNE scatterplot of text embeddings of the 169 SDG targets, not a map or Earth observation image.",
+      "what_it_shows": "An interactive deck.gl scatterplot of the 169 Sustainable Development Goal targets. The page says they were embedded with jinai/jina-embeddings-v2-base-en, reduced with t-SNE and labelled with collision handling. It is a text-similarity chart, not geographic data.",
+      "uncertainties": [
+        "No image was found on the page, so there is nothing to make a 1080x1080 square from.",
+        "No image credit or licence is stated, and the reuse policy is link_only.",
+        "The page text is a fragment, so the author and data source are not given beyond the GitHub link.",
+        "The point positions come from t-SNE dimensionality reduction and do not represent geography."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://twin-cities.umn.edu/news-events/400-miles-above-earth-ai-tracks-invasive-leafy-spurge",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "From 400 miles above Earth, AI tracks invasive leafy spurge | University of Minnesota",
+      "link": "https://twin-cities.umn.edu/news-events/400-miles-above-earth-ai-tracks-invasive-leafy-spurge",
+      "published": "2026-11-16T20:40:27+00:00",
+      "summary": "The model combined those observations with open-source Landsat imagery provided by the U.S. Geological Survey with help from NASA satellites. Even ...",
+      "image_url": "https://twin-cities.umn.edu/sites/twin-cities.umn.edu/files/leafy-spurge26.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Harnessing satellite imagery, AI deep-learning models, and community science data, scientists from the University of Minnesota have tracked the spread of leafy spurge over a twenty-year period.\nResearchers from the Department of Plant and Microbial Biology in the College of Biological Sciences are now able to predict areas of future invasion. Their findings, recently published in Ecological Applications , will help farmers, ranchers and land managers combat the spread of the noxious weed.\nFunding for this project was provided by the University of Minnesota’s Minnesota Invasive Terrestrial Plants and Pests Center, supported by the Minnesota Environment and Natural Resources Trust Fund as recommended by the Legislative-Citizen Commission on Minnesota Resources. The project also received funding from the USDA National Institute of Food and Agriculture (Agriculture and Food Research Initiative).\nLeafy spurge was accidentally introduced from Europe in the late 19th century, and has been a plant of particular concern for farmers and ranchers, especially when it forms dense patches that can stretch for acres. When damaged, the plant secretes sap that is toxic to livestock. From 1960-2000, leafy spurge caused approximately $1 billion in economic losses for farmers and ranchers.\nTo investigate the spread, the researchers trained a predictive deep-learning computer model on real observations of leafy spurge — including community observations from the iNaturalist app. The model combined those observations with open-source Landsat imagery provided by the U.S. Geological Survey with help from NASA satellites. Even over a twenty-year time span, the researchers could use the model to accurately track leafy spurge.\n\"When leafy spurge flowers, it's like someone took a yellow highlighter to the landscape. It's so bright yellow, satellites can see it too,\" said Thomas Lake, a University of Minnesota PhD graduate, currently a postdoctoral researcher at the Center for Geospatial Analytics at North Carolina State University.\nWith Minnesota’s leafy spurge documented, the research team plans to map the plant across a seven-state area, and study how climate change, insects and rapid plant evolution affect leafy spurge.\n“Having a fuller picture of how plants invaded and where they actually occur will help us to make better predictions about where it might eventually end-up,” said Ryan Runquist, senior research associate in the College of Biological Sciences.\nFarmers and ranchers as well as state agencies will be especially interested in where leafy spurge may spread, given the economic damage caused by the plant.\n“Tracking invasive species from satellites vastly improves our capacity to dynamically monitor invasive spread and prioritize limited resources for management,” said David Moeller, a professor in the College of Biological Sciences.  “Remote sensing significantly reduces bias by allowing detection in areas where observers often miss.”\nIn the future, researchers plan to apply this method and technology to detect the spread of other invasive species.\nFrom pick-your-own strawberries and apples to wedding venues amidst sunflowers on a farm, the University of Minnesota is supporting agritourism in Greater Minnesota.\nExperts at the University of Minnesota explain why leaves change color in the fall.\nFollowing a thrilling victory over Iowa, the Gophers are in possession of their three main rivalry trophies for the first time in 48 years.\nFrom pick-your-own strawberries and apples to wedding venues amidst sunflowers on a farm, the University of Minnesota is supporting agritourism in Greater Minnesota.\nFrom its humble beginnings back in 1914, Homecoming has flourished as a campus tradition at the University of Minnesota Twin Cities.\nThe University of Minnesota Bell Museum’s new scanner is set to reveal hidden traits and clues to evolution.",
+      "image_credit": "University of Minnesota",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://twin-cities.umn.edu/sites/twin-cities.umn.edu/files/leafy-spurge26.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://twin-cities.umn.edu/sites/twin-cities.umn.edu/files/tempcnn.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://twin-cities.umn.edu/sites/twin-cities.umn.edu/files/leafy-spurge3.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://twin-cities.umn.edu/sites/twin-cities.umn.edu/files/styles/crop_to_333px/public/IMG_2578.png?itok=dVWoYWFQ",
+          "label": ""
+        },
+        {
+          "url": "https://twin-cities.umn.edu/sites/twin-cities.umn.edu/files/styles/crop_to_333px/public/red-maple.jpg?itok=aQWglBla",
+          "label": ""
+        },
+        {
+          "url": "https://twin-cities.umn.edu/sites/twin-cities.umn.edu/files/styles/crop_to_333px/public/Trophies_5957%20Cropped.jpg?itok=7NaGzZAR",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 600px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6.0,
+    "why": "Satellite-based AI tracking of invasive spurge; plausible map visual but no image supplied.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "University press release with no description of the image, so it cannot be captioned or alt-texted without guessing, and the only crop is 600px wide and upscaled.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page text never describes the image: it could be a photo of the plant, a field shot or a map, so the caption and alt text would be guesswork.",
+        "The image is low resolution (600px of source width, upscaled to 1080), likely too soft for a square post.",
+        "Reuse policy is link_only and no image licence is stated on the page.",
+        "If the paper in Ecological Applications or the researchers publish an actual leafy spurge distribution map, that would be worth posting. The text names Landsat imagery (USGS/NASA), iNaturalist observations, a deep-learning model and a twenty-year period.",
+        "The text gives no specific years for the twenty-year span, no spatial resolution, no accuracy figure and no area mapped beyond Minnesota."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://ground.news/article/crimean-bridge-on-satellite-image-analysts-saw-a-deformed-arch-and-a-damaged-painting",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Russia's Crimean Bridge Looks Worse From Space— Satellite Image Shows Apparent ...",
+      "link": "https://ground.news/article/crimean-bridge-on-satellite-image-analysts-saw-a-deformed-arch-and-a-damaged-painting",
+      "published": "2026-11-16T18:46:24+00:00",
+      "summary": "Russia's Crimean Bridge Looks Worse From Space— Satellite Image Shows Apparent Roadway and Arch Damage · Russian authorities halted traffic after ...",
+      "image_url": "https://web-api-cdn.ground.news/api/v04/images/story/a4fbc336-a274-4684-b5c9-f73dc6387dc2/webMetaImg?v=1",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Kyiv's mayor said Russian forces have hit bridges on the Dnipro River. Ukraine launched a massive attack on Russia earlier on Monday, hitting the Crimean Bridge. DW has the latest.\nUkraine has attacked the Crimean Bridge for the second day in a row, according to the governor of the occupied territory, Sergei Aksyonov. The nearly 20-kilometer-long Crimean Bridge connects the peninsula with Russia. \"The enemy has attacked the Crimean Bridge again. Traffic has been halted,\" Aksyonov said on Telegram.\nTraffic on the Crimean Bridge has resumed hours after the strike on Monday night, authorities in Russian-annexed Crimea said. Traffic on the facility had previously been restricted.\nUkrainian authorities have described the bridge as an “illegally constructed facility and a legitimate military target subject to dismantling.” Kiev sees the facility as part of Russian military logistics.\nRussia-annexed Crimea link\nThe Crimean Bridge was personally …\nVehicle traffic has partially resumed on the Crimean Bridge after it was halted following a Ukrainian attack, Russian Deputy Prime Minister Marat Khusnullin said.\nUkrainian drones pound the Crimean Bridge and Russian tanks stall in fog near Dobropillia. In the meantime, commanders on both sides are gambling lives and prestige on offensives that keep collapsing under precision strikes.\nTo view factuality data please Upgrade to Premium\nTo view ownership data please Upgrade to Vantage\nDaily program from multilingual American television broadcaster founded by adherents of the Falun Gong\nDaily program from multilingual American television broadcaster founded by adherents of the Falun Gong\nNTD News Today discuss record Ukrainian drone barrage and strike on the Crimea Bridge\nREUTERS / UKRAINIAN PRESIDENTIAL PRESS SER/Reuters",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://web-api-cdn.ground.news/api/v04/images/story/a4fbc336-a274-4684-b5c9-f73dc6387dc2/webMetaImg?v=1",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://ground.news/_next/image?url=https%3A%2F%2Fgroundnews.b-cdn.net%2Finterests%2Fd7caafe39e9d7a2796b9277fcd460bb4476f4f63.jpg%3Fwidth%3D24&w=64&q=75",
+          "label": ""
+        },
+        {
+          "url": "https://ground.news/_next/image?url=https%3A%2F%2Fgroundnews.b-cdn.net%2Finterests%2F%5Bb7b%5D%2Ff59186a47b9676e1f8ccc4f81ad105a052102179.jpg%3Fwidth%3D24&w=64&q=75",
+          "label": ""
+        },
+        {
+          "url": "https://ground.news/_next/image?url=https%3A%2F%2Fgroundnews.b-cdn.net%2Fassets%2FletterIcons%2Fsquare%2FFF6D00%2FW.png%3Fwidth%3D24&w=64&q=75",
+          "label": ""
+        },
+        {
+          "url": "https://ground.news/_next/image?url=https%3A%2F%2Fgroundnews.b-cdn.net%2Fassets%2FletterIcons%2Fsquare%2F00B8D4%2FD.png%3Fwidth%3D24&w=64&q=75",
+          "label": ""
+        },
+        {
+          "url": "https://ground.news/_next/image?url=https%3A%2F%2Fgroundnews.b-cdn.net%2Finterests%2Fae154bf462c7834e3b0cee6174266e809f671a37.jpg%3Fwidth%3D24&w=64&q=75",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 675px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6.0,
+    "why": "Satellite image of Crimean Bridge damage; newsworthy scene, though a news-style image.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The page is a news aggregator round-up of strikes on the Crimean Bridge with no information about the satellite image (no provider, sensor, acquisition date or description of the damage), no image credit and a link-only reuse policy, so the image cannot be explained or credited without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image credit on the page. The only credit line ('REUTERS / UKRAINIAN PRESIDENTIAL PRESS SER/Reuters') appears to belong to a different photo, not a satellite image.",
+        "The satellite imagery provider, sensor, resolution and acquisition date are not stated.",
+        "The headline's claims of a 'deformed arch' and damage come from unnamed 'analysts' and are not described or sourced in the page text.",
+        "Reuse policy is link_only and the licence is not stated, so the image may not be cleared for reposting.",
+        "The source image is only 675px wide and would need upscaling for a 1080x1080 square.",
+        "This is an active war story with contested claims from both sides. It would need a primary source (the original imagery provider and analysis) before it could be considered."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/south-carolina/von_hollen?name=Von+Hollen",
+      "source_id": "google_alerts_6",
+      "source_name": "Google Alerts #6",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Von Hollen Fire in South Carolina | WFCA Fire Map",
+      "link": "https://wfca.com/fire-map/south-carolina/von_hollen?name=Von+Hollen",
+      "published": "2026-11-17T02:20:19+00:00",
+      "summary": "Started Nov 15 · Updated 1d ago. 500 ft. MapLibre . This incident was last updated on November 16, 2026 and may no longer be active. MenuOpen the menu ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The Von Hollen fire in Berkeley, South Carolina is currently 88 acres and 100% contained.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Interactive wildfire incident map for the Von Hollen Fire, with perimeter and detail.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page and no credit or licence, only a one-line status update (88 acres, 100% contained) on a link-only alert source.",
+      "what_it_shows": "A WFCA fire-map tracking page for the Von Hollen fire in Berkeley, South Carolina. The page text says the fire is 88 acres and 100% contained. No image, sensor, date of observation or map visual was found.",
+      "uncertainties": [
+        "No image found on the page, so there is nothing to crop to a square.",
+        "No image credit or licence stated, and the source reuse policy is link_only.",
+        "No date of the fire, data source or perimeter method given.",
+        "'Berkeley' presumably means Berkeley County, but the page does not say so."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/detection/1e0187153362414e",
+      "source_id": "google_alerts_6",
+      "source_name": "Google Alerts #6",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking fires in Butte, California | WFCA Fire Map - Western Fire Chiefs Association",
+      "link": "https://wfca.com/fire-map/detection/1e0187153362414e",
+      "published": "2026-11-16T19:28:22+00:00",
+      "summary": "186 Trail186 TrailStarted Nov 14 · Updated 1d ago. FarmerFarmerStarted Nov 15 · Updated 3m ago. 3000 ft. MapLibre .",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Tracking satellite fire detections in Butte, California observed by LANDSAT covering 0.4 acres from 2 merged observations. View on WFCA's real-time fire map.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Fire detection map tracking multiple California fires in Butte; interactive.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Auto-generated fire detection listing (0.4 acres, Landsat) with no image on the page and a link-only reuse policy, so there is no visual to share.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image found on the page, and the source is link-only with no credit or licence.",
+        "The page is a templated detection entry: no date of observation, no fire name and no confirmation that the detection is an actual wildfire rather than another heat source.",
+        "The 0.4-acre extent is from 2 merged Landsat observations; no further detail is given."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.linkedin.com/posts/ansgar-wolsing_30daymapchallenge-activity-7528133498466103296-RmFF",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Ansgar Wolsing - 30daymapchallenge - LinkedIn",
+      "link": "https://www.linkedin.com/posts/ansgar-wolsing_30daymapchallenge-activity-7528133498466103296-RmFF",
+      "published": "2026-11-16T18:38:33+00:00",
+      "summary": "Mapping is a family business. Cologne's boroughs mapped with LEGO. Julia Zimmermann ❤️ # 30DayMapChallenge Day 16 - Collaborative map.",
+      "image_url": "https://media.licdn.com/dms/image/v2/D4D22AQFvxK_lI5epVA/feedshare-shrink_800/B4DaHlNhTtJkAg-/0/1794846890204?e=2147483647&v=beta&t=Y0-kAFvqcCQFkg1hGPh12qS2NVcgKQXj5Q4YaKcWRkc",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\nMapping is a family business. \n\nCologne’s boroughs mapped with LEGO. Julia Zimmermann ❤️ #30DayMapChallenge Day 16 - Collaborative map\nHah, Yoshi and the alien are also involved :-) Ansgar Wolsing\nCreate your free account or sign in to continue your search\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQFvxK_lI5epVA/feedshare-shrink_800/B4DaHlNhTtJkAg-/0/1794846890204?e=2147483647&v=beta&t=Y0-kAFvqcCQFkg1hGPh12qS2NVcgKQXj5Q4YaKcWRkc",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E16AQGIBCJQl3blFA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1691220197067?e=2147483647&v=beta&t=Z9QW4f5H6jAL9lQrNMdOWE0YKO4agtNmFnxvNaSBEg4",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-17-17-ansgar-wolsing-30daymapchallenge-linkedi.jpg",
+      "image_note": "square crop, from 800px of source width"
+    },
+    "score": 6.0,
+    "why": "Cologne boroughs mapped in LEGO for 30DayMapChallenge; a clever, visual map concept.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A map of Cologne's boroughs built from LEGO, posted on LinkedIn by Ansgar Wolsing as his entry for Day 16 of the #30DayMapChallenge, whose theme was 'Collaborative map'. He describes mapping as 'a family business' and tags Julia Zimmermann. A comment signed by Wolsing adds that 'Yoshi and the alien are also involved'. The source gives no build method, scale or boundary data.",
+      "uncertainties": [
+        "The reuse policy is link_only, and no image licence is stated. Get permission from Ansgar Wolsing before posting the image itself.",
+        "The page names no image credit. The credit uses the post author (Ansgar Wolsing) and LinkedIn as publisher.",
+        "Julia Zimmermann's exact role is not stated. She is tagged with a heart after 'Mapping is a family business', so co-builder is implied but not confirmed.",
+        "'Yoshi and the alien' are not explained. They are probably toy figures in the photo, but this is unverified. Check the image.",
+        "The source gives no information on how the borough boundaries were derived, the scale or the number of bricks.",
+        "The image content has not been seen. Confirm that the crop shows the full LEGO map."
+      ],
+      "image_credit": "Map: Ansgar Wolsing via LinkedIn",
+      "facebook": "Mapping is a family business, writes Ansgar Wolsing, and his Day 16 entry for the 30DayMapChallenge backs that up.\n\nThe theme was 'collaborative map', so Cologne's boroughs were built in LEGO, with Julia Zimmermann tagged in the post. Wolsing adds that Yoshi and an alien were also involved. It is a good reminder that a borough map can be a physical object as well as a GIS layer.\n\nRead more: https://www.linkedin.com/posts/ansgar-wolsing_30daymapchallenge-activity-7528133498466103296-RmFF\n\nMap: Ansgar Wolsing via LinkedIn\n\n#Geoawesome #Mapping #LEGO #Cologne",
+      "instagram": "Cologne, borough by borough, in LEGO bricks.\n\nAnsgar Wolsing's take on Day 16 (collaborative map) of the 30DayMapChallenge is a family effort with Julia Zimmermann, plus cameos from Yoshi and an alien.\n\nFind out more: https://www.linkedin.com/posts/ansgar-wolsing_30daymapchallenge-activity-7528133498466103296-RmFF\n\nMap: Ansgar Wolsing via LinkedIn\n\n#Geoawesome #Maps #LEGO #Köln",
+      "youtube": "The 'collaborative map' prompt, answered with a box of LEGO.\n\nAnsgar Wolsing posted this model of Cologne's boroughs for Day 16 of the 30DayMapChallenge and calls mapping a family business, tagging Julia Zimmermann. The post gives no scale or build details, so read it as a playful take on the prompt rather than a data product. Yoshi and an alien reportedly helped too.\n\nLearn more: https://www.linkedin.com/posts/ansgar-wolsing_30daymapchallenge-activity-7528133498466103296-RmFF\n\nMap: Ansgar Wolsing via LinkedIn\n\n#Geoawesome #Cartography #LEGO #Cologne",
+      "x": "Cologne's boroughs, rebuilt in LEGO for Day 16 (collaborative map) of the 30DayMapChallenge. A family project, says Ansgar Wolsing.\nhttps://www.linkedin.com/posts/ansgar-wolsing_30daymapchallenge-activity-7528133498466103296-RmFF\nMap: Ansgar Wolsing via LinkedIn\n#Geoawesome #LEGO #Maps #Cologne",
+      "alt_text": "A map of Cologne's boroughs built from LEGO bricks."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-17-17-ansgar-wolsing-30daymapchallenge-linkedi.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.reddit.com/r/GaussianSplatting/comments/1xxs5ob/gaussian_splatting_in_qgis/",
+      "source_id": "google_alerts_7",
+      "source_name": "Google Alerts #7",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Gaussian splatting in QGIS : r/GaussianSplatting - Reddit",
+      "link": "https://www.reddit.com/r/GaussianSplatting/comments/1xxs5ob/gaussian_splatting_in_qgis/",
+      "published": "2026-11-16T16:20:34+00:00",
+      "summary": "Gaussian splatting in QGIS ... Hi all,. I'm Saber from Lutra Consulting. We work on QGIS, the open-source desktop GIS used for mapping and spatial ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Gaussian splatting in QGIS ... Hi all,. I'm Saber from Lutra Consulting. We work on QGIS, the open-source desktop GIS used for mapping and spatial ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Gaussian splats inside QGIS bridges 3D rendering and GIS; geodata readers will click.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was found on the page and the source is a truncated Reddit text snippet, so there is no visual to post and nothing to describe without guessing.",
+      "what_it_shows": "A Reddit post in r/GaussianSplatting titled 'Gaussian splatting in QGIS', written by Saber from Lutra Consulting, a company that works on QGIS. The available text is only the opening lines; it does not say what was built, how it works or what any visual shows.",
+      "uncertainties": [
+        "No image found on the page; nothing to crop to a square.",
+        "No image credit or licence stated, and the reuse policy is link_only.",
+        "Page text is truncated, so the post's actual content (plugin, feature, demo, data used) is unknown.",
+        "Arrived via Google Alerts, not as a direct Reddit post; the Reddit username of the poster is not given.",
+        "Possibly worth checking the Reddit thread or Lutra Consulting's own channels later for a screenshot or demo with a clear credit."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/california/canyon_rd_pioneer_rd",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Canyon Rd Pioneer Rd Fire in California | WFCA Fire Map",
+      "link": "https://wfca.com/fire-map/california/canyon_rd_pioneer_rd",
+      "published": "2026-11-16T05:17:05+00:00",
+      "summary": "FarmerStarted Nov 15 · Updated 3m ago. 100 mi. MapLibre | © OpenStreetMap contributors · Protomaps. canyon_rd_pioneer_rd incident no longer active.",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 5.0,
+    "why": "Interactive wildfire map portal; incident now inactive, weaker urgency.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, the incident is listed as no longer active, and the page text is too thin to caption without guessing.",
+      "what_it_shows": "A WFCA fire map tracker page for the Canyon Rd Pioneer Rd fire in California. The page shows only a note that the incident is no longer active, a start date of 15 November and a basemap attribution (MapLibre, OpenStreetMap contributors, Protomaps). No fire perimeter, satellite image or data layer is described.",
+      "uncertainties": [
+        "No image was found on the page, and there is no image credit or licence.",
+        "The reuse policy is link_only, so no visual from the page could be reposted anyway.",
+        "The fire's size, location details, cause and data source are not given.",
+        "'Farmer' and '100 mi' appear without context and are unclear.",
+        "The incident is marked no longer active, so the tracker may show nothing of interest."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  }
+]
