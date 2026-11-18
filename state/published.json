@@ -819,6 +819,18 @@
   "issue": 43,
   "title": "José Marín Fariña - LinkedIn"
  },
+ "2026-11-11-18-tracking-the-ocean-s-great-forest-how-ha": {
+  "attempts": {
+   "facebook": 1,
+   "instagram": 1
+  },
+  "errors": {
+   "facebook": "OAuthException 324: Missing or invalid image file",
+   "instagram": "OAuthException 9004: Only photo or video can be accepted as media type."
+  },
+  "issue": 44,
+  "title": "Tracking the Ocean’s Great Forest: How Hakai Institute's Kelp Explorer Is Helping British Columbia Secure Its Coastal Heritage"
+ },
  "2026-11-11-4-water-surges-into-navajo-reservoir": {
   "attempts": {
    "facebook": 1,
