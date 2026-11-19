@@ -1,0 +1,1211 @@
+[
+  {
+    "item": {
+      "id": "5293 at http://www.eumetsat.int",
+      "source_id": "eumetsat",
+      "source_name": "EUMETSAT",
+      "source_type": "eo_imagery",
+      "licence": "link_only",
+      "title": "Copernicus Sentinel-3C’s first thermal images",
+      "link": "http://www.eumetsat.int/copernicus-sentinel-3cs-first-thermal-images",
+      "published": "2026-11-18T11:00:00+00:00",
+      "summary": "Copernicus Sentinel-3C’s first thermal images Craig MacDonald Wed, 18/11/2026 - 12:00 Copernicus Sentinel-3C’s first thermal images detail heat of sea, land, fires and ice First shortwave and thermal infrared views complete the picture from the satellite’s three main instruments The first preliminary thermal infrared images released from Copernicus Sentinel-3C show swirling seas off north-west Australia, icy waters between Greenland and Iceland, and the heat of wildfires in Indonesia. Last Updated Published on The coast of north-west Australia, where the Indian Ocean meets desert and savannah, leads the first set of preliminary thermal infrared images released from Copernicus Sentinel-3C . Captured by the satellite’s Sea and Land Surface Temperature Radiometer (SLSTR), the image shows warm coastal waters, eddies further out to sea, and land already hot in the morning sun. Other images in the first batch detail cold waters and sea ice between Greenland and Iceland, and signatures of wildfires burning on the Indonesian island of Sulawesi. “SLSTR’s thermal channels read temperatures to within a few tenths of a degree,” said Milen Tahtadjiev, Copernicus Sentinel-3 Mission Manager at EU",
+      "image_url": "https://www-cdn.eumetsat.int/files/styles/16_9_large/public/2026-11/Aspot-thermal-sentinel-3c.jpg?h=d1cb525d&itok=RnsXIuOM",
+      "credit_hint": "EUMETSAT",
+      "source_tag": "@eumetsat",
+      "page_text": "First shortwave and thermal infrared views complete the picture from the satellite’s three main instruments\nThe coast of north-west Australia, where the Indian Ocean meets desert and savannah, leads the first set of preliminary thermal infrared images released from Copernicus Sentinel-3C . Captured by the satellite’s Sea and Land Surface Temperature Radiometer (SLSTR), the image shows warm coastal waters, eddies further out to sea, and land already hot in the morning sun.\nOther images in the first batch detail cold waters and sea ice between Greenland and Iceland, and signatures of wildfires burning on the Indonesian island of Sulawesi.\n“SLSTR’s thermal channels read temperatures to within a few tenths of a degree,” said Milen Tahtadjiev, Copernicus Sentinel-3 Mission Manager at EUMETSAT. “That precision is crucial for the forecast models that Europe’s weather services rely on, and for climate monitoring, including El Niño, marine heatwaves and long-term ocean warming. SLSTR data also show civil protection authorities where wildfires are burning and how fiercely, as in southern Europe this summer. With these incredible first images, we can be confident its measurements will keep supporting essential services for many years to come.”\nSLSTR measures sunlight reflected from Earth in visible and shortwave infrared light, as well as thermal infrared, the heat that every surface gives off, even ice. This heat is invisible to the human eye, but it can reveal the temperature of the sea, land, ice and cloud tops day and night. The instrument also supports the detection of wildfires and their smoke within hours of each satellite pass, with EUMETSAT’s fire products the most downloaded Sentinel-3 products in its Data Store in 2025.\nThe shortwave and thermal infrared images follow SLSTR’s first image in visible light and the first observations from the satellite’s two other main instruments, the Ocean and Land Colour Instrument and the Synthetic Aperture Radar Altimeter.\nNorth-west Australia on 4 November 2026 at 01:34 UTC (09:34 local time), seen in two views by the SLSTR instrument on Sentinel-3C. The coast of Western Australia runs from the Pilbara at the bottom left, past the deep inlet of King Sound and along the Kimberley at the top right, a vast region of tropical savannah.\nIn the shortwave infrared view, sunlight is reflected by the surface, showing red desert soil, darker vegetated ground in the Kimberley, blue sea and bright clouds. Over the ocean this view shows little detail, apart from the coast and reefs. The shortwave infrared channels are very sensitive not only to the intense heat from fires, but also to burned areas left after fires are extinguished. That morning there were dozens of active fires scattered across the Kimberley.\nIt is in the thermal infrared that the ocean really comes alive. The warm, shallow water of the North West Shelf glows almost white along the coast, while the open Indian Ocean is a few degrees colder. Swirls, filaments and “horsehead” shapes show where colder water carried north by the West Australian Current mixes with the warmer South Equatorial Current. Shapes like these form where faster-moving water meets slower-moving water. North-west of King Sound there are sets of parallel, arc-shaped ripples a few kilometres apart. These are internal gravity waves. They may be in the ocean, as the North West Shelf is one of the world’s hotspots for such waves, which form where strong tides push water over the edge of the shelf.\nThe images were taken during one of the strongest El Niño events on record. In northern Australia, fire danger is greatest late in the dry season, and in El Niño years the rains usually come later. The hot, humid pre-monsoon months known as “the build-up” then last longer.\nSurface temperature of the sea and sea ice between Greenland, at the top and left, and Iceland, at the bottom, on 31 October 2026. Intricate patterns of cold water reach the icy coast of Greenland, where the sea freezes inside the fjords. Further north, the dark blue patches are sea ice, far colder than the water around it. The temperature at the surface of the ice, and of any snow lying on it, governs the exchange of heat with the atmosphere and drives the growth and melt of sea ice, so these measurements help scientists to follow the rapid warming of the polar regions.\nSLSTR looks at each part of the surface twice, once straight down and once looking back through more of the atmosphere. This “dual view” is what makes its sea and sea-ice temperatures so accurate. The image is derived from thermal infrared measurements and includes sea-ice surface temperature, a product that EUMETSAT introduced earlier this year.\nHotspots detected over the Indonesian island of Sulawesi on 31 October 2026 by one of the SLSTR instrument’s fire channels. Each square marks a spot much hotter than its surroundings, most likely an active fire, and its colour shows the temperature measured. Actively burning fires cover only a small part of SLSTR’s thermal infrared pixels, which are 1km across. Smoke is visible as hazy, pale blue colours above the typically dark blue ocean. The hotspots shown here are among Sentinel-3C’s first fire signals. El Niño typically brings drought to Indonesia, and during the current event the country has been hit by wildfires that degrade vegetation and air quality.\nLaunched on 15 September 2026, Copernicus Sentinel-3C is a third satellite in the Copernicus Sentinel-3 constellation, which observes Earth’s oceans, as well as land, ice and atmosphere. The groundbreaking Sentinel-3 series began in 2016 and its data cover the entire planet and can reach users within three hours of collection. The new satellite will ensure these vital data streams continue well into the 2030s. Once commissioning is complete, Sentinel-3C will take over from Sentinel-3A, while some Sentinel-3A observation capabilities will remain in operations.\nDeveloped under Copernicus, the Earth observation ",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www-cdn.eumetsat.int/files/styles/16_9_large/public/2026-11/Aspot-thermal-sentinel-3c.jpg?h=d1cb525d&itok=RnsXIuOM",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://www-cdn.eumetsat.int/files/2026-11/Aspot-thermal-sentinel-3c.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www-cdn.eumetsat.int/files/styles/3_4_large/public/2026-11/Aspot-thermal-sentinel-3c.jpg?h=d1cb525d&itok=iNkwAzK5",
+          "label": ""
+        },
+        {
+          "url": "https://www-cdn.eumetsat.int/files/2026-11/S3C_SLSTR_BT_AUS_20261104_ML_v6.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www-cdn.eumetsat.int/files/2026-11/S3C_SLSTR_NIR_WES_AUS_20261104_ML_v6.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www-cdn.eumetsat.int/files/2026-11/s3c-scale.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-19-2-copernicus-sentinel-3c-s-first-thermal-i.jpg",
+      "image_note": "square crop, from 1080px of source width"
+    },
+    "score": 8.0,
+    "why": "New Sentinel-3C thermal images of seas, ice and Indonesian fires; first-images Earth observation story.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A preliminary image of the coast of north-west Australia (Pilbara to Kimberley, including King Sound) captured on 4 November 2026 at 01:34 UTC by the SLSTR instrument on Copernicus Sentinel-3C, shown in a shortwave infrared view and a thermal infrared view. In the thermal view the warm, shallow North West Shelf glows almost white along the coast, the open Indian Ocean is a few degrees colder, and swirls and 'horsehead' shapes mark where the West Australian Current mixes with the South Equatorial Current. North-west of King Sound, arc-shaped ripples a few kilometres apart are internal gravity waves, which EUMETSAT says may be in the ocean.",
+      "uncertainties": [
+        "The source shows the Australia scene in two views (shortwave and thermal infrared). Check which part ends up in the 1080px square crop. The captions focus on the thermal view and must match what is visible.",
+        "No colour scale or temperature range is given. Only 'almost white = warm shelf water' and 'a few degrees colder' offshore are stated.",
+        "These are preliminary images from commissioning. No final product specification is implied.",
+        "EUMETSAT hedges the internal gravity waves as 'may be in the ocean'. The captions keep that hedge.",
+        "There is no image credit on the page, so the fallback credit 'EUMETSAT' is used. The image licence is not stated and the reuse policy is link_only, so confirm reuse permission before posting the image itself.",
+        "The '+/- a few tenths of a degree' precision is a quote from the EUMETSAT mission manager, not an independent figure.",
+        "The crop may not include King Sound or the Kimberley, so the place references may not all be visible.",
+        "The handle @eumetsat comes from the source. Verify that it is correct on each platform before tagging."
+      ],
+      "image_credit": "Image: EUMETSAT",
+      "facebook": "Sentinel-3C's first thermal infrared images are in, and the lead one turns the sea off north-west Australia into a map of colliding currents.\n\nIn this preliminary SLSTR view from 4 November 2026, the warm, shallow North West Shelf glows almost white along the coast while the open Indian Ocean sits a few degrees colder. Swirls and 'horsehead' shapes mark where colder water carried north by the West Australian Current mixes with the warmer South Equatorial Current.\n\nRead more: http://www.eumetsat.int/copernicus-sentinel-3cs-first-thermal-images\n\nImage: EUMETSAT\n\n#Sentinel3 #Copernicus #Oceanography #Australia #Geoawesome",
+      "instagram": "Heat, not light: off north-west Australia, the warm coastal shelf glows almost white in Sentinel-3C's first thermal infrared view.\n\nFurther out, eddies trace cooler current water mixing with warmer flow. Preliminary image, 4 November 2026.\n\nFind out more: http://www.eumetsat.int/copernicus-sentinel-3cs-first-thermal-images\n\nImage: EUMETSAT\n\n#Sentinel3 #Thermal #Ocean #Copernicus #Geoawesome",
+      "youtube": "Arc-shaped ripples a few kilometres apart north-west of King Sound are internal gravity waves, which EUMETSAT says may be in the ocean, picked up by Sentinel-3C's thermal channels.\n\nThe preliminary SLSTR image (4 November 2026, 01:34 UTC) pairs a shortwave infrared view of reflected sunlight with a thermal infrared view of emitted heat. In the thermal view the North West Shelf glows almost white, while the open Indian Ocean is a few degrees colder.\n\nLearn more: http://www.eumetsat.int/copernicus-sentinel-3cs-first-thermal-images\n\nImage: EUMETSAT\n\n#Sentinel3 #SLSTR #Infrared #Copernicus #Geoawesome",
+      "x": "Seven weeks after launch, @eumetsat's Sentinel-3C picks out eddies off north-west Australia in thermal infrared, where warm shelf water meets a colder Indian Ocean.\nhttp://www.eumetsat.int/copernicus-sentinel-3cs-first-thermal-images\nImage: EUMETSAT\n#Sentinel3 #Copernicus #Ocean #Geoawesome",
+      "alt_text": "Satellite infrared image of the north-west Australian coast, with warm water glowing pale along the shoreline and swirling eddies in the cooler ocean further out."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-19-2-copernicus-sentinel-3c-s-first-thermal-i.jpg"
+  },
+  {
+    "item": {
+      "id": "https://sg.news.yahoo.com/third-attack-week-suspends-traffic-233640993.html",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Third attack in a week suspends traffic over Crimean Bridge, Russian official says",
+      "link": "https://sg.news.yahoo.com/third-attack-week-suspends-traffic-233640993.html",
+      "published": "2026-11-18T23:44:16+00:00",
+      "summary": "A satellite image shows bridge linking Russia and Crimea that was hit by Ukrainian drones. A satellite image shows a bridge over the Kerch Strait ...",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/d74772c7bf28001130ec2a87feb4d1fc42f62149d63dd80e8a93f92d97c489ab/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F0cc2cc7ab651fc44f44e769d467dfa6a.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Nov 19 (Reuters) - Traffic was temporarily suspended over the Crimean Bridge ‌after an attack, Sergei Aksyonov, ‌Crimea's Russian-installed governor, said on Telegram on ​Thursday, adding that assessment of the damage was underway.\nThe attack is the third this week on the ‌bridge that connects ⁠mainland Russia with Crimea, which Russia annexed from Ukraine ⁠in 2014, in a blow to President Vladimir Putin ahead of ​his meetings ​with US ​and Chinese counterparts ‌on Thursday.\nThe 19-kilometre (12-mile) bridge is a flagship project inaugurated by Putin in 2018 and a symbol of Russia's attachment to the peninsula.\nEarlier this ‌week, Ukrainian drones and ​missiles destroyed the ​central road ​section of the bridge, forcing ‌its main road arch ​to ​crumble into the sea and leaving a yawning gap, according to ​videos ‌and images verified by Reuters.\n(Reporting by ​Jekaterīna Golubkova in Tokyo; Editing ​by Bill Berkrot)",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/6402c6c3b15c13a6595174de0ccc2986b56dbe50d63d1c6e12b9999c4fd4ed15/lightyear_networkapi/resizefill_h100%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F62e21440-2fbd-11eb-95ff-5673fa3d2f9f",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/30520259615f220ce64a8bbc9ca26c653be6dd0dae2b90295d59082a89bcc480/lightyear_networkapi/resizefill_h100%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F97e12050-2fbd-11eb-b7ff-09d0ec37765f",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 100px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 7.0,
+    "why": "Satellite image of the Crimean Bridge after drone strikes; strong geo news visual.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Wire news report on a military attack with no satellite image or map described, no image credit, link-only reuse and a 100px source image, so there is no striking Earth observation visual to repost.",
+      "what_it_shows": "A Reuters text report that traffic over the Crimean Bridge was suspended after an attack, the third that week, according to Crimea's Russian-installed governor on Telegram. It says an earlier strike destroyed the bridge's central road section, according to videos and images verified by Reuters. The source has no satellite imagery, sensor, date of acquisition or map.",
+      "uncertainties": [
+        "No image credit or licence on the page, and the reuse policy is link_only.",
+        "The source image is only 100px wide and would be heavily upscaled, so it is unusable at 1080x1080.",
+        "Damage claims come from a Russian-installed official on Telegram and from Reuters-verified videos and images, not from satellite data; damage assessment was still underway.",
+        "This is an active-conflict news item; if Geoawesome wants to cover it, a sourced before/after satellite image from a credited provider would be needed."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.misbar.com/en/editorial/2026/11/18/misbar-tracks-damage-oil-tanker-dominica-prosperity-after-attack-ras-al-khaimah",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Misbar Tracks Damage to Oil Tanker Dominica Prosperity After Attack off Ras Al Khaimah",
+      "link": "https://www.misbar.com/en/editorial/2026/11/18/misbar-tracks-damage-oil-tanker-dominica-prosperity-after-attack-ras-al-khaimah",
+      "published": "2026-11-18T19:21:53+00:00",
+      "summary": "Satellite Images Show a Plume of Smoke and an Oil Spill. The European Sentinel-2 satellite captured the targeted tanker in several images, with its ...",
+      "image_url": "https://assets.misbar.com/styles/large_800x450/public/images/2026-11/cover-ww%27eb_-%281%29.png.jpeg?itok=1IB5zMY7",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Maritime routes in the southern Gulf and around the Strait of Hormuz have witnessed a security escalation over the past few days, with at least three oil tankers targeted in separate incidents. The most notable was an attack on the crude oil tanker Dominica Prosperity off the coast of the Emirate of Ras Al Khaimah. The attack sparked a fire aboard the vessel, and its entire crew was evacuated. The tanker, along with the Fujairah Energy, which was attacked earlier, is linked to South Korean company Sinokor Maritime, according to Reuters, citing maritime risk intelligence provider Marisks. Unknown Projectile Hits Dominica Prosperity off Ras Al Khaimah The United Kingdom Maritime Trade Operations (UKMTO) said the tanker was struck at approximately 18:00 UTC on November 11 while stationary and drifting at sea, about 14 nautical miles northwest of Ras Al Khaimah. The agency reported that an unknown projectile struck the engine room and that firefighting operations were ongoing. The incident was detailed in advisory No. 204-26. Maritime intelligence firm Ambrey said the tanker was struck near its stern while exiting the Strait of Hormuz. According to MarineTraffic records, the vessel is a very large crude carrier (VLCC) flying the Liberian flag, with IMO number 9395496. Built in 2011, it measures 330 meters in length and 60 meters in width, with a deadweight tonnage of 297,274. The tanker had been out of signal range for more than 52 days. Its last recorded position was in the northern Indian Ocean near Sri Lanka, as it headed toward the Port of Fujairah. Satellite Images Show a Plume of Smoke and an Oil Spill The European Sentinel-2 satellite captured the targeted tanker in several images, with its recorded dimensions matching those visible in the imagery. The vessel appears off Saqr Port at coordinates 26.01800° N, 55.90057° E. An image captured on November 13 showed a large plume of gray smoke rising from the tanker’s stern, the location of the strike. On November 15, the tanker appeared without any visible smoke, with a small vessel alongside it. Meanwhile, synthetic aperture radar (SAR) images captured by the Sentinel-1 satellite showed a large spill beneath the tanker. The spill covered an area of more than 30 square kilometers and extended along the adjacent coastline. No such spill had been visible in earlier imagery. Three Tankers Targeted Within 48 Hours as Iranian Authority Threatens Sinokor Vessels India’s Minister of Ports, Shipping and Waterways, Sarbananda Sonowal, confirmed in a post on X that the UAE Coast Guard had immediately evacuated all 22 crew members aboard the Dominica Prosperity, including 19 Indian nationals, with no casualties reported. He said the tanker was drifting off Saqr Port when it was attacked. The incident followed an attack on the Fujairah Energy, another Liberian-flagged VLCC belonging to the Sinokor fleet, on November 10 while sailing between Ruwais and Dubai . According to the Indian minister, the attack injured four crew members. On November 11, the Saudi tanker NCC Fajr was also struck while transiting the Strait of Hormuz, before the attack on the Dominica Prosperity. No party has claimed responsibility for the attacks, and UKMTO has not identified those responsible. On October 27, an Iranian body known as the Persian Gulf Strait Authority, which Iran says is responsible for the strait, announced through its official X account that Sinokor vessels had recorded the highest number of violations of Iranian transit regulations over the preceding three months. It said enforcement measures had been taken against at least seven of the company's vessels. The authority warned cargo owners, beneficiaries and insurance service providers that, effective November 1, legal action would be taken against all vessels linked to the company, describing it as the largest operator of shuttle trade transporting crude oil through the strait into open waters. Misbar has not verified any connection between these threats and the recent attacks. Read More From Eastern Libya to Syria and Then Russia: Misbar Tracks Russian Military Transport Aircraft Misbar Detects Possible Damage at Iraq's Khor Mor Gas Field Following Drone Attack\nMaritime routes in the southern Gulf and around the Strait of Hormuz have witnessed a security escalation over the past few days, with at least three oil tankers targeted in separate incidents. The most notable was an attack on the crude oil tanker Dominica Prosperity off the coast of the Emirate of Ras Al Khaimah. The attack sparked a fire aboard the vessel, and its entire crew was evacuated.\nThe tanker, along with the Fujairah Energy, which was attacked earlier, is linked to South Korean company Sinokor Maritime, according to Reuters, citing maritime risk intelligence provider Marisks.\nThe United Kingdom Maritime Trade Operations (UKMTO) said the tanker was struck at approximately 18:00 UTC on November 11 while stationary and drifting at sea, about 14 nautical miles northwest of Ras Al Khaimah. The agency reported that an unknown projectile struck the engine room and that firefighting operations were ongoing. The incident was detailed in advisory No. 204-26.\nMaritime intelligence firm Ambrey said the tanker was struck near its stern while exiting the Strait of Hormuz.\nAccording to MarineTraffic records, the vessel is a very large crude carrier (VLCC) flying the Liberian flag, with IMO number 9395496. Built in 2011, it measures 330 meters in length and 60 meters in width, with a deadweight tonnage of 297,274. The tanker had been out of signal range for more than 52 days. Its last recorded position was in the northern Indian Ocean near Sri Lanka, as it headed toward the Port of Fujairah.\nThe European Sentinel-2 satellite captured the targeted tanker in several images, with its recorded dimensions matching those visible in the imagery. The vessel appears off Saqr Port at coordinates 26.01800° N, 55.90057° E.\nAn image captured on November 13 showed a l",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://assets.misbar.com/styles/large_800x450/public/images/2026-11/cover-ww%27eb_-%281%29.png.jpeg?itok=1IB5zMY7",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://www.misbar.com/assets/images/icons/search-white.svg",
+          "label": ""
+        },
+        {
+          "url": "https://www.misbar.com/assets/images/icons/arrow-right-solid.svg",
+          "label": ""
+        },
+        {
+          "url": "https://assets.misbar.com/styles/small_40x40/public/12f2fc4673349418747a145c354f10a00a5a780b.jpg.webp?itok=z9JMVNNy",
+          "label": ""
+        },
+        {
+          "url": "https://www.misbar.com/assets/images/icons/date.svg",
+          "label": ""
+        },
+        {
+          "url": "https://www.misbar.com/assets/images/icons/link-detailed.svg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 450px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 7.0,
+    "why": "Sentinel-2 imagery of tanker smoke plume and oil spill; vivid satellite scene.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The source allows link only, gives no image credit or licence, does not say which of several satellite images the 450px picture is, and the upscale will be soft.",
+      "what_it_shows": "Misbar reports on the crude tanker Dominica Prosperity, struck by an unknown projectile at about 18:00 UTC on 11 November roughly 14 nautical miles northwest of Ras Al Khaimah (per UKMTO). Misbar says Sentinel-2 imagery from 13 November shows a large grey smoke plume at the tanker's stern, and imagery from 15 November shows no visible smoke with a small vessel alongside. Misbar also says Sentinel-1 SAR imagery shows a spill of more than 30 square kilometres beneath the tanker, extending along the adjacent coastline, which was not visible in earlier imagery.",
+      "uncertainties": [
+        "Reuse policy is link_only, so posting the image as a square repost may not be permitted.",
+        "No image credit and no licence stated on the page. Misbar's processing of Copernicus data would need confirming before any credit line is written.",
+        "We do not know which image the square was made from: the 13 November Sentinel-2 smoke plume, the 15 November Sentinel-2 view, the Sentinel-1 SAR spill image, or something else.",
+        "The source image is only 450px wide and was upscaled to 1080px. At 10 m Sentinel-2 resolution, a 330 m tanker would be very small and probably not legible.",
+        "Sentinel-2 band combination and Sentinel-1 acquisition date and polarisation are not given.",
+        "The 30+ square kilometre spill is Misbar's own SAR interpretation, with no independent confirmation cited. SAR dark patches can also be lookalikes.",
+        "This is an active conflict story with no claimed responsibility. Misbar explicitly says it has not verified any link between the Iranian authority's threats and the attacks. Any post must avoid implying attribution.",
+        "The Sinokor link is sourced to Reuters citing Marisks. Crew figures come from India's shipping minister on X."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/north-carolina/mirey_branch?name=MIREY+BRANCH",
+      "source_id": "google_alerts_6",
+      "source_name": "Google Alerts #6",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Mirey Branch Fire in North Carolina | WFCA Fire Map",
+      "link": "https://wfca.com/fire-map/north-carolina/mirey_branch?name=MIREY+BRANCH",
+      "published": "2026-11-18T12:48:49+00:00",
+      "summary": "Hempstead 3461 acStarted Nov 16 · Updated 1d ago. 5 mi. MapLibre . MenuOpen the menu and map settings. FiresBrowse active fires on the map. WFCA ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The Mirey Branch fire in Jones, North Carolina is currently 9 acres.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Live interactive fire tracker map for Mirey Branch Fire, NC; playable and timely.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, link-only reuse policy, and the only content is one line saying the Mirey Branch fire in Jones, North Carolina is 9 acres.",
+      "what_it_shows": "A WFCA fire-tracker page for the Mirey Branch fire in Jones, North Carolina. The only fact given is that the fire is currently 9 acres. No image or map was found on the page.",
+      "uncertainties": [
+        "No image or map was found, so there is nothing to post as a square.",
+        "No image credit or licence is stated, and the reuse policy is link only.",
+        "No date, cause, containment, data source or perimeter method is given for the 9-acre figure.",
+        "The fire is very small (9 acres), so even with a visual it would struggle to make a striking post."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "tag:blogger.com,1999:blog-12158290.post-2324407872058153134",
+      "source_id": "maps_mania",
+      "source_name": "Maps Mania",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "Should the USA Give Texas to Russia?",
+      "link": "http://googlemapsmania.blogspot.com/2026/11/should-usa-give-texas-to-russia.html",
+      "published": "2026-11-18T09:24:50+00:00",
+      "summary": "Donald Trump's administration is floating the idea that Ukraine should give up the Donbas to Russia in exchange for NATO membership. But how would you feel if it were your country being asked to surrender a fifth of its territory? That's the question posed by Russian Occupation – What if it were your country? , an interactive map that brings the reality of territorial occupation much closer to home. Created by Nini and Levan, a Georgian couple who witnessed the 2008 war in Georgia, the project has a simple but powerful idea: make the scale of Russian occupation tangible by showing it in places that people know. Choose your country and the map highlights an area equivalent to approximately 20% of its territory in red. It provides a hypothetical illustration of what losing a fifth of the country might look like. It's a particularly effective way of communicating the sheer geographical scale of occupation. Rather than looking at an unfamiliar map of eastern Ukraine or the Caucasus, you can see what losing a fifth of your own country might mean. The red area suddenly becomes a collection of familiar places, cities and landscapes. But this is more than a geographical thought experiment.",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv5ZDIxWp1kCwMkHTsxL8jqS6_gXndl9jML_dDe0Ojbrd2gsZI4twxs-ZkToR9efWpbYHX3S-HEINBcIrqxPosCU3v0f4yc2jOSpbbi6wtpsY9OvkuFsvH3lfYFA1Uq_T3HCaB-9mbHOtHkzmIpgmDQ3l5WOxTYPhfN8eSrFQSQtlwWyT2-Ia11g/s1600/russianoccupation.pages.dev_.png",
+      "credit_hint": "via Maps Mania",
+      "source_tag": "",
+      "page_text": "Donald Trump's administration is floating the idea that Ukraine should give up the Donbas to Russia in exchange for NATO membership. But how would you feel if it were your country being asked to surrender a fifth of its territory? That's the question posed by Russian Occupation – What if it were your country? , an interactive map that brings the reality of territorial occupation much closer to home. Created by Nini and Levan, a Georgian couple who witnessed the 2008 war in Georgia, the project has a simple but powerful idea: make the scale of Russian occupation tangible by showing it in places that people know. Choose your country and the map highlights an area equivalent to approximately 20% of its territory in red. It provides a hypothetical illustration of what losing a fifth of the country might look like. It's a particularly effective way of communicating the sheer geographical scale of occupation. Rather than looking at an unfamiliar map of eastern Ukraine or the Caucasus, you can see what losing a fifth of your own country might mean. The red area suddenly becomes a collection of familiar places, cities and landscapes. But this is more than a geographical thought experiment.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv5ZDIxWp1kCwMkHTsxL8jqS6_gXndl9jML_dDe0Ojbrd2gsZI4twxs-ZkToR9efWpbYHX3S-HEINBcIrqxPosCU3v0f4yc2jOSpbbi6wtpsY9OvkuFsvH3lfYFA1Uq_T3HCaB-9mbHOtHkzmIpgmDQ3l5WOxTYPhfN8eSrFQSQtlwWyT2-Ia11g/s1600/russianoccupation.pages.dev_.png",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-19-6-should-the-usa-give-texas-to-russia.jpg",
+      "image_note": "square crop, from 798px of source width"
+    },
+    "score": 7.0,
+    "why": "Interactive map making territorial occupation tangible; Maps Mania favourite with a clear hook.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A screenshot of the interactive map 'Russian Occupation – What if it were your country?', made by Nini and Levan, a Georgian couple who witnessed the 2008 war in Georgia. The user chooses a country and the map highlights in red an area equivalent to approximately 20% of its territory, a hypothetical illustration of the scale of Russian occupation. It was featured on Maps Mania on 18 November 2026.",
+      "uncertainties": [
+        "The page does not say which country the cropped screenshot shows, so the alt text and captions stay generic. The editor should check the image and name the country if it is clear.",
+        "The page does not say how the red area's shape or position is chosen. It only says the area is equivalent to approximately 20% of the territory.",
+        "The page does not give a direct link to the original tool, only its name, and no image credit or licence is stated. The source's reuse policy is link_only, so confirm that posting the image is allowed.",
+        "The blog's political framing (that the Trump administration is floating a Donbas-for-NATO deal) is the blog author's claim, has no source, and is left out of the captions. The provocative headline is also not reused.",
+        "The page implies the occupied share of Ukraine is about a fifth but does not give a source for that figure."
+      ],
+      "image_credit": "Map: Nini and Levan via Maps Mania",
+      "facebook": "Pick your country, and a map shades roughly a fifth of it in red.\n\n\"Russian Occupation – What if it were your country?\" is an interactive map by Nini and Levan, a Georgian couple who lived through the 2008 war in Georgia. It highlights an area equivalent to about 20% of the territory of whichever country you choose, so the scale of occupation becomes your own cities and landscapes instead of an unfamiliar map of eastern Ukraine or the Caucasus.\n\nFull story: http://googlemapsmania.blogspot.com/2026/11/should-usa-give-texas-to-russia.html\n\nMap: Nini and Levan via Maps Mania\n\n#Geoawesome #Maps #Cartography #Ukraine",
+      "instagram": "About 20% of your own country, coloured red.\n\nChoose a country on this interactive map by Nini and Levan, a Georgian couple who witnessed the 2008 war, and it marks out an area that size across places you already know.\n\nFind out more: http://googlemapsmania.blogspot.com/2026/11/should-usa-give-texas-to-russia.html\n\nMap: Nini and Levan via Maps Mania\n\n#Geoawesome #Maps #Georgia #Ukraine",
+      "youtube": "Area comparisons land hardest on ground the viewer already knows.\n\nThat is the method behind \"Russian Occupation – What if it were your country?\": select a country and the map overlays a red area equivalent to approximately 20% of its territory. The creators, Georgian couple Nini and Levan, call it a hypothetical illustration. The page does not explain how the shape is placed, so read it as a statement of area, not a modelled front line.\n\nLearn more: http://googlemapsmania.blogspot.com/2026/11/should-usa-give-texas-to-russia.html\n\nMap: Nini and Levan via Maps Mania\n\n#Geoawesome #Cartography #Interactive #Scale",
+      "x": "What would losing a fifth of your own country look like? This interactive map shades about 20% of whichever country you pick in red.\nhttp://googlemapsmania.blogspot.com/2026/11/should-usa-give-texas-to-russia.html\nMap: Nini and Levan via Maps Mania\n#Geoawesome #Maps #Cartography",
+      "alt_text": "A map of a country with an area covering roughly a fifth of its territory highlighted in red."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-19-6-should-the-usa-give-texas-to-russia.jpg"
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/tennessee/marion_-_brush_creek?name=Marion+-+Brush+Creek",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Marion Brush Creek Fire in Tennessee | WFCA Fire Map",
+      "link": "https://wfca.com/fire-map/tennessee/marion_-_brush_creek?name=Marion+-+Brush+Creek",
+      "published": "2026-11-18T23:02:03+00:00",
+      "summary": "Columbia 3491 acStarted Nov 17 · Updated 1d ago. 5 mi. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and map settings. Fires ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The Marion Brush Creek fire in Marion, Tennessee is currently 50 acres and 90% contained.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live wildfire tracker map with fire perimeters; no image in feed, but the map is open to explore.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page (link-only alert) and only one line of text, so there is no visual to post.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "No image found on the page, and reuse policy is link_only.",
+        "No image credit or licence stated.",
+        "The page text gives only the fire's size (50 acres) and containment (90%), with no date of the perimeter, data source or map description.",
+        "The page is a WFCA fire map entry, but nothing describes what the map shows or how it was made."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.asiaone.com/asia/iaea-says-north-korea-expanding-uranium-enrichment-plant-yongbyon",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "IAEA says North Korea is expanding uranium-enrichment plant at Yongbyon - AsiaOne.com",
+      "link": "https://www.asiaone.com/asia/iaea-says-north-korea-expanding-uranium-enrichment-plant-yongbyon",
+      "published": "2026-11-19T03:21:57+00:00",
+      "summary": "A satellite image shows a nuclear material production factory, in Yongbyon, North Korea, May 17. PHOTO: Reuters file. PUBLISHED ON November 19 ...",
+      "image_url": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Nov2026/north%20korea%20factory.JPG?itok=sfy7hw54",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "VIENNA — North Korea has built an extension to its original uranium-enrichment plant at its Yongbyon nuclear complex as it continues to expand its production of weapons-grade material, UN nuclear watchdog chief Rafael Grossi said on Wednesday (Nov 18).\nThe International Atomic Energy Agency (IAEA) has not had access to North Korea since Pyongyang expelled its inspectors in 2009. The agency now observes the country mainly using satellite imagery.\nNorth Korea, formally known as the Democratic People's Republic of Korea (DPRK), has carried out several nuclear tests and appears to continue to produce the two materials with which one can make the core of a nuclear weapon — highly enriched uranium and plutonium.\n\"Previously, I have reported to you about the ongoing operation of enrichment facilities at Kangson and Yongbyon, the construction of an additional enrichment facility at Yongbyon, and the reported further expansion of the DPRK's production of weapons-grade nuclear material,\" Grossi said in a statement to a quarterly meeting of the IAEA's 35-nation Board of Governors.\nKangson is just outside Pyongyang to the southwest, while the much larger site at Yongbyon is further away from the capital to the north.\n\"Since mid-September 2026, a further extension to the original Yongbyon enrichment facility has been under construction with the new extension externally complete by late October 2026,\" he said, without elaborating.\n\"The ongoing expansion of the DPRK's uranium enrichment programme remains a cause for serious concern,\" he added.\nGrossi said the IAEA has also \"observed indications\" that the five-megawatt nuclear reactor at Yongbyon that North Korea uses to produce plutonium from spent fuel probably continues to operate and is in its seventh irradiation cycle, after which the spent fuel would be removed for reprocessing.\nAnother, light-water reactor at Yongbyon has been operating since April of this year, he added.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Nov2026/north%20korea%20factory.JPG?itok=sfy7hw54",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 630px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6.0,
+    "why": "Satellite image of Yongbyon nuclear site showing expansion; a real Earth-observation scene with a story.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "News report with no identifiable visual: the page gives no image credit, licence, caption or description, so we cannot say what the picture shows without guessing (reuse policy is link_only and the image is only 630px wide).",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page does not describe the image: it could be a satellite image of Yongbyon, a file photo or an unrelated stock picture.",
+        "No image credit or licence is stated on the page, and the reuse policy is link_only.",
+        "The source image is only 630px wide, so the 1080x1080 square would be upscaled and likely soft.",
+        "The article says the IAEA monitors North Korea 'mainly using satellite imagery' but names no sensor, provider, date or imagery for the new extension.",
+        "If the editor wants to cover this, a better source would be IAEA material or a commercial imagery provider showing the Yongbyon enrichment facility extension (reported under construction from mid-September 2026, externally complete by late October 2026), with a clear credit."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://kyivindependent.com/ukrainian-forces-once-more-hit-russias-crimean-bridge-days-after-devastating-strike/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Ukrainian forces once more hit Russia's Crimean Bridge, days after devastating strike",
+      "link": "https://kyivindependent.com/ukrainian-forces-once-more-hit-russias-crimean-bridge-days-after-devastating-strike/",
+      "published": "2026-11-19T00:21:22+00:00",
+      "summary": "... satellite image shows a closer view of the Kerch Bridge's road and rail spans over the Kerch Strait on Nov. 16, 2026. (Satellite image (c) 2026 ...",
+      "image_url": "https://assets.kyivindependent.com/content/images/2026/11/GettyImages-2305089080_20261119-000039.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Help us find 5,000 new members. Bring one friend.\nShare your personal link and make us stronger in 2027.\nLog in to see who joined through your link.\nEditor's note: This is a developing story and is being updated.\nUkrainian forces again hit the Crimean Bridge on Nov. 19, less than two days after a strike collapsed an entire section of the key Russian bridge.\nRussia's Transportation Ministry later announced that train traffic across the bridge has been temporarily suspended as a result of an overnight Ukrainian drone attack.\n\"There were no casualties as a result of the incident. Specialists will assess the damage,\" the ministry added.\nConstructed after Russia's illegal occupation of Crimea in 2014, the Crimean Bridge is a critical supply and transport route for Russian forces to occupied Ukrainian territories.\nSergey Aksyonov, the Russian-installed head of Crimea , confirmed the bridge had been hit again just after midnight local time. On Nov. 17, after a seven-phase operation carried out over multiple weeks, Ukrainian missiles sent a portion of the bridge to the bottom of the Kerch Strait. While car traffic over the bridge was suspended, the railway connection across the remaining part of the bridge remained operational .\nThe Kyiv Independent can not independently verify the extent of the damage from the most recent strike.\nAt 19 kilometers (12 miles), the Crimean Bridge is the longest bridge on the European continent, connecting Russia’s Krasnodar Krai with occupied Crimea.\nThe bridge has been a repeated target of Ukrainian strikes, suffering significant damage in October 2022 and July 2023, though neither managed to take the bridge out of commission.\nRussia has vowed to restore the Crimean Bridge after the Nov. 17 strikes, but experts told the Kyiv Independent that repairs could take a year or more and require significant resources.\nSergey Aksyonov, the Moscow-installed head of Russian-occupied Crimea, confirmed the bridge had been hit again just after midnight local time.\nUkrainian drones struck an oil pumping station in Russia's Tatarstan Republic overnight on Nov. 19, monitoring channels reported.\nUkrainian attacks over the past 20 days have disrupted or stopped operations at 15 of Russia's 35 major refineries, Reuters reported, citing two industry sources.\nIgor D'iu was instructed to carry out clandestine assignments targeting employees of a large Palo Alto, California, technology and defense company allegedly supplying weapons and systems to Ukraine for use against Russia.\nOleksandr Slobozhenko was wanted for evading 4.3 million euros ($4.7 million) in taxes in Ukraine.\nThe primary objective of the Coalition of the Willing meeting on Nov. 19 in Berlin is to secure additional support for Ukraine's air defenses and energy sector, Zelensky said.\n\"Our primary goal is to rescue our citizens – this is what we did in Oleshky and what we will continue to do,\" Ukrainian human rights ombudsman Dmytro Lubinets said.\nThe alleged criminal network allegedly protected scam call centers, trafficked drugs, produced counterfeit currency, and used violence to intimidate critics. Recordings released by investigators suggest that members of the group maintained contact with Russia's Federal Security Service (FSB).\nKlitschko said that three people had been injured in the capital on Nov. 18, one of whom had to be hospitalized.\nHow did Ukraine manage to strike the Crimean Bridge, one of Russia’s most heavily defended targets? The attack highlights the evolution of Ukraine’s long-range strike capabilities and the growing role of domestically produced weapons in its campaign against Russian military infrastructure.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://kyivindependent.com/_next/image?url=https%3A%2F%2Fassets.kyivindependent.com%2Fcontent%2Fimages%2F2026%2F11%2Fcrimean_bridge_web_920_20261117-164119_20261118-235702.webp&w=1536&q=100",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://kyivindependent.com/_next/image?url=https%3A%2F%2Fassets.kyivindependent.com%2Fcontent%2Fimages%2F2026%2F11%2Fcrimean_bridge_web_920_20261117-164119_20261118-235702.webp&w=1536&q=100",
+          "label": ""
+        },
+        {
+          "url": "https://kyivindependent.com/_next/image?url=https%3A%2F%2Fassets.kyivindependent.com%2Fcontent%2Fimages%2F2025%2F04%2FIMG_4693.jpg&w=640&q=100",
+          "label": ""
+        },
+        {
+          "url": "https://kyivindependent.com/_next/image?url=https%3A%2F%2Fassets.kyivindependent.com%2Fcontent%2Fimages%2F2026%2F11%2FHXTcBw-XMAAIAqJ_20261117-064039_20261117-064212.jpeg&w=1536&q=90",
+          "label": ""
+        },
+        {
+          "url": "https://kyivindependent.com/_next/image?url=https%3A%2F%2Fassets.kyivindependent.com%2Fcontent%2Fimages%2F2026%2F11%2FScreenshot-2026-11-18-at-11_16_22-PM_20261119-041923_20261119-043423.png&w=1536&q=90",
+          "label": ""
+        },
+        {
+          "url": "https://kyivindependent.com/_next/image?url=https%3A%2F%2Fassets.kyivindependent.com%2Fcontent%2Fimages%2F2026%2F11%2Fphoto_4_20261118-230137_20261118-230539.jpeg&w=1536&q=90",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1536px of source width"
+    },
+    "score": 6.0,
+    "why": "Satellite image of Kerch Bridge after strikes; before/after style damage story from orbit.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Developing war news story with no satellite image or map described, and the article image has no stated credit or licence.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page text does not mention any satellite imagery, sensor, date of acquisition or map, so the image is likely a news photo or file picture of the bridge.",
+        "No image credit or licence is stated on the page, and the reuse policy is link_only.",
+        "The Kyiv Independent says it cannot independently verify the extent of the damage from the 19 November strike, and the story is marked as developing.",
+        "If post-strike satellite imagery of the bridge appears from a credited provider, that would be a better candidate for a Geoawesome post."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.misbar.com/en/editorial/2026/11/18/misbar-detects-construction-developments-around-israel%E2%80%99s-dimona-nuclear-reactor",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Misbar Detects Construction Developments Around Israel's Dimona Nuclear Reactor",
+      "link": "https://www.misbar.com/en/editorial/2026/11/18/misbar-detects-construction-developments-around-israel%E2%80%99s-dimona-nuclear-reactor",
+      "published": "2026-11-18T19:21:53+00:00",
+      "summary": "High-resolution satellite images show a deep excavation site surrounded by thick concrete walls, covering a semi-underground facility consisting ...",
+      "image_url": "https://assets.misbar.com/styles/large_800x450/public/images/2026-11/covebvr-web_-%281%29.png.jpeg?itok=pNWx_lAa",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Recent satellite imagery has revealed accelerated construction developments at an underground facility near the Shimon Peres Negev Nuclear Research Center (Dimona reactor) in the Negev Desert in southern Israel. The imagery shows a notable expansion of deep excavation work, the construction of underground floors and tunnels, and the emergence of a new structure adjacent to the dome of the old heavy-water reactor. These developments are part of engineering efforts that specialized reports suggest are intended to extend the facility’s operational lifespan and reinforce its nuclear infrastructure against regional missile attacks. Construction Developments Near the Dimona Reactor Satellite imagery confirmed that the newly identified engineering work is concentrated approximately 13 kilometers southeast of the city of Dimona, within the security perimeter of the Dimona nuclear complex, located at the geographical coordinates 30°59'58.07\"N 35°8'33.29\"E. High-resolution satellite images show a deep excavation site surrounded by thick concrete walls, covering a semi-underground facility consisting of several floors below ground level and connected to new underground access points and tunnels. Nuclear Monitoring Reports and Infrastructure Upgrades These indicators align with the periodic assessment published by the Federation of American Scientists (FAS) in the Bulletin of the Atomic Scientists on November 10, 2026. The report documented Israel’s continued efforts to modernize its nuclear infrastructure, which is estimated to include approximately 90 nuclear warheads, despite its longstanding policy of nuclear ambiguity. The report, prepared by researchers Hans Kristensen and Mackenzie Knight-Boyle, linked the excavation and tunnel construction work at Dimona to potential efforts to extend the operational lifespan of the aging reactor, which has been operating for decades, with the aim of keeping it functional until 2040. The satellite-documented developments have not been limited to Dimona, as parallel upgrades to underground bunkers and tunnels in the same area had previously been identified. Dimona’s Fortifications Amid Iranian Threats The shift toward deep underground construction and the development of reinforced concrete structures below ground reflect evolving plans to protect strategic facilities, particularly after Dimona was directly targeted by Iranian missiles during the regional confrontations in March. The importance of these engineering fortifications is further underscored by continued public threats from Iran, including statements by Iranian lawmakers and officials in Tehran who warned in October of the possibility of launching military strikes against Dimona facilities if attacks on Iran resume. The disclosure of these construction developments also coincides with heightened local security concerns, reflected in warnings issued by Dimona Mayor Benny Biton on November 17 about an imminent security escalation, amid the U.S. naval buildup in the Middle East. These ongoing developments suggest that concealing sensitive activities deep in the Negev Desert is no longer aimed solely at keeping the nuclear program beyond the reach of international inspections. It has also become a defensive necessity to ensure the operational continuity of Israel’s arsenal in the face of heavy ballistic missiles. Read More From Eastern Libya to Syria and Then Russia: Misbar Tracks Russian Military Transport Aircraft Misbar Detects Possible Damage at Iraq's Khor Mor Gas Field Following Drone Attack\nRecent satellite imagery has revealed accelerated construction developments at an underground facility near the Shimon Peres Negev Nuclear Research Center (Dimona reactor) in the Negev Desert in southern Israel.\nThe imagery shows a notable expansion of deep excavation work, the construction of underground floors and tunnels, and the emergence of a new structure adjacent to the dome of the old heavy-water reactor. These developments are part of engineering efforts that specialized reports suggest are intended to extend the facility’s operational lifespan and reinforce its nuclear infrastructure against regional missile attacks.\nSatellite imagery confirmed that the newly identified engineering work is concentrated approximately 13 kilometers southeast of the city of Dimona, within the security perimeter of the Dimona nuclear complex, located at the geographical coordinates 30°59'58.07\"N 35°8'33.29\"E.\nHigh-resolution satellite images show a deep excavation site surrounded by thick concrete walls, covering a semi-underground facility consisting of several floors below ground level and connected to new underground access points and tunnels.\nThese indicators align with the periodic assessment published by the Federation of American Scientists (FAS) in the Bulletin of the Atomic Scientists on November 10, 2026. The report documented Israel’s continued efforts to modernize its nuclear infrastructure, which is estimated to include approximately 90 nuclear warheads, despite its longstanding policy of nuclear ambiguity.\nThe report, prepared by researchers Hans Kristensen and Mackenzie Knight-Boyle, linked the excavation and tunnel construction work at Dimona to potential efforts to extend the operational lifespan of the aging reactor, which has been operating for decades, with the aim of keeping it functional until 2040.\nThe satellite-documented developments have not been limited to Dimona, as parallel upgrades to underground bunkers and tunnels in the same area had previously been identified.\nThe shift toward deep underground construction and the development of reinforced concrete structures below ground reflect evolving plans to protect strategic facilities, particularly after Dimona was directly targeted by Iranian missiles during the regional confrontations in March.\nThe importance of these engineering fortifications is further underscored by continued public threats from Iran, including statements by Iranian lawmake",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://assets.misbar.com/styles/large_800x450/public/images/2026-11/covebvr-web_-%281%29.png.jpeg?itok=pNWx_lAa",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://www.misbar.com/assets/images/icons/search-white.svg",
+          "label": ""
+        },
+        {
+          "url": "https://www.misbar.com/assets/images/icons/arrow-right-solid.svg",
+          "label": ""
+        },
+        {
+          "url": "https://assets.misbar.com/styles/small_40x40/public/12f2fc4673349418747a145c354f10a00a5a780b.jpg.webp?itok=z9JMVNNy",
+          "label": ""
+        },
+        {
+          "url": "https://www.misbar.com/assets/images/icons/date.svg",
+          "label": ""
+        },
+        {
+          "url": "https://www.misbar.com/assets/images/icons/link-detailed.svg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 450px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 6.0,
+    "why": "High-resolution satellite before/after style analysis of a nuclear site excavation.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image credit or licence on the page, the reuse policy is link_only, the image is only 450px wide (upscaled), and the source gives no sensor, date or image provider, so the visual cannot be credited or explained without guessing.",
+      "what_it_shows": "Misbar reports that satellite imagery shows expanded deep excavation, underground floors and tunnels, and a new structure next to the dome of the old heavy-water reactor at the Dimona nuclear complex in the Negev, about 13 km southeast of Dimona (30°59'58.07\"N 35°8'33.29\"E). The page does not name the satellite, image provider, acquisition dates or resolution. It links the work to a Federation of American Scientists assessment (Kristensen and Knight-Boyle, Bulletin of the Atomic Scientists, 10 November 2026) that connects it to extending the reactor's life to 2040.",
+      "uncertainties": [
+        "No image credit found on the page, and no licence stated.",
+        "Source reuse policy is link_only, so reposting the image is not covered.",
+        "Image is 450px wide and upscaled to 1080, so sharpness is likely poor.",
+        "Sensor, image provider, acquisition date(s) and resolution are not given. It is unclear whether the image is a before/after comparison or a single scene.",
+        "The purposes (life extension, missile hardening) come from 'specialized reports' and the FAS assessment. The page frames them as suggestions, not confirmed facts.",
+        "The page carries geopolitical commentary (Iranian threats, a mayor's warnings, the 'nuclear ambiguity' framing) that falls outside Geoawesome's remit and is not verifiable from the imagery.",
+        "The warhead estimate (about 90) is an FAS estimate, not something visible in the image.",
+        "If the editor wants to cover this, a better route is to find the original FAS or Bulletin imagery with a named provider (for example a commercial satellite operator) and a clear credit."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.ecoportal.net/en/mangrove-forests-recovery-satellite/46525/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Mangrove forests were \"drowning\" for decades, but satellite images now show a quiet and ...",
+      "link": "https://www.ecoportal.net/en/mangrove-forests-recovery-satellite/46525/",
+      "published": "2026-11-18T23:06:21+00:00",
+      "summary": "For decades, scientists watched coastlines shrink — one Landsat frame at a time. The satellite record stretching back to 1984 told a consistent ...",
+      "image_url": "https://www.ecoportal.net/en/wp-content/uploads/2026/11/Mangrove-forests-were-_drowning_-for-decades-but-satellite-images-now-show-a-quiet-and-unexpected-rise-from-the-coast-up.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "For decades, scientists watched coastlines shrink — one Landsat frame at a time. The satellite record stretching back to 1984 told a consistent story: mangrove forests were losing ground, swallowed by aquaculture ponds, agriculture, and coastal development . Nearly 1,158 square miles disappeared in less than 30 years.\nThen, around 2010, something shifted. A new study published in Science has detected what researchers themselves call an unexpected reversal — a measurable global rebound now visible in the same satellite imagery that once documented only loss.\nScientists have tracked mangrove forests using Landsat satellites since the 1970s, building the longest continuous global record of these ecosystems. For more than three decades, that record told one story: steady, relentless loss . Agriculture, aquaculture, and firewood harvesting chewed through coastal forests across Southeast Asia, Africa, and Latin America.\nThe numbers were stark. Between 1984 and 2010, nearly 1,158 square miles of mangrove forest vanished from the map.\nThen the line changed direction. A new analysis covering 1984 to 2023 — led by Zhen Zhang, an environmental scientist at Tulane University — detected a net gain of nearly 772 square miles since 2010 . Zhang notes this is the first global mangrove mapping effort to span such a long continuous period. The reversal wasn’t predicted. It had to be seen in the data before it could be understood.\nNot all of the rebound comes from human effort. About two-thirds of the expansion reflects mangroves naturally colonizing new territory — particularly mudflats formed by sediment deposits near the mouth of the Amazon River and in northern Australia, both of which have seen steady mangrove increases since the 1990s. The remaining third stems from active restoration and regrowth in previously degraded zones .\nTemperature is also playing a role at the edges of mangrove range. Warming winters and fewer hard freezes have allowed mangroves in the southeastern United States to push into areas once too cold to support them, Zhang explains. Beyond raw area, canopy density has increased across many regions — especially in South America — signaling forests that aren’t just larger, but healthier.\nFew places illustrate the arc of loss and recovery more clearly than Myanmar. Between the 1980s and 2010, the country lost 28.6 percent of its total mangrove area — a rapid unraveling driven by agricultural and aquaculture expansion along its coastlines.\nThe turnaround began around 2010, driven by several converging forces: heightened awareness following the devastating 2004 Indian Ocean tsunami, stronger legal protections for forests, and high sedimentation rates that opened fresh mudflats for colonization . Landsat imagery of Palaw Township in the Myeik District shows the change in visible terms — degraded mangrove forests regenerating in what were once abandoned rice fields. On nearby Pyin Bukyi Island, community-led conservation projects and tree planting have contributed to additional growth.\nSince 2010, Myanmar’s mangrove area has grown roughly 10 percent. Meaningful progress — but it recovers only a fraction of what was lost over the preceding three decades.\nMangrove trees are relatively modest in stature, averaging about 42 feet in height. Their ecological impact is something else entirely. These ecosystems store up to four times as much carbon per hectare as taller inland tropical forests, making them among the most carbon-dense environments on Earth.\nTheir distinctive stilt-like root systems serve two functions at once: buffering coastal communities against erosion and storm surges while providing critical nursery habitat for fish, shrimp, crabs, and other marine species. That combination — carbon sink and coastal shield — places mangrove health at the center of both climate mitigation and adaptation strategies . Losing them costs more than a tree count suggests .\nThe global picture is improving, but unevenly. Substantial mangrove losses continue in the Niger Delta, pulling down total coverage across West and Central Africa since 2010. In North America and southern Africa, tropical cyclones have caused widespread degradation, wiping out broad sections of forest in short periods.\nZhang is direct about the risk of misreading the data. “The global successes we’ve seen with mangroves during the past decade should not be seen as grounds for complacency,” he cautions. Deforestation remains an active threat even in recovering regions like Myanmar. His study’s broader message is more hopeful: when conservation efforts and reduced deforestation align with natural expansion, the combined effect can be substantial .\nThe satellite record that once documented only decline now offers something different — evidence that the trajectory can change, and a baseline for watching what comes next. Whether the rebound holds, expands, or stalls will be visible in the same Landsat frames that first revealed the loss.\nOur sharpest reporting on energy, climate and nature — free, once a week.\nBy subscribing you accept our privacy policy . You can unsubscribe at any time.\nOnce a week we send our best reporting on energy, climate and nature. No spam, unsubscribe anytime.\nBy subscribing you accept our privacy policy . You can unsubscribe at any time.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.ecoportal.net/en/wp-content/uploads/2026/11/Mangrove-forests-were-_drowning_-for-decades-but-satellite-images-now-show-a-quiet-and-unexpected-rise-from-the-coast-up.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://www.ecoportal.net/en/wp-content/uploads/2026/11/4-foot-rotor-spun-inside-test-photo-768x432.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www.ecoportal.net/en/wp-content/uploads/2026/11/Untitled-design-9-768x432.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www.ecoportal.net/en/wp-content/uploads/2026/11/INFG-Mangrove-forests-were-_drowning_-for-decades-but-satellite-images-now-show-a-quiet-and-unexpected-rise-from-the-coast-up-521x1013.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www.ecoportal.net/en/wp-content/uploads/2026/11/truck-rolled-down-maine-embankment-spilling-photo-768x432.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://www.ecoportal.net/en/wp-content/uploads/2026/11/Canadas-Diavik-diamond-mine-uses-6620-solar-panels-to-capture-sunlight-reflected-off-Arctic-snow-1-768x432.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1013px of source width"
+    },
+    "score": 6.0,
+    "why": "Landsat record since 1984 showing mangrove recovery; change-over-time story.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The page does not say what the lead image shows (sensor, date, place) or who made it, and the reuse policy is link_only, so we cannot caption or credit it without guessing.",
+      "what_it_shows": "Unknown. The article reports a Science study led by Zhen Zhang (Tulane University) that used Landsat to map mangroves from 1984 to 2023. It found a loss of nearly 1,158 sq mi from 1984 to 2010 and a net gain of nearly 772 sq mi since 2010. The page names no image, no image credit and no caption, so we cannot say whether the visual is a Landsat scene, a map or a stock photo.",
+      "uncertainties": [
+        "No image credit on the page and no licence stated. The reuse policy is link_only, so the image should not be reposted.",
+        "The content of the image is not described. The text mentions Landsat imagery of Palaw Township, Myeik District (Myanmar), but nothing confirms that this is the image used.",
+        "The article is secondary coverage. The original Science paper, plus any official figures or Landsat before/after images released with it (e.g. by the authors or NASA), would be a better source for a post.",
+        "The article says Landsat has tracked mangroves 'since the 1970s', but the study record starts in 1984. Check the paper before quoting dates.",
+        "The figures are given in square miles. Convert them from the original paper rather than from this article if we post in metric."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.youtube.com/watch?v=lvVyRAC4Zf0",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Marvel's New Asgard Is a Real Norwegian Town - YouTube",
+      "link": "https://www.youtube.com/watch?v=lvVyRAC4Zf0",
+      "published": "2026-11-18T23:29:40+00:00",
+      "summary": "... Sentinel-2 cloudless by EOX (CC BY 4.0). Relief exaggerated ×2 (close-ups ×1.6). Not affiliated with or endorsed by Marvel/Disney.",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Sentinel-2 and relief-map video showing a real town behind a fictional place; clever map.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page, no image credit, link-only reuse policy, and the page text is too thin to say which town is shown without guessing.",
+      "what_it_shows": "A YouTube video, apparently a 3D terrain visualisation, linking Marvel's New Asgard to a real Norwegian town. The only page text says it uses Sentinel-2 cloudless imagery by EOX (CC BY 4.0), with relief exaggerated ×2 (close-ups ×1.6), and that it is not affiliated with Marvel/Disney. The page does not name the town or give a date.",
+      "uncertainties": [
+        "No image found on the page, so there is nothing to crop to a 1080x1080 square.",
+        "No image credit found. The video's creator or channel is not named in the source material.",
+        "Reuse policy is link_only, so taking a frame from the video would need permission from the creator.",
+        "The Norwegian town is not named in the source material.",
+        "The claim that New Asgard 'is a real Norwegian town' is the video's framing and is not checked. The source gives no filming location or other detail to support it.",
+        "Only the base imagery (Sentinel-2 cloudless by EOX) and the vertical exaggeration are stated. The elevation data source and the date of the imagery are not given."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://x.com/iamjosepferrer/status/2122789605187682686",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Josep Ferrer on X: \"On the shortest day, the sun rises 51 minutes later in Madrid than in ...",
+      "link": "https://x.com/iamjosepferrer/status/2122789605187682686",
+      "published": "2026-11-18T23:00:02+00:00",
+      "summary": "On the shortest day, the sun rises 51 minutes later in Madrid than in Warsaw # 30DayMapChallenge Day 17: Light & dark.",
+      "image_url": "https://pbs.twimg.com/media/HXWp5U4aYAAFBG6?format=webp&name=large",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "See what’s happening and join the conversation",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HXWp5U4aYAAFBG6?format=webp&name=large",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/2117349965554929664/PDkMGPVL_normal.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/card_img/2120912661298974720/nIrOThC8?format=webp&name=medium",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/card_img/2122646258691301376/VnT4as7q?format=webp&name=medium",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/514136044136972289/yTbX9YpY_normal.jpeg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1638px of source width"
+    },
+    "score": 6.0,
+    "why": "Sunrise-time map contrast Madrid vs Warsaw; a clever geo idea, though text-only in feed.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Cannot be described without guessing: the title is cut off, the page text is only X login boilerplate, there is no image credit or licence, and the reuse policy is link_only.",
+      "what_it_shows": "Unknown. The only sourced fact is the truncated title of an X post by Josep Ferrer: \"On the shortest day, the sun rises 51 minutes later in Madrid than in ...\". The comparison city, the map's data, its method and its colour scheme are not in the source material.",
+      "uncertainties": [
+        "The title is truncated, so the city compared with Madrid is unknown.",
+        "The page text contains no content from the post, only X boilerplate.",
+        "The image could not be verified as a map.",
+        "No data source is given for the sunrise times.",
+        "No image credit was found, and it is unclear whether Josep Ferrer made the map or is resharing someone else's work.",
+        "No image licence is stated, and the reuse policy is link_only, so reposting the image as a square may not be allowed.",
+        "The published date of 2026-11-18 and the high status ID are worth checking before any use.",
+        "To reconsider this post, open the X link directly to read the full text, confirm the original creator and check reuse permission."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.linkedin.com/posts/gautamikasat_30daymapchallenge-teammusa-urbanplanning-activity-7528560577321869312-CAxr",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "# 30daymapchallenge #teammusa #urbanplanning #arcgis #insideout #bathymetry #oceans ...",
+      "link": "https://www.linkedin.com/posts/gautamikasat_30daymapchallenge-teammusa-urbanplanning-activity-7528560577321869312-CAxr",
+      "published": "2026-11-19T02:20:01+00:00",
+      "summary": "30DayMapChallenge #teamMUSA Day 15 · Inside out What if the ocean floor were a mountain range? I took the seafloor under Monterey Bay and ...",
+      "image_url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGJrq20IO4jYw/thumbnail-with-play-button-overlay-high/B4EaHrR7sHIYC8-/0/1794948710505?e=2147483647&v=beta&t=iDxsS7iu0rPQDfdThr43rV5yRfihPe9iRF4mM3hQzUQ",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\n#30DayMapChallenge #teamMUSA Day 15 · Inside out 🌊\n\nWhat if the ocean floor were a mountain range?\n\nI took the seafloor under Monterey Bay and turned it over, so every metre of depth becomes a metre of height. The land stays exactly where it is.\n\nIts deepest point sits 3,279 m below the surface. Flipped, it would stand almost three times taller than the highest hill on the coast around it.\n\nWe plan cities right up to the waterline and rarely think about the landscape that keeps going underneath. What’s the most surprising thing you know about the ground under the sea?\n\nData: NOAA: National Oceanic & Atmospheric Administration National Centers for Environmental Information, Coastal Relief Model · height exaggerated 5x · made in Python #UrbanPlanning #ArcGIS #InsideOut #Bathymetry #Oceans #Python #Cartography #GIS #DataViz #CoastalResilience\nCreate your free account or sign in to continue your search\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGJrq20IO4jYw/thumbnail-with-play-button-overlay-high/B4EaHrR7sHIYC8-/0/1794948710505?e=2147483647&v=beta&t=iDxsS7iu0rPQDfdThr43rV5yRfihPe9iRF4mM3hQzUQ",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E16AQGUEbsCOE58oA/profile-displaybackgroundimage-shrink_200_800/B4EZ0M8BHEIsAY-/0/1774038557159?e=2147483647&v=beta&t=MqDrDXwqV7t49d0YwPqmR9xwz7thMlPrZA5u8G5uDRk",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-19-14-30daymapchallenge-teammusa-urbanplannin.jpg",
+      "image_note": "square crop, from 720px of source width"
+    },
+    "score": 6.0,
+    "why": "Seafloor under Monterey Bay as a mountain range; striking inside-out 3D-style map idea.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A 30DayMapChallenge Day 15 ('Inside out') map of Monterey Bay in which the seafloor is turned over, so every metre of depth becomes a metre of height, while the land stays unchanged. Data is NOAA NCEI's Coastal Relief Model, with height exaggerated 5x, made in Python. The bay's deepest point is 3,279 m below the surface; flipped, the author says it would stand almost three times taller than the highest hill on the surrounding coast.",
+      "uncertainties": [
+        "Reuse policy is link_only and no image licence is stated. Get the creator's permission before posting the image.",
+        "No image credit on the page. The creator is identified only by the LinkedIn URL slug 'gautamikasat'; confirm their full name and preferred credit.",
+        "The colour scheme and any legend are not described, so the colours are not explained in the posts.",
+        "The version and resolution of the Coastal Relief Model are not stated.",
+        "The post's hashtags include #ArcGIS, but the text says the map was made in Python. The workflow is unclear.",
+        "The highest coastal hill used for the 'almost three times taller' comparison is not named or measured in the source.",
+        "The 5x vertical exaggeration means the relief in the image is not to true scale.",
+        "The image was cropped from a 720px-wide source, so check the sharpness at 1080x1080."
+      ],
+      "image_credit": "Map: gautamikasat via LinkedIn",
+      "facebook": "Flip Monterey Bay's seafloor and its deepest point, 3,279 m down, becomes a peak almost three times taller than the coast's highest hill.\n\nThis Day 15 'Inside out' entry for the 30DayMapChallenge turns every metre of depth into a metre of height and leaves the land where it is. Made in Python from NOAA NCEI's Coastal Relief Model, with 5x vertical exaggeration.\n\nFull story: https://www.linkedin.com/posts/gautamikasat_30daymapchallenge-teammusa-urbanplanning-activity-7528560577321869312-CAxr\n\nMap: gautamikasat via LinkedIn\n\n#Geoawesome #Bathymetry #Oceans #Cartography",
+      "instagram": "Monterey Bay, turned inside out.\n\nSeafloor depth becomes height, so the bay's 3,279 m deep point turns into a summit while the land stays untouched (5x vertical exaggeration).\n\nLearn more: https://www.linkedin.com/posts/gautamikasat_30daymapchallenge-teammusa-urbanplanning-activity-7528560577321869312-CAxr\n\nMap: gautamikasat via LinkedIn\n\n#Geoawesome #Bathymetry #Oceans #Maps",
+      "youtube": "This map treats Monterey Bay's seafloor as terrain to climb rather than water to sound.\n\nThe bathymetry comes from NOAA NCEI's Coastal Relief Model and is inverted so depth reads as elevation, with onshore topography left unchanged. It was built in Python with 5x vertical exaggeration. Inverted, the 3,279 m deep point would rise almost three times higher than the tallest hill on the nearby coast.\n\nFind out more: https://www.linkedin.com/posts/gautamikasat_30daymapchallenge-teammusa-urbanplanning-activity-7528560577321869312-CAxr\n\nMap: gautamikasat via LinkedIn\n\n#Geoawesome #Bathymetry #NOAA #Python",
+      "x": "What if Monterey Bay's seafloor were a mountain range? Flipped, its 3,279 m deep point would tower over every hill on the coast.\nhttps://www.linkedin.com/posts/gautamikasat_30daymapchallenge-teammusa-urbanplanning-activity-7528560577321869312-CAxr\nMap: gautamikasat via LinkedIn\n#Geoawesome #Bathymetry #Cartography",
+      "alt_text": "A 3D relief map of Monterey Bay in which the seafloor has been inverted into raised, mountain-like terrain beside the unchanged coastline."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-19-14-30daymapchallenge-teammusa-urbanplannin.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.linkedin.com/posts/sandon-lettieri-896b3816_30daymapchallenge-activity-7528683792195260416-GQBz",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Sandon Lettieri - 30daymapchallenge - LinkedIn",
+      "link": "https://www.linkedin.com/posts/sandon-lettieri-896b3816_30daymapchallenge-activity-7528683792195260416-GQBz",
+      "published": "2026-11-18T17:55:49+00:00",
+      "summary": "30DayMapChallenge - Day 18 - NULL Nevada + NULL Population = NULLvada This map highlights US Census blocks with zero population.",
+      "image_url": "https://media.licdn.com/dms/image/v2/D4D22AQEi7krk19FzGg/feedshare-image-high-res/B4DaHnVhdEGYAQ-/0/1794882541936?e=2147483647&v=beta&t=AM64uQ36iC2mq_b-UpopZEbleIWaaEiIbWVKgUAjJRU",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\n#30DayMapChallenge - Day 18 - NULL\n\nNevada + NULL Population = NULLvada\n\nThis map highlights US Census blocks with zero population. Cities were added for reference. I've been to Nevada a few times, not just flying into Las Vega but driving in from other states. There is such a stark difference between an area like Las Vegas versus the areas outside of the sprawl.\nCreate your free account or sign in to continue your search\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQEi7krk19FzGg/feedshare-image-high-res/B4DaHnVhdEGYAQ-/0/1794882541936?e=2147483647&v=beta&t=AM64uQ36iC2mq_b-UpopZEbleIWaaEiIbWVKgUAjJRU",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C5616AQEPQd3jY5-0Uw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1660613930140?e=2147483647&v=beta&t=9_xDMurIggFrwKBk06K7wq2PjDabHqeSXf_V-d1t0VQ",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-19-15-sandon-lettieri-30daymapchallenge-linked.jpg",
+      "image_note": "square crop, from 1138px of source width"
+    },
+    "score": 6.0,
+    "why": "Clever 30DayMapChallenge map of zero-population Census blocks in Nevada; witty geo insight.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A map of Nevada by Sandon Lettieri, made for Day 18 (theme: NULL) of the 30 Day Map Challenge and titled 'NULLvada'. It highlights the US Census blocks in Nevada with zero population, with cities added for reference. The author contrasts Las Vegas with the areas outside its sprawl.",
+      "uncertainties": [
+        "Reuse policy is link_only and the image licence is not stated. Get permission from Sandon Lettieri before posting the image itself.",
+        "The page gives no image credit. The credit line is taken from the post author named in the title.",
+        "The Census year or vintage (for example 2020 decennial blocks) is not stated.",
+        "The colour scheme and legend are not described, so the posts do not say what the colours mean.",
+        "The page gives no count or share of zero-population blocks or area. Check the image before adding any figure.",
+        "The source text says 'Las Vega'. The posts assume Las Vegas."
+      ],
+      "image_credit": "Map: Sandon Lettieri via LinkedIn",
+      "facebook": "Nevada plus a NULL population equals 'NULLvada', Sandon Lettieri's entry for Day 18 of the 30 Day Map Challenge.\n\nThe map highlights every US Census block in Nevada with zero population, with cities added only for reference. The result turns an empty value into the subject of the map: the sprawl of Las Vegas on one side, the blocks where nobody is counted on the other.\n\nFull story: https://www.linkedin.com/posts/sandon-lettieri-896b3816_30daymapchallenge-activity-7528683792195260416-GQBz\n\nMap: Sandon Lettieri via LinkedIn\n\n#Nevada #Census #Cartography #Geoawesome",
+      "instagram": "Where nobody lives, mapped: welcome to NULLvada.\n\nCensus blocks with a population of zero, highlighted across Nevada, with cities marked so you can find your bearings.\n\nFind out more: https://www.linkedin.com/posts/sandon-lettieri-896b3816_30daymapchallenge-activity-7528683792195260416-GQBz\n\nMap: Sandon Lettieri via LinkedIn\n\n#Nevada #Maps #Population #Geoawesome",
+      "youtube": "Day 18 of the 30 Day Map Challenge had the theme NULL, so Sandon Lettieri mapped a NULL population.\n\nThe map selects the US Census blocks in Nevada where the recorded population is zero and highlights them. City labels sit on top for reference. Census blocks are the smallest unit of census geography, which makes the gap between the Las Vegas sprawl and the unpopulated blocks around it easy to read.\n\nLearn more: https://www.linkedin.com/posts/sandon-lettieri-896b3816_30daymapchallenge-activity-7528683792195260416-GQBz\n\nMap: Sandon Lettieri via LinkedIn\n\n#Census #Demographics #Cartography #Geoawesome",
+      "x": "Nevada + zero population = NULLvada. Census blocks where nobody is counted, mapped for the NULL day of the 30 Day Map Challenge.\nhttps://www.linkedin.com/posts/sandon-lettieri-896b3816_30daymapchallenge-activity-7528683792195260416-GQBz\nMap: Sandon Lettieri via LinkedIn\n#Nevada #Census #Maps #Geoawesome",
+      "alt_text": "Map of Nevada highlighting the census blocks with zero population, with city names marked for reference."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-19-15-sandon-lettieri-30daymapchallenge-linked.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.linkedin.com/posts/rizah-murseli-6358a416_30daymapchallenge-kosovo-hydrography-activity-7528560578840358913-be1B",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "# 30daymapchallenge #kosovo #hydrography #rivers #gis #cartography #datavisualization - LinkedIn",
+      "link": "https://www.linkedin.com/posts/rizah-murseli-6358a416_30daymapchallenge-kosovo-hydrography-activity-7528560578840358913-be1B",
+      "published": "2026-11-18T17:39:44+00:00",
+      "summary": "... Murseli | Data source: HydroRIVERS # 30DayMapChallenge #Kosovo #Hydrography #Rivers #GIS #Cartography #DataVisualization.",
+      "image_url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQEIYRiJ8pe7Jg/thumbnail-with-play-button-overlay-high/B4DaHrR6ufGcC4-/0/1794948707129?e=2147483647&v=beta&t=kTLZIwXK5SgFi9-xFcOEWJK5PL_eevSpFTeLLWjzaag",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\nHydrographic Atlas of Kosovo | The Shapes of Rivers 💧\nWhat do Kosovo’s river networks look like, and how do their tributaries connect across the landscape?\nExplore the Hydrographic Atlas of Kosovo through this animated visualization and interactive map. 🌍\n🔗 https://lnkd.in/dXhnt5Hj Inspired by Dominic Royé’s “The Shapes of Rivers” visualization. Created by Rizah Murseli | Data source: HydroRIVERS #30DayMapChallenge #Kosovo #Hydrography #Rivers #GIS #Cartography #DataVisualization\nCreate your free account or sign in to continue your search\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQEIYRiJ8pe7Jg/thumbnail-with-play-button-overlay-high/B4DaHrR6ufGcC4-/0/1794948707129?e=2147483647&v=beta&t=kTLZIwXK5SgFi9-xFcOEWJK5PL_eevSpFTeLLWjzaag",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E16AQFKok6XfaeHlQ/profile-displaybackgroundimage-shrink_200_800/B4EZZFlwLXHYAU-/0/1744924250737?e=2147483647&v=beta&t=B5GiHMOVo2-jd4zVXbdKvdXzGeKmemfGsn74Y3v3K_U",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-19-16-30daymapchallenge-kosovo-hydrography-ri.jpg",
+      "image_note": "square crop, from 720px of source width"
+    },
+    "score": 6.0,
+    "why": "Hydrography map of Kosovo's rivers from HydroRIVERS; a clean, attractive cartographic piece.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A Hydrographic Atlas of Kosovo by Rizah Murseli, made for the #30DayMapChallenge, showing the country's river networks and how their tributaries connect. It is built from the HydroRIVERS dataset and is inspired by Dominic Royé's 'The Shapes of Rivers' visualisation. It was published as an animated visualisation plus an interactive map.",
+      "uncertainties": [
+        "No image credit or licence on the page; the reuse policy is link_only, so check with Rizah Murseli before posting the image itself.",
+        "The data source of the map is stated (HydroRIVERS), but there is no data date, river size threshold or explanation of colours or line widths.",
+        "The interactive map sits behind a lnkd.in short link (https://lnkd.in/dXhnt5Hj) that has not been checked. The posts link to the LinkedIn post instead.",
+        "The source is an animation, so the square is presumably a single frame or still. Confirm it reads clearly as a map.",
+        "The square was cropped from only 720px of source width, so the 1080x1080 output may look soft. Check thin river lines for blur.",
+        "Credit uses 'Created by Rizah Murseli' from the post text, since no formal image credit line was found."
+      ],
+      "image_credit": "Map: Rizah Murseli",
+      "facebook": "Kosovo's river network, traced tributary by tributary from a single global dataset.\n\nRizah Murseli built this Hydrographic Atlas of Kosovo from HydroRIVERS data for the 30DayMapChallenge, following Dominic Royé's 'The Shapes of Rivers'. It comes as an animation and an interactive map showing how tributaries join up across the landscape.\n\nFull story: https://www.linkedin.com/posts/rizah-murseli-6358a416_30daymapchallenge-kosovo-hydrography-activity-7528560578840358913-be1B\n\nMap: Rizah Murseli\n\n#Kosovo #Hydrography #Rivers #Geoawesome",
+      "instagram": "The shapes of Kosovo's rivers, one tributary at a time.\n\nA Hydrographic Atlas of Kosovo drawn from HydroRIVERS, inspired by Dominic Royé's 'The Shapes of Rivers'.\n\nLearn more: https://www.linkedin.com/posts/rizah-murseli-6358a416_30daymapchallenge-kosovo-hydrography-activity-7528560578840358913-be1B\n\nMap: Rizah Murseli\n\n#Kosovo #Rivers #Cartography #Geoawesome",
+      "youtube": "One question drives this map: how do Kosovo's tributaries connect across the landscape?\n\nThe Hydrographic Atlas of Kosovo uses the HydroRIVERS dataset to draw the country's river networks in the style of Dominic Royé's 'The Shapes of Rivers'. Rizah Murseli made it for the 30DayMapChallenge as both an animation and an interactive map.\n\nRead more: https://www.linkedin.com/posts/rizah-murseli-6358a416_30daymapchallenge-kosovo-hydrography-activity-7528560578840358913-be1B\n\nMap: Rizah Murseli\n\n#Hydrography #Kosovo #Maps #Geoawesome",
+      "x": "How do Kosovo's tributaries link up? A Hydrographic Atlas built from HydroRIVERS, animated and interactive.\nhttps://www.linkedin.com/posts/rizah-murseli-6358a416_30daymapchallenge-kosovo-hydrography-activity-7528560578840358913-be1B\nMap: Rizah Murseli\n#Kosovo #Rivers #Cartography #Geoawesome",
+      "alt_text": "Map of Kosovo showing its rivers and tributaries as a branching network of lines across the country."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-19-16-30daymapchallenge-kosovo-hydrography-ri.jpg"
+  },
+  {
+    "item": {
+      "id": "https://cesium.com/blog/2026/11/18/national-digital-twin-supports-infrastructure-edu/",
+      "source_id": "google_alerts_6",
+      "source_name": "Google Alerts #6",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "A National Digital Twin Brings Infrastructure Education to Pupils across Scotland with CesiumJS",
+      "link": "https://cesium.com/blog/2026/11/18/national-digital-twin-supports-infrastructure-edu/",
+      "published": "2026-11-18T08:51:22+00:00",
+      "summary": "Across Scotland, high school pupils are learning about the infrastructure around them through a national digital twin built on CesiumJS . The ...",
+      "image_url": "https://images.prismic.io/cesium/QXuQ5Xlu35QDy53d_flooding.png?auto=format,compress",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Across Scotland, high school pupils are learning about the infrastructure around them through a national digital twin built on CesiumJS. The National Digital Twin of Scotland brings together everything from buildings and power networks to live bus locations, weather, and environmental sensors, all in an intuitive 3D view that gives pupils a way to explore the systems they may one day help design and maintain.\nThe National Digital Twin of Scotlandâa living, evolving digital representation of infrastructure, environment, and communitiesâbrings real-world learning into the classroom through the GIBE Infrastructure Pathway, an ambitious education initiative connecting schools, universities, and industry through real-world challenges, emerging technologies, and Scotland's infrastructure. Courtesy Tech Unplugged .\nThe National Digital Twin is being created to complement a new Infrastructure Pathway in Scottish education, which incorporates the Global Infrastructure and Built Environment (GIBE) course. Created by a group of educators, academics, and industry professionals, GIBE has been approved by Scotlandâs qualification authority, with over 50 schools and 600 pupils expected to join for the Academic Year 2027â28.\nPrimary pupils in the GIBE course learn about wind power by adjusting windspeeds on a fictitious island, Eilean MÃ³r, and measuring the effect on wind turbines; they read graphs to analyze real-time CO2 measurements from around the country.\nPupils can view actual transmission lines and sample a substation from Bentley Systems to learn how energy is distributed across a region. Courtesy Alakbar Zeynalzade.\nSecondary school pupils take on even more involved projects. In one unit, they were assigned to design a house that could fit in a courtyard. The pupils visited the real courtyard, took 360-degree images of the location, visualized it in CesiumJS, and measured the space in the digital twin using Cesiumâs measurement tools. The pupils then designed a house and brought the CAD design into their view of the National Digital Twin to check their work and see how it looked on site among the other existing buildings from the Twinâs own drone-scanned photogrammetry, supplemented by Googleâs Photorealistic 3D Tiles. They could even switch on the thermal drone photogrammetry to understand the thermal nature of their site. Finally, they also got to 3D print their houses. With projects like these, pupils engage in a recognizable version of an actual design workflow. Not only are they learning how infrastructure professionals operate, but theyâre working with the digital tools actually used in industry.\nPupils designed houses for a specific space and positioned their design within the National Digital Twin of Scotland in CesiumJS. Then they 3D printed their models. Courtesy Alakbar Zeynalzade.\nAll of these educational experiences reference the Twin built in CesiumJS . In addition to exploring the natural and built environment with global terrain and satellite imagery, pupils can explore numerous real datasets showing the countryâs infrastructure: photogrammetry created with iTwin Capture Modeler , BIM and CAD content, real-time sensors from across the country, and infrastructure datasets come together in CesiumJS. More than a 3D map, the Twin gives location and context to infrastructure data from across Scotland, bringing static assets, design models, sensor readings, live feeds, and simulations into a common environment.\nOne of the priorities for the digital twin was that it be lightweight. Scottish pupils have access to Chromebooks and iPads through school, so the application needed to be able to run on their devices. Building on CesiumJS meant the digital twin could provide sophisticated 3D geospatial experiences while running in a browser. With easy-to-manage settings that allow pupils to select how much data is streamed and at what detail, the Twin can even run on pupilsâ phones. That accessibility is what makes national adoption of the Twin possible.\nWith its flood simulator, the National Digital Twin of Scotland allows pupils to simulate sea level rise. When the water level simulation is combined with Google Photorealistic 3D Tiles, students are able to see the water level compared to each floor of a building. Courtesy National Digital Twin of Scotland. Courtesy Alakbar Zeynalzade.\nThe National Digital Twin of Scotland and GIBE course were created in a unique collaboration between Heriot-Watt University, the University of Edinburgh and Midlothian Schools, in association with the University of Glasgow. The team consulted closely with industry partners to understand the skills employers need and translate real-world infrastructure challenges into practical classroom projects. Throughout, Bentley Education has supported and advised the team.\nLive weather data and forecasts visualize wind speeds while animated wind turbines, representing the countryâs actual wind power system, spin at the appropriate speed. Courtesy Alakbar Zeynalzade.\nWhile educators, universities, Bentley Education, and industry partners all helped shape the initiative, Alakbar Zeynalzade has led the software development of the National Digital Twin, with contributions from university interns. He came to the project with limited GIS experience and no previous experience with Cesium but found support needed to build such an ambitious project.\nTo bring infrastructure data into your own CesiumJS application, check out our guide to Cesium and BIM/CAD data . To help give pupils in your area access to industry tools for GIS and infrastructure, reach out to Bentley Education .",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://images.prismic.io/cesium/QXuQ5Xlu35QDy53d_flooding.png?auto=format,compress",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://images.prismic.io/cesium/3gNOBuxRQzBPDexO_infrastructure.png?auto=compress%2Cformat&w=870",
+          "label": ""
+        },
+        {
+          "url": "https://images.prismic.io/cesium/51bjXKXxQhdKJx3s_CADcourtyard.png?auto=compress%2Cformat&w=870",
+          "label": ""
+        },
+        {
+          "url": "https://images.prismic.io/cesium/QXuQ5Xlu35QDy53d_flooding.png?auto=compress%2Cformat&w=870",
+          "label": ""
+        },
+        {
+          "url": "https://images.prismic.io/cesium/54b6333a-2ef0-4e62-a7a7-7d82fcf8dbcc_schow.jpg?auto=compress%2Cformat&fit=crop&ar=1&crop=faces%2Ccenter&w=224",
+          "label": ""
+        },
+        {
+          "url": "https://images.prismic.io/cesium/aS6XmnNYClf9nrOG_IMG_9674.JPG?auto=compress%2Cformat&fit=crop&ar=1&crop=faces%2Ccenter&w=224",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1628px of source width"
+    },
+    "score": 6.0,
+    "why": "National digital twin of Scotland on CesiumJS; interactive 3D map, though no image in feed.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Vendor blog post about an education programme, and the cropped image cannot be identified or credited without guessing.",
+      "what_it_shows": "A Cesium blog post about the National Digital Twin of Scotland, a browser-based CesiumJS 3D view used to teach infrastructure to school pupils. It combines buildings, drone-scanned and thermal drone photogrammetry, Google Photorealistic 3D Tiles, BIM/CAD models, power networks, live bus locations, weather and environmental sensors. It also includes a sea level rise flood simulator. The page has several screenshots with different credits, and it does not say which one is the lead image used for the square crop.",
+      "uncertainties": [
+        "We don't know which of the page's images the 1080x1080 square was cropped from. Candidates include the opening twin view (courtesy Tech Unplugged), transmission lines with a Bentley substation, pupils' house designs, the flood simulator, and the wind turbine and weather view (several courtesy Alakbar Zeynalzade).",
+        "No image credit was found for the lead image and no licence is stated. The source's reuse policy is link_only.",
+        "No public link to the twin itself is given, so readers could not use it.",
+        "The post is promotional content from the software vendor (Cesium), and Bentley Education is a partner. It is not an independent report.",
+        "The figures of 50+ schools and 600 pupils are expectations for 2027-28, not current numbers.",
+        "If the editor confirms the image is the flood simulator or thermal photogrammetry screenshot and gets a credit, a post could work. The angle would be pupils simulating sea level rise floor by floor on Chromebooks."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Ukraine blew up Putin's bridge using relay drones to bypass Starlink limits - Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+      "published": "2026-11-19T02:25:05+00:00",
+      "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary. ... Vantor satellite image shows multiple smoke ...",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Kerch-Strait-Bridge-smoke-generators-2560x1440.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "A Ukrainian barrage of missiles and drones collapsed a crucial segment of Russian President Vladimir Putin’s prized Kerch Strait Bridge—and Ukraine’s military pulled off the strike deep within Russian-occupied territory without relying on the military-grade version of Elon Musk’s Starlink satellite communications to guide the missiles in.\nOn the nights of November 15 and November 16, coordinated waves of Ukrainian drones and missiles caused enough damage to collapse one of two steel arches supporting the Kerch bridge’s roadway for automobile traffic, according to an Institute for the Study of War update . Russian sources claimed several hundred Ukrainian drones first overwhelmed Russian air defenses to pave the way for remote-controlled missile strikes focused on the bridge, with the latter prominently including Ukraine’s homegrown Flamingo cruise missile.\nThe Ukrainian operation adapted a Russian battlefield innovation by using drones equipped with mesh radios to create an airborne communications network, according to the Financial Times . Each networked drone acts as a relay node to extend the communication link between human operators and remotely piloted missiles and strike drones. Russia began using the technique to support long-range drone and missile strikes on Ukrainian cities.\nDuring the Ukrainian attacks on the Kerch Strait Bridge, the flying mesh network allowed operators located more than 250 kilometers away (155 miles) to remotely guide missiles and drones in evading Russian air defenses while also homing in on the bridge’s weakest structural points, according to the Financial Times .\nUkraine’s takedown of the bridge segment was preceded by weeks of preparatory strikes that systematically destroyed or degraded Russian air defense weapons, radars and electronic warfare equipment arrayed to protect the bridge. The November 15 night attack on the bridge also coincided with the largest Ukrainian overnight drone attack on Russia since the start of the full-scale war, Reuters reported .\nNotably, Ukraine conducted the coordinated strike with primarily Ukrainian developed or adapted technologies. The Financial Times reported that “Ukrainian units involved in the operation deliberately avoided using Starshield, the military version of Musk’s Starlink satellite network,” because of recent US restrictions that prevent Ukraine from using Starshield on drones or anything else traveling more than 100 miles per hour (161 kilometers per hour).\nUkrainian President Volodymyr Zelenskyy said that the latest US-imposed restrictions on Starshield have not yet been lifted , although SpaceX denied that the restrictions had returned. Zelenskyy described the speed limit as interfering with some Ukrainian drone interceptor technologies that were designed to defend against Russian drones attacking Ukrainian cities and infrastructure .\nHowever, the Ukrainian strikes on the Kerch Strait Bridge provide yet another example of how the Ukrainian military and defense technology companies have been learning to fight without relying on Starlink . This is also not the first time that Ukraine, arguably the leading country in developing new battlefield uses of drones , has adopted a Russian battlefield innovation for its own uses.\nFrom Russia’s view, the only glimmer of good news may be that the bridge’s railway section was only moderately damaged. The Ukrainian newspaper Kyiv Independent pointed to Russian news and video sources indicating that trains appeared to be running again on the bridge after the strikes.\nBut the severe damage to the bridge’s arch and roadway section cuts off a crucial transportation and supply link between Russia and the Russian-occupied Crimean peninsula of Ukraine. The Institute for the Study of War assesses that the “destruction of the bridge” will complicate Russia’s ability to maintain its occupation and military basing within the peninsula.\nThe other overland supply route between Russia and Crimea involves highways running through Russian-occupied southern Ukraine. But Ukrainian forces have already been striking such highway infrastructure and the Russian supply trucks running along the exposed route.\nFallen debris from the bridge’s collapsed arch may also prevent any large ship traffic from passing through the Kerch Strait that connects the Sea of Azov and the Black Sea, according to a Telegram channel owner based in Crimea. That makes it even more difficult for Russia to resupply the Crimean peninsula by sea—and Ukrainian drones have previously struck dozens of Russian ships in the Sea of Azov .\nBeyond the physical damage to the bridge, such attacks represent a symbolic blow to Putin’s ambition of holding onto the Crimean peninsula. After Russian forces seized Crimea from Ukraine in 2014, Russia based much of its Black Sea Fleet at the naval base in Sevastopol and later used the peninsula as a logistics hub for its full-scale invasion of Ukraine in February 2022.\nThe $3.5 billion Kerch Strait Bridge was built as a physical link to cement Russia’s claim over Crimea. Putin personally drove a construction truck across the bridge to commemorate its opening in 2018. He repeated the bridge-crossing feat in a Mercedes in December 2022, after a Ukrainian truck bomb attack temporarily damaged the bridge in October of that year.\nIn 2025, the bridge was damaged again after Ukraine’s Security Service used agents to plant mines under the bridge supports. Again, Russia repaired the damage.\nThe Kerch Strait Bridge’s future prospects look much bleaker now following the latest missile and drone strikes. The bridge was initially constructed in two years, and engineering experts told The New York Times that repairs to the bridge roadway could also take two years under normal circumstances. But they also agreed that any damage to the bridge’s piers could extend that repair time—and Russian repair efforts would likely be at risk from future Ukrainian missile and drone attacks.",
+      "image_credit": "AFP PHOTO / Ukrainian Security Service",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Kerch-Strait-Bridge-smoke-generators-2560x1440.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Kerch-Strait-Bridge-smoke-generators.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Kerch-Strait-Bridge-damage-640x704.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/themes/ars-v9/public/images/firework-loader.1aaa7fe5bba8356d.gif",
+          "label": ""
+        },
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception-500x454.png",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1440px of source width"
+    },
+    "score": 5.0,
+    "why": "Vantor satellite image of smoke over the bridge; the visual is secondary to drone tech story.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "War news article with an AFP/Ukrainian Security Service photo of unknown content, not Earth observation or a map, link-only reuse and no stated licence.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page text does not describe the image, so we cannot say what it shows without guessing.",
+        "Credit is an AFP agency photo with no licence stated, and the source reuse policy is link_only, so reposting it is likely not permitted.",
+        "The article is about military technology (drones, mesh radio relays, Starshield restrictions), not remote sensing, GIS or maps.",
+        "Key claims are second-hand (Institute for the Study of War, Financial Times, Russian sources, a Crimea-based Telegram channel) and some are disputed (SpaceX denies the restrictions returned).",
+        "If the editor wants to cover the Kerch Strait Bridge damage, a sourced satellite before/after image from a commercial or Copernicus provider would be the right material."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://reliefweb.int/report/somalia/somalia-weekly-weather-forecast-valid-18-24-nov-2026",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Somalia Weekly Weather Forecast - Valid From 18 - 24 Nov 2026 - ReliefWeb",
+      "link": "https://reliefweb.int/report/somalia/somalia-weekly-weather-forecast-valid-18-24-nov-2026",
+      "published": "2026-11-19T02:29:36+00:00",
+      "summary": "Satellite images show about 55 km² of flood water in Jowhar district, down from about 87 km² last week. Radio Ergo callers (5–11 November) ...",
+      "image_url": "https://reliefweb.int/sites/default/files/styles/large/public/previews/22/5d/225d0a8b-5d0f-4767-aac4-2062030cc2c2.png",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://reliefweb.int/sites/default/files/styles/large/public/previews/22/5d/225d0a8b-5d0f-4767-aac4-2062030cc2c2.png",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://reliefweb.int/sites/default/files/styles/small/public/previews/22/5d/225d0a8b-5d0f-4767-aac4-2062030cc2c2.png?2753335-1-0",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 700px of source width"
+    },
+    "score": 5.0,
+    "why": "Satellite-derived flood extent in Jowhar; a mapped flood story, but a weather bulletin.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Routine weekly forecast report with link-only reuse, no image credit or licence, and no description of the image, so it cannot be posted or explained without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "Reuse policy is link_only, so the image should not be reposted.",
+        "No image credit or licence on the page.",
+        "The page text does not describe the image. It could be a forecast map, a report cover or a thumbnail.",
+        "The flood figures (about 55 km² in Jowhar district, down from about 87 km² the previous week) name no sensor, image date or analysing agency.",
+        "The page text is truncated, so the full context is unavailable.",
+        "Possible lead: if the original flood-extent map for Jowhar can be traced to its producer with a credit and reuse permission, it could be considered separately."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://numbersandplaces.com/tag/basemap",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Posts by tag 'basemap' | Numbers and Places - Interactive Maps, Data Visualization, and Storytelling",
+      "link": "https://numbersandplaces.com/tag/basemap",
+      "published": "2026-11-18T01:06:24+00:00",
+      "summary": "MapLibre - Vintage Green Map. A vintage green map with an antique map feel, built for storytelling and interactive exploration.",
+      "image_url": "https://numbersandplaces.com/default.png",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "A vintage green map with an antique map feel, built for storytelling and interactive exploration.\nA light gray basemap intended for data visualization and interactive map stuff.\nA dark gray basemap intended for data visualization and interactive map stuff.\nA simple dark blue basemap made for data visualization and interactive mapping stuff.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://numbersandplaces.com/maps/maplibre-vintage-green/maplibre-vintage-green.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://numbersandplaces.com/maps/maplibre-vintage-green/maplibre-vintage-green.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://numbersandplaces.com/maps/maplibre-basemap-light-gray/maplibre-basemap-light-gray.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://numbersandplaces.com/maps/maplibre-basemap-dark-gray/maplibre-basemap-dark-gray.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://numbersandplaces.com/maps/maplibre-basemap-dark-blue/maplibre-basemap-dark-blue.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1260px of source width"
+    },
+    "score": 5.0,
+    "why": "Interactive vintage-styled map collection for storytelling; a map gallery page with no specific image.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "A tag index listing four basemap styles, with no single identifiable image, no image credit and no licence, so the visual cannot be described without guessing.",
+      "what_it_shows": "",
+      "uncertainties": [
+        "The page lists four basemap styles (vintage green, light grey, dark grey, dark blue); it is unclear which one the cropped image shows.",
+        "No image credit is given; the maker is presumably Numbers and Places, but this is not stated.",
+        "No image licence is stated, and the reuse policy is link_only.",
+        "The page gives no location, data sources or other details beyond one-line style descriptions."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  }
+]
