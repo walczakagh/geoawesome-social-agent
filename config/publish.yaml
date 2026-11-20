@@ -10,10 +10,26 @@ timezone: Europe/Warsaw
 # the number of slots is the maximum number of posts per day.
 #   ["06:00", "10:00"]  a window: the post goes out at a random minute inside it
 #   "16:00"             a fixed time: the post goes out within +/- jitter_minutes
+#
+# Listed best first. In the 2025-2026 Meta exports, Facebook posts published
+# 16:00-19:00 Warsaw time reached 1.31x a typical post that month; morning
+# posts reached 1.0x. Instagram showed no real difference by time of day.
 slots:
-  - ["06:00", "10:00"]
-  - ["16:00", "21:00"]
+  - ["16:00", "19:00"]
   - ["11:00", "15:00"]
+  - ["06:00", "10:00"]
+
+# "best_first": each day's slots are filled in the order listed above, so a
+# ticked post takes today's evening slot before today's morning one.
+# "time": filled in time order (the old behaviour).
+slot_order: best_first
+
+# Days with their own slots (mon, tue, wed, thu, fri, sat, sun); other days use
+# `slots`. Facebook posts on Fridays reached 0.84x a typical post, weekends
+# 1.24x, so Friday gets one evening slot and the rest move to the weekend.
+weekday_slots:
+  fri:
+    - ["16:00", "19:00"]
 
 # Only used for fixed-time slots (see above).
 jitter_minutes: 40
@@ -34,9 +50,15 @@ instagram_user_id: ""
 networks: [facebook, instagram]
 
 # Posted by hand. When a post is live on Facebook and Instagram, a comment on
-# the issue @mentions the repo owner (GitHub emails it) with the YouTube
-# Community text and the X text for Buffer, plus the image link.
-manual: [youtube, x]
+# the issue @mentions the repo owner (GitHub emails it) with the X text for
+# Buffer, plus the image link.
+# YouTube Community was dropped on 20 Nov 2026: every Community post reached
+# about 100 people whatever it said (median 94-99 impressions in 2024-2026),
+# so reposts are not worth the manual step. Post there by hand only for new
+# Geoawesome videos and reports. The drafts no longer include a YouTube text
+# either; to restore it, add youtube back here, to `platforms` in
+# config/style_rules.yaml and to prompts/draft_system.md.
+manual: [x]
 youtube_channel_id: "UCqGv3p_twfy-LT86l52Wzdg"
 
 graph_version: v26.0   # current as of Oct 2026; Meta supports each version about 2 years

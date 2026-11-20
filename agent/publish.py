@@ -163,14 +163,25 @@ def _save(p: Path, data) -> None:
                  encoding="utf-8")
 
 
-def _specs(cfg: dict) -> list[tuple[str, str | None]]:
-    """Slots as (start, end): "16:00" is a point slot, ["16:00", "20:00"] a window."""
+_DAYS = ("mon", "tue", "wed", "thu", "fri", "sat", "sun")
+
+
+def _specs(cfg: dict, day=None) -> list[tuple[str, str | None]]:
+    """Slots for one local day as (start, end): "16:00" is a point slot,
+    ["16:00", "20:00"] a window. `weekday_slots` replaces the slots on the days
+    it names. With slot_order "best_first" the slots are tried in the order they
+    are listed (best first); otherwise by start time."""
+    slots = cfg["slots"]
+    if day is not None:
+        slots = (cfg.get("weekday_slots") or {}).get(_DAYS[day.weekday()], slots)
     out = []
-    for s in cfg["slots"]:
+    for s in slots:
         if isinstance(s, (list, tuple)):
             out.append((s[0], s[1]))
         else:
             out.append((s, None))
+    if cfg.get("slot_order", "time") == "best_first":
+        return out
     return sorted(out)  # by start time, whatever order they are listed in
 
 
@@ -180,13 +191,15 @@ def _at(day, hhmm: str, tz) -> datetime:
 
 
 def next_slot(now: datetime, taken: set[str], cfg: dict) -> datetime:
-    """Start of the earliest free slot (UTC) that can still be met at least
-    min_lead_minutes from now. A window counts while some of it is left."""
+    """Start of the first free slot (UTC) that can still be met at least
+    min_lead_minutes from now. A window counts while some of it is left.
+    Days are filled one at a time, soonest first; within a day the slots are
+    tried in time order, or in listed order with slot_order "best_first"."""
     tz = ZoneInfo(cfg["timezone"])
     earliest = now + timedelta(minutes=cfg.get("min_lead_minutes", 30))
     day = now.astimezone(tz).date()
     for _ in range(366):
-        for start, end in _specs(cfg):
+        for start, end in _specs(cfg, day):
             t = _at(day, start, tz)
             last = _at(day, end, tz) if end else t
             if last >= earliest and t.isoformat() not in taken:
@@ -203,7 +216,7 @@ def jittered(base: datetime, now: datetime, cfg: dict, rng=random) -> datetime:
     tz = ZoneInfo(cfg["timezone"])
     earliest = now + timedelta(minutes=cfg.get("min_lead_minutes", 30))
     local = base.astimezone(tz)
-    end = next((e for s, e in _specs(cfg) if s == local.strftime("%H:%M")), None)
+    end = next((e for s, e in _specs(cfg, local.date()) if s == local.strftime("%H:%M")), None)
     if end:
         lo = max(base, earliest)
         hi = _at(local.date(), end, tz)

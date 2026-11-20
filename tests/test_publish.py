@@ -1,3 +1,4 @@
+import random
 from datetime import datetime, timezone
 
 import pytest
@@ -334,3 +335,67 @@ def test_localise_image_makes_square_jpeg(tmp_path, monkeypatch):
     assert url.startswith("drafts/images/2026-11-16-8-inverted-r") and url.endswith(".jpg")
     im = Image.open(tmp_path / url)
     assert im.format == "JPEG" and im.size == (1080, 1080)
+
+
+# ---- slot order and weekday slots (20 Nov 2026)
+
+def test_best_first_takes_evening_before_morning_on_the_same_day():
+    cfg = {**CFG, "slots": [["16:00", "19:00"], ["11:00", "15:00"], ["06:00", "10:00"]],
+           "slot_order": "best_first"}
+    now = datetime(2026, 11, 23, 5, 0, tzinfo=timezone.utc)      # Mon 06:00 Warsaw
+    tz = publish.ZoneInfo("Europe/Warsaw")
+    b1 = publish.next_slot(now, set(), cfg)
+    b2 = publish.next_slot(now, {b1.isoformat()}, cfg)
+    b3 = publish.next_slot(now, {b1.isoformat(), b2.isoformat()}, cfg)
+    hours = [b.astimezone(tz).strftime("%a %H") for b in (b1, b2, b3)]
+    assert hours == ["Mon 16", "Mon 11", "Mon 06"]
+
+
+def test_time_order_is_still_the_default():
+    cfg = {**CFG, "slots": [["16:00", "19:00"], ["06:00", "10:00"]]}
+    now = datetime(2026, 11, 23, 4, 0, tzinfo=timezone.utc)      # Mon 05:00 Warsaw
+    b = publish.next_slot(now, set(), cfg)
+    assert b.astimezone(publish.ZoneInfo("Europe/Warsaw")).hour == 6
+
+
+def test_weekday_slots_replace_the_slots_on_that_day():
+    cfg = {**CFG, "slots": [["16:00", "19:00"], ["11:00", "15:00"]],
+           "slot_order": "best_first", "weekday_slots": {"fri": [["16:00", "19:00"]]}}
+    now = datetime(2026, 11, 27, 6, 0, tzinfo=timezone.utc)      # Fri 07:00 Warsaw
+    tz = publish.ZoneInfo("Europe/Warsaw")
+    b1 = publish.next_slot(now, set(), cfg)
+    b2 = publish.next_slot(now, {b1.isoformat()}, cfg)
+    assert b1.astimezone(tz).strftime("%a %H") == "Fri 16"
+    assert b2.astimezone(tz).strftime("%a %H") == "Sat 16"       # no Friday midday slot
+
+
+def test_jitter_stays_inside_a_weekday_window():
+    cfg = {**CFG, "slots": [["11:00", "15:00"]], "slot_order": "best_first",
+           "weekday_slots": {"fri": [["16:00", "19:00"]]}}
+    now = datetime(2026, 11, 27, 6, 0, tzinfo=timezone.utc)      # Fri 07:00 Warsaw
+    tz = publish.ZoneInfo("Europe/Warsaw")
+    for seed in range(20):
+        base = publish.next_slot(now, set(), cfg)
+        t = publish.jittered(base, now, cfg, random.Random(seed)).astimezone(tz)
+        assert t.weekday() == 4
+        assert (16, 0) <= (t.hour, t.minute) <= (19, 0)
+
+
+def test_repo_config_drops_youtube_from_manual_steps():
+    cfg = publish.load_cfg()
+    assert cfg["manual"] == ["x"]
+    post = {"texts": {"youtube": "YT", "x": "X hook.\nhttps://x/1"}, "image_url": "https://img"}
+    c = publish.manual_steps(post, cfg, "me")
+    assert "YouTube" not in c and "publish.buffer.com" in c
+
+
+def test_issue_without_youtube_box_still_parses():
+    item = {"title": "Atacama", "link": "https://x/1", "source_name": "NASA",
+            "square_path": "drafts/images/2026-11-20-1-atacama.jpg", "image_note": "crop"}
+    draft = {"facebook": "FB hook.\n\nRead more: https://x/1", "instagram": "IG hook.\n\nLearn more: https://x/1",
+             "x": "X hook.\nhttps://x/1", "what_it_shows": "", "alt_text": "Desert."}
+    body = review.render([{"item": item, "draft": draft, "problems": {}, "score": 8, "why": "w"}], "2026-11-20")
+    assert "YouTube Community" not in body
+    p = publish.parse_issue(body)["2026-11-20-1-atacama"]
+    assert p["texts"]["facebook"].startswith("FB hook") and p["texts"]["x"].startswith("X hook")
+    assert p["texts"]["instagram"].startswith("IG hook")

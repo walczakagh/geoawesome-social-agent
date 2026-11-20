@@ -1,9 +1,9 @@
 # Geoawesome social agent
 
-Every morning this repo checks map and Earth observation feeds plus your Google Alerts, picks the items with the strongest visuals, and prepares ready-to-post reposts for Facebook, Instagram, X and YouTube Community. Each repost is:
+Every morning this repo checks map and Earth observation feeds plus your Google Alerts, picks the items with the strongest visuals, and prepares ready-to-post reposts for Facebook, Instagram and X. Each repost is:
 
 - a **1080×1080 JPEG** made from the source image,
-- **four texts, one per platform** (Facebook, Instagram, YouTube Community, X), built from the same facts but worded differently so followers on two platforms do not read the same post twice: a hook, what you are looking at and why it is interesting, a link to the source, the image credit and single-word hashtags including #Geoawesome. The X text fits 280 characters.
+- **three texts, one per platform** (Facebook, Instagram, X), built from the same facts but worded differently so followers on two platforms do not read the same post twice: a hook, what you are looking at and why it is interesting, a link to the source, the image credit and single-word hashtags including #Geoawesome. The X text fits 280 characters.
 - a one-line alt text.
 
 Everything lands in a GitHub issue for review. Nothing is posted automatically.
@@ -15,7 +15,7 @@ Everything lands in a GitHub issue for review. Nothing is posted automatically.
 3. **Enrich** (`agent/enrich.py`): opens each page and takes the caption text, the credit and licence lines, and the best image: ESA's HI-RES JPG, NASA's before/after pair (with its dates) or lead image, otherwise the page's preview image. For Maps Mania posts it also records where the featured map lives, so its maker can be credited.
 4. **Square image** (`agent/images.py`): downloads the image and crops it to 1:1 around the most detailed part of the scene, then saves it at 1080×1080. A before/after pair becomes one square with the earlier date on top and the later below, both cropped to the same ground area and labelled with their dates. Small sources are flagged as low resolution.
 5. **Caption** (Claude Opus, `prompts/draft_system.md`): writes the caption, the X version, alt text, a "what it shows" note for you and a list of things to check. It may only use facts from the page.
-6. **Check** (`agent/checks.py`, rules in `config/style_rules.yaml`): em dashes, banned words and openers, CTA line with the link, credit line, 3 to 5 hashtags (3 to 4 on X) including #Geoawesome, single-word hashtags, X length (links count as 23). Failures go back to Claude once; anything still broken is marked in the issue.
+6. **Check** (`agent/checks.py`, rules in `config/style_rules.yaml`): em dashes, banned words and openers, a question as the first line (Facebook and Instagram), Facebook captions under 400 characters, CTA line with the link, credit line, 3 to 5 hashtags (3 to 4 on X) including #Geoawesome, single-word hashtags, X length (links count as 23). Failures go back to Claude once; anything still broken is marked in the issue.
 7. **Review**: images go to `drafts/images/`, the digest to `drafts/YYYY-MM-DD.md` (plus `.json`), and the digest is opened as an issue titled "Geoawesome reposts YYYY-MM-DD". No issue on days with nothing worth posting. The issue shows each square image with a download link, the caption and X text ready to copy, and at the end which sources answered.
 
 ## Publishing to Facebook and Instagram
@@ -26,9 +26,11 @@ Each post in a daily issue has a box **Publish on Facebook + Instagram**. Nothin
 2. Tick the box under each post you want. Within a minute a comment confirms the time slot, e.g. "Post title: Sun 18 Oct, 16:00".
 3. Every hour `.github/workflows/publish.yml` publishes posts whose slot has come and comments with links to the live posts. It reads the issue again just before posting, so caption edits made up to then are used, and a box unticked in the meantime cancels the post.
 
-Slots are in `config/publish.yaml` as time windows (local time), one post each, filled in time order. Each post goes out at a random minute inside its window; the publisher checks every 10 minutes. A failed network is retried twice, 10 minutes apart. YouTube Community (no API exists) and X (posted via Buffer) stay manual: when a post is live on Facebook and Instagram, a comment @mentions the repo owner, so GitHub emails the YouTube Community text and the X text with the image link. Make sure GitHub sends notification emails to the right address (Settings → Notifications). Only the repository owner's ticks count. `state/queue.json` holds queued posts, `state/published.json` what went out.
+Slots are in `config/publish.yaml` as time windows (local time), one post each. They are listed best first and filled in that order (`slot_order: best_first`): a ticked post takes today's 16:00-19:00 slot before today's morning slot, because Facebook posts in that window reached 1.31x a typical post in 2025-2026. Fridays have only the evening slot (`weekday_slots`). Each post goes out at a random minute inside its window; the publisher checks every 10 minutes. A failed network is retried twice, 10 minutes apart. X (posted via Buffer) stays manual: when a post is live on Facebook and Instagram, a comment @mentions the repo owner, so GitHub emails the X text with the image link. YouTube Community is no longer drafted (every Community post reached about 100 people whatever it said); post there by hand only for new Geoawesome videos and reports. Make sure GitHub sends notification emails to the right address (Settings → Notifications). Only the repository owner's ticks count. `state/queue.json` holds queued posts, `state/published.json` what went out.
 
 The workflow posts with a Facebook Page access token in the secret `META_PAGE_TOKEN`. Test it without posting: **Actions → Publish → Run workflow → mode: check**. Switch publishing off: delete the `META_PAGE_TOKEN` secret.
+
+**The Meta app must be in Live mode.** While the app that issued `META_PAGE_TOKEN` is in Development mode, Facebook shows the posts it publishes only to people with a role on the app: they go out without an error but reach almost no one. Between 17 October and 2 November 2026, 45 agent posts got 124 Facebook views in total while their Instagram versions got 41,422. Check at developers.facebook.com → My Apps → the app → App Mode in the top bar. To test a post, open it in a private browser window without logging in.
 
 ## Timing: cron-job.org starts the workflows
 

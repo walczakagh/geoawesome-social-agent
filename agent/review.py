@@ -34,12 +34,12 @@ def render(results: list[dict], run_date: str, sources: dict | None = None) -> s
         out.append("No items worth posting today.")
     else:
         out.append(f"{len(ready)} post(s) ready. Each has a 1080×1080 image and its own text for "
-                   "Facebook, Instagram, YouTube Community and X. Nothing has been posted.")
+                   "Facebook, Instagram and X. Nothing has been posted.")
         out += ["", "**To publish:** tick the box under a post. It is queued for the next free "
                 "time slot and posted to Facebook and Instagram; a comment here confirms the time. "
                 "Edit a text in this issue first if you want to change it (what is in the box is "
                 "what gets posted). Untick before the slot to cancel. When it is live, a comment "
-                "@mentions you with the YouTube Community text and the X text for Buffer."]
+                "@mentions you with the X text for Buffer."]
     out.append("")
 
     for n, r in enumerate(ready, 1):
@@ -77,6 +77,8 @@ def render(results: list[dict], run_date: str, sources: dict | None = None) -> s
                 out.append(f"- {LABELS.get(k, k)}: {'; '.join(v)}")
             out.append("")
         for k in ("facebook", "instagram", "youtube", "x"):
+            if k == "youtube" and not d.get("youtube"):
+                continue  # YouTube Community dropped 20 Nov 2026; older drafts still show it
             out += [f"**{LABELS[k]}**", "", "```text", platform_text(d, k), "```", ""]
         if d.get("alt_text"):
             out += [f"**Alt text:** {d['alt_text']}", ""]
