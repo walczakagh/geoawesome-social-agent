@@ -39,6 +39,15 @@ banned_phrases:
   - a fascinating read
   - a must-read
   - must-read
+  # engagement bait: reduces engagement and platforms demote it (Yip et al. 2024)
+  - like if
+  - share if
+  - tag a friend
+  - tag someone
+  - double tap
+  - comment below
+  - drop a comment
+  - smash that
 
 banned_openers:
   - did you know
@@ -52,12 +61,18 @@ cta_options:
   - "Full story:"
   - "Watch:"
 
+# Hashtags: Facebook posts with 5 hashtags reached 1.12x a typical post in
+# 2025-2026, those with 3 or 4 about 0.7x (part of this may be the 2026 caption
+# style, which used 5). Instagram 4-5 hashtags about 1.05x, 0-2 0.91x.
+# Instagram length: 450-700 characters 1.05x, under 450 about 0.96x; the
+# literature finds Instagram engagement highest at 259-952 characters
+# (Cuevas-Molano et al. 2022), so the limit is 800.
 # One text per platform. YouTube Community was dropped on 20 Nov 2026 (see
 # config/publish.yaml). Facebook captions of 450-700 characters reached 1.08x a
 # typical post in 2025-2026; shorter ones about 0.87x, hence min_chars.
 platforms:
-  facebook:  {hashtags_min: 3, hashtags_max: 5, min_chars: 400, max_chars: 700}
-  instagram: {hashtags_min: 3, hashtags_max: 5, max_chars: 600}
+  facebook:  {hashtags_min: 5, hashtags_max: 5, min_chars: 400, max_chars: 700}
+  instagram: {hashtags_min: 4, hashtags_max: 5, max_chars: 800}
   x:         {hashtags_min: 3, hashtags_max: 4, max_chars: 280}
 
 # The versions must not repeat each other; a hook shared word for word
