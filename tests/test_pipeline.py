@@ -490,3 +490,26 @@ def test_short_facebook_caption_is_flagged():
 def test_youtube_is_no_longer_a_drafted_platform():
     _, rules = _rules()
     assert "youtube" not in rules["platforms"]
+
+
+# ---- picks in odd shapes (20 Nov 2026 run stopped on a string-shaped list)
+
+def test_shortlist_accepts_picks_sent_as_a_json_string():
+    items = esa_items()
+    inner = json.dumps([{"id": items[1].id, "score": 8, "why": "flood scene"}])
+    reply = json.dumps({"picks": inner})
+    assert [p["id"] for p in llm.shortlist(items, 4, ask=lambda *a, **k: reply)] == [items[1].id]
+
+
+def test_shortlist_accepts_a_list_of_json_strings_and_drops_junk():
+    items = esa_items()
+    reply = json.dumps({"picks": [json.dumps({"id": items[0].id, "score": 9, "why": "map"}),
+                                  "not json", 7]})
+    assert [p["id"] for p in llm.shortlist(items, 4, ask=lambda *a, **k: reply)] == [items[0].id]
+
+
+def test_shortlist_retries_a_batch_with_an_unusable_shape():
+    items = esa_items()
+    replies = iter([json.dumps({"picks": 5}),
+                    json.dumps({"picks": [{"id": items[0].id, "score": 8, "why": "ok"}]})])
+    assert [p["id"] for p in llm.shortlist(items, 4, ask=lambda *a, **k: next(replies))] == [items[0].id]
