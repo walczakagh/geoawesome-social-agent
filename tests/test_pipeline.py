@@ -37,7 +37,7 @@ GOOD = {
     "facebook": "A salt pan 130 km wide, and the red is grass.\n\n"
                 "This false-colour Sentinel-2 view of Etosha in Namibia puts near-infrared in the red "
                 "channel, so dense vegetation glows. Acquired 5 April 2026.\n\n"
-                f"Read more: {LINK}\n\n{CREDIT}\n\n#Sentinel2 #Namibia #Copernicus #Geoawesome",
+                f"Read more: {LINK}\n\n{CREDIT}\n\n#Sentinel2 #Namibia #Copernicus #Africa #Geoawesome",
     "instagram": "Etosha Pan: 4760 sq km of salt seen from orbit.\n\n"
                  "Red here means vegetation, not fire.\n\n"
                  f"Full story: {LINK}\n\n{CREDIT}\n\n#Sentinel2 #Namibia #Salt #Geoawesome",
@@ -513,3 +513,15 @@ def test_shortlist_retries_a_batch_with_an_unusable_shape():
     replies = iter([json.dumps({"picks": 5}),
                     json.dumps({"picks": [{"id": items[0].id, "score": 8, "why": "ok"}]})])
     assert [p["id"] for p in llm.shortlist(items, 4, ask=lambda *a, **k: next(replies))] == [items[0].id]
+
+
+# ---- rules from the literature review, checked against own data (20 Nov 2026)
+
+def test_engagement_bait_is_flagged():
+    d = dict(GOOD, facebook=GOOD["facebook"].replace("Acquired 5 April 2026.", "Like if you spotted the pan."))
+    assert any("like if" in p for p in checks.check_draft(d, RULES, LINK).get("facebook", []))
+
+
+def test_facebook_needs_five_hashtags():
+    d = dict(GOOD, facebook=GOOD["facebook"].replace(" #Africa", ""))
+    assert any("needs 5-5" in p for p in checks.check_draft(d, RULES, LINK).get("facebook", []))

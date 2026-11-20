@@ -29,6 +29,7 @@ Use this to break ties: between two items of similar visual strength, score the 
 - GNSS/GPS policy and jamming news, defence procurement, launch schedules.
 - Software release notes or tutorials with no striking map to show.
 - Maps with no geo insight, such as a plain ranking of US states by one number, unless the pattern itself is surprising.
+- Images that are mostly text: slides, title cards, posters, quote cards, infographics where paragraphs or tables fill the frame. Posts whose picture is dominated by overlaid text get fewer likes and comments than pictorial ones (Dang et al. 2025). A map with a title and legend is fine.
 - Space and astronomy without an Earth angle: telescopes (Hubble, Webb), galaxies, planets, the Moon, Mars rovers, rocket launches, crewed missions, lunar landers. Score these 2 or lower even when NASA or ESA published them. Exception: an image of Earth taken from space, or a new Earth-observation satellite's first images.
 - Items whose title and summary give no hint of a map, satellite image or geo visual you could describe: score 4 or lower rather than guess.
 

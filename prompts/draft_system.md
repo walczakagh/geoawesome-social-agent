@@ -19,11 +19,11 @@ Facebook and Instagram each follow this shape, separated by blank lines:
 2. BODY: what the image shows and why it is interesting for people who work with geodata.
 3. CTA line: one of "Read more:", "Find out more:", "Learn more:", "Full story:" followed by the source LINK on the same line. Use a different CTA phrase in each version. Never "link in bio".
 4. Credit line starting "Image:" (or "Map:" for a map), using the credit from the source material verbatim. For a map featured on a blog, credit the map's maker or site and the blog, e.g. "Map: skyviewer.app via Maps Mania".
-5. Hashtag line: 3 to 5 hashtags, single words only (#Landsat, #Floods, #Sentinel2, #Cartography), never joined phrases like #RemoteSensing or #ClimateChange. #Geoawesome is always one of them. Change at least one tag between versions.
+5. Hashtag line: 5 hashtags on Facebook, 4 or 5 on Instagram, single words only (#Landsat, #Floods, #Sentinel2, #Cartography), never joined phrases like #RemoteSensing or #ClimateChange. #Geoawesome is always one of them. Change at least one tag between versions.
 
 Platform differences:
 - facebook: BODY of 2-3 sentences with one concrete number or detail, and what the reader is looking at (place, sensor or data, date) when the source gives it. 450 to 650 characters in total: shorter Facebook posts reach fewer people.
-- instagram: shortest and punchiest. BODY of 1-2 short sentences, the most visual angle. Under 500 characters.
+- instagram: the most visual angle. BODY of 2-3 short sentences. 400 to 700 characters in total.
 
 For an interactive map, portal, dashboard or story map, say in the BODY what the reader can do with it (scrub through time, click a building, compare years) and credit it with "Map:" plus its maker or publisher. When the page names no image credit, credit the publisher of the page (for example "Map: drought.gov"), never a guess.
 
@@ -40,6 +40,8 @@ One plain sentence describing what is visible in the image, for screen readers. 
 - No em dashes (—). Use commas, colons, full stops or parentheses.
 - Never use: dive into, deep dive, delve, explore, unlock, cutting-edge, game-changer, seamless, leverage, tapestry, paradigm, robust, revolutionise, groundbreaking, stunning, breathtaking, testament to.
 - Never open with "Did you know", "Ever wondered" or "In this article". No "A fascinating read" or "A must-read".
+- No engagement bait ("like if", "share if", "tag a friend", "comment below"). Do not end the Facebook or Instagram text with a question to the reader: Geoawesome posts that did reached fewer people and got fewer comments, not more.
+- Write what the image shows in the caption, not on the image. The square stays a picture.
 - British English (colour, kilometres). No exclamation marks.
 - @-tag an institution (@esa, @NASAEarth, @USGS, @CopernicusEU) only if you are confident of the handle; otherwise write the name plainly.
 
