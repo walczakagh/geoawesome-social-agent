@@ -22,7 +22,8 @@ def x_length(text: str) -> int:
 
 
 def check_text(kind: str, text: str, rules: dict, link: str) -> list[str]:
-    """kind is a platform name from the rules: facebook, instagram, youtube or x."""
+    """kind is a platform name from the rules: facebook, instagram or x
+    (youtube in older rule files)."""
     problems: list[str] = []
     spec = rules["platforms"][kind]
     low = text.lower()
@@ -38,6 +39,8 @@ def check_text(kind: str, text: str, rules: dict, link: str) -> list[str]:
     for opener in rules["banned_openers"]:
         if lines[0].lower().startswith(opener):
             problems.append(f'opens with "{opener}"')
+    if kind in rules.get("no_question_hook", []) and lines[0].rstrip().endswith("?"):
+        problems.append("hook is a question; make it a statement")
     if "link in bio" in low:
         problems.append('says "link in bio" (use the direct link)')
 
@@ -76,6 +79,8 @@ def check_text(kind: str, text: str, rules: dict, link: str) -> list[str]:
     n = x_length(text) if kind == "x" else len(text)
     if n > spec["max_chars"]:
         problems.append(f"{n} characters, limit {spec['max_chars']}")
+    if n < spec.get("min_chars", 0):
+        problems.append(f"{n} characters, at least {spec['min_chars']} needed")
     return problems
 
 

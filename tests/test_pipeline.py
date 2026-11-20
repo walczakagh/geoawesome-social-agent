@@ -459,3 +459,34 @@ def test_reddit_tiny_gallery_thumbnail_is_ignored():
     feed = REDDIT.replace(b"i.redd.it/abc123.png", b"www.reddit.com/gallery/abc")
     it = scout.parse_feed({"id": "r", "name": "R", "format": "reddit", "subreddit": "MapPorn"}, feed)[0]
     assert it.image_url == ""
+
+
+# ---- caption rules added 20 Nov 2026
+
+def _rules():
+    from agent import checks
+    from pathlib import Path
+    return checks, checks.load_rules(Path(__file__).resolve().parents[1] / "config/style_rules.yaml")
+
+
+def test_question_hook_is_flagged_on_facebook_and_instagram():
+    checks, rules = _rules()
+    link = "https://example.org/a"
+    body = ("Why is the Atacama turning green?\n\n" + "Rain from El Nino reached the driest desert. " * 8 +
+            f"\n\nRead more: {link}\n\nImage: NASA Earth Observatory\n\n#Geoawesome #Landsat #Desert")
+    assert any("question" in p for p in checks.check_text("facebook", body, rules, link))
+    assert any("question" in p for p in checks.check_text("instagram", body, rules, link))
+
+
+def test_short_facebook_caption_is_flagged():
+    checks, rules = _rules()
+    link = "https://example.org/a"
+    short = (f"Rain turned the Atacama green.\n\nRead more: {link}\n\n"
+             "Image: NASA Earth Observatory\n\n#Geoawesome #Landsat #Desert")
+    assert any("at least 400" in p for p in checks.check_text("facebook", short, rules, link))
+    assert not any("at least" in p for p in checks.check_text("instagram", short, rules, link))
+
+
+def test_youtube_is_no_longer_a_drafted_platform():
+    _, rules = _rules()
+    assert "youtube" not in rules["platforms"]

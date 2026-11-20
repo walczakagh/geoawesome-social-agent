@@ -52,15 +52,20 @@ cta_options:
   - "Full story:"
   - "Watch:"
 
-# caption = Facebook, Instagram and YouTube Community; x = X
+# One text per platform. YouTube Community was dropped on 20 Nov 2026 (see
+# config/publish.yaml). Facebook captions of 450-700 characters reached 1.08x a
+# typical post in 2025-2026; shorter ones about 0.87x, hence min_chars.
 platforms:
-  facebook:  {hashtags_min: 3, hashtags_max: 5, max_chars: 700}
+  facebook:  {hashtags_min: 3, hashtags_max: 5, min_chars: 400, max_chars: 700}
   instagram: {hashtags_min: 3, hashtags_max: 5, max_chars: 600}
-  youtube:   {hashtags_min: 3, hashtags_max: 5, max_chars: 750}
   x:         {hashtags_min: 3, hashtags_max: 4, max_chars: 280}
 
-# The four versions must not repeat each other; a hook shared word for word
+# The versions must not repeat each other; a hook shared word for word
 # between two platforms is flagged.
+
+# Platforms whose first line must be a statement, not a question. Facebook
+# posts opening with a question reached 0.90x a typical post in 2025-2026.
+no_question_hook: [facebook, instagram]
 
 credit_prefixes: ["Image:", "Map:", "Images:", "Visualisation:", "Credit:"]
 
