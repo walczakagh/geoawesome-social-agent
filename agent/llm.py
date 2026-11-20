@@ -71,6 +71,34 @@ def _ask_picks(model: str, system: str, messages: list[dict], max_tokens: int = 
     raise ValueError(f"no tool call in shortlist reply (stop_reason {resp.stop_reason})")
 
 
+def _picks(obj) -> list[dict]:
+    """The picks list from a shortlist reply, whatever shape it came in.
+    Haiku sometimes sends the tool's "picks" array as one JSON string, or as a
+    list of JSON strings, instead of a list of objects (20 Nov 2026 run stopped
+    with "'str' object has no attribute 'get'"). Entries that are not objects
+    after decoding are dropped."""
+    picks = obj.get("picks", []) if isinstance(obj, dict) else obj
+    if isinstance(picks, str):
+        try:
+            picks = json.loads(picks)
+        except ValueError:
+            raise ValueError("picks came back as text that is not JSON")
+    if isinstance(picks, dict):  # {"picks": [...]} wrapped twice
+        picks = picks.get("picks", [])
+    if not isinstance(picks, list):
+        raise ValueError(f"picks is a {type(picks).__name__}, not a list")
+    out = []
+    for p in picks:
+        if isinstance(p, str):
+            try:
+                p = json.loads(p)
+            except ValueError:
+                continue
+        if isinstance(p, dict):
+            out.append(p)
+    return out
+
+
 def _listing(items: list[Item], history: dict | None) -> str:
     from . import history as hist
     blocks = []
@@ -105,9 +133,9 @@ def shortlist(items: list[Item], limit: int, ask=None, history: dict | None = No
         for attempt in (1, 2):  # one retry, then skip this batch rather than the whole run
             try:
                 reply = ask(SHORTLIST_MODEL, system, msg, 4000)
-                picks += [p for p in parse_json(reply).get("picks", []) if p.get("id") in known]
+                picks += [p for p in _picks(parse_json(reply)) if p.get("id") in known]
                 break
-            except ValueError as exc:
+            except (ValueError, TypeError, AttributeError) as exc:
                 print(f"[shortlist] batch {start // BATCH + 1}, attempt {attempt}: {exc}")
         else:
             failed += 1
