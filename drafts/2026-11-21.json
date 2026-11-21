@@ -1,0 +1,255 @@
+[
+  {
+    "item": {
+      "id": "https://www.youtube.com/shorts/q0rYysunhSI",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Lake Milh Shrinks in Landsat Images, 1988-2025 - YouTube",
+      "link": "https://www.youtube.com/shorts/q0rYysunhSI",
+      "published": "2026-11-20T14:17:57+00:00",
+      "summary": "Lake Milh in Iraq loses much of its water in natural-color Landsat images from 1988 to 2025. NASA links the lake's severe water loss to droughts, ...",
+      "image_url": "https://i.ytimg.com/vi/q0rYysunhSI/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDv6b9fTRFSgO0MJ5mAZIKITX3WsQ",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q0rYysunhSI/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDv6b9fTRFSgO0MJ5mAZIKITX3WsQ",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 405px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 8.0,
+    "why": "Landsat time-lapse of Lake Milh drying 1988-2025; drought story with striking visual.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "Link-only YouTube Short with no image credit or licence, a 405px frame that would need upscaling, and truncated text; repost from the original NASA source instead if one exists.",
+      "what_it_shows": "A YouTube Short of natural-colour Landsat images showing Lake Milh in Iraq losing much of its water between 1988 and 2025. The page says NASA links the lake's severe water loss to droughts, but the rest of the explanation is cut off.",
+      "uncertainties": [
+        "Reuse policy is link_only, so the image should not be reposted as a square from this source.",
+        "No image credit or licence is given on the page. The uploader of the YouTube Short is not identified, and it is not stated whether this is NASA's own material.",
+        "The source frame is only 405px wide and would have to be upscaled, so it is likely too soft for a 1080x1080 post.",
+        "The page text is truncated after 'droughts, ...', so the other causes NASA names are unknown and should not be guessed.",
+        "No Landsat mission numbers, exact image dates, lake area figures or percentage of water lost are given.",
+        "It is not stated whether the video is a timelapse or a before/after pair, or which years are shown in between.",
+        "Worth searching for the original NASA publication (with credit, dates and figures) and building the post from that instead."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.youtube.com/shorts/FORBzagi0vs",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Hurricane Michael's Category 5 landfall in 2018, seen from space - YouTube",
+      "link": "https://www.youtube.com/shorts/FORBzagi0vs",
+      "published": "2026-11-20T17:33:54+00:00",
+      "summary": "Watch Hurricane Michael's eye approach Florida. These satellite images show hours passing in seconds (time-lapse, not real-time) on October 10, ...",
+      "image_url": "https://i.ytimg.com/vi/FORBzagi0vs/oar2.jpg?sqp=-oaymwEdCM0EENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAp5A4paXgd3TIFTY42-XxMNFw7iA",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FORBzagi0vs/oar2.jpg?sqp=-oaymwEdCM0EENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAp5A4paXgd3TIFTY42-XxMNFw7iA",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 589px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 8.0,
+    "why": "Hurricane Michael satellite time-lapse approaching Florida; vivid disaster imagery.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "There is no image credit and no licence, the reuse policy is link-only, and the source is an unattributed YouTube Short with a truncated description, a low-resolution frame and no sensor or uploader named.",
+      "what_it_shows": "A YouTube Short described as a satellite time-lapse of Hurricane Michael's eye approaching Florida on 10 October 2018 (hours compressed into seconds, not real-time). The page names no satellite, imagery provider or uploader, and the description is cut off.",
+      "uncertainties": [
+        "No image credit found on the page, so we cannot credit the imagery owner.",
+        "Reuse policy is link_only, so the frame should not be reposted as a square image.",
+        "Satellite and sensor are not stated.",
+        "Uploader and channel are not identified, and the original imagery source (agency or provider) is unknown.",
+        "The page text is truncated after 'October 10, ...', so the full context is missing.",
+        "The square would be upscaled from 589px source width, so sharpness is likely poor.",
+        "This is a video (time-lapse), not a still image, so a single frame may not convey what the source shows."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://ivanapallister.com/projects/city/",
+      "source_id": "google_alerts_7",
+      "source_name": "Google Alerts #7",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Amsterdam as a 3D city model from AHN4 lidar - Ivana Pallister",
+      "link": "https://ivanapallister.com/projects/city/",
+      "published": "2026-11-20T14:00:48+00:00",
+      "summary": "The national laser scan of a square kilometre of Amsterdam turned into a clean block model, buildings, canals and trees, and flown over slowly.",
+      "image_url": "https://ivanapallister.com/og.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "AHN measures the whole country with an aircraft laser, about 35 points on every square metre of this part of Amsterdam. Each point comes with a label: ground, building, water or something else.\nRaw, it looks like snow. So I rebuilt it. Building points are grouped into parts that share a roof height, every part gets straight walls along its outline, and trees become one smooth canopy. You lose detail, gables and chimneys become steps, but the city suddenly reads.\nThe flight starts at the Rijksmuseum, whose two towers still come through as stepped spires, and heads north-east over the canals.\nBuildings are stone coloured, lighter as they get taller. Trees are olive, canals dark slate. Everything outside the scanned area fades into the page.\nAHN4 laser scan (Rijkswaterstaat, Het Waterschapshuis), CC0, via GeoTiles.nl. Model and rendering are my own scripts.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://ivanapallister.com/og.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-21-3-amsterdam-as-a-3d-city-model-from-ahn4-l.jpg",
+      "image_note": "square crop, from 630px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 7.0,
+    "why": "Amsterdam 3D block model from AHN4 lidar, buildings, canals and trees; a striking city visual.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A 3D model of Amsterdam that Ivana Pallister built with her own scripts from the AHN4 airborne laser scan. AHN4 is CC0 data from Rijkswaterstaat and Het Waterschapshuis, obtained via GeoTiles.nl, with about 35 points per square metre in this part of the city. Building points are grouped into parts that share a roof height and given straight walls, and trees are merged into one smooth canopy. Colours: buildings are stone-coloured and lighter as they get taller, trees are olive, canals are dark slate, and areas outside the scan fade into the page.",
+      "uncertainties": [
+        "Reuse policy is link_only and the page states no licence for the rendering (only the AHN4 data is CC0). Get permission from Ivana Pallister before posting the image.",
+        "The source image is only 630px wide and was upscaled to 1080. Check sharpness before posting.",
+        "The page states no image credit. The credit uses the author named in the page title, who says the model and rendering are her own scripts. The publisher field ('Google Alerts #7') is not the real publisher.",
+        "The page states no AHN4 acquisition date.",
+        "The page describes a flight (an animation) starting at the Rijksmuseum. It is unclear which frame the square shows or whether the Rijksmuseum is visible in it.",
+        "The figure of about 35 points per square metre applies to 'this part of Amsterdam', not necessarily the whole country.",
+        "No social handle for the author is known, so she is named in plain text."
+      ],
+      "image_credit": "Image: Ivana Pallister (AHN4 data: Rijkswaterstaat, Het Waterschapshuis, via GeoTiles.nl)",
+      "facebook": "About 35 laser points per square metre went into this 3D model of Amsterdam, built from the AHN4 lidar scan.\n\nIvana Pallister grouped building points by shared roof height, gave each part straight walls and merged trees into one smooth canopy. Detail is lost, but the canal city suddenly reads: buildings get lighter as they rise, trees are olive and canals dark slate.\n\nRead more: https://ivanapallister.com/projects/city/\n\nImage: Ivana Pallister (AHN4 data: Rijkswaterstaat, Het Waterschapshuis, via GeoTiles.nl)\n\n#Geoawesome #Lidar #Amsterdam #3D #GIS",
+      "instagram": "Raw, a lidar point cloud of Amsterdam looks like snow, so Ivana Pallister rebuilt it as blocks, walls and canopy.\n\nStone-coloured buildings grow lighter with height. Her flythrough starts at the Rijksmuseum, whose two towers survive as stepped spires, then heads north-east over the canals. Beyond the scanned area, everything fades into the page.\n\nFind out more: https://ivanapallister.com/projects/city/\n\nImage: Ivana Pallister (AHN4 data: Rijkswaterstaat, Het Waterschapshuis, via GeoTiles.nl)\n\n#Geoawesome #Lidar #Netherlands #3D #Cartography",
+      "x": "One olive canopy for the trees, straight walls for every roof height: Amsterdam rebuilt from the AHN4 laser scan.\n\nhttps://ivanapallister.com/projects/city/\nImage: Ivana Pallister, AHN4 via GeoTiles.nl\n#Geoawesome #Lidar #Amsterdam",
+      "alt_text": "A 3D rendering of part of Amsterdam with stone-coloured block buildings, olive tree canopies and dark slate canals, fading to a plain background at the edges."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-21-3-amsterdam-as-a-3d-city-model-from-ahn4-l.jpg"
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/tennessee/anderson_johnny_smith_lane",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Anderson Johnny Smith Lane Fire in Tennessee | WFCA Fire Map",
+      "link": "https://wfca.com/fire-map/tennessee/anderson_johnny_smith_lane",
+      "published": "2026-11-20T23:08:09+00:00",
+      "summary": "Columbia 3491 acStarted Nov 17 · Updated 2d ago. 100 mi. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and map settings.",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The Anderson Johnny Smith Lane fire in Anderson, Tennessee is currently 1 acres and 0% contained.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live wildfire tracker map of a Tennessee fire; disaster topic, interactive, but no image.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page and only an auto-generated fire tracker entry (1 acre, 0% contained) with nothing visual to show.",
+      "what_it_shows": "A WFCA fire map tracker page for the Anderson Johnny Smith Lane fire in Anderson, Tennessee. The page text says the fire is 1 acre and 0% contained. No map image, sensor, date or perimeter data is given.",
+      "uncertainties": [
+        "No image found on the page, so there is nothing to crop into a square.",
+        "No image credit or licence stated, and the source is link_only reuse.",
+        "No date, data source or perimeter method given for the fire figures."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/tennessee/morgan_nashville_highway?name=Morgan+-+Nashville+Highway",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Morgan Nashville Highway Fire in Tennessee | WFCA Fire Map",
+      "link": "https://wfca.com/fire-map/tennessee/morgan_nashville_highway?name=Morgan+-+Nashville+Highway",
+      "published": "2026-11-20T23:08:09+00:00",
+      "summary": "Cass 00481 ac · 0% containedStarted Nov 19 · Updated 1h ago. 5 mi. MapLibre . MenuOpen the menu and map settings. FiresBrowse active fires on the map.",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The Morgan Nashville Highway fire in Morgan, Tennessee is currently 55 acres and 97% contained.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Live Tennessee fire map with acreage and containment; disaster topic, interactive.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image on the page and the text is a one-line fire status (55 acres, 97% contained), so there is no visual to repost.",
+      "what_it_shows": "A WFCA fire map tracker page for the Morgan Nashville Highway fire in Morgan, Tennessee. The page text gives only the fire's size (55 acres) and containment (97%). No image, sensor, date or map visual was found.",
+      "uncertainties": [
+        "No image found on the page (IMAGE NOTE), so there is nothing to make a square from.",
+        "No image credit or licence stated; reuse policy is link_only.",
+        "The page gives no data source for the fire perimeter or status, and no date for the figures beyond the alert's publication time.",
+        "The source is a Google Alert pointing to an automated tracker page, not an original map or analysis."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  }
+]
