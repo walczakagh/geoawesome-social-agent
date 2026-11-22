@@ -525,3 +525,39 @@ def test_engagement_bait_is_flagged():
 def test_facebook_needs_five_hashtags():
     d = dict(GOOD, facebook=GOOD["facebook"].replace(" #Africa", ""))
     assert any("needs 5-5" in p for p in checks.check_draft(d, RULES, LINK).get("facebook", []))
+
+
+# ---- cost settings (22 Nov 2026) ----
+
+def test_system_prompt_is_sent_as_a_cacheable_block(monkeypatch):
+    seen = {}
+
+    class B:
+        type = "text"
+        text = "{}"
+
+    class R:
+        content = [B()]
+
+    class C:
+        class messages:
+            @staticmethod
+            def create(**kw):
+                seen.update(kw)
+                return R()
+    monkeypatch.setattr(llm, "_client", lambda: C())
+    llm._ask("m", "SYSTEM", [])
+    assert seen["system"] == [{"type": "text", "text": "SYSTEM", "cache_control": {"type": "ephemeral"}}]
+
+
+def test_empty_model_variable_falls_back_to_default(monkeypatch):
+    import importlib
+    monkeypatch.setenv("DRAFT_MODEL", "")
+    monkeypatch.setenv("SHORTLIST_MODEL", "  ")
+    m = importlib.reload(llm)
+    assert m.DRAFT_MODEL == "claude-sonnet-5-5" and m.SHORTLIST_MODEL == "claude-haiku-5-5"
+    monkeypatch.setenv("DRAFT_MODEL", "claude-opus-5-5")
+    assert importlib.reload(llm).DRAFT_MODEL == "claude-opus-5-5"
+    monkeypatch.delenv("DRAFT_MODEL")
+    monkeypatch.delenv("SHORTLIST_MODEL")
+    importlib.reload(llm)

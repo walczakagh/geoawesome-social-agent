@@ -8,8 +8,13 @@ from pathlib import Path
 
 from .scout import Item
 
-SHORTLIST_MODEL = os.environ.get("SHORTLIST_MODEL", "claude-haiku-5-5")
-DRAFT_MODEL = os.environ.get("DRAFT_MODEL", "claude-opus-5-5")
+# Models can be changed without code: set the repository variables
+# SHORTLIST_MODEL / DRAFT_MODEL (Settings > Secrets and variables > Actions >
+# Variables). An empty value falls back to the default here. Drafts moved from
+# Opus to Sonnet on 22 Nov 2026 to halve their cost; set DRAFT_MODEL to
+# claude-opus-5-5 to go back.
+SHORTLIST_MODEL = os.environ.get("SHORTLIST_MODEL", "").strip() or "claude-haiku-5-5"
+DRAFT_MODEL = os.environ.get("DRAFT_MODEL", "").strip() or "claude-sonnet-5-5"
 PROMPTS = Path(__file__).resolve().parent.parent / "prompts"
 
 
@@ -32,9 +37,17 @@ def parse_json(text: str) -> dict:
     return obj
 
 
+def _cached(system: str) -> list[dict]:
+    """The system prompt as a cacheable block. The same instructions go out with
+    every draft of a run, so after the first call they are read from the cache at
+    a fraction of the input price. Prompts shorter than the model's minimum
+    cacheable length are simply not cached; nothing fails."""
+    return [{"type": "text", "text": system, "cache_control": {"type": "ephemeral"}}]
+
+
 def _ask(model: str, system: str, messages: list[dict], max_tokens: int = 4000) -> str:
     resp = _client().messages.create(model=model, max_tokens=max_tokens,
-                                     system=system, messages=messages)
+                                     system=_cached(system), messages=messages)
     return "".join(b.text for b in resp.content if getattr(b, "type", "") == "text")
 
 
@@ -61,7 +74,7 @@ def _ask_picks(model: str, system: str, messages: list[dict], max_tokens: int = 
     is always valid JSON (a plain-text reply was cut off mid-string on 17 Oct
     2026 and stopped the run). Returns the picks as a JSON string."""
     resp = _client().messages.create(
-        model=model, max_tokens=max_tokens, system=system, messages=messages,
+        model=model, max_tokens=max_tokens, system=_cached(system), messages=messages,
         tools=[PICKS_TOOL], tool_choice={"type": "tool", "name": "submit_picks"})
     for b in resp.content:
         if getattr(b, "type", "") == "tool_use":
