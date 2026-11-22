@@ -14,7 +14,7 @@ Everything lands in a GitHub issue for review. Nothing is posted automatically.
 2. **Shortlist** (`agent/llm.py`, Claude Haiku, `prompts/shortlist_system.md`): scores every new item (in batches of 20) on whether the visual would stop a geodata reader scrolling: satellite scenes, interactive maps and portals, story maps, geo data-vis. Each item carries its site's record from your alerts sheet (`config/editor_history.yaml`, e.g. "picked 24 of 49"). Keeps up to `drafts_per_day` items scoring at least `min_score`, both set in `config/drafts.yaml`.
 3. **Enrich** (`agent/enrich.py`): opens each page and takes the caption text, the credit and licence lines, and the best image: ESA's HI-RES JPG, NASA's before/after pair (with its dates) or lead image, otherwise the page's preview image. For Maps Mania posts it also records where the featured map lives, so its maker can be credited.
 4. **Square image** (`agent/images.py`): downloads the image and crops it to 1:1 around the most detailed part of the scene, then saves it at 1080×1080. A before/after pair becomes one square with the earlier date on top and the later below, both cropped to the same ground area and labelled with their dates. Small sources are flagged as low resolution.
-5. **Caption** (Claude Opus, `prompts/draft_system.md`): writes the caption, the X version, alt text, a "what it shows" note for you and a list of things to check. It may only use facts from the page.
+5. **Caption** (Claude Sonnet, `prompts/draft_system.md`): writes the caption, the X version, alt text, a "what it shows" note for you and a list of things to check. It may only use facts from the page.
 6. **Check** (`agent/checks.py`, rules in `config/style_rules.yaml`): em dashes, banned words and openers, a question as the first line (Facebook and Instagram), Facebook captions under 400 characters, CTA line with the link, credit line, 3 to 5 hashtags (3 to 4 on X) including #Geoawesome, single-word hashtags, X length (links count as 23). Failures go back to Claude once; anything still broken is marked in the issue.
 7. **Review**: images go to `drafts/images/`, the digest to `drafts/YYYY-MM-DD.md` (plus `.json`), and the digest is opened as an issue titled "Geoawesome reposts YYYY-MM-DD". No issue on days with nothing worth posting. The issue shows each square image with a download link, the caption and X text ready to copy, and at the end which sources answered.
 
@@ -93,7 +93,8 @@ Metricool's REST API is only on its Advanced and Custom plans, so the repo does 
 
 - **Add a source**: append to `config/sources.yaml` with `licence: reuse` only if the publisher's terms allow reuse with credit; otherwise `link_only`.
 - **Change the caption format**: `prompts/draft_system.md`. Keep `config/style_rules.yaml` in step, since the checker enforces it.
-- **Models**: set `SHORTLIST_MODEL` / `DRAFT_MODEL` environment variables (defaults `claude-haiku-5-5`, `claude-opus-5-5`).
+- **Models**: set the repository variables `SHORTLIST_MODEL` / `DRAFT_MODEL` under Settings → Secrets and variables → Actions → Variables (defaults `claude-haiku-5-5`, `claude-sonnet-5-5`). Drafts used Opus until 22 Nov 2026; set `DRAFT_MODEL` to `claude-opus-5-5` to go back (about twice the cost).
+- **Cost**: almost all of it is the draft model, one call per draft plus a repair call when a draft breaks a rule. The system prompts are sent as cacheable blocks, so repeated instructions within a run are billed at the cache-read price. Fewer drafts (`drafts_per_day`) is the biggest saving.
 - **Volume and quality**: `config/drafts.yaml` (`drafts_per_day`, `min_score`). A run started by hand can override the count in its "Maximum number of items" box.
 
 ## Known limits

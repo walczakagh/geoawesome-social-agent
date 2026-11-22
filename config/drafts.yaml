@@ -4,9 +4,11 @@
 # Maximum number of drafts in one daily issue. The issue has fewer when fewer
 # items reach min_score. (A run started by hand can override this in the
 # "Maximum number of items" box; leave that box empty to use this number.)
-drafts_per_day: 20
+# 8 since 22 Nov 2026 (was 20): about 3 posts a day get published, and every
+# draft costs an API call whether it is used or not.
+drafts_per_day: 8
 
 # Claude Haiku scores every new item from 0 to 10 on how strong its visual is.
 # Only items scoring at least this much become drafts. Raise to 7 or 8 for
-# fewer, stronger posts; lower to 5 for more.
-min_score: 4
+# fewer, stronger posts; lower to 5 for more. 6 since 22 Nov 2026 (was 4).
+min_score: 6
