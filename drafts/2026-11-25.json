@@ -1,0 +1,431 @@
+[
+  {
+    "item": {
+      "id": "https://www.facebook.com/12NewsNow/posts/satellite-images-show-an-eruption-added-125-acres-about-90-football-fields-to-iw/1643755434461131/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Satellite images show an eruption added 125 acres, about 90 football fields, to Iwo Jima's ...",
+      "link": "https://www.facebook.com/12NewsNow/posts/satellite-images-show-an-eruption-added-125-acres-about-90-football-fields-to-iw/1643755434461131/",
+      "published": "2026-11-25T03:24:36+00:00",
+      "summary": "Satellite images show an eruption added 125 acres, about 90 football fields, to Iwo Jima's beaches where Marines landed in 1945.",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Satellite images show an eruption added 125 acres, about 90 football fields, to Iwo Jima's beaches where Marines landed in 1945.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 8.0,
+    "why": "Satellite images of volcanic eruption adding land to Iwo Jima; disaster plus before/after change.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was found on the page, the credit is missing and the source is only a one-line headline on a Facebook post (link_only), so there is no visual to share and no sensor, date or original source to cite without guessing.",
+      "what_it_shows": "The source is a headline saying satellite images show an eruption added 125 acres (about 90 football fields) to Iwo Jima's beaches, where Marines landed in 1945. No image, sensor, date or colour information is given.",
+      "uncertainties": [
+        "No image available on the page",
+        "No image credit or licence stated",
+        "Satellite, sensor and acquisition dates not given",
+        "Original source of the satellite images is not named (the link is a 12NewsNow Facebook post)",
+        "Date of the eruption not stated",
+        "Could be worth re-checking if the original imagery (e.g. from an agency or the satellite operator) turns up with a proper credit"
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.ndtv.com/india-news/fresh-construction-at-china-mother-of-all-dams-geospatial-survey-shows-12370718",
+      "source_id": "google_alerts_1",
+      "source_name": "Google Alerts #1",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Fresh Construction At China Mother Of All Dams Geospatial Survey Shows - NDTV",
+      "link": "https://www.ndtv.com/india-news/fresh-construction-at-china-mother-of-all-dams-geospatial-survey-shows-12370718",
+      "published": "2026-11-24T16:14:08+00:00",
+      "summary": "The findings are part of an assessment by EarthSense Labs, a geospatial AI startup incubated at the Foundation for Innovation and Technology ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The findings are part of an assessment by EarthSense Labs, a geospatial AI startup incubated at the Foundation for Innovation and Technology ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Satellite-based survey of Medog dam construction; a real imagery story, though no image was carried.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image found on the page and the source gives only a one-line teaser, so there is no striking visual to repost and nothing to caption without guessing.",
+      "what_it_shows": "The source is an NDTV news item about fresh construction at a Chinese mega-dam, citing an assessment by EarthSense Labs, a geospatial AI startup incubated at the Foundation for Innovation and Technology. No image, sensor, date or map is available from the page text provided.",
+      "uncertainties": [
+        "No image found on the page and no image credit or licence stated",
+        "Page text is a single truncated sentence: no location, sensor, imagery date or findings given",
+        "The dam is only named in the headline as 'China Mother Of All Dams'; the source does not say which dam or what the new construction is",
+        "Source type is link_only (Google Alerts), so the NDTV page itself would need checking for any usable visual before posting"
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://m.economictimes.com/news/new-updates/chinas-rs-15623605200000-super-dam-near-arunachal-working-at-fast-pace-satellite-images-show-site-cleared-river-diverted-in-less-than-a-year/articleshow/136118332.cms",
+      "source_id": "google_alerts_1",
+      "source_name": "Google Alerts #1",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "China's Rs 15,623,605,200,000 super dam project near Arunachal working at fast pace ...",
+      "link": "https://m.economictimes.com/news/new-updates/chinas-rs-15623605200000-super-dam-near-arunachal-working-at-fast-pace-satellite-images-show-site-cleared-river-diverted-in-less-than-a-year/articleshow/136118332.cms",
+      "published": "2026-11-24T08:02:07+00:00",
+      "summary": "An assessment by EarthSense Labs, an Indian geospatial AI start-up incubated at the Foundation for Innovation and Technology Transfer (FITT), IIT ...",
+      "image_url": "https://img.etimg.com/thumb/msid-136118417,width-1200,height-900,imgsize-246041,overlay-economictimes/articleshow.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "China's $169 billion (Rs 15.62 lakh crore) Medog hydropower project near Arunachal Pradesh is advancing rapidly. Satellite images reveal villages cleared, river diversion work underway and major infrastructure emerging near the India-China border.\nListen to this article in summarized format\nChina's Rs 15.62 lakh crore super dam near Arunachal Pradesh advances rapidly. Satellite images reveal cleared villages, river diversion and construction progress. (representative image created by AI)\nAs AI sharpens cyber attacks, should listed companies follow one standard in reporting them?\nKYC and KYB: Zydus Lifesciences – From the chemist’s counter to US pharmacies. Part 1 of 3\nWhat would it take for the world to stop needing the Strait of Hormuz?\nHidden export winners: The unlikely products finding real buyers abroad\nIndia’s USD25 bn copper drive moves from building smelters to securing mines\nWhy IndiGo could land a sharp rebound in profit despite a sluggish aviation market\nIs Parle stuck inside its best-selling biscuit? CMO Mayank Shah\nIndia flags emerging security risks from AI misuse by non-state actors\nTN: Maha Deepam ritual held above Uchi Pillayar temple amid controversy\nTrump and Melania give presidential pardon to Thanksgiving turkeys\nBreathtaking view as supermoon shines over Golden Temple\nTrump congratulates Huang with bizarre AI image\n‘Bada bhai becomes CM, Akali Dal is the elder brother’\nNVIDIA reinstates Huang; Trump reacts, 'correct decision'\nAkali Dal returning to NDA is homecoming: Amit Shah\n'India now a technology provider': ISRO Chief on Gaganyaan\nIs Parle stuck inside its best-selling biscuit? CMO Mayank Shah\nIndia flags emerging security risks from AI misuse by non-state actors\nTN: Maha Deepam ritual held above Uchi Pillayar temple amid controversy\nTrump and Melania give presidential pardon to Thanksgiving turkeys\nBreathtaking view as supermoon shines over Golden Temple\nTrump congratulates Huang with bizarre AI image\n‘Bada bhai becomes CM, Akali Dal is the elder brother’\nNVIDIA reinstates Huang; Trump reacts, 'correct decision'\nAkali Dal returning to NDA is homecoming: Amit Shah\n'India now a technology provider': ISRO Chief on Gaganyaan\nChoose your reason below and click on the Report button. This will alert our moderators to take action\nYour Reason has been Reported to the admin.\n15 Days Free: Unlock All ETPrime Exclusives, Market Tools & ePapers\nIt seems like you're already an ETPrime member with\nLogin using your ET Prime credentials to enjoy all member benefits\nLog out of your current logged-in account and log in again using your ET Prime credentials  to enjoy all member benefits.\nConnect with an ETPrime expert for personalized support and guidance\nTrump temper on H-1B visas is forcing Indians to do these things to stay put in US\nWhat Adani’s US indictment means for India Inc’s overseas fundraising\nWhy veterans like Reliance, L&T are on acquisition spree? Aswath Damodaran has an answer.\nWill China’s dollar bond sale in Saudi Arabia trump the US in financial world?\nHuawei launches its own OS to compete with Google and Apple. But can it win beyond China?\nWhy a falling rupee is a better option for the economy\nA list of top 20 momentum stocks that have delivered massive returns in one year\nGet daily trade ideas from SEBI-registered research analysts.\nGrow your wealth with stock ideas & sectoral trends.\nAll-in-one stock research with Stock Score, peer comparison & key signals.\nGet to know where the market bulls are investing to identify the right stocks.\nCheck the score based on the company's fundamentals, solvency, growth, risk & ownership to decide the right stocks.\nAnalyze the market sentiments & identify the trend reversal for strategic decisions.\nAsk your stock queries & get assured replies by ET appointed, SEBI registered experts.\nRead the PDF version of ET newspaper. Download & access it offline anytime.\nRead your daily newspaper in Digital View & get it delivered to your inbox everyday.\nManage your money efficiently with this weekly money management guide.\nRead the PDF version of TOI newspaper. Download & access it offline anytime.\nExplore the In-depth explanation of complex topics for everyday life decisions.\nGet fitter with daily health insights committed to your well-being.\nManage your wealth better with in-depth insights & updates on finance.\nStream new documentaries from all across the world every day.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://img.etimg.com/thumb/msid-136118417,width-1200,height-900,imgsize-246041,overlay-economictimes/articleshow.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://img.etimg.com/photo/msid-135455599.cms",
+          "label": ""
+        },
+        {
+          "url": "https://img.etimg.com/photo/124385886.cms",
+          "label": ""
+        },
+        {
+          "url": "https://img.etimg.com/photo/104857408.cms",
+          "label": ""
+        },
+        {
+          "url": "https://img.etimg.com/photo/124905307.cms",
+          "label": ""
+        },
+        {
+          "url": "https://img.etimg.com/photo/msid-76685415.cms",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 900px of source width"
+    },
+    "score": 7.0,
+    "why": "Satellite images show cleared site and diverted river at Medog dam; strong visual story.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The only image on the page is captioned 'representative image created by AI', not a real satellite scene. The page text gives no sensor, date, credit or licence for any actual satellite imagery.",
+      "what_it_shows": "The page is an Economic Times news piece saying satellite images show villages cleared and river diversion under way at China's Medog hydropower project near Arunachal Pradesh. The image supplied with it is labelled as AI-generated and representative, so it shows no real data. No satellite imagery, provider or acquisition date is named in the page text.",
+      "uncertainties": [
+        "The image is explicitly AI-generated and 'representative', so it is not a genuine Earth observation image or map.",
+        "The page text does not say who supplied the satellite images, which sensor was used or when they were acquired.",
+        "No image credit or licence is stated, and the source is link-only (reuse policy: link_only).",
+        "The cost (USD 169 billion / Rs 15.62 lakh crore) and the claims about cleared villages and river diversion are the article's own and unverified here.",
+        "If the original satellite imagery is found (e.g. from a commercial provider or analyst), it could be worth posting with proper credit and acquisition details."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.instagram.com/reel/DgIci73IfdL/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Driving Boston to Provincetown, from Sentinel-2 satellite imagery. 16 miles and 2 hours ... - Instagram",
+      "link": "https://www.instagram.com/reel/DgIci73IfdL/",
+      "published": "2026-11-24T22:51:14+00:00",
+      "summary": "Driving Boston to Provincetown, from Sentinel-2 satellite imagery. 16 miles and 2 hours 13 minutes with no traffic: Quincy, Plymouth, ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Boston to Provincetown drive traced in Sentinel-2 imagery; striking, playable geo visual.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image could be retrieved (Instagram reel, link_only reuse policy), no creator credit or licence is given, and the snippet is truncated and internally inconsistent.",
+      "what_it_shows": "An Instagram reel titled 'Driving Boston to Provincetown, from Sentinel-2 satellite imagery'. The snippet says the route takes 2 hours 13 minutes with no traffic and passes Quincy and Plymouth. It does not give dates, processing details or the creator.",
+      "uncertainties": [
+        "No image found on the page, and the source is link_only, so a square cannot be made from it",
+        "Creator and credit not stated: the Instagram account name is missing",
+        "Image licence not stated",
+        "'16 miles' does not fit a 2 hour 13 minute drive from Boston to Provincetown, so the snippet is probably truncated or garbled",
+        "Sentinel-2 acquisition dates and how the imagery was assembled are not stated",
+        "The page text is cut off after 'Quincy, Plymouth, ...'"
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://www.instagram.com/reel/DgI0eudDmUk/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Satellite images show an eruption added 125 acres, about 90 football fields, to Iwo Jima's ...",
+      "link": "https://www.instagram.com/reel/DgI0eudDmUk/",
+      "published": "2026-11-24T21:21:34+00:00",
+      "summary": "Satellite images show an eruption added 125 acres, about 90 football ... - In the Sentinel-2 image from Nov 21, 2026, a plume is still rising ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Sentinel-2 eruption imagery of Iwo Jima growing land; disaster and satellite story, but no image in feed.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was found on the page, no credit is given, the licence is not stated and the reuse policy is link_only, so there is no visual to repost. The source is an Instagram reel and the page text is only a snippet.",
+      "what_it_shows": "The snippet says satellite images show an eruption added 125 acres (about 90 football fields) to Iwo Jima, and that a Sentinel-2 image from 21 Nov 2026 shows a plume still rising. No image, colour information or author is available.",
+      "uncertainties": [
+        "No image available on the page, so there is nothing to make the square from",
+        "Image credit not found and licence not stated; the reuse policy is link_only",
+        "The title is truncated, so the full claim about the land added is not visible",
+        "The 125 acres figure comes from a Google Alerts snippet of an Instagram reel and its original source is not named",
+        "Band combination, resolution and who produced the comparison are not stated",
+        "Worth looking for the original Sentinel-2 imagery (Copernicus) or a news or agency article with a proper credit before reconsidering"
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://patch.com/california/los-angeles/amp/35267731/king-tides-threaten-la-county-coast-this-week-when-where-flooding-could-be-worst",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "King Tides Threaten LA County Coast This Week: When, Where Flooding Could Be Worst",
+      "link": "https://patch.com/california/los-angeles/amp/35267731/king-tides-threaten-la-county-coast-this-week-when-where-flooding-could-be-worst",
+      "published": "2026-11-24T16:34:25+00:00",
+      "summary": "In LA County, 5% of all land is in FEMA's high-risk flood zones. This map shows FEMA-designated flood hazard zones across Los Angeles County ...",
+      "image_url": "https://patch.com/img/cdn20/ap/26494162/20261124/112805/styles/patch_image/public/ap26301698097625___24112410743.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "LOS ANGELES, CA — Potentially record-breaking king tides coupled with large waves are expected to cause significant coastal flooding across parts of Los Angeles County this week, with the worst conditions expected Wednesday and Thanksgiving morning.\nForecasters are warning that seawater could inundate roads, damage beachfront homes and other structures, spill over seawalls and cause significant beach erosion.\nWater levels along the Los Angeles County coast are projected to peak at 8.3 feet Wednesday and 8.2 feet Thanksgiving Day, according to the National Weather Service. The greatest threat of flooding will be between 7 and 11 a.m., when tides are highest.\nWhile moderate coastal flooding is expected Tuesday and Friday, forecasters are warning of major coastal flooding Wednesday and Thursday, when waves of 6 to 11 feet will coincide with exceptionally high tides.\nSignificant flooding of low-lying coastal areas is likely on those two days, with potential damage to coastal roads and structures. Beach parking lots and roads could also experience shallow flooding Tuesday and Friday.\nThis week's king tides could topple a record set nearly 44 years ago in Santa Monica. Water levels reached 8.5 feet on Nov. 30, 1982, during a powerful El Niño, according to federal tide gauge data. Forecasters have warned that water levels could exceed that mark along portions of the coast this week.\nThe areas of greatest concern in LA County are the west-facing beaches stretching from Santa Monica to the Palos Verdes Peninsula, as well as portions of Malibu, according to the NWS.\nLow-lying areas of the South Bay that experienced flooding in late October are particularly vulnerable.\nFlooding is also a concern within harbors and bays, where high water levels could damage docks and send seawater spilling into surrounding neighborhoods, including Naples in Long Beach.\nResidents can check federal flood maps to see how their properties may be impacted. In LA County, 5% of all land is in FEMA's high-risk flood zones.\nThis week's king tides threaten a coastline already battered by successive rounds of destructive surf and unusually high tides since late summer.\nIn September, powerful swells generated by Hurricane Marie stripped away sand, damaged seawalls and forced evacuations in Malibu and Long Beach. In Malibu, coastal erosion opened a massive sinkhole near actor Nicolas Cage's beachfront home , cutting off road access to a neighborhood and forcing the evacuation of 31 properties.\nWeeks later, waves generated by Tropical Storm Rachel tore apart portions of the Long Beach Peninsula's historic boardwalk and severely damaged beachfront homes. Eight buildings were deemed unsafe to enter.\nJust last week, the Long Beach City Council approved a $7 million increase in an emergency coastal repair contract as the city braces for the possibility of further damage this winter.\nBy late October, record-setting water levels were causing problems elsewhere along the LA County coast, including in Redondo Beach, where seawater spilled onto the International Boardwalk and inundated waterfront businesses.\nThe loss of protective sand along stretches of the Southern California coast has raised concerns that subsequent bouts of high surf and elevated tides could inflict even more damage.\nAs of early Tuesday, the following weather alerts were in effect for the LA County coast:\nForecasters indicated Monday that the coastal flood watch would likely be upgraded to a warning.\nA large swell out of the west will arrive Tuesday and peak Wednesday and Thursday, coinciding with the unusually high tides and worsening the threat of flooding.\nBeachgoers are being urged to stay out of the ocean and off rock jetties. Powerful rip currents, waves that can sweep people off beaches and rocks and breaking waves near harbor entrances will make conditions particularly dangerous.\nResidents in flood-prone coastal areas are urged to take steps to protect their property ahead of Wednesday morning. Motorists traveling along the coast should allow for extra travel time due to potential road closures and avoid driving through floodwaters.\nIn Long Beach, city crews have reinforced protective sand berms where possible, cleared storm drains and checked pump stations and seawall plugs. Boat owners are being urged to ensure their vessels are securely tied to docks and to avoid creating wakes in the Naples canals.\nMalibu officials are urging beachfront property owners to inspect their seawalls and check for signs of erosion or structural damage when it's safe to do so.\n\"King tide\" is an informal term for a phenomenon in which the alignment of the Earth, moon and sun produces some of the highest tides of the year.\nThis week's king tides are coming at a time when sea levels along the California coast are already unusually high due to a strong El Niño and an ongoing marine heat wave.\nEl Niño-driven ocean disturbances known as Kelvin waves have been carrying pulses of warm water toward the West Coast, temporarily raising sea levels by 6 to 12 inches or more. The marine heat wave is compounding the problem, as seawater expands when it warms, according to the National Oceanic and Atmospheric Administration.\nThose conditions, combined with exceptionally high tides, pushed water levels to all-time highs in Los Angeles, Santa Barbara, San Diego and La Jolla in late October. Santa Monica recorded its second-highest water level ever.\nThe threat won't end with Thanksgiving. NOAA expects additional Kelvin waves to reach the California coast in the coming months and has identified Dec. 22-26 as another period of particularly high tides and an elevated risk of coastal flooding.\nSign up for free local newsletters and alerts for the Los Angeles Patch\nPatch.com is the nationwide leader in hyperlocal news. Visit Patch.com to find your town today.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Coastal flood-zone map of LA County tied to king tides; climate hazard with a clear map.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image or map on the source page (IMAGE NOTE: no image found), and the item is a local news article about a tide forecast, so there is no striking visual to repost.",
+      "what_it_shows": "The source is a Patch.com article about king tides and large waves expected to cause coastal flooding in Los Angeles County. It cites NWS projected peaks of 8.3 feet on Wednesday and 8.2 feet on Thanksgiving Day, against a Santa Monica record of 8.5 feet set on 30 Nov 1982. No image, map, sensor or data visual is provided.",
+      "uncertainties": [
+        "No image on the page and no image credit or licence stated",
+        "Source type is link_only, so the text cannot be reused beyond a link",
+        "No map or tide-gauge graphic to describe, so a caption would have nothing to show",
+        "Page date is 2026-11-24; the forecast is time-sensitive and may be out of date by posting"
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/oregon/e_shivley?name=E+Shivley",
+      "source_id": "google_alerts_6",
+      "source_name": "Google Alerts #6",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the E Shivley Fire in Oregon | WFCA Fire Map",
+      "link": "https://wfca.com/fire-map/oregon/e_shivley?name=E+Shivley",
+      "published": "2026-11-24T23:00:52+00:00",
+      "summary": "MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and map settings. FiresBrowse active fires on the map. WFCA Fire Map ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The E Shivley fire in Douglas, Oregon is currently 75 acres.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Live wildfire tracker for the E Shivley Fire in Oregon; disaster map people can open.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image found on the page and the only text is a one-line fire size (75 acres); no striking visual to repost and nothing more to ground a caption in.",
+      "what_it_shows": "A WFCA fire map page for the E Shivley fire in Douglas, Oregon. The page text says only that the fire is currently 75 acres. No image, sensor, date or colour legend is available.",
+      "uncertainties": [
+        "No image found on the page, so there is nothing to post as a square",
+        "No image credit or licence stated; source is link_only",
+        "No date, sensor, data source or perimeter information given",
+        "Page text gives only the size (75 acres), with no indication of when it was measured or whether it is current",
+        "Unclear whether 'Douglas, Oregon' refers to Douglas County"
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://science.nasa.gov/?p=1521067",
+      "source_id": "nasa_eo",
+      "source_name": "NASA Earth Observatory",
+      "source_type": "eo_imagery",
+      "licence": "reuse",
+      "title": "Georgia’s Pecan Belt",
+      "link": "https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/",
+      "published": "2026-11-25T05:00:00+00:00",
+      "summary": "Since an early-1900s planting boom, orchards along the Flint River in southwest Georgia have become a center of U.S. pecan production.",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/georgia’s-pecan-belt/georgiapecans_oli_20261023.jpg?w=1440&h=1199&fit=clip",
+      "credit_hint": "NASA Earth Observatory",
+      "source_tag": "@NASAEarth",
+      "page_text": "Since an early-1900s planting boom, orchards along the Flint River in southwest Georgia have become a center of U.S. pecan production.\nFrom the star of its namesake pie to a supporting player in countless side dishes, the pecan has earned a place on Thanksgiving tables across the United States. But before it becomes candied, chopped, or baked, it hangs from the branches of Carya illinoinensis —a species of hickory in the walnut family native to North America. Many U.S.-grown pecans come from orchards in Georgia, the state that has historically led the nation in production.\nOne hotspot of pecan cultivation is in the southwest part of the state, around Albany, in Dougherty County. The OLI (Operational Land Imager) on Landsat 8 captured this image of the area and neighboring counties on October 23, 2026. That date falls within the pecan harvest season, which typically runs from October into December . In addition to pecans, other crops such as peanuts, cotton, and corn are also grown in the area.\nLandsat observations like these contribute to the Cropland Data Layer , an annual map of crop types across the contiguous United States produced by the U.S. Department of Agriculture’s National Agricultural Statistics Service . The 2025 map shows pecan groves clustered along the Flint River within the Coastal Plain . Pecan trees need abundant water, and they generally do well in the area’s well-drained sandy soils that sit above the Floridan aquifer system that growers can tap for irrigation.\nIn the late 1800s, Georgia had less than 100 acres (40 hectares) of pecan orchards. Then, in the early 1900s, southwest Georgia’s Dougherty and Mitchell counties underwent a pecan boom when thousands of acres were planted and sold to investors . By the end of the 1950s, Georgia led the nation in pecan production, producing over 17 million pounds, according to 1959 agricultural census numbers .\nIn recent decades, pecan production has grown in other states, such as New Mexico and Texas. Georgia faced challenges after Hurricane Michael damaged orchards in October 2018, and Hurricane Helene dealt another blow when it swept inland in September 2024. Even so, USDA numbers show that the state’s production has topped 100 million pounds in each of the past three years (2023-2025).\nIn 2026, a wet summer in parts of the state helped scab take hold. The fungal disease causes brown spots on  pecan twigs, leaves, and nut shucks. Meanwhile, some growers still recovering from Hurricane Helene reported the return of a solid crop.\nNASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey . Story by Kathryn Hansen.\nStay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.\nSurrounded by wetlands, Manitoba's northernmost farmland near The Pas turns from green to brown over the 2026 growing season.\nDrought in the Rio Grande basin contributed to New Mexico’s largest reservoir dwindling to its lowest level in decades.\nHurricanes Polo and Nolo sent destructive effects ashore amid an active season in the northeastern and central Pacific.\nSubscribe to the Earth Observatory and get the Earth in your inbox.\nNASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.\nOpen access to NASA’s archive of Earth science data",
+      "image_credit": "NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U",
+      "image_licence": "NASA imagery, generally free to reuse with credit",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/georgia’s-pecan-belt/georgiapecans_oli_20261023.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/georgia’s-pecan-belt/georgiapecans_oli_20261023.jpg?w=1440&h=1199&fit=clip",
+          "label": ""
+        },
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/georgia’s-pecan-belt/georgiapecans_oli-20261023_lrg.jpg?w=150&h=150&fit=clip",
+          "label": ""
+        },
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=1536&h=1406&fit=clip",
+          "label": ""
+        },
+        {
+          "url": "https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=1920&h=1920&fit=clip&crop=faces%2Cfocalpoint",
+          "label": ""
+        },
+        {
+          "url": "https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?w=1536",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-25-8-georgia-s-pecan-belt.jpg",
+      "image_note": "square crop, from 1066px of source width"
+    },
+    "score": 7.0,
+    "why": "NASA Earth Observatory satellite image of Georgia pecan orchards; credited space-agency imagery with a clear geo subject.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A Landsat 8 OLI image of the area around Albany (Dougherty County) and neighbouring counties in southwest Georgia, captured on 23 October 2026 during pecan harvest season. The page says Landsat observations feed the USDA Cropland Data Layer, whose 2025 map shows pecan groves clustered along the Flint River. Pecans share the area with peanuts, cotton and corn.",
+      "uncertainties": [
+        "Band combination and what the colours represent are not stated in the text provided; the caption does not interpret colours.",
+        "The image itself was not available to check: confirm the square shows the Landsat scene and not the Cropland Data Layer map before posting, and adjust the alt text if needed.",
+        "The IMAGE CREDIT field was cut off ('...from the U'). The full credit is taken from the story's closing credit line: 'NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey.'",
+        "The page gives no resolution or scene extent for the image.",
+        "The 'over 100 million pounds' figure is attributed on the page to USDA numbers for 2023-2025."
+      ],
+      "image_credit": "NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey.",
+      "facebook": "Georgia went from fewer than 100 acres of pecans in the late 1800s to more than 100 million pounds a year in 2023-2025.\n\nLandsat 8 (OLI) imaged the orchards around Albany, Dougherty County, on 23 October 2026, mid-harvest. Landsat feeds the USDA Cropland Data Layer, whose 2025 map puts pecan groves along the Flint River, on sandy soils above the Floridan aquifer.\n\nRead more: https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/\nImage: NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey.\n\n#Geoawesome #Landsat #Agriculture #Georgia #NASA",
+      "instagram": "Pecan harvest season, seen by Landsat 8 over southwest Georgia on 23 October 2026.\n\nThe scene covers the area around Albany, in Dougherty County, and its neighbours, where pecans share the land with peanuts, cotton and corn. The orchards trace back to an early-1900s planting boom, when thousands of acres were planted in Dougherty and Mitchell counties.\n\nFind out more: https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/\nImage: NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey.\n\n#Geoawesome #Landsat #Farmland #Georgia #Pecans",
+      "x": "Georgia has topped 100 million pounds of pecans a year since 2023. Landsat 8 over Albany, 23 October 2026.\nhttps://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/\nImage: NASA Earth Observatory, Landsat/USGS\n#Geoawesome #Landsat #Agriculture",
+      "alt_text": "Landsat 8 satellite image of farmland and surrounding land around Albany in southwest Georgia, United States, captured in October 2026."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-25-8-georgia-s-pecan-belt.jpg"
+  }
+]
