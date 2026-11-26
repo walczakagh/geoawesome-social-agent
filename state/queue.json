@@ -14,5 +14,13 @@
   "post_id": "2026-11-26-1-the-shrinking-salton-sea-in-landsat-and",
   "queued_at": "2026-11-26T16:34:49.000885+00:00",
   "slot": "2026-11-27T15:47:00+00:00"
+ },
+ {
+  "base": "2026-11-28T15:00:00+00:00",
+  "image_src": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-26-4-seeking-refuge-on-resolution-island.jpg",
+  "issue": 64,
+  "post_id": "2026-11-26-4-seeking-refuge-on-resolution-island",
+  "queued_at": "2026-11-26T16:35:07.194289+00:00",
+  "slot": "2026-11-28T17:21:00+00:00"
  }
 ]
