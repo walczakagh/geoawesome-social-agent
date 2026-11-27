@@ -1,0 +1,483 @@
+[
+  {
+    "item": {
+      "id": "https://science.nasa.gov/?p=1523630",
+      "source_id": "nasa_eo",
+      "source_name": "NASA Earth Observatory",
+      "source_type": "eo_imagery",
+      "licence": "reuse",
+      "title": "Shivelyuch Socked In",
+      "link": "https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/",
+      "published": "2026-11-27T05:01:00+00:00",
+      "summary": "A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/shivelyuch-socked-in/shivelyuchcloud_oli2_20261108.jpg?w=1440&h=960&fit=clip",
+      "credit_hint": "NASA Earth Observatory",
+      "source_tag": "@NASAEarth",
+      "page_text": "A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.\nIn the same way that Shivelyuch (also called Shiveluch) frequently displays volcanic activity, it is also chronically obscured by clouds. When the OLI (Operational Land Imager) on Landsat 9 captured this image on November 8, 2026, clouds encroached on the snowy mountain on Russia’s Kamchatka Peninsula . But they hovered beneath the volcano’s 3,283-meter (10,771-foot) peak, leaving a clear opening over its caldera and northern upper slopes.\nThe upper reaches of Shivelyuch feature a caldera 9 kilometers (5.6 miles) wide that is open to the south. A lava dome , formed by vents extruding viscous magma, appears as a dark area within it. Lava domes on Shivelyuch go through cycles of growth and collapse, with collapses sometimes setting off fast-moving avalanches of hot ash and rock called pyroclastic flows .\nIn November 2026, effusive eruptions of lava and explosive activity at Shivelyuch had been ongoing for months , according to reports from the Kamchatka Volcanic Eruption Response Team (KVERT). And despite frequent cloudiness, satellites regularly detect thermal anomalies from the volcano.\nOn the day of this image, KVERT reported that a plume of resuspended ash drifted 120 kilometers (75 miles) to the east. That kind of activity is relatively tame for the mountain. Explosions from Shivelyuch periodically send ash several kilometers up into the atmosphere, where it can travel great distances and pose risks to aircraft . In July 2026, an ash plume rode the jet stream over the Bering Sea into Alaskan airspace, according to news reports , prompting the cancellation of multiple flights.\nNASA Earth Observatory image by Lauren Dauphin, using Landsat data from the U.S. Geological Survey . Story by Lindsey Doermann.\nStay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.\nA powerful eruption from the Indonesian volcano lofted ash into the atmosphere, disrupting thousands of flights and degrading air quality.\nWith austral winter nearing its end, clouds cleared for a satellite view of volcanic activity in the remote South Atlantic.\nA volcanic eruption just off the southeast shore of the Pacific island has reshaped the coast, but it’s unclear how…\nSubscribe to the Earth Observatory and get the Earth in your inbox.\nNASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.\nOpen access to NASA’s archive of Earth science data",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/shivelyuch-socked-in/shivelyuchcloud_oli2_20261108.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/shivelyuch-socked-in/shivelyuchcloud_oli2_20261108_lrg.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/shivelyuch-socked-in/shivelyuchcloud_oli2_20261108.jpg?w=1440&h=960&fit=clip",
+          "label": ""
+        },
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/shivelyuch-socked-in/shivelyuchcloud_oli2_20261108_lrg.jpg?w=150&h=150&fit=clip",
+          "label": ""
+        },
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=1536&h=1406&fit=clip",
+          "label": ""
+        },
+        {
+          "url": "https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=1920&h=1920&fit=clip&crop=faces%2Cfocalpoint",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-27-1-shivelyuch-socked-in.jpg",
+      "image_note": "square crop, from 853px of source width"
+    },
+    "score": 8.0,
+    "why": "Earth Observatory satellite view of Kamchatka volcano under cloud; strong visual, NASA credit.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A Landsat 9 OLI image of Shivelyuch (Shiveluch) volcano on Russia's Kamchatka Peninsula, captured on 8 November 2026. Clouds ring the snowy flanks below the 3,283 m peak, leaving the 9 km wide caldera and northern upper slopes clear. The dark area inside the caldera is a lava dome. The source does not give a band combination.",
+      "uncertainties": [
+        "Image credit field was NOT FOUND on the page, so the fallback 'NASA Earth Observatory' is used. The page text also names Lauren Dauphin (image) and USGS (Landsat data), which the editor may prefer to credit.",
+        "Image licence not stated on the page.",
+        "Square crop from only 853px of source width, so it is lower resolution than a full 1080px square.",
+        "Band combination and image resolution are not given.",
+        "The July 2026 ash plume into Alaskan airspace is attributed to news reports in the source, so it is left out of the posts."
+      ],
+      "image_credit": "Image: NASA Earth Observatory",
+      "facebook": "Clouds ringed Shivelyuch on Kamchatka but left its 9-kilometre-wide caldera in the clear.\n\nLandsat 9 (OLI) captured the scene on 8 November 2026, with cloud hovering beneath the 3,283-metre summit. The dark patch inside the caldera is a lava dome, which goes through cycles of growth and collapse. KVERT reported a resuspended ash plume drifting 120 kilometres east that day, relatively tame for this volcano.\n\nRead more: https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/\nImage: NASA Earth Observatory\n\n#Geoawesome #Landsat #Volcano #Kamchatka #Satellite",
+      "instagram": "Shivelyuch is chronically cloud-covered, and this Landsat 9 pass caught a gap right over the top.\n\nSnowy flanks sit under a cloud layer, while the 9-kilometre caldera, open to the south, is clearly visible. The dark area inside is a lava dome. Captured on 8 November 2026 on the Kamchatka Peninsula, after months of ongoing eruptive activity reported by KVERT.\n\nFind out more: https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/\nImage: NASA Earth Observatory\n\n#Geoawesome #Landsat9 #Volcano #Kamchatka #Satellites",
+      "x": "Cloud wrapped Shivelyuch, but its 9 km wide caldera stayed clear for Landsat 9 on 8 Nov 2026. The dark patch inside is a lava dome.\nhttps://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/\nImage: NASA Earth Observatory\n#Geoawesome #Landsat #Volcano",
+      "alt_text": "Satellite image of a snow-covered volcano on the Kamchatka Peninsula with a layer of cloud around its flanks and a clear summit caldera containing a dark lava dome."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-27-1-shivelyuch-socked-in.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.tibetanreview.net/entire-villages-cleared-river-diverted-as-china-builds-worlds-largest-dam-on-indias-doorstep-on-war-footing/",
+      "source_id": "google_alerts_1",
+      "source_name": "Google Alerts #1",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Entire villages cleared, river diverted as China builds world's largest dam on India's ...",
+      "link": "https://www.tibetanreview.net/entire-villages-cleared-river-diverted-as-china-builds-worlds-largest-dam-on-indias-doorstep-on-war-footing/",
+      "published": "2026-11-26T17:10:37+00:00",
+      "summary": "Fresh satellite imagery analysis by an Indian geospatial AI deep tech start-up incubated at FITT, IIT Delhi, shows construction of China's 60 GW ...",
+      "image_url": "https://www.tibetanreview.net/wp-content/uploads/2025/07/Yarlung-Tsangpo-Grand-Cannyon-copy.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "(TibetanReview.net, Nov26’26) – China is on an all-out mode to build the world’s largest ever hydroelectric dam on Tibet’s Yarlung Tsangpo river on a location only 40-50 kilometres away from the border of India’s Arunachal Pradesh state. The site is known to be in a seismically active zone, raising serious concerns in downstream India.\nFresh satellite imagery analysis by an Indian geospatial AI deep tech start-up incubated at FITT, IIT Delhi, shows construction of China’s 60 GW Medog hydropower project on Yarlung Tsangpo (the Siang in India) is advanced and widespread, reported the timesofindia.com Nov 24.\nIt cited findings of a public-release assessment by EarthSense Labs as showing that entire villages had been cleared at the main dam site, river diversion works were visible and heavy industrial infrastructure had been built near the Arunachal Pradesh border.\nThe Chinese project is a multi-structure dam system along the lower Yarlung Tsangpo river in southeastern Tibet. It includes a tunnel across the river’s famous “Great U-Bend”, multiple power stations and outlets before the river enters India, the report said.\nThe assessment report is stated to list four critical locations and assets — a large dam near Mainling town, where “work has started extensively after July 2025”; a lower dam, possibly near Pai town; a tunnel through Namcha Barwa Mountain; and a tunnel outlet near the India-Tibet border, downstream of Medog County, where work has also started.\nDevelopmental work on the tunnel outlet area is stated to have started even before the ground-breaking ceremony.\nThe project is planned as five cascade stations at an estimated cost of 1.2 trillion yuan (roughly $168 billion). It would use tunnels of around 40 km to exploit a river drop of more than 2,000 metres over a stretch of about 50 km, the assessment report has said.\nEarthSense Labs’ study of imagery from Jul 2025 was stated to show villages and farm fields at the site of the proposed Mainling high dam; that by Dec 2025, the villages were cleared, the fields removed and earthwork begun.\nImagery of Aug 2026 was stated to show diversion works, the relocation of entire villages and the emergence of new roads, makeshift housing and office buildings on the north bank.\nThe key finding, according to the assessment report, was “Site clearance and earthwork after Jul 2025, followed by river diversion works by Aug 2026.”\nThe assessment report documents the scale and pace of construction but does not quantify environmental damage, downstream flow effects or risks to Arunachal Pradesh and Assam. Its locations are described as indicative, and the analysis relies on satellite imagery, the report said.\nSave my name, email, and website in this browser for the next time I comment.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://www.tibetanreview.net/wp-content/uploads/2025/07/Yarlung-Tsangpo-Grand-Cannyon-copy.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 651px of source width (low resolution: upscaled, check sharpness)"
+    },
+    "score": 7.0,
+    "why": "Fresh satellite imagery analysis of cleared villages and diverted river; strong change story with a map-like visual.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The source material does not say what the image shows (satellite scene, map or photo), has no image credit or licence, and the crop is upscaled from 651px, so a caption and alt text would be guesswork.",
+      "what_it_shows": "The article reports on an EarthSense Labs (IIT Delhi FITT incubated) satellite imagery assessment of China's 60 GW Medog hydropower project on the Yarlung Tsangpo. It describes imagery from Jul 2025, Dec 2025 and Aug 2026 showing village clearance, earthwork and river diversion works. The page does not describe the lead image, so what the square shows is unknown.",
+      "uncertainties": [
+        "Image content unknown: it may be an EarthSense Labs satellite scene, a Chinese state media photo or a stock picture.",
+        "No image credit found and licence not stated; reuse policy is link_only.",
+        "Low resolution (651px source width), upscaled to 1080px.",
+        "All findings come second-hand: TibetanReview citing Times of India citing EarthSense Labs. The assessment's locations are described as indicative.",
+        "The report does not quantify environmental damage or downstream flow effects.",
+        "If the original EarthSense Labs before/after imagery can be found with a clear credit and sensor/date details, it would make a better post."
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://wfca.com/fire-map/arkansas/ouachita_358?name=Ouachita+358",
+      "source_id": "google_alerts_2",
+      "source_name": "Google Alerts #2",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Tracking the Ouachita 358 Fire in Arkansas | WFCA Fire Map",
+      "link": "https://wfca.com/fire-map/arkansas/ouachita_358?name=Ouachita+358",
+      "published": "2026-11-26T23:05:51+00:00",
+      "summary": "Clark 306100 acStarted Nov 25 · Updated 3h ago. 5 mi. MapLibre | © OpenStreetMap contributors · Protomaps. MenuOpen the menu and map settings. Fires ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "The Ouachita 358 fire in Ouachita, Arkansas is currently 30 acres.",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 7.0,
+    "why": "Live wildfire tracker map of the Ouachita 358 Fire; disaster plus interactive map.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was found on the page, and the only text is a one-line acreage figure (30 acres), so there is no striking visual to repost and nothing more to say without guessing.",
+      "what_it_shows": "The source is a WFCA fire map page for the Ouachita 358 fire in Ouachita, Arkansas. The only information given is that the fire is currently 30 acres. No image, sensor, date or colour legend is available.",
+      "uncertainties": [
+        "No image found on the page, so there is no visual to post",
+        "No image credit or licence stated; the source is link_only under the reuse policy",
+        "The page text gives only the fire size (30 acres), with no date, cause, containment or data source",
+        "The map's content cannot be verified, as only the page title and one sentence were provided"
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "https://orteliana.com/articles/forest-to-solar-japan/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Japan's solar farms on cleared forest: a satellite map of 139 sites since 2024 | Orteliana",
+      "link": "https://orteliana.com/articles/forest-to-solar-japan/",
+      "published": "2026-11-27T01:11:03+00:00",
+      "summary": "Satellite images show at least 662 hectares of Japanese forest turned ... Satellite images: Copernicus Sentinel-2 (contains modified Copernicus Sentinel ...",
+      "image_url": "https://orteliana.com/_astro/share_sendatsu_2021_2026.G_LHKtCI_1PmAU3.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Every month, we look for new solar plants in satellite images of Japan and check whether the land was forest before. Between January 2024 and November 2026, we found 139 sites where solar plants were built on former forest, and checked each one by hand. Together they cover about 662 hectares, or more than 900 soccer fields.\nSendatsuyama, Fukushima · 2017 to 2026 · Copernicus Sentinel-2\nSendatsuyama, a hill near the city of Fukushima, one satellite image a year from 2017 to 2026. Each frame combines images from April to November, so work that began in November 2021 first shows in 2022. By 2024 the hillside was bare. Panels went in during 2025. Our map detected the plant on 27 March that year.\nJapan’s solar capacity grew fast after the country introduced a feed-in tariff in 2012. With little flat land, developers often cleared mountain forest to make room for solar plants. According to data from the Agency for Natural Resources and Energy , forest development and logging for solar power, counting both permits and notices, came to about 13,000 cases and 19,000 hectares between fiscal 2013 and 2020.\nCleared slopes are more likely to slide in heavy rain. In the July 2018 floods in western Japan, 19 solar plants of 50 kilowatts or more reported accidents, and the economy ministry found that landslides caused 11 of them. Disputes over landscapes and wildlife have also set residents against developers in many places.\nAt Sendatsuyama in Fukushima, work began in November 2021 on a site of about 345 hectares for a plant of roughly 40 megawatts, according to Fukushima Prefecture’s environmental assessment records . The bare slopes are visible from the city, and in August 2023 the city of Fukushima issued a “No More Megasolar” declaration against further large solar farms.\nAround the Kushiro wetland in Hokkaido, home to rare wildlife, solar construction drew national attention. In March 2026, the Hokkaido Shimbun reported that the prefecture had found arsenic and two other hazardous substances above legal limits in soil at a planned site.\nIn Kamogawa, Chiba, construction of a plant of about 100 megawatts, with a forest development permit for about 146 hectares, began in May 2025, prefectural records show . In October 2025, Chiba Prefecture found that about 2.4 hectares of forest, across 13 spots that the permit required the developer to keep, had been cut. Kyodo News reported in May 2026 that there was still no prospect of restoring them .\nThe hills of Kamogawa, Chiba, in 2024 and 2026, in the same frame. Drag the line to compare them. Slopes that were forest in 2024 had been cleared on a large scale by 2026.\nIn December 2025, a ministerial meeting adopted a package of measures on large solar projects . An amended Forest Act took effect in April 2026. Breaking the conditions of a forest development permit can now bring up to three years in prison or a fine of up to ¥3 million. Developers who ignore orders can also be named publicly.\nIn March 2026, the Forestry Agency told prefectures that developments on 40 hectares of forest or more should keep about 60% of it. The same month, the economy ministry decided that ground-mounted commercial solar will no longer get feed-in tariff or premium support from fiscal 2027. Local governments had passed 344 ordinances restricting solar installations by April 2026, according to the Research Institute for Local Government .\nThese rules make it more important to know where and when a plant replaced forest. Yet Japan’s statistics on forest development only give totals by fiscal year and prefecture.\nOrteliana looks for new solar plants in images from Sentinel-2, a pair of European satellites that photograph Japan every few days. For each plant we find, our map shows before-and-after images and whether the land was forest, and we update it every month.\nOf the new solar sites on our map from January 2024 to November 2026, 139 were built on land that was forest. We checked each of them on satellite and aerial images. Together they cover about 662 hectares, or 6.6 square kilometers. That’s more than 900 soccer fields.\nOf the 139 sites, 57, or about four in ten, are in three prefectures north of Tokyo. Fukushima has 24 of them, Ibaraki 17 and Tochigi 16.\nThe 28.2-hectare site at Sendatsuyama is the second largest of the 139. The table shows the five largest.\nOur map detected the Sendatsuyama plant on 27 March 2025. It counts the plant as two sites, of 28.2 and 14.4 hectares, and both were on former forest.\nJapan’s Forest Act asks the national government, prefectures and municipalities to set forest plans for how forests are managed and protected. In private forests under a prefecture’s regional forest plan, clearing more than 0.5 hectares for solar power needs the governor’s permit. The threshold was 1 hectare until April 2023.\nSince February 2026, the Forestry Agency has published a map of these forests as open data. When we laid it over the 139 sites, 97 overlapped forest plan areas, all of them private forest. At Sendatsuyama, about 11.7 hectares of the 28.2-hectare site overlap private forest.\nOpen the map of new solar farms in Japan and you’ll see every new plant we’ve found since January 2024 as a dot. Orange dots mark plants built on former forest, and blue dots plants built on farmland, grassland or open land.\nUse chart 1 to pick a period and chart 2 to pick a size range. Button 3, “Former forest only”, hides everything except plants on former forest. Type a place name or coordinates into the search box at 4.\nClick a dot and the plant’s details appear on the right: its detection date, area, previous land use and overlap with forest plan areas.\nDrag the line across the two satellite images to compare the previous summer’s image with the latest one. Tick “Forest plan areas” under the images to shade those forests on top.\nIn this recording, we filter to plants on former forest and open the Sendatsuyama plant. After comparing the two images, we tick “Forest plan areas”",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://orteliana.com/_astro/kamogawa_2026.BlnCPu7-_Z12fT3u.webp",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://orteliana.com/_astro/kamogawa_2026.BlnCPu7-_Z12fT3u.webp",
+          "label": ""
+        },
+        {
+          "url": "https://orteliana.com/_astro/kamogawa_2024.C4LPwgMa_Z2kmlSE.webp",
+          "label": ""
+        },
+        {
+          "url": "https://orteliana.com/_astro/map_ui_overview_en.B0_0x1yT_ZhaSK.webp",
+          "label": ""
+        },
+        {
+          "url": "https://orteliana.com/_astro/method_steps_en.CGFVNGxT_ZKaqGJ.webp",
+          "label": ""
+        },
+        {
+          "url": "https://orteliana.com/_astro/card_dots.DJsMdA6X_Z15DCjM.webp",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-27-4-japan-s-solar-farms-on-cleared-forest-a.jpg",
+      "image_note": "square crop, from 960px of source width"
+    },
+    "score": 7.0,
+    "why": "Satellite map of 139 solar sites cleared from Japanese forest; before/after land change story.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "Orteliana's interactive map of new solar plants in Japan, detected monthly in Copernicus Sentinel-2 imagery. Orange dots mark plants built on former forest and blue dots mark plants on farmland, grassland or open land. Between January 2024 and November 2026 it lists 139 forest sites (about 662 hectares, 6.6 km²), each checked by hand on satellite and aerial images. The article also shows a before/after slider for Sendatsuyama (Fukushima), detected 27 March 2025.",
+      "uncertainties": [
+        "The page names no image credit, so the credit is the publisher (Orteliana). The image licence is not stated and the reuse policy is link_only, so check permission before posting the image.",
+        "It is not clear which visual the 960px square crop comes from (map view, Sendatsuyama frame or Kamogawa slider). The alt text is generic and should be adjusted to the actual crop.",
+        "The Sendatsuyama figures differ: Fukushima Prefecture records give a site of about 345 hectares and roughly 40 MW, while Orteliana's detection counts two sites of 28.2 and 14.4 hectares. The posts use only the Orteliana figures.",
+        "Orteliana is the source for the 139-site count and 662-hectare total (its own detection and hand checks). The article gives no detection accuracy.",
+        "The article says 'one satellite image a year' composited from April to November, but the exact Sentinel-2 dates of the frames are not given."
+      ],
+      "image_credit": "Map: Orteliana",
+      "facebook": "Japan has 139 new solar sites on former forest since January 2024, together about 662 hectares.\n\nOrteliana scans Sentinel-2 images every month for new solar plants, then checks by hand whether the land was forest. Fukushima (24), Ibaraki (17) and Tochigi (16) hold 57 of the 139. On the interactive map, orange dots mark former forest, and a slider compares the previous summer's image with the latest.\n\nRead more: https://orteliana.com/articles/forest-to-solar-japan/\n\nMap: Orteliana\n\n#Geoawesome #Sentinel2 #Solar #Forests #Japan",
+      "instagram": "A hill near Fukushima city was bare by 2024 and carried solar panels in 2025.\n\nOrteliana's map detected the Sendatsuyama plant on 27 March 2025, as two sites of 28.2 and 14.4 hectares, both on former forest. It is the second largest of 139 forest-to-solar sites the project has logged in Japan since January 2024. Drag the slider to compare the images.\n\nFind out more: https://orteliana.com/articles/forest-to-solar-japan/\n\nMap: Orteliana\n\n#Geoawesome #Sentinel2 #Solar #Forests",
+      "x": "Forest to solar in Japan, tracked with Sentinel-2: 139 sites since January 2024, about 662 hectares. Four in ten are in Fukushima, Ibaraki and Tochigi.\nhttps://orteliana.com/articles/forest-to-solar-japan/\nMap: Orteliana\n#Geoawesome #Solar #Forests #Japan",
+      "alt_text": "Satellite imagery or map from Orteliana's tracker of new solar plants in Japan built on former forest."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-27-4-japan-s-solar-farms-on-cleared-forest-a.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.aol.com/articles/remote-island-zealand-supposed-safe-174949000.html",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "A remote island in New Zealand was supposed to be a safe haven for wildlife - AOL.com",
+      "link": "https://www.aol.com/articles/remote-island-zealand-supposed-safe-174949000.html",
+      "published": "2026-11-26T21:21:53+00:00",
+      "summary": "A landscape shaped by glaciers. The image was captured on December 12, 2025, by the Operational Land Imager aboard the Landsat 9 satellite. Resolution ...",
+      "image_url": "https://hermes.media.transform.aol.com/3ebe03d8db8a6d63d954f2cd7d00d39746268e04/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/11/26/5002c0f1-aa29-3268-8644-4b85659a5775/8f965a34-f555-44d5-9355-5d60e6deebe2.jpg",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "Today’s Image of the Day from NASA Earth Observatory features Resolution Island, a remote expanse of wilderness off the southwestern coast of New Zealand.\nSurrounded by deep blue waters and covered in dense vegetation, the island appears to be an ideal sanctuary for wildlife.\nIts isolation, however, has not always offered the protection that conservationists envisioned.\nFor more than a century, Resolution Island has been at the center of an ambitious effort to preserve some of New Zealand’s most extraordinary native birds.\nIts history reveals both the potential and the limitations of using islands as natural barriers against invasive species.\nThe image was captured on December 12, 2025, by the Operational Land Imager aboard the Landsat 9 satellite.\nResolution Island lies within Fiordland National Park, a spectacular region of mountains, forests, waterfalls, and narrow waterways that extend deep into the southwestern coast of New Zealand’s South Island.\nDuring past ice ages, enormous glaciers moved through the region, gradually carving deep valleys into the landscape.\nAs the glaciers retreated and sea levels rose, ocean water flooded many of these valleys, creating the dramatic fjords visible today.\nResolution Island is the largest island within the national park. Its mountainous terrain reaches an elevation of 3,507 feet at the summit of Mount Clerke.\nThe island’s varied landscape supports wetlands, ancient evergreen forests, and high-elevation grasslands. These distinct environments provide a range of habitats for native wildlife.\nNew Zealand’s long geographical isolation allowed wildlife to evolve in remarkable ways.\nBefore humans arrived, the country had virtually no native land mammals other than bats. Birds occupied many ecological niches that mammals filled elsewhere in the world.\nSome species gradually lost the ability to fly, while others developed behaviors that left them particularly vulnerable to ground-dwelling predators.\nAmong them were kiwi, which forage along the forest floor, and kākāpō, the world’s only flightless parrot.\nFor millions of years, these birds survived without facing the kinds of mammalian predators found on other continents.\nThat evolutionary advantage became a liability when people introduced unfamiliar animals into New Zealand’s ecosystems.\nRats, cats, and members of the weasel family brought new pressures that native birds were poorly equipped to withstand.\nBy the nineteenth century, the decline of New Zealand’s native wildlife was becoming increasingly apparent.\nEuropean settlers had introduced stoats and other predators in an attempt to control rabbit populations. Instead, these animals created another ecological problem by preying on vulnerable native species.\nIn 1872, conservationist Thomas Henry Potts suggested that Resolution Island could provide a refuge for birds threatened by introduced predators.\nThe surrounding ocean appeared to offer a natural protective barrier, allowing native species to survive without the dangers they faced on the mainland.\nResolution Island became a protected reserve in 1891, making it part of a pioneering chapter in New Zealand’s conservation history.\nLong before modern wildlife restoration programs existed, naturalists were experimenting with ideas that would eventually become central to endangered species management.\nOne of the most dedicated figures in this undertaking was Richard Henry, who became the island’s caretaker.\nHenry recognized the urgency of protecting birds that were rapidly disappearing from other parts of the country.\nWorking in an isolated and physically demanding environment, he transported hundreds of native birds across the waters of Fiordland.\nMore than 700 birds , primarily kiwi and kākāpō, were relocated to Resolution Island and neighboring islands during his conservation efforts.\nMuch of the work involved traveling by rowboat through a region known for challenging weather and rugged terrain.\nHenry’s efforts represented an early attempt to prevent extinction by establishing wildlife populations in geographically isolated locations.\nUnfortunately, the assumption that the surrounding waters would keep predators away proved incorrect.\nBy 1900, invasive predators had been detected on Resolution Island. Stoats were capable of swimming across the channels that separated the island from nearby land.\nThe discovery undermined years of painstaking conservation work and exposed a weakness in the island’s natural defenses.\nStoats are highly adaptable hunters. Their ability to exploit different environments makes them particularly problematic in New Zealand, where many native birds nest on or near the ground.\nHenry attempted to control the invading predators through trapping but eventually left the island to pursue conservation work elsewhere.\nHis experience demonstrated that geographical isolation alone was not necessarily enough to protect vulnerable species.\nMore than a century later, conservationists continue to build on Henry’s original vision.\nIn 2008, New Zealand’s Department of Conservation launched a predator management program on Resolution Island to improve the prospects of native wildlife.\nMaintaining such a program across a large, mountainous island presents considerable challenges.\nDense forests, steep slopes, and remote locations complicate efforts to monitor wildlife and control invasive animals.\nConservation also extends into the surrounding waters, where a marine reserve protects coastal ecosystems near the island’s distinctive Five Fingers Peninsula.\nViewed from space, Resolution Island offers a striking portrait of an apparently untouched wilderness.\nYet beneath its forest canopy lies a complex ecological history shaped by human intervention, invasive species, and generations of conservation work.\nThe island remains a powerful reminder that protecting nature sometimes requires far more than simply setting it aside.\nImage Credit : NASA Earth Observatory / Michala Garrison, using Landsat da",
+      "image_credit": "NASA Earth Observatory",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://hermes.media.transform.aol.com/3ebe03d8db8a6d63d954f2cd7d00d39746268e04/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/11/26/5002c0f1-aa29-3268-8644-4b85659a5775/8f965a34-f555-44d5-9355-5d60e6deebe2.jpg",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://assets.aolcdn.com/uploader/adbuilder/gemini.png",
+          "label": ""
+        },
+        {
+          "url": "https://hermes.media.transform.aol.com/ed4f3ed272cb758d5eb32cc450ebe088a2a17660/w_140,h_120,c_fill,f_jpg,q_80/https://hermes.media.static.aol.com/media/2026/11/27/f0cfc6b1-7fef-352c-91f7-03d174b6ac35/d8b9faf9-8b6f-43c1-ad7e-c69ad77f94e9.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://hermes.media.transform.aol.com/bd3f1412e86e598424d8d70c42b89148eeb37907/w_140,h_120,c_fill,f_jpg,q_80/https://hermes.media.static.aol.com/media/2026/11/26/7a8c9d68-f8d0-34c3-8279-53e6632b50a2/100717d9-b709-4fde-9f26-1a3c8e03b973.png",
+          "label": ""
+        },
+        {
+          "url": "https://hermes.media.transform.aol.com/b89d794f6f2a86b16c0861577fbf18da83313630/w_140,h_120,c_fill,f_jpg,q_80/https://hermes.media.static.aol.com/media/2026/11/26/bcb69904-c27a-3568-a58f-02d02829de06/cf7c0c2e-ff3f-4744-a72f-5bdf18eed64f.jpg",
+          "label": ""
+        },
+        {
+          "url": "https://hermes.media.transform.aol.com/9ba2b5d9f73f1b6cf8c003e646ac8b072ee6fc9c/w_140,h_120,c_fill,f_jpg,q_80/https://hermes.media.static.aol.com/media/2026/11/26/0e41cefa-1f0b-3dd5-a39b-f61aade3edf4/296b6694-99fe-4a22-a468-5ef215030370.jpg",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-27-5-a-remote-island-in-new-zealand-was-suppo.jpg",
+      "image_note": "square crop, from 791px of source width"
+    },
+    "score": 7.0,
+    "why": "Landsat 9 image of a glacier-shaped remote New Zealand island; pictorial satellite scene, credit implied.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A Landsat 9 (Operational Land Imager) image of Resolution Island, the largest island in Fiordland National Park off the southwestern coast of New Zealand's South Island, captured on 12 December 2025. It is NASA Earth Observatory's Image of the Day. The source does not say how the colours were rendered, but describes deep blue water and dense vegetation. The story is about the island's failed history as a bird refuge, since stoats swam across the channels.",
+      "uncertainties": [
+        "Band combination and colour rendering are not stated; the source only mentions deep blue water and dense vegetation.",
+        "Spatial resolution of the crop is not given; the crop is made from only 791px of source width, so check it is sharp enough at 1080px.",
+        "Image licence is not stated on the page, and the reuse policy is link_only. Check NASA Earth Observatory's terms before posting.",
+        "The page text ends with a truncated credit ('NASA Earth Observatory / Michala Garrison, using Landsat da...'). The posts use the credit field 'NASA Earth Observatory'; check the original page if you want the fuller credit.",
+        "The page is an AOL.com repost of the NASA Earth Observatory item, so you may prefer to link the original."
+      ],
+      "image_credit": "Image: NASA Earth Observatory",
+      "facebook": "By 1900, stoats had swum the channels to Resolution Island, undoing years of work to make it a bird refuge.\n\nLandsat 9 (Operational Land Imager) imaged the island in Fiordland National Park, New Zealand, on 12 December 2025. Caretaker Richard Henry had moved more than 700 birds, mostly kiwi and kākāpō, to it and nearby islands. The Department of Conservation launched a predator management programme there in 2008.\n\nFind out more: https://www.aol.com/articles/remote-island-zealand-supposed-safe-174949000.html\n\nImage: NASA Earth Observatory\n\n#Geoawesome #Landsat9 #Wildlife #Conservation #Fiordland",
+      "instagram": "Dense forest, fjord-cut coastline and a summit of 3,507 feet: Resolution Island looks untouched from orbit.\n\nThis Landsat 9 view from 12 December 2025 shows the largest island in Fiordland National Park, off New Zealand's southwestern coast. Glaciers carved the valleys that rising seas later flooded into fjords. Beneath the canopy lies a century of efforts to keep invasive predators away from native birds.\n\nLearn more: https://www.aol.com/articles/remote-island-zealand-supposed-safe-174949000.html\n\nImage: NASA Earth Observatory\n\n#Geoawesome #Landsat #Fjords #Wilderness #Island",
+      "x": "Stoats reached Resolution Island within a decade of it becoming a bird reserve.\nLandsat 9 view, 12 Dec 2025.\nhttps://www.aol.com/articles/remote-island-zealand-supposed-safe-174949000.html\nImage: NASA Earth Observatory\n#Geoawesome #Landsat #Fiordland #Conservation",
+      "alt_text": "Satellite view of a mountainous, forested island with inlets and fjords along its coast, surrounded by deep blue water."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-27-5-a-remote-island-in-new-zealand-was-suppo.jpg"
+  },
+  {
+    "item": {
+      "id": "https://x.com/ArcGISStoryMaps/status/2126090147452322095",
+      "source_id": "google_alerts_5",
+      "source_name": "Google Alerts #5",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "ArcGIS StoryMaps - X",
+      "link": "https://x.com/ArcGISStoryMaps/status/2126090147452322095",
+      "published": "2026-11-27T00:06:40+00:00",
+      "summary": "Canoe trip meets punk-rock cartography. For Day 26 of the # 30DayMapChallenge , Warren Davison turned a trip through Killarney Provincial Park ...",
+      "image_url": "https://pbs.twimg.com/media/HYFiVnoW4AMnBEJ?format=webp&name=large",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "See what’s happening and join the conversation",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HYFiVnoW4AMnBEJ?format=webp&name=large",
+          "label": ""
+        }
+      ],
+      "alt_images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1148078002984456192/QG4Urfuw_normal.png",
+          "label": ""
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HYFiVnoW4AMnBEJ?format=jpg&name=large",
+          "label": ""
+        }
+      ],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "square crop, from 1244px of source width"
+    },
+    "score": 7.0,
+    "why": "Story map canoe trip through Killarney as punk-rock cartography; map challenge entry, strong style.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "The source is an X post link with no usable text: the only page text is X's generic sign-in blurb, so the image, place, data and date cannot be described without guessing.",
+      "what_it_shows": "Nothing can be established. The page text is the generic X boilerplate 'See what's happening and join the conversation', with no caption, map description, sensor, date or colour key. The post is from the @ArcGISStoryMaps account, but its content is not given.",
+      "uncertainties": [
+        "No description of the image or map in the source",
+        "No place, data source, sensor or date",
+        "Image credit not found on the page and the licence is not stated",
+        "Source is link_only (reuse policy), and the image is a third-party post on X",
+        "To post this, open the original X post, check what the image is and who made it, and resubmit with the details"
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  },
+  {
+    "item": {
+      "id": "tag:blogger.com,1999:blog-12158290.post-7091212259622077102",
+      "source_id": "maps_mania",
+      "source_name": "Maps Mania",
+      "source_type": "maps",
+      "licence": "link_only",
+      "title": "Mapping the Iowa Lead Explosion",
+      "link": "http://googlemapsmania.blogspot.com/2026/11/mapping-iowa-lead-explosion.html",
+      "published": "2026-11-26T08:48:42+00:00",
+      "summary": "Yesterday the US Army carried out a controlled detonation of 68 drums of degraded lead azide at the Iowa Army Ammunition Plant near Middletown, Iowa. The stockpile contained approximately 9,500 pounds of an explosive compound, which had deteriorated and become increasingly dangerous to handle. Although controlled detonation was considered the safest way to dispose of the material, the explosion presented another potential hazard: releasing toxic lead dust into the atmosphere. Depending on wind direction and weather conditions, airborne particles could travel considerable distances before settling on farmland, waterways and nearby communities. Two interesting interactive maps have been created to explore where this pollution might travel. Where the Lead Will Go The first map, Where the Lead Will Go , attempts to simulate the movement of millions of airborne particles using weather forecasts. Users can move through five days of predictions, or press play to watch the simulated dust cloud travel across the landscape. Different colour bands distinguish between lead remaining airborne and lead that has settled on the ground. You can also switch between scenarios in which 100%, 50% or 10",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHwLQYpj8UlbMdLMfhSqAB-U-juQGlPTO4CcMJSeOMx4sClwKFIxKlMkGodxVJts7sBufGKaFiTpB65WzWS1_5n1lf2bXkKYzvUYivrEkvxIf7YF3oxENGbdzkb0iVffDdMWhNSvOLr0uiRDMCfC59lW7A-uUJ1-MagPD6wE9V9PratfKSXlXHhw/s1600/plume-ezgif.com-video-to-gif-converter.gif",
+      "credit_hint": "via Maps Mania",
+      "source_tag": "",
+      "page_text": "Yesterday the US Army carried out a controlled detonation of 68 drums of degraded lead azide at the Iowa Army Ammunition Plant near Middletown, Iowa. The stockpile contained approximately 9,500 pounds of an explosive compound, which had deteriorated and become increasingly dangerous to handle. Although controlled detonation was considered the safest way to dispose of the material, the explosion presented another potential hazard: releasing toxic lead dust into the atmosphere. Depending on wind direction and weather conditions, airborne particles could travel considerable distances before settling on farmland, waterways and nearby communities. Two interesting interactive maps have been created to explore where this pollution might travel. Where the Lead Will Go The first map, Where the Lead Will Go , attempts to simulate the movement of millions of airborne particles using weather forecasts. Users can move through five days of predictions, or press play to watch the simulated dust cloud travel across the landscape. Different colour bands distinguish between lead remaining airborne and lead that has settled on the ground. You can also switch between scenarios in which 100%, 50% or 10",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHwLQYpj8UlbMdLMfhSqAB-U-juQGlPTO4CcMJSeOMx4sClwKFIxKlMkGodxVJts7sBufGKaFiTpB65WzWS1_5n1lf2bXkKYzvUYivrEkvxIf7YF3oxENGbdzkb0iVffDdMWhNSvOLr0uiRDMCfC59lW7A-uUJ1-MagPD6wE9V9PratfKSXlXHhw/s1600/plume-ezgif.com-video-to-gif-converter.gif",
+          "label": ""
+        }
+      ],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "drafts/images/2026-11-27-7-mapping-the-iowa-lead-explosion.jpg",
+      "image_note": "square crop, from 763px of source width"
+    },
+    "score": 7.0,
+    "why": "Maps Mania map of lead dust plume after Iowa detonation; map hook, disaster-adjacent, favourite site.",
+    "draft": {
+      "worth_posting": true,
+      "skip_reason": "",
+      "what_it_shows": "A screenshot-style crop from an interactive map, Where the Lead Will Go, which attempts to simulate millions of airborne particles using weather forecasts after the US Army detonated 68 drums (about 9,500 pounds) of degraded lead azide at the Iowa Army Ammunition Plant near Middletown. Users can step through five days of predictions or press play, and colour bands separate lead still airborne from lead that has settled on the ground.",
+      "uncertainties": [
+        "The page text is cut off mid-sentence (scenarios of '100%, 50% or 10...'), so what the scenario percentages mean is unknown and left out.",
+        "The map's creator is not named in the source; credit uses the map title plus Maps Mania. Check the map page for a maker.",
+        "The source describes two maps but only the first, Where the Lead Will Go, in the available text. Check the square really comes from that one.",
+        "No weather model, particle model, units or colour scale are stated.",
+        "The detonation date is given only as 'yesterday' relative to the blog post, so no date is used.",
+        "Image licence is not stated and the reuse policy is link only: confirm before posting.",
+        "No result is reported on where the lead actually went; the map is a simulation and the posts say so."
+      ],
+      "image_credit": "Map: Where the Lead Will Go via Maps Mania",
+      "facebook": "A controlled detonation of 68 drums holding about 9,500 pounds of degraded lead azide in Iowa has prompted a map that tries to follow the dust.\n\nWhere the Lead Will Go uses weather forecasts to simulate millions of airborne particles from the Iowa Army Ammunition Plant near Middletown. Move through five days of predictions or press play: colour bands separate lead still airborne from lead that has settled on the ground.\n\nRead more: http://googlemapsmania.blogspot.com/2026/11/mapping-iowa-lead-explosion.html\n\nMap: Where the Lead Will Go via Maps Mania\n\n#Geoawesome #Mapping #Iowa #Simulation #Weather",
+      "instagram": "Millions of simulated particles, coloured by whether they are still airborne or already on the ground.\n\nAfter the US Army detonated 68 drums of degraded lead azide (about 9,500 pounds) near Middletown, Iowa, the map Where the Lead Will Go set out to show where the dust could end up. Press play on five days of weather-forecast predictions, or switch between scenarios.\n\nFind out more: http://googlemapsmania.blogspot.com/2026/11/mapping-iowa-lead-explosion.html\n\nMap: Where the Lead Will Go via Maps Mania\n\n#Geoawesome #Mapping #Particles #Weather #Iowa",
+      "x": "Millions of simulated particles show where lead dust from an Iowa detonation could settle. Scrub through five days of forecasts.\nhttp://googlemapsmania.blogspot.com/2026/11/mapping-iowa-lead-explosion.html\nMap: Where the Lead Will Go via Maps Mania\n#Geoawesome #Mapping #Iowa #Weather",
+      "alt_text": "Interactive map simulating airborne lead particles, with colour bands distinguishing lead still in the air from lead that has settled on the ground."
+    },
+    "problems": {},
+    "image_url": "https://raw.githubusercontent.com/walczakagh/geoawesome-social-agent/main/drafts/images/2026-11-27-7-mapping-the-iowa-lead-explosion.jpg"
+  },
+  {
+    "item": {
+      "id": "https://www.reddit.com/r/oil/comments/1y6ftdr/huge_plume_of_black_smoke_seen_from_space_after/",
+      "source_id": "google_alerts_3",
+      "source_name": "Google Alerts #3",
+      "source_type": "alerts",
+      "licence": "link_only",
+      "title": "Huge plume of black smoke seen from space after Houthis claim strike on Saudi's biggest oil refinery",
+      "link": "https://www.reddit.com/r/oil/comments/1y6ftdr/huge_plume_of_black_smoke_seen_from_space_after/",
+      "published": "2026-11-27T01:22:06+00:00",
+      "summary": "... Sentinel-2 satellite imagery today. r/oil - Saudi Aramco's Jizan oil ... Satellite images show extent of damage to major Saudi pipeline, amid ...",
+      "image_url": "",
+      "credit_hint": "",
+      "source_tag": "",
+      "page_text": "... Sentinel-2 satellite imagery today. r/oil - Saudi Aramco's Jizan oil ... Satellite images show extent of damage to major Saudi pipeline, amid ...",
+      "image_credit": "",
+      "image_licence": "",
+      "extra_images": [],
+      "images": [],
+      "alt_images": [],
+      "origin_url": "",
+      "fetch_page": true,
+      "square_path": "",
+      "image_note": "no image found on the page"
+    },
+    "score": 6.0,
+    "why": "Sentinel-2 image of black smoke plume over Saudi refinery; vivid satellite scene.",
+    "draft": {
+      "worth_posting": false,
+      "skip_reason": "No image was found on the page, no credit or licence is given, and the reuse policy is link_only. The only detail is a snippet mentioning Sentinel-2 imagery, and the strike itself is a Houthi claim the source does not verify.",
+      "what_it_shows": "Nothing can be confirmed. The title refers to a plume of black smoke seen from space after a claimed Houthi strike on a Saudi oil refinery, and the page snippet mentions Sentinel-2 imagery 'today'. No image, date, location detail or colour information is available.",
+      "uncertainties": [
+        "No image on the page, so there is no square to post",
+        "No image credit or licence stated; reuse policy is link_only",
+        "The snippet names Sentinel-2 but does not say which image it applies to, and gives no acquisition date",
+        "The strike is a Houthi claim; the source does not verify it",
+        "The snippet mentions both 'Jizan' and a 'major Saudi pipeline', and it is unclear whether these belong to the same story or to separate ones",
+        "The Reddit title is the only description, and the underlying news source is not identified"
+      ],
+      "image_credit": "",
+      "facebook": "",
+      "instagram": "",
+      "x": "",
+      "alt_text": ""
+    },
+    "problems": {},
+    "image_url": ""
+  }
+]
